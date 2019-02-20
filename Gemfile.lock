@@ -2,6 +2,15 @@ PATH
   remote: .
   specs:
     jekyll-indieweb (2.0.0a)
+      jekyll (~> 3.8)
+      jekyll-data (~> 1.0)
+      jekyll-feed (~> 0.10)
+      jekyll-gist (~> 1.5)
+      jekyll-include-cache (~> 0.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.5)
+      jekyll-sitemap (~> 1.2)
+      jemoji (~> 0.10)
 
 GEM
   remote: https://rubygems.org/
@@ -60,7 +69,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jemoji (0.10.1)
+    jemoji (0.10.2)
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (~> 3.0)
@@ -77,7 +86,7 @@ GEM
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
     octokit (4.13.0)
-      sawyer (>= 0.5.3, ~> 0.8.0)
+      sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
@@ -105,14 +114,8 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.16)
-  jekyll (~> 3.8)
-  jekyll-data (~> 1.0)
-  jekyll-feed (~> 0.10)
-  jekyll-gist (~> 1.5)
-  jekyll-include-cache (~> 0.1)
   jekyll-indieweb!
-  jekyll-paginate (~> 1.1)
-  jekyll-seo-tag (~> 2.5)
-  jekyll-sitemap (~> 1.2)
-  jemoji (~> 0.10)
   rake (~> 12.0)
+
+BUNDLED WITH
+   1.17.2

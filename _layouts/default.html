@@ -30,13 +30,11 @@
 		<div class="wrapper">
 			<header class="mainheader">
 			</header>
-			{% if page.url == '/' %}
-			{% include hcard.html %}
-			{% endif %}
 			<main class="content">
 					{{ content }}
 			</main>
 			<aside class="sidebar">
+				{% include hcard.html %}
 			</aside>
 			<footer class="mainfooter" role="contentinfo">
 				<p>
