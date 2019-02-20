@@ -1,0 +1,13 @@
+<div class="h-entry"> 
+  <i class="far fa-bookmark"></i>
+  {% if post.mf-bookmark %}
+    <a class="u-bookmark-of" href="{{ post.mf-bookmark }}">
+      {{ post.title }}
+    </a>
+  {% elsif post.mf-bookmark-of %}
+    <a class="u-bookmark-of" href="{{ post.mf-bookmark-of }}">
+      {{ post.title }}
+    </a>
+  {% endif %}
+
+</div>
