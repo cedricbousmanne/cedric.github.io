@@ -6,8 +6,7 @@
 @import "remedy";
 @import "grid";
 @import "custom";
-$fa-font-path: "fonts/font-awesome/";
-@import 'font-awesome';
+@import 'https://use.fontawesome.com/releases/v5.7.2/css/all.css';
 
 html {
     background: $bg;
