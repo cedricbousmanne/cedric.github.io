@@ -1,17 +1,17 @@
 ---
 id: 632
 title: Backup du dossier utilisateur
-date: 2007-06-19T21:19:51+00:00
+date: 2007-06-19 21:19:51.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/19/backup-du-dossier-utilisateur.html
-permalink: /2007/06/19/backup-du-dossier-utilisateur/
+permalink: "/2007/06/19/backup-du-dossier-utilisateur/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "728"
+- '728'
 categories:
-  - Non classé
+- Non classé
 ---
 Petite note personnelle : Des backups de tes fichiers, régulièrement tu feras.
 

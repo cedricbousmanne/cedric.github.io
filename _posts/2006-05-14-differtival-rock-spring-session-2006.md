@@ -1,17 +1,17 @@
 ---
 id: 754
 title: Differtival rock spring session 2006
-date: 2006-05-14T15:11:36+00:00
+date: 2006-05-14 15:11:36.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/14/differtival-rock-spring-session-2006.html
-permalink: /2006/05/14/differtival-rock-spring-session-2006/
+permalink: "/2006/05/14/differtival-rock-spring-session-2006/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "606"
+- '606'
 categories:
-  - Non classé
+- Non classé
 ---
 Hier, on a été au Differtival, un superbe festival Rock, près d’Arlon…
 

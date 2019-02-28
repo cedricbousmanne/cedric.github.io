@@ -1,46 +1,49 @@
 ---
 id: 1514
-title: 'Why I switched back to WordPress &#8211; even if I always said I hated it'
-date: 2018-10-04T18:08:00+00:00
+title: Why I switched back to WordPress &#8211; even if I always said I hated it
+date: 2018-10-04 18:08:00.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=1514
-permalink: /2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+permalink: "/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
+- none
 mf2_syndication:
-  - 'a:4:{i:0;s:105:"https://medium.com/@akyrho/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it-f9bc3d2246a9";i:1;s:46:"https://ruby.social/@akyrho/100838230124838236";i:2;s:53:"https://twitter.com/akyrho/status/1048104852235149312";i:3;s:73:"https://www.linkedin.com/feed/update/urn:li:activity:6453870812385546240/";}'
+- https://medium.com/@akyrho/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it-f9bc3d2246a9
+- https://ruby.social/@akyrho/100838230124838236
+- https://twitter.com/akyrho/status/1048104852235149312
+- https://www.linkedin.com/feed/update/urn:li:activity:6453870812385546240/
 snap_isAutoPosted:
-  - "1538669280"
+- '1538669280'
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/100838230124838236
+- https://ruby.social/@akyrho/100838230124838236
 snap_MYURL:
-  - ""
+- ''
 snapEdIT:
-  - "1"
-snapMD:
-  - |
-    s:391:"a:1:{i:0;a:10:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-    
-    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;s:8:"isPosted";s:1:"1";s:4:"pgID";s:12:"f9bc3d2246a9";s:7:"postURL";s:105:"https://medium.com/@akyrho/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it-f9bc3d2246a9";s:5:"pDate";s:19:"2018-10-05 06:53:39";}}";
-snapTW:
-  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
+- '1'
+snapMD: |-
+  a:1:{i:0;a:10:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+
+  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;s:8:"isPosted";s:1:"1";s:4:"pgID";s:12:"f9bc3d2246a9";s:7:"postURL";s:105:"https://medium.com/@akyrho/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it-f9bc3d2246a9";s:5:"pDate";s:19:"2018-10-05 06:53:39";}}"
+snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
+  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "1"
+- '1'
 categories:
-  - web
+- web
 tags:
-  - indieweb
-  - POSSE
-  - ruby
-  - ruby on rails
-  - wordpress
+- indieweb
+- POSSE
+- ruby
+- ruby on rails
+- wordpress
 kind:
-  - Article
+- Article
 ---
 Today on [#indieweb-wordpress](irc://irc.freenode.net/#indieweb-wordpress), [I&rsquo;ve been asked](https://freenode.logbot.info/indieweb-wordpress/20181004#c1750007) why, given my technical background, I did not used some of the [Ruby based solution](https://indieweb.org/Ruby) to jump in and try the [Indieweb principles](https://indieweb.org/principles).
 

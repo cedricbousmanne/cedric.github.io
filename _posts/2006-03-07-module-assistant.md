@@ -1,17 +1,17 @@
 ---
 id: 782
 title: module-assistant
-date: 2006-03-07T16:08:02+00:00
+date: 2006-03-07 16:08:02.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/03/07/module-assistant.html
-permalink: /2006/03/07/module-assistant/
+permalink: "/2006/03/07/module-assistant/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "578"
+- '578'
 categories:
-  - Non classé
+- Non classé
 ---
 Compiler ces modules, les installer, etc… Je sais pas vous, mais moi, ça m’énerve. D’aucuns me jetteront la pierre en me gratifiant d’insultes, car il s’agit là d’une des pièce maîtresse de Linux, mais je n’aime pas.
 

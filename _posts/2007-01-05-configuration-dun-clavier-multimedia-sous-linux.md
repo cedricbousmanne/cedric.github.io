@@ -1,17 +1,17 @@
 ---
 id: 682
 title: Configuration d’un clavier multimédia sous Linux
-date: 2007-01-05T18:30:00+00:00
+date: 2007-01-05 18:30:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/05/configuration-dun-clavier-multimedia-sous-linux.html
-permalink: /2007/01/05/configuration-dun-clavier-multimedia-sous-linux/
+permalink: "/2007/01/05/configuration-dun-clavier-multimedia-sous-linux/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "678"
+- '678'
 categories:
-  - Non classé
+- Non classé
 ---
 Sur mon clavier, en plus des touches classique, il y a un pavé multimédia, avec les touches <code class="highlighter-rouge">Media</code>, <code class="highlighter-rouge">Play/Pause</code>, <code class="highlighter-rouge">Mute</code>, <code class="highlighter-rouge">Favorites</code>, <code class="highlighter-rouge">E-Mail</code> et <code class="highlighter-rouge">WWW</code>. Ce genre de raccourcis est très pratique… pourvu qu’ils fonctionnent.
 

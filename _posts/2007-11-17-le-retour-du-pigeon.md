@@ -1,17 +1,17 @@
 ---
 id: 591
 title: Le retour du pigeon
-date: 2007-11-17T22:16:41+00:00
+date: 2007-11-17 22:16:41.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/11/17/le-retour-du-pigeon.html
-permalink: /2007/11/17/le-retour-du-pigeon/
+permalink: "/2007/11/17/le-retour-du-pigeon/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "769"
+- '769'
 categories:
-  - Non classé
+- Non classé
 ---
 J’admet que j’ai peut-être commis une erreur de jugement. [Les pigeons ne sont peut-être pas _si_ con que ça](/blog/2006/11/07/les-pigeons-cest-definitivement-con/).
 

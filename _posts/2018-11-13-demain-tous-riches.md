@@ -1,32 +1,36 @@
 ---
 id: 4354
 title: Demain, tous riches?
-date: 2018-11-13T13:42:25+00:00
+date: 2018-11-13 13:42:25.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4354
-permalink: /2018/11/13/demain-tous-riches/
+permalink: "/2018/11/13/demain-tous-riches/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "0"
+- '0'
 mf2_syndication:
-  - 'a:4:{i:0;s:58:"https://medium.com/@akyrho/demain-tous-riches-addaf97f233d";i:1;s:53:"https://twitter.com/akyrho/status/1062324872754401280";i:2;s:51:"https://ruby.social/web/statuses/101063914189693066";i:3;s:65:"https://www.facebook.com/cedric.bousmanne/posts/10155617406086296";}'
+- https://medium.com/@akyrho/demain-tous-riches-addaf97f233d
+- https://twitter.com/akyrho/status/1062324872754401280
+- https://ruby.social/web/statuses/101063914189693066
+- https://www.facebook.com/cedric.bousmanne/posts/10155617406086296
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101063914189693066
-image: /wp-content/uploads/2018/11/money-2724241_1280-1200x810.jpg
+- https://ruby.social/@akyrho/101063914189693066
+image: "/wp-content/uploads/2018/11/money-2724241_1280-1200x810.jpg"
 categories:
-  - Non classé
+- Non classé
 tags:
-  - personal finance
-  - reading
-  - SelfImprovement
+- personal finance
+- reading
+- SelfImprovement
 kind:
-  - Article
+- Article
 ---
 Je viens à de terminer l&rsquo;écoute de « [Père riche, père pauvre](https://amzn.to/2DijhYX)« , de [Robert T. Kiyosaki](https://amzn.to/2z5tu7V). Ce livre m&rsquo;a permis de mettre en perspective le vide abyssal de mes connaissances financières et m&rsquo;a mis face à face avec mes envies et les moyens que je me suis donné jusqu&rsquo;aujourd&rsquo;hui pour y parvenir.
 

@@ -1,17 +1,17 @@
 ---
 id: 706
 title: Deux livres de Werber
-date: 2006-10-19T18:42:00+00:00
+date: 2006-10-19 18:42:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/10/19/deux-livres-de-werber.html
-permalink: /2006/10/19/deux-livres-de-werber/
+permalink: "/2006/10/19/deux-livres-de-werber/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "654"
+- '654'
 categories:
-  - Non classé
+- Non classé
 ---
 La semaine passée, j’ai lu deux livres passionnants de Bernard Werber : _L’empire des Anges_ et _Nos amis les hommes_.
 

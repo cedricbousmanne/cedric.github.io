@@ -1,17 +1,17 @@
 ---
 id: 651
 title: 'Blogasty : quelques nouvelles'
-date: 2007-03-19T04:30:00+00:00
+date: 2007-03-19 04:30:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/03/19/blogasty-quelques-nouvelles.html
-permalink: /2007/03/19/blogasty-quelques-nouvelles/
+permalink: "/2007/03/19/blogasty-quelques-nouvelles/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "709"
+- '709'
 categories:
-  - Non classé
+- Non classé
 ---
 Chris à mis en ligne ce week-end une nouvelle version de Blogasty. Pas mal de nouveautés au programme :
 

@@ -1,17 +1,17 @@
 ---
 id: 608
 title: Signez vos photographies numériques avec ImageMagick
-date: 2007-08-11T13:51:48+00:00
+date: 2007-08-11 13:51:48.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/08/11/signez-vos-photographies-numeriques-avec-imagemagick.html
-permalink: /2007/08/11/signez-vos-photographies-numeriques-avec-imagemagick/
+permalink: "/2007/08/11/signez-vos-photographies-numeriques-avec-imagemagick/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "752"
+- '752'
 categories:
-  - Non classé
+- Non classé
 ---
 Si vous voulez éviter de vous faire dérober vos photographies publiées sur Internet, il peut être intéressant d’y apposer votre signature. Pour ce faire, nous allons voir deux méthodes permettant de signer vos compositions : la première en y ajoutant un texte, et la seconde en superposant une image par dessus votre photo. Pour terminer, nous verrons comment réaliser un script et l’intégrer à Nautilus pour automatiser cette manœuvre.
 

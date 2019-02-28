@@ -1,17 +1,17 @@
 ---
 id: 772
-title: 'Absolument fabulous &#8211; Où y’a de la gène…'
-date: 2006-04-09T01:19:00+00:00
+title: Absolument fabulous &#8211; Où y’a de la gène…
+date: 2006-04-09 01:19:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/09/absolument-fabulous-ou-ya-de-la-gene.html
-permalink: /2006/04/09/absolument-fabulous-ou-ya-de-la-gene/
+permalink: "/2006/04/09/absolument-fabulous-ou-ya-de-la-gene/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "588"
+- '588'
 categories:
-  - Non classé
+- Non classé
 ---
 y’a pas de plaisir
 

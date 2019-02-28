@@ -1,17 +1,17 @@
 ---
 id: 623
 title: Garages superposés
-date: 2007-07-24T21:55:31+00:00
+date: 2007-07-24 21:55:31.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/07/24/garages-superposes.html
-permalink: /2007/07/24/garages-superposes/
+permalink: "/2007/07/24/garages-superposes/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "737"
+- '737'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Garages superposés](/images/2007/10/450x-s_01-nuremberg-20070630-12.JPG)
 

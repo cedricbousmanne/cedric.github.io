@@ -1,17 +1,17 @@
 ---
 id: 619
 title: Chemin de fer
-date: 2007-07-26T23:09:50+00:00
+date: 2007-07-26 23:09:50.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/07/26/chemin-de-fer.html
-permalink: /2007/07/26/chemin-de-fer/
+permalink: "/2007/07/26/chemin-de-fer/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "741"
+- '741'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Chemin de fer](/images/2007/10/320x-s_09-baia_mare-arbore-20070710-13.jpg)
 

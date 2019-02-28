@@ -1,17 +1,17 @@
 ---
 id: 767
 title: Un ptit lifting
-date: 2006-04-20T23:03:10+00:00
+date: 2006-04-20 23:03:10.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/20/un-ptit-lifting.html
-permalink: /2006/04/20/un-ptit-lifting/
+permalink: "/2006/04/20/un-ptit-lifting/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "593"
+- '593'
 categories:
-  - Non classé
+- Non classé
 ---
 Ca faisait deja  pres de 6 mois que le design precedent etait en place, mais ua faisait aussi longtemps que de gros defauts m’em<del>merdaient</del>betaient.
 

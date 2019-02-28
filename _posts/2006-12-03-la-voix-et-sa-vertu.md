@@ -1,17 +1,17 @@
 ---
 id: 694
 title: La voix et sa vertu
-date: 2006-12-03T16:33:00+00:00
+date: 2006-12-03 16:33:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/12/03/la-voix-et-sa-vertu.html
-permalink: /2006/12/03/la-voix-et-sa-vertu/
+permalink: "/2006/12/03/la-voix-et-sa-vertu/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "666"
+- '666'
 categories:
-  - Non classé
+- Non classé
 ---
 Je suis en train de relire le _Tao-tö King_ (autrement orthographié _[Dao De Jing](http://fr.wikipedia.org/wiki/Dao_De_Jing)_)[1], et il y a un passage qui me touche vraiment, surtout en ce moment. Il s’agit du chapitre VII :
 

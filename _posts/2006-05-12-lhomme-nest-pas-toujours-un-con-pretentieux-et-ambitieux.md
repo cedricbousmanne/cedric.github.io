@@ -1,17 +1,17 @@
 ---
 id: 755
 title: L’homme n’est pas toujours un con prétentieux et ambitieux
-date: 2006-05-12T15:39:44+00:00
+date: 2006-05-12 15:39:44.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/12/lhomme-nest-pas-toujours-un-con-prtentieux-et-ambitieux.html
-permalink: /2006/05/12/lhomme-nest-pas-toujours-un-con-pretentieux-et-ambitieux/
+permalink: "/2006/05/12/lhomme-nest-pas-toujours-un-con-pretentieux-et-ambitieux/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "605"
+- '605'
 categories:
-  - Non classé
+- Non classé
 ---
 <img src="https://i0.wp.com/www.wwwalk.org/ASSETS/PHOTOS/PHOTOS01/00US0006.jpg?w=900" alt="" data-recalc-dims="1" />
 

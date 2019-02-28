@@ -1,17 +1,17 @@
 ---
 id: 584
 title: Entrevue avec Greg, rédacteur de xMonkeyMosherx
-date: 2007-12-01T01:49:00+00:00
+date: 2007-12-01 01:49:00.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/01/entrevue-avec-greg-redacteur-de-xmonkeymosherx.html
-permalink: /2007/12/01/entrevue-avec-greg-redacteur-de-xmonkeymosherx/
+permalink: "/2007/12/01/entrevue-avec-greg-redacteur-de-xmonkeymosherx/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "776"
+- '776'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Belgosphère](/images/2007/11/belgosphere.jpg)
 

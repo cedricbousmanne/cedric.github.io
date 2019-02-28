@@ -1,17 +1,17 @@
 ---
 id: 803
-title: 'Cédric 20 &#8211; J’ai fini'
-date: 2005-11-07T01:19:00+00:00
+title: Cédric 20 &#8211; J’ai fini
+date: 2005-11-07 01:19:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2005/11/07/cedric-20-jai-fini.html
-permalink: /2005/11/07/cedric-20-jai-fini/
+permalink: "/2005/11/07/cedric-20-jai-fini/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "557"
+- '557'
 categories:
-  - Non classé
+- Non classé
 ---
 ![](images/cedric-20.gif)_Cédric nous revient en force, toujours un rien colérique et râleur, mais tellement charmant. Qu’il parte en excursion scolaire à la mer, qu’il joue au baby-sitter ou qu’il décide de laver la voiture de son père, chaque situation quotidienne, apparemment anodine, tourne à la catastrophe cataclysmique! Provoquant tour à tour la colère ou l’hilarité de son Pépé._
 

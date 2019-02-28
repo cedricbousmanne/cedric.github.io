@@ -1,17 +1,17 @@
 ---
 id: 569
 title: Merise sous Ubuntu Linux
-date: 2008-01-06T22:45:05+00:00
+date: 2008-01-06 22:45:05.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2008/01/06/merise-sous-ubuntu-linux.html
-permalink: /2008/01/06/merise-sous-ubuntu-linux/
+permalink: "/2008/01/06/merise-sous-ubuntu-linux/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "791"
+- '791'
 categories:
-  - Non classé
+- Non classé
 ---
 Le développement web, c’est comme tout les autres domaines, il y a les parties marrantes (généralement le moment où tu as l’idée du siècle et celui où tu commences à coder ton projet, encore tout émerveillé que cette idée vienne de toi), et d’autres qui le sont vachement moins (la gestion de projet, par exemple… beurk)
 

@@ -1,17 +1,17 @@
 ---
 id: 565
 title: Merci la SNCB
-date: 2008-01-26T00:52:02+00:00
+date: 2008-01-26 00:52:02.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2008/01/26/merci-la-sncb.html
-permalink: /2008/01/26/merci-la-sncb/
+permalink: "/2008/01/26/merci-la-sncb/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "795"
+- '795'
 categories:
-  - Non classé
+- Non classé
 ---
 Le petit rayon de soleil de la semaine, ça à été le coup de téléphone très aimable d’un employé de la SNCB qui m’annonçait que le bagage que j’avais perdu dans leur train avait été retrouvé.
 

@@ -1,17 +1,17 @@
 ---
 id: 750
 title: Qumana, test 2
-date: 2006-05-20T02:43:11+00:00
+date: 2006-05-20 02:43:11.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/20/qumana-test-2.html
-permalink: /2006/05/20/qumana-test-2/
+permalink: "/2006/05/20/qumana-test-2/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "610"
+- '610'
 categories:
-  - Non classé
+- Non classé
 ---
 Suite a  un [billet sur Qumana](http://www.presse-citron.net/?2006/05/18/945-qumana-traitement-de-texte-pour-blogs) sur [presse-citron](http://www.presse-citron.net/), dont j’avais [deja  parle auparavent](http://www.parenthese.be/dotclear/index.php?q=qumana), j’ai decide de re-tester la bete.
 

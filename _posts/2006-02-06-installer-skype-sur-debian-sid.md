@@ -1,17 +1,17 @@
 ---
 id: 785
 title: Installer Skype sur Debian SiD
-date: 2006-02-06T10:13:43+00:00
+date: 2006-02-06 10:13:43.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/02/06/installer-skype-sur-debian-sid.html
-permalink: /2006/02/06/installer-skype-sur-debian-sid/
+permalink: "/2006/02/06/installer-skype-sur-debian-sid/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "575"
+- '575'
 categories:
-  - Non classé
+- Non classé
 ---
 Skype est un logiciel de Voice Over IP (VOIP), permettant donc de converser par la voix avec ses contacts.
 

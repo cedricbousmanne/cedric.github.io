@@ -1,17 +1,17 @@
 ---
 id: 666
 title: Vista à la poubelle
-date: 2007-01-18T06:47:00+00:00
+date: 2007-01-18 06:47:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/18/vista-a-la-poubelle.html
-permalink: /2007/01/18/vista-a-la-poubelle/
+permalink: "/2007/01/18/vista-a-la-poubelle/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "694"
+- '694'
 categories:
-  - Non classé
+- Non classé
 ---
 [![BadVista](/images/images/BadVista_no_littering.png)](/images/images/BadVista_no_littering.png) La [Free Software Foundation](http://fsf.org/) lance le site [BadVista](http://badvista.fsf.org/) pour dénoncer la politique de Microsoft.
 

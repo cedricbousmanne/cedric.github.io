@@ -1,17 +1,17 @@
 ---
 id: 580
 title: Entrevue avec Jérémy, rédacteur de Pop/Rock Info
-date: 2007-12-07T16:30:44+00:00
+date: 2007-12-07 16:30:44.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/07/entrevue-avec-jeremy-redacteur-de-poprock-info.html
-permalink: /2007/12/07/entrevue-avec-jeremy-redacteur-de-pop-rock-info/
+permalink: "/2007/12/07/entrevue-avec-jeremy-redacteur-de-pop-rock-info/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "780"
+- '780'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Belgosphère](/images/2007/11/belgosphere.jpg)
 

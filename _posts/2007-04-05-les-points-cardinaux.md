@@ -1,17 +1,17 @@
 ---
 id: 648
 title: Les points cardinaux
-date: 2007-04-05T02:41:00+00:00
+date: 2007-04-05 02:41:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/04/05/les-points-cardinaux.html
-permalink: /2007/04/05/les-points-cardinaux/
+permalink: "/2007/04/05/les-points-cardinaux/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "712"
+- '712'
 categories:
-  - Non classé
+- Non classé
 ---
 Cette après-midi, je regardais le soleil se coucher du haut de St-Donat, et je me suis simplement demandé quelle direction j’allais bien pouvoir prendre.![Eglise St-Donat, Arlon](/images/Photos/Arlon/stdonat.gif) Selon Bernard Werber, chaque point cardinal à une signification : Aller à l’est, c’est aller là d’où vient le soleil, cela signifie chercher ses orgines;
 

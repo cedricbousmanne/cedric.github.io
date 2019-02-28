@@ -1,17 +1,17 @@
 ---
 id: 575
 title: Contre-productivité
-date: 2007-12-15T23:30:58+00:00
+date: 2007-12-15 23:30:58.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/15/contre-productivite.html
-permalink: /2007/12/15/contre-productivite/
+permalink: "/2007/12/15/contre-productivite/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "785"
+- '785'
 categories:
-  - Non classé
+- Non classé
 ---
 Aujourd’hui, je termine le moteur de ce site, comme ça, je pauffine les détails demain, et je le met en ligne dès lundi matin.
 

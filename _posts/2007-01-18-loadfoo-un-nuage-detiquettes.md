@@ -1,17 +1,17 @@
 ---
 id: 667
 title: 'LoadFoo : un nuage d’étiquettes'
-date: 2007-01-18T04:01:00+00:00
+date: 2007-01-18 04:01:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/18/loadfoo-un-nuage-detiquettes.html
-permalink: /2007/01/18/loadfoo-un-nuage-detiquettes/
+permalink: "/2007/01/18/loadfoo-un-nuage-detiquettes/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "693"
+- '693'
 categories:
-  - Non classé
+- Non classé
 ---
 Voici un petit nuage d’étiquette (ou _tag cloud_) pour le thème LoadFoo :![Thème LoadFoo : nuage d'étiquettes](/images/images/LoadFoo-tagcloud.png) Deux manières pour se le procurer :
 

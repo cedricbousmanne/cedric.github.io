@@ -1,17 +1,17 @@
 ---
 id: 567
 title: Jeux-blog, ou comment niquer la productivité d’un lundi matin
-date: 2008-01-07T11:45:07+00:00
+date: 2008-01-07 11:45:07.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2008/01/07/jeux-blog-ou-comment-niquer-la-productivite-dun-lundi-matin.html
-permalink: /2008/01/07/jeux-blog-ou-comment-niquer-la-productivite-dun-lundi-matin/
+permalink: "/2008/01/07/jeux-blog-ou-comment-niquer-la-productivite-dun-lundi-matin/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "793"
+- '793'
 categories:
-  - Non classé
+- Non classé
 ---
 [Via Christophe](http://bleebot.com/blog/2008/01/05/jeux-blog-la-plateforme-de-jeux-pour-blogs/), j’ai découvert le nouveau-né de Jean-François Ruiz : [Jeux-blog](http://www.jeux-blog.fr/).
 

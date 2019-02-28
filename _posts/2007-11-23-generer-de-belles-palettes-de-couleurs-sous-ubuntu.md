@@ -1,17 +1,17 @@
 ---
 id: 587
 title: Générer de belles palettes de couleurs sous Ubuntu
-date: 2007-11-23T15:08:20+00:00
+date: 2007-11-23 15:08:20.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/11/23/generer-de-belles-palettes-de-couleurs-sous-ubuntu.html
-permalink: /2007/11/23/generer-de-belles-palettes-de-couleurs-sous-ubuntu/
+permalink: "/2007/11/23/generer-de-belles-palettes-de-couleurs-sous-ubuntu/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "773"
+- '773'
 categories:
-  - Non classé
+- Non classé
 ---
 Voici un petit utilitaire que j’utilise très régulièrement pour générer mes palettes de couleurs sous Ubuntu : Agave.
 

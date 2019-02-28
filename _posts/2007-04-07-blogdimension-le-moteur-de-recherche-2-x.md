@@ -1,17 +1,17 @@
 ---
 id: 646
 title: 'Blogdimension : le moteur de recherche 2.X'
-date: 2007-04-07T22:01:00+00:00
+date: 2007-04-07 22:01:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/04/07/blogdimension-le-moteur-de-recherche-2x.html
-permalink: /2007/04/07/blogdimension-le-moteur-de-recherche-2-x/
+permalink: "/2007/04/07/blogdimension-le-moteur-de-recherche-2-x/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "714"
+- '714'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Blogdimension](/images/images/blogdim_logo_260.gif)[Blogdimension.com]
 

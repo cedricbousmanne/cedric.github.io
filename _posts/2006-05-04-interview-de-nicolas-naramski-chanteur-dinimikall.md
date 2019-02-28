@@ -1,17 +1,17 @@
 ---
 id: 760
 title: Interview de Nicolas Naramski, chanteur d’Inimikall
-date: 2006-05-04T00:14:11+00:00
+date: 2006-05-04 00:14:11.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/04/interview-de-nicolas-naramski-chanteur-dinimikall.html
-permalink: /2006/05/04/interview-de-nicolas-naramski-chanteur-dinimikall/
+permalink: "/2006/05/04/interview-de-nicolas-naramski-chanteur-dinimikall/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "600"
+- '600'
 categories:
-  - Non classé
+- Non classé
 ---
 Vu le nombre de personne arrivant sur ce blog en cherchant des infos sur Inimikall, Nicolas Naramski, chanteur du groupe, s’est prêté au jeu de l’interview pour leurs répondre…
 

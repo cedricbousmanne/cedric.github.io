@@ -1,17 +1,17 @@
 ---
 id: 620
-title: 'Hostel &#8211; part 3'
-date: 2007-07-25T23:07:56+00:00
+title: Hostel &#8211; part 3
+date: 2007-07-25 23:07:56.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/07/25/hostel-part-3.html
-permalink: /2007/07/25/hostel-part-3/
+permalink: "/2007/07/25/hostel-part-3/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "740"
+- '740'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Hostel - Part 3](/images/2007/10/450x-03-cracovie-20070705-50.JPG)
 

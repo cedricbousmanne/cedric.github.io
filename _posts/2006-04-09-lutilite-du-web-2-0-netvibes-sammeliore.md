@@ -1,17 +1,17 @@
 ---
 id: 771
 title: 'L’utilité du Web 2.0 : Netvibes s’amméliore'
-date: 2006-04-09T10:32:00+00:00
+date: 2006-04-09 10:32:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/09/lutilite-du-web-20-netvibes-sammeliore.html
-permalink: /2006/04/09/lutilite-du-web-2-0-netvibes-sammeliore/
+permalink: "/2006/04/09/lutilite-du-web-2-0-netvibes-sammeliore/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "589"
+- '589'
 categories:
-  - Non classé
+- Non classé
 ---
 <img src="https://i2.wp.com/blog.netvibes.com/images/anise-launch/en-feed-tooltips.gif?w=900" alt="" data-recalc-dims="1" />
 

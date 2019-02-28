@@ -1,17 +1,17 @@
 ---
 id: 685
 title: Google Reader vs Netvibes
-date: 2007-01-05T11:26:00+00:00
+date: 2007-01-05 11:26:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/05/google-reader-vs-netvibes.html
-permalink: /2007/01/05/google-reader-vs-netvibes/
+permalink: "/2007/01/05/google-reader-vs-netvibes/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "675"
+- '675'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Logo Google Reader](/images/images/177663319_b82669f88f_m.jpg)Depuis quelques jours, je suis passé de [Netvibes](http://www.netvibes.com/) à [Google Reader](http://www.google.com/reader/), et j’avoue que je suis assez mitigé.
 

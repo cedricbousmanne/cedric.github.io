@@ -1,17 +1,17 @@
 ---
 id: 727
 title: Révolution
-date: 2006-07-30T16:25:00+00:00
+date: 2006-07-30 16:25:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/07/30/revolution.html
-permalink: /2006/07/30/revolution/
+permalink: "/2006/07/30/revolution/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "633"
+- '633'
 categories:
-  - Non classé
+- Non classé
 ---
 > **Révolution** n.f. (lat. _revolutio_, de _revolvere_, retourner). (…) **1.b.** PHYS. Mouvement périodique d’un objet autour d’un axe ou d’un point central. (…) **5.** Changement brusque, d’ordre écolomique, moral, culturel, qui se produit dans une société. [1]
 

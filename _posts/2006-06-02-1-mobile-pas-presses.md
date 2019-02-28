@@ -1,17 +1,17 @@
 ---
 id: 746
 title: 1 Mobile, pas pressés
-date: 2006-06-02T16:26:21+00:00
+date: 2006-06-02 16:26:21.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/02/1-mobile-pas-presses.html
-permalink: /2006/06/02/1-mobile-pas-presses/
+permalink: "/2006/06/02/1-mobile-pas-presses/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "614"
+- '614'
 categories:
-  - Non classé
+- Non classé
 ---
 <img src="https://i2.wp.com/www.hypercarrefour.be/Images/Home/Super/zonecom_1mobile_fr.gif?w=900" alt="" data-recalc-dims="1" />Les lecteurs belges auront sûrement entendu parler de 1 Mobile, l’offre de téléphonie portable du groupe Carrefour, et bien figurez-vous qu’ils ne sont pas pressé les bougres.
 

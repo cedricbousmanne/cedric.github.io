@@ -1,17 +1,17 @@
 ---
 id: 766
-title: 'Ras le c** de la SNCB'
-date: 2006-04-22T01:45:00+00:00
+title: Ras le c** de la SNCB
+date: 2006-04-22 01:45:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/22/ras-le-c-de-la-sncb.html
-permalink: /2006/04/22/ras-le-c-de-la-sncb/
+permalink: "/2006/04/22/ras-le-c-de-la-sncb/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "594"
+- '594'
 categories:
-  - Non classé
+- Non classé
 ---
 Ceci est un coup de gueule :
 

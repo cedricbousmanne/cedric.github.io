@@ -1,17 +1,17 @@
 ---
 id: 720
 title: Bloglibre
-date: 2006-08-24T13:36:00+00:00
+date: 2006-08-24 13:36:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/08/24/bloglibre.html
-permalink: /2006/08/24/bloglibre/
+permalink: "/2006/08/24/bloglibre/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "640"
+- '640'
 categories:
-  - Non classé
+- Non classé
 ---
 [J’avais effleuré l’idée sur le blog d’Ehia.org](http://ehia.org/blog/index.php/2006/07/07/9-des-blogs-libres), mais Méléis m’avait demandé de retirer le lien. Puisque le domaine est maintenant réservé à nos deux noms, je peux en parler : nous allons lancer [bloglibre.org](http://bloglibre.org/).
 

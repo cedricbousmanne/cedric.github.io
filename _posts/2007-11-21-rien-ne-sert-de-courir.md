@@ -1,17 +1,17 @@
 ---
 id: 588
 title: Rien ne sert de courir
-date: 2007-11-21T09:25:31+00:00
+date: 2007-11-21 09:25:31.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/11/21/rien-ne-sert-de-courir.html
-permalink: /2007/11/21/rien-ne-sert-de-courir/
+permalink: "/2007/11/21/rien-ne-sert-de-courir/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "772"
+- '772'
 categories:
-  - Non classé
+- Non classé
 ---
 Un langage de programmation, c’est un peu comme une vraie langue : quand on ne pratique pas, on oublie… Du coup, pour le moment, je perd un peu de temps dans le développement de [mon projet](http://www.parenthese.be/tag/Le_buzz_myst%C3%A8re/) (ça ne sert à rien de baver comme ça, vous n’en saurez pas encore plus aujourd’hui, non mais :-P, un peu de patience que diable!)
 

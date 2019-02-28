@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Welcome to Jekyll-Indieweb"
+title: Welcome to Jekyll-Indieweb
 tags:
- - indieweb
- - Jekyll
-date: 2016-4-10
+- indieweb
+- Jekyll
+date: 2016-04-10
 ---
-
 Welcome to Jekyll-Indieweb. The goal of this project was to provide someone without a web presence a quick and easy way to start using the basics of the [Indieweb](https://indiewebcamp.com).
 
 Currently supported are microformats, including an author h-card on the home page. Social media links are configurable in `_config.yml`. Where applicable, fill in either your profile link or nick name for each profile you wold like to link to. Remember, empty values will not show up in the h-card.

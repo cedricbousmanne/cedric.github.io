@@ -1,17 +1,17 @@
 ---
 id: 689
 title: Import de blog
-date: 2006-12-21T07:56:00+00:00
+date: 2006-12-21 07:56:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/12/21/import-de-blog.html
-permalink: /2006/12/21/import-de-blog/
+permalink: "/2006/12/21/import-de-blog/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "671"
+- '671'
 categories:
-  - Non classé
+- Non classé
 ---
 Il y a quelques temps, dès que je trouvais une solution à un problème ou que je trouvais simplement une astuce concernant Linux (Debian, à l’époque), je la publiais systématiquement sur un blog prévu à cet effet.
 
