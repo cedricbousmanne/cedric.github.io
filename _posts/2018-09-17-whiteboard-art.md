@@ -10,7 +10,7 @@ wp_crosspost_destination:
 - akyrho.wordpress.com
 wordpress_post_id:
 - '808'
-mf2_syndication:
+mf-syndication:
 - https://akyrho.wordpress.com/?p=808
 mf2_mp-syndicate-to:
 - none

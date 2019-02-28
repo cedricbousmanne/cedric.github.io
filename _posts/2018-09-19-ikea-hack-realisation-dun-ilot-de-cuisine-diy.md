@@ -12,7 +12,7 @@ wordpress_post_id:
 - '836'
 mf2_mp-syndicate-to:
 - bridgy-publish_twitter
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1042388801174294529
 - https://akyrho.wordpress.com/?p=836
 - https://www.facebook.com/cedric.bousmanne/posts/10155514114981296

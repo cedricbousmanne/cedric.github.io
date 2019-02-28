@@ -38,7 +38,7 @@ mf2_category:
 - ide
 mf2_mp-syndicate-to:
 - bridgy-publish_twitter
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1060182319842103297
 categories:
 - Non classé

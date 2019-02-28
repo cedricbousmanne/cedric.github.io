@@ -58,7 +58,7 @@ snapTW:
   wpImgSize: full
 snap_isAutoPosted:
 - '1538665945'
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1047867065061847040
 categories:
 - web

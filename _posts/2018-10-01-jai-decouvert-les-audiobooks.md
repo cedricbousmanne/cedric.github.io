@@ -8,7 +8,7 @@ guid: https://cedric.io/?p=1352
 permalink: "/2018/10/01/jai-decouvert-les-audiobooks/"
 mf2_mp-syndicate-to:
 - none
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1046674943004594177
 - https://www.linkedin.com/feed/update/urn:li:activity:6452441572863672320
 - https://www.facebook.com/cedric.bousmanne/posts/10155536491186296

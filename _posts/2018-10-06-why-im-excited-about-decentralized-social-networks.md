@@ -52,7 +52,7 @@ snapTW:
   wpImgSize: full
 snap_isAutoPosted:
 - '1538847553'
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1048628783778025473
 categories:
 - Non classé

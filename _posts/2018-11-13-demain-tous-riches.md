@@ -13,7 +13,7 @@ geo_weather:
   icon: none
 geo_public:
 - '0'
-mf2_syndication:
+mf-syndication:
 - https://medium.com/@akyrho/demain-tous-riches-addaf97f233d
 - https://twitter.com/akyrho/status/1062324872754401280
 - https://ruby.social/web/statuses/101063914189693066

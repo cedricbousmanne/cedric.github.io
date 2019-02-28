@@ -13,7 +13,7 @@ wp_crosspost_destination:
 - akyrho.wordpress.com
 wordpress_post_id:
 - '826'
-mf2_syndication: []
+mf-syndication: []
 snap_MYURL:
 - ''
 snapEdIT:

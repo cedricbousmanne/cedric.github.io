@@ -14,7 +14,7 @@ geo_weather:
   icon: none
 geo_public:
 - '0'
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1070266841392652288
 - https://ruby.social/@akyrho/101188014197214345
 - https://medium.com/@akyrho/acc%C3%A9l%C3%A9rer-lex%C3%A9cution-de-la-commande-bundle-et-l-installation-des-gems-f42661e464a3

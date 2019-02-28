@@ -8,7 +8,7 @@ guid: https://cedric.io/?p=1514
 permalink: "/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/"
 mf2_mp-syndicate-to:
 - none
-mf2_syndication:
+mf-syndication:
 - https://medium.com/@akyrho/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it-f9bc3d2246a9
 - https://ruby.social/@akyrho/100838230124838236
 - https://twitter.com/akyrho/status/1048104852235149312

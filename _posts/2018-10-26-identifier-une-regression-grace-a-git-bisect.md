@@ -8,7 +8,7 @@ guid: https://cedric.io/?p=4207
 permalink: "/2018/10/26/identifier-une-regression-grace-a-git-bisect/"
 mf2_mp-syndicate-to:
 - bridgy-publish_twitter
-mf2_syndication:
+mf-syndication:
 - https://medium.com/@akyrho/identifier-une-r%C3%A9gression-gr%C3%A2ce-%C3%A0-git-bisect-16656bdd65c5
 - https://twitter.com/akyrho/status/1055725309302112256
 - https://ruby.social/@akyrho/100960796353516224

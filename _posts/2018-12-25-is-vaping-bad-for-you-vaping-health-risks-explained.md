@@ -39,7 +39,7 @@ mf2_name:
 - Is Vaping Bad for You? Vaping Health Risks Explained
 mf2_mp-syndicate-to:
 - bridgy-publish_twitter
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1077602336468545537
 categories:
 - Non classé

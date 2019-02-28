@@ -20,7 +20,7 @@ snapMD: |-
   %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
 snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
   %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
-mf2_syndication:
+mf-syndication:
 - https://medium.com/@akyrho/le-taux-dattrition-churn-expliqu%C3%A9-%C3%A0-la-laverie-de-mon-quartier-57f735c451ad
 categories:
 - Non classé

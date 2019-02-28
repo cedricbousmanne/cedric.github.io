@@ -12,7 +12,7 @@ wordpress_post_id:
 - '806'
 mf2_mp-syndicate-to:
 - none
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1041611244069965824
 - https://twitter.com/akyrho/status/1041069805724475399
 - https://akyrho.wordpress.com/?p=806

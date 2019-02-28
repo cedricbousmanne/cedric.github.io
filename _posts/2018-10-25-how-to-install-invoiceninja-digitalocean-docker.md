@@ -8,7 +8,7 @@ guid: https://cedric.io/?p=4194
 permalink: "/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/"
 mf2_mp-syndicate-to:
 - bridgy-publish_twitter
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1055454968105365504
 - https://ruby.social/@akyrho/100956571569748191
 geo_weather:

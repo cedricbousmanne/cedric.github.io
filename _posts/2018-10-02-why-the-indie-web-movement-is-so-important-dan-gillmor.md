@@ -35,7 +35,7 @@ mf2_mp-syndicate-to:
 - bridgy-publish_twitter
 snap_isAutoPosted:
 - '1538469944'
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1047044965715587072
 mastoshare-post-status:
 - 'off'

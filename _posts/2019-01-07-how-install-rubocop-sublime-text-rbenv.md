@@ -11,7 +11,7 @@ mf2_mp-syndicate-to:
 geo_weather:
   icon: none
   visibility: public
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1082299255623245826
 - https://ruby.social/@akyrho/101376026411767781
 mastoshare-post-status:

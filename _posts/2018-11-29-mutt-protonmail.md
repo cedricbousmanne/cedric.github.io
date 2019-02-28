@@ -13,7 +13,7 @@ geo_weather:
   icon: none
 geo_public:
 - '0'
-mf2_syndication:
+mf-syndication:
 - https://twitter.com/akyrho/status/1068052726272221185
 - https://ruby.social/@akyrho/101153426687520401
 - https://www.linkedin.com/feed/update/urn:li:activity:6473820154252840960
