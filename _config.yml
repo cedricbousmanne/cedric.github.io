@@ -46,4 +46,4 @@ plugins:
   - jekyll-gist 
   - jekyll-font-awesome-sass
 
-paginate: 5
+paginate: 20
