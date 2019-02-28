@@ -1,4 +1,11 @@
 {% assign post = include.post %}
+  {% if post.title != '' %}
+  <h1 class="title p-name">
+    <a class="u-url" href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h1>
+  {% endif %}
 
   {% if post.mf-video != null %}
     <div class="media">

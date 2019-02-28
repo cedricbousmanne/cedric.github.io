@@ -1,49 +1,14 @@
 {% assign post = include.post %}
 
 
-<article class="content is-medium post h-entry">
-	{% if post.title != '' %}
-	<h1 class="title p-name">
-		{% if post.mf-bookmark %}
-			<a class="u-bookmark-of" href="{{post.mf-bookmark | first}}">{{post.title}}</a>
-		{% elsif post.mf-bookmark-of %}
-			<a class="u-bookmark-of" href="{{post.mf-bookmark-of | first}}">{{post.title}}</a>
-		{% elsif post.mf-repost-of %}
-			<a class="u-repost-of" href="{{post.mf-repost-of | first}}">{{post.title}}</a>
-		{% else %}
-		<a class="u-url" href="{{ site.baseurl }}{{ post.url }}">
-			{{ post.title }}
-		</a>
-		{% endif %}
-	</h1>
+{% if post.mf-like-of != null %}
+  {% include post-like.html post=post %}
+{% elsif post.mf-bookmark %}
+  {% include post-bookmark.html post=post %}
+{% elsif post.mf-bookmark-of %}
+  {% include post-bookmark.html post=post %}
+{% elsif post.mf-repost-of %}
+  {% include post-repost.html post=post %}
+{% else %}
+  {% include post-content.html post=post %}
 {% endif %}
-
-	<div class="columns">
-		<div class="column is-one-quarter">
-			{% if post.title == '' %}
-			<a class="u-url" href="{{ site.baseurl }}{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}" class="dt-time post-date">{{ post.date | date_to_string }}</time></a>
-			{% else %}
-			<time datetime="{{ post.date | date_to_xmlschema }}" class="dt-time post-date">{{ post.date | date_to_string }}</time>
-			{% endif %}
-			{% if post.tags.size > 0 %}
-			<h3 class="subtitle is-5">Tags</h3>
-			<div class="tags">
-				{% for tags in post.tags %}<span class="tag">{{ tags }} </span>{% endfor %}
-			</div>
-			{% endif %}
-		</div>
-		<div class="column">
-			{% if post.mf-like-of != null %}
-			  {% include post-like.html post=post %}
-	    {% elsif post.mf-bookmark %}
-			  {% include post-bookmark.html post=post %}
-	    {% elsif post.mf-bookmark-of %}
-			  {% include post-bookmark.html post=post %}
-			{% else %}
-			  {% include post-content.html post=post %}
-			{% endif %}
-		</div>
-	</div>
-
-
-</article>
