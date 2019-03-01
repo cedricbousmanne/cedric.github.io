@@ -17,10 +17,6 @@ micropub_auth_response:
   last_accessed: 1538847551
 mf2_type:
 - h-entry
-mf2_bookmark-of:
-- name: decentralized-social-networks
-  publication: tinysubversions.com
-  url: https://tinysubversions.com/notes/decentralized-social-networks/
 mf-bookmark-of:
 - https://tinysubversions.com/notes/decentralized-social-networks/
 mf2_name:

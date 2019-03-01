@@ -17,12 +17,6 @@ micropub_auth_response:
   last_accessed: 1541602124
 mf2_type:
 - h-entry
-mf2_bookmark-of:
-- type:
-  - h-
-  properties:
-    name:
-    - Langserver.org
 mf-bookmark-of:
 - https://langserver.org/
 mf2_name:

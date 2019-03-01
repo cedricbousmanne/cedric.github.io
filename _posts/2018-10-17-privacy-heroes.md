@@ -17,15 +17,6 @@ micropub_auth_response:
   last_accessed: 1539776679
 mf2_type:
 - h-entry
-mf2_bookmark-of:
-- name: Privacy Heroes
-  summary: We're an alliance of privacy-focused online services on a mission to defend
-    Internet users from surveillance, hacking, and censorship.
-  featured: https://privacyheroes.io/share.png
-  publication: Privacy Heroes
-  photo:
-  - https://privacyheroes.io/share.png
-  url: https://privacyheroes.io/
 mf-bookmark-of:
 - https://privacyheroes.io/
 mf2_name:

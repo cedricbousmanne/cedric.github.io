@@ -18,15 +18,16 @@ micropub_auth_response:
 mf2_type:
 - h-entry
 mf2_bookmark-of:
-- name: 'Focusing on the Positives: Why I Have My Own Website'
-  summary: Brett Slatkin&#039;s personal site
-  featured: http://commondatastorage.googleapis.com/haxor/beach.jpg
-  publication: onebigfluke.com
-  photo:
-  - http://commondatastorage.googleapis.com/haxor/beach.jpg
-  - https://lh6.googleusercontent.com/proxy/Lsn0mzoWpO0Hd_cFUfSLVV4YEFxAA92ofDxH5mD6bg6t5Lv_SJXzeEAhGzGOYWE6uVJRF2oSq2UwDTVZXCkx5HfH1a7gQVnOZrEA=s0-d
-  url: https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html
-  type: feed
+  properties:
+    name: 'Focusing on the Positives: Why I Have My Own Website'
+    summary: Brett Slatkin&#039;s personal site
+    featured: http://commondatastorage.googleapis.com/haxor/beach.jpg
+    publication: onebigfluke.com
+    photo:
+    - http://commondatastorage.googleapis.com/haxor/beach.jpg
+    - https://lh6.googleusercontent.com/proxy/Lsn0mzoWpO0Hd_cFUfSLVV4YEFxAA92ofDxH5mD6bg6t5Lv_SJXzeEAhGzGOYWE6uVJRF2oSq2UwDTVZXCkx5HfH1a7gQVnOZrEA=s0-d
+    url: https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html
+    type: feed
 mf-bookmark-of:
 - https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html
 mf2_name:

@@ -19,9 +19,10 @@ micropub_auth_response:
 mf2_type:
 - h-entry
 mf2_bookmark-of:
-- name: Bridgy Fed
-  publication: fed.brid.gy
-  url: https://fed.brid.gy/
+  properties:
+    name: Bridgy Fed
+    publication: fed.brid.gy
+    url: https://fed.brid.gy/
 mf-bookmark-of:
 - https://fed.brid.gy/
 mf2_name:

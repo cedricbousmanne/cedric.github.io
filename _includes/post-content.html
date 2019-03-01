@@ -36,8 +36,21 @@
       </h2>
     </header>
   {% endif %}
-{% if post.mf-in-reply-to != null %}
-      <h3>In reply to:</h3>
+
+  {% if post.mf2_in-reply-to != null %}
+    <h3>In reply to:</h3>
+    <blockquote>
+      {{ post.mf2_in-reply-to.properties.summary }}
+
+      <cite>
+        <a href="{{ post.mf2_in-reply-to.properties.url }}">
+          {{ post.mf2_in-reply-to.properties.name }}
+        </a>
+      </cite>
+    </blockquote>
+
+  {% elsif post.mf-in-reply-to != null %}
+    <h3>In reply to:</h3>
     <ul>
       {% for reply in post.mf-in-reply-to %}
         <li><a class="u-in-reply-to" rel="in-reply-to" href="{{reply}}">{{reply}}</a></li>
@@ -52,6 +65,25 @@
       {{ content }}
     {% endif %}
   </div>
+
+  {% if post.geo_latitude %}
+
+    <div>
+      <span class="u-checkin h-card">
+        <i class='fa fa-map-marker-alt'></i>
+        <a href="https://www.openstreetmap.org/?mlat={{ post.geo_latitude }}&mlon={{ post.geo_longitude }}#map=13/{{ post.geo_latitude }}/{{ post.geo_longitude }}" class="p-name">
+          {% if post.mf2_place_name %}
+            {{ post.mf2_place_name }}
+          {% else %}
+            {{ post.geo_latitude }}, {{ post.geo_longitude }}
+          {% endif %}
+        </a>
+        <data class="p-latitude" value="{{ post.geo_latitude }}"></data>
+        <data class="p-longitude" value="{{ post.geo_longitude }}"></data>
+      </span>
+    </div>
+
+  {% endif %}
 
   {% if post.mf-syndication != null %}
     <div class="elsewhere linklist">

@@ -1,6 +1,19 @@
 <div class="h-entry"> 
   <i class="far fa-bookmark"></i>
-  {% if post.mf-bookmark %}
+  {% if post.mf2_bookmark-of %}
+    <a class="u-bookmark-of" href="{{ post.mf2_bookmark-of.properties.url }}">
+      {{ post.mf2_bookmark-of.properties.name }}
+    </a>
+
+    {% if post.mf2_bookmark-of.properties.author.properties.name %}
+      by {{ post.mf2_bookmark-of.properties.author.properties.name }}
+    {% endif %}
+
+    {% if post.mf2_bookmark-of.properties.summary %}
+      <em>{{ post.mf2_bookmark-of.properties.summary }}</em>
+    {% endif %}
+
+  {% elsif post.mf-bookmark %}
     <a class="u-bookmark-of" href="{{ post.mf-bookmark }}">
       {{ post.title }}
     </a>

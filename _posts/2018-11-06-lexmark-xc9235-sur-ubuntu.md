@@ -17,8 +17,6 @@ micropub_auth_response:
   last_accessed: 1541518840
 mf2_type:
 - h-entry
-mf2_bookmark-of:
-- http://support.lexmark.com/index?segment=SUPPORT&userlocale=FR_FR&locale=fr&productCode=LEXMARK_XC9235&page=product&frompage=null#2
 mf-bookmark-of:
 - http://support.lexmark.com/index?segment=SUPPORT&userlocale=FR_FR&locale=fr&productCode=LEXMARK_XC9235&page=product&frompage=null#2
 mf2_name:
