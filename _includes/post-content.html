@@ -37,7 +37,7 @@
     </header>
   {% endif %}
 
-<!--   {% if post.mf2_in-reply-to != null %}
+  {% if post.mf2_in-reply-to != null %}
     <h3>In reply to:</h3>
     <blockquote>
       {{ post.mf2_in-reply-to.properties.summary }}
@@ -57,7 +57,7 @@
       {% endfor %}
     </ul>
   {% endif %}
- -->
+
   <div class="e-content">
     {% if post.content %}
       {{ post.content }}
