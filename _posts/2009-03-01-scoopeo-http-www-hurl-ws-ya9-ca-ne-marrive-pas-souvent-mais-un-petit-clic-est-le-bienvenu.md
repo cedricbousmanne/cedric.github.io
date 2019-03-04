@@ -1,6 +1,6 @@
 ---
 id: 3686
-title: 'Scoopeo : http://www.hurl.ws/ya9 (ça ne m&rsquo;arrive pas souvent, mais un petit clic est le bienvenu :-))'
+title: ''
 date: 2009-03-01T13:52:43+00:00
 author: cedric
 layout: post

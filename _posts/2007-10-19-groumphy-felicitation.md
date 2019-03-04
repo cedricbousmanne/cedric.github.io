@@ -1,6 +1,6 @@
 ---
 id: 3983
-title: '@Groumphy : FELICITATION!'
+title: ''
 date: 2007-10-19T14:12:42+00:00
 author: cedric
 layout: post

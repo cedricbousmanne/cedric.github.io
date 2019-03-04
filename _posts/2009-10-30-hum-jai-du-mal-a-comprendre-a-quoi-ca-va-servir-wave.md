@@ -1,6 +1,6 @@
 ---
 id: 3504
-title: 'Hum&#8230; j&rsquo;ai du mal a comprendre à quoi ça va servir&#8230; #wave'
+title: ''
 date: 2009-10-30T11:11:44+00:00
 author: cedric
 layout: post

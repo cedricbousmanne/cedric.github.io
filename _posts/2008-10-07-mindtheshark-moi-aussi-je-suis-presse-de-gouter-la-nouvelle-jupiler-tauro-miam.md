@@ -1,6 +1,6 @@
 ---
 id: 3829
-title: '@mindtheshark : moi aussi je suis pressé de goûter la nouvelle Jupiler Tauro. Miam!'
+title: ''
 date: 2008-10-07T12:29:15+00:00
 author: cedric
 layout: post

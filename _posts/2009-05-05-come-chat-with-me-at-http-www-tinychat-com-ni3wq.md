@@ -1,6 +1,6 @@
 ---
 id: 3591
-title: Come chat with me at http://www.tinychat.com/ni3wq!
+title: ''
 date: 2009-05-05T23:25:38+00:00
 author: cedric
 layout: post

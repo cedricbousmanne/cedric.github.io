@@ -1,6 +1,6 @@
 ---
 id: 3337
-title: '@Shadem987 t&rsquo;as plus qu&rsquo;a étudier, premier examen dans une semaine? ;-)'
+title: ''
 date: 2013-07-01T19:10:03+00:00
 author: cedric
 layout: post

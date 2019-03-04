@@ -1,6 +1,6 @@
 ---
 id: 2680
-title: 'RT @dalaidenneg: « Indépendant, t&rsquo;as le temps » @akyrho #CafeNMarche'
+title: ''
 date: 2015-03-31T21:21:25+00:00
 author: cedric
 layout: post

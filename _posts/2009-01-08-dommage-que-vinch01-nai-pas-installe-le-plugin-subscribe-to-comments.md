@@ -1,6 +1,6 @@
 ---
 id: 3755
-title: 'Dommage que @vinch01 n&rsquo;ai pas installé le plugin « subscribe to comments »'
+title: ''
 date: 2009-01-08T22:26:28+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3674
-title: 'visiblement #belgacom persiste et signe dans sa connerie monumentale. Bien content d&rsquo;être parti chez #edpnet'
+title: ''
 date: 2009-03-26T20:22:46+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3186
-title: 'RT @greenlabcowork: Nous avons été interviewé par @SiliconLux : l&rsquo;occasion d&rsquo;en apprendre un peu plus sur notre projet ! http://t.co/2wD01P…'
+title: ''
 date: 2014-01-10T13:06:27+00:00
 author: cedric
 layout: post

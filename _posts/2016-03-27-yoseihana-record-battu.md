@@ -1,6 +1,6 @@
 ---
 id: 2226
-title: @yoseihana record battu?
+title: ''
 date: 2016-03-27T17:57:39+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2285
-title: @MakersExp @A_Durand14 @Welink_Agency probablement un peu des deux ! ;-)
+title: ''
 date: 2016-02-12T10:59:16+00:00
 author: cedric
 layout: post

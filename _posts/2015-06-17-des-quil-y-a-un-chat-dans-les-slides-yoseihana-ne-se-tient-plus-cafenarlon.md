@@ -1,6 +1,6 @@
 ---
 id: 2582
-title: 'Dès qu&rsquo;il y a un chat dans les slides, @yoseihana ne se tient plus #cafenarlon'
+title: ''
 date: 2015-06-17T20:02:36+00:00
 author: cedric
 layout: post

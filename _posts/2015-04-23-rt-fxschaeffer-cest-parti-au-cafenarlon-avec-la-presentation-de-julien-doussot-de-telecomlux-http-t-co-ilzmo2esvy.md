@@ -1,6 +1,6 @@
 ---
 id: 2645
-title: 'RT @fxschaeffer: C&rsquo;est parti ! Au #cafenarlon avec la présentation de Julien Doussot de @TelecomLux http://t.co/ilZmO2eSVy'
+title: ''
 date: 2015-04-23T19:54:32+00:00
 author: cedric
 layout: post

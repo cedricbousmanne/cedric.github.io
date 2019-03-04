@@ -1,6 +1,6 @@
 ---
 id: 2963
-title: 'Il faut toujours déployer son application sur deux data center au minimum #cloud #cafenarlon'
+title: ''
 date: 2014-09-11T20:22:05+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2584
-title: 'Christophe Fruytier, le Mark Zuckerberg marchois de Le Web 2012 #cafenarlon'
+title: ''
 date: 2015-06-17T20:17:42+00:00
 author: cedric
 layout: post

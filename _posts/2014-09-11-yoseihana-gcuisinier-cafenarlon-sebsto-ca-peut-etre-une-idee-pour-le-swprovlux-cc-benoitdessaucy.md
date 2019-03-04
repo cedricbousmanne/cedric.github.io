@@ -1,6 +1,6 @@
 ---
 id: 3001
-title: '@yoseihana @gcuisinier @cafenarlon @sebsto Ca peut être une idée pour le #swprovlux cc/ @benoitdessaucy'
+title: ''
 date: 2014-09-11T08:44:44+00:00
 author: cedric
 layout: post

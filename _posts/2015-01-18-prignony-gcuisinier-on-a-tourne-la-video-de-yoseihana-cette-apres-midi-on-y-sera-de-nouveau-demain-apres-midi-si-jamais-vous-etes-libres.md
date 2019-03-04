@@ -1,6 +1,6 @@
 ---
 id: 2881
-title: @prignony @gcuisinier on a tourné la vidéo de @yoseihana cette après-midi, on y sera de nouveau demain après-midi si jamais vous êtes libres
+title: ''
 date: 2015-01-18T19:11:44+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2064
-title: @Nickko ping @johnny_creatoms
+title: ''
 date: 2018-02-16T11:43:33+00:00
 author: cedric
 layout: post

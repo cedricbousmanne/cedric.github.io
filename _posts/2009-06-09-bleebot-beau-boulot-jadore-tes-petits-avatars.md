@@ -1,6 +1,6 @@
 ---
 id: 3551
-title: '@Bleebot Beau boulot, j&rsquo;adore tes petits avatars :)'
+title: ''
 date: 2009-06-09T22:36:17+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3705
-title: '#wordpress Comment supprimer les historiques des articles http://tinyurl.com/c577xd'
+title: ''
 date: 2009-02-14T15:54:17+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2450
-title: 'J&rsquo;aurais dû être plus attentif au cours de bio en secondaire -_- #cafenarlon #bigdata #genomic'
+title: ''
 date: 2015-10-20T20:25:30+00:00
 author: cedric
 layout: post

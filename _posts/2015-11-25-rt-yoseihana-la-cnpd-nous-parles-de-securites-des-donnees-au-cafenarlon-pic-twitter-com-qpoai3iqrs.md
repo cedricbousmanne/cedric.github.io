@@ -1,6 +1,6 @@
 ---
 id: 2394
-title: 'RT @yoseihana: La #cnpd nous parles de sécurités des données au #cafenarlon pic.twitter.com/qpoAi3IQRs'
+title: ''
 date: 2015-11-25T21:35:40+00:00
 author: cedric
 layout: post

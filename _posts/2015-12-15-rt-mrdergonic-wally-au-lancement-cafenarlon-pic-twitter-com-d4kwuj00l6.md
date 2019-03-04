@@ -1,6 +1,6 @@
 ---
 id: 2358
-title: 'RT @MrDergonic: Wally au lancement. #cafenarlon pic.twitter.com/d4KWUj00L6'
+title: ''
 date: 2015-12-15T22:07:55+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2918
-title: 'RT @AppTweak: Video Lesson 5: 10 Tips to Create #App #Screenshots that Sell &#8211; buff.ly/1ywPbbR &#8211; #ASO pic.twitter.com/kZYwXAZYK9'
+title: ''
 date: 2014-12-09T23:48:49+00:00
 author: cedric
 layout: post

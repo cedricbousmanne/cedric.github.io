@@ -1,6 +1,6 @@
 ---
 id: 2583
-title: '« Se casser la gu*** est une étape essentielle pour démarrer » @ChFruytier #startup #cafenarlon'
+title: ''
 date: 2015-06-17T20:04:58+00:00
 author: cedric
 layout: post

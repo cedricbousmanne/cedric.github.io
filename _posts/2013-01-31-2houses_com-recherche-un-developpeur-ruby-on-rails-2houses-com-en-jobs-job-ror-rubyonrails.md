@@ -1,6 +1,6 @@
 ---
 id: 3386
-title: '@2houses_com recherche un développeur #Ruby on #Rails : 2houses.com/en/jobs/ #job #ror #rubyonrails'
+title: ''
 date: 2013-01-31T13:28:40+00:00
 author: cedric
 layout: post

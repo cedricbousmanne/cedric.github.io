@@ -1,6 +1,6 @@
 ---
 id: 3959
-title: '[blog] Recherche designer 2.0 http://tinyurl.com/26jn8n'
+title: ''
 date: 2007-10-21T15:45:28+00:00
 author: cedric
 layout: post

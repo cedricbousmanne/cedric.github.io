@@ -1,6 +1,6 @@
 ---
 id: 4023
-title: '@Somebaudy: Pourquoi pas le résumé jour après jour de cette histoire à la belge :)'
+title: ''
 date: 2007-08-01T12:26:55+00:00
 author: cedric
 layout: post

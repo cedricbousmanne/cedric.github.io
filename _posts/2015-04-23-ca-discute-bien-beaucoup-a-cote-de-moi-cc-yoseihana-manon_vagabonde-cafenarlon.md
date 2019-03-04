@@ -1,6 +1,6 @@
 ---
 id: 2648
-title: 'Ca discute bien beaucoup à côté de moi cc @yoseihana @manon_vagabonde #cafenarlon'
+title: ''
 date: 2015-04-23T20:28:37+00:00
 author: cedric
 layout: post

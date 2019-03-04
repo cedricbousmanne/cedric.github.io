@@ -1,6 +1,6 @@
 ---
 id: 2701
-title: '@benoitdessaucy j&rsquo;en ai certainement fais plus que toi puisque j&rsquo;ai codé o/ #hackalux #mauvaisperdant'
+title: ''
 date: 2015-03-21T21:44:25+00:00
 author: cedric
 layout: post

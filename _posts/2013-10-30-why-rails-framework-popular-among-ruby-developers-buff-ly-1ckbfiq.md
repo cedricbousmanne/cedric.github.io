@@ -1,6 +1,6 @@
 ---
 id: 3239
-title: Why Rails framework popular among Ruby developers buff.ly/1ckbfIq
+title: ''
 date: 2013-10-30T11:10:08+00:00
 author: cedric
 layout: post

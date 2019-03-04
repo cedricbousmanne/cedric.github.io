@@ -1,6 +1,6 @@
 ---
 id: 2937
-title: '@yoseihana ah merde, j&rsquo;ai choisi mon jour pour être absent :)'
+title: ''
 date: 2014-11-24T21:26:04+00:00
 author: cedric
 layout: post

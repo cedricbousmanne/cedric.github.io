@@ -1,6 +1,6 @@
 ---
 id: 3034
-title: 'RT @greenlabcowork: Info de dernière minute, @benoitdessaucy viendra présenter sa startup ce jeudi &#8211; Il reste quelques places &#8211; http://t.co…'
+title: ''
 date: 2014-06-16T11:38:23+00:00
 author: cedric
 layout: post

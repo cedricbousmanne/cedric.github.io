@@ -1,6 +1,6 @@
 ---
 id: 2638
-title: '@enth1z un peu tard, j&rsquo;étais déjà parti :-)'
+title: ''
 date: 2015-05-07T08:42:15+00:00
 author: cedric
 layout: post

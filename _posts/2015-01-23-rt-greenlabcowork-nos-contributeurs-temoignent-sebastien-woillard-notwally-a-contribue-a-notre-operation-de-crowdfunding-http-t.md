@@ -1,6 +1,6 @@
 ---
 id: 2866
-title: 'RT @greenlabcowork: Nos contributeurs témoignent : Sébastien Woillard (@notwally) à contribué à notre opération de #crowdfunding &#8211; http://t…'
+title: ''
 date: 2015-01-23T15:17:14+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2352
-title: You Can Break Into a Linux System by Pressing Backspace 28 Times buff.ly/1RtiFQU pic.twitter.com/KGjwTX6emp
+title: ''
 date: 2015-12-19T13:20:00+00:00
 author: cedric
 layout: post

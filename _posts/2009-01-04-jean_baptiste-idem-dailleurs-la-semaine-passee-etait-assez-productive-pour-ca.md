@@ -1,6 +1,6 @@
 ---
 id: 3774
-title: '@jean_baptiste idem, d&rsquo;ailleurs la semaine passée etait assez productive pour ça'
+title: ''
 date: 2009-01-04T02:07:20+00:00
 author: cedric
 layout: post

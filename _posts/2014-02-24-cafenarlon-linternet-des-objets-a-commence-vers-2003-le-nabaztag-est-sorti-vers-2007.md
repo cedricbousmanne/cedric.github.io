@@ -1,6 +1,6 @@
 ---
 id: 3123
-title: '#cafenarlon l&rsquo;Internet des objets a commencé vers 2003, le nabaztag est sorti vers 2007'
+title: ''
 date: 2014-02-24T20:53:22+00:00
 author: cedric
 layout: post

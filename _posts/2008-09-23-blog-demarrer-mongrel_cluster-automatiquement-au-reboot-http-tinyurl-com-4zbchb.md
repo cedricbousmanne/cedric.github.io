@@ -1,6 +1,6 @@
 ---
 id: 3853
-title: '[blog] Démarrer mongrel_cluster automatiquement au reboot http://tinyurl.com/4zbchb'
+title: ''
 date: 2008-09-23T16:56:41+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2420
-title: 'RT @6x7asbl: Aidez @GiTlux pour l&rsquo;ING Solidarity Award en votant pour elles ! https://t.co/LOBZBGGVw4'
+title: ''
 date: 2015-11-03T10:15:44+00:00
 author: cedric
 layout: post

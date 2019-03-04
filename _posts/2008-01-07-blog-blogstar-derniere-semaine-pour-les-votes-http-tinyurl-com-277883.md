@@ -1,6 +1,6 @@
 ---
 id: 3897
-title: '[blog] Blogstar : dernière semaine pour les votes http://tinyurl.com/277883'
+title: ''
 date: 2008-01-07T01:42:06+00:00
 author: cedric
 layout: post

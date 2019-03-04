@@ -1,6 +1,6 @@
 ---
 id: 3147
-title: @backesmarc Are you living near Luxembourg too ?
+title: ''
 date: 2014-02-13T16:30:26+00:00
 author: cedric
 layout: post

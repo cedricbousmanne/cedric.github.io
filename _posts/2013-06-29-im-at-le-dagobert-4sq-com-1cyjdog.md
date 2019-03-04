@@ -1,6 +1,6 @@
 ---
 id: 3334
-title: 'I&rsquo;m at Le Dagobert 4sq.com/1cyJDOg'
+title: ''
 date: 2013-06-29T13:07:03+00:00
 author: cedric
 layout: post

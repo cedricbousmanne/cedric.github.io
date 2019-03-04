@@ -1,6 +1,6 @@
 ---
 id: 2325
-title: 'Riding Rails: Rails 5.0.0.beta1: Action Cable, API mode, Rails command buff.ly/1QxxVN2'
+title: ''
 date: 2015-12-19T23:41:00+00:00
 author: cedric
 layout: post

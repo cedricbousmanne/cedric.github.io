@@ -1,6 +1,6 @@
 ---
 id: 2508
-title: 'Bon, je vais me mettre à développer pour @Themosis alors ;-)  @6x7asbl #JeudisDuLibre'
+title: ''
 date: 2015-10-01T21:19:35+00:00
 author: cedric
 layout: post

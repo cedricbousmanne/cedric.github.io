@@ -1,6 +1,6 @@
 ---
 id: 3108
-title: @remi_laurent @prignony Challenge accepted ! ;-)
+title: ''
 date: 2014-02-25T00:05:24+00:00
 author: cedric
 layout: post

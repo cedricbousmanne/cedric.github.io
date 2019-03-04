@@ -1,6 +1,6 @@
 ---
 id: 3615
-title: Ecrire un plugin pour Munin http://tinyurl.com/dfcaj6
+title: ''
 date: 2009-04-26T18:55:09+00:00
 author: cedric
 layout: post

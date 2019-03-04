@@ -1,6 +1,6 @@
 ---
 id: 2903
-title: 'Le #cafenarlon de décembre vient de commencer, beaucoup de nouvelles têtes pic.twitter.com/Fqr7jtxWSC'
+title: ''
 date: 2014-12-17T20:48:18+00:00
 author: cedric
 layout: post

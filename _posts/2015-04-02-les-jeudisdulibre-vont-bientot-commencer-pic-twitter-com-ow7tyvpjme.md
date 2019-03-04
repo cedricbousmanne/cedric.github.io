@@ -1,6 +1,6 @@
 ---
 id: 2665
-title: 'Les #JeudisDuLibre vont bientôt commencer pic.twitter.com/ow7tYvpJME'
+title: ''
 date: 2015-04-02T18:51:25+00:00
 author: cedric
 layout: post

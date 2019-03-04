@@ -1,6 +1,6 @@
 ---
 id: 2383
-title: @zedtux bien sûr! Je lui ai appris à coder en Ruby quand il était dans le ventre de maman déjà :-D
+title: ''
 date: 2015-12-15T17:06:36+00:00
 author: cedric
 layout: post

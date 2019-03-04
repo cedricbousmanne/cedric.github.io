@@ -1,6 +1,6 @@
 ---
 id: 3989
-title: '[blog] Lettre à mon lecteur adoré http://tinyurl.com/245xzy'
+title: ''
 date: 2007-09-24T10:19:09+00:00
 author: cedric
 layout: post

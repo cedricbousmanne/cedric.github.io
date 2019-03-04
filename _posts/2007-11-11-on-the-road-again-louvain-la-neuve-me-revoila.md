@@ -1,6 +1,6 @@
 ---
 id: 3932
-title: On the road again, Louvain-la-Neuve, me revoilà
+title: ''
 date: 2007-11-11T20:03:09+00:00
 author: cedric
 layout: post

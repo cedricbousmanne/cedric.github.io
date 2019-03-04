@@ -1,6 +1,6 @@
 ---
 id: 3267
-title: Découverte de la tablette 7 pouces nord-coréenne (sans accès à internet) buff.ly/13TtpKG
+title: ''
 date: 2013-08-06T10:10:12+00:00
 author: cedric
 layout: post

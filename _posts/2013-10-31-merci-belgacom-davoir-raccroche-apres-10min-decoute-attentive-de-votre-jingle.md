@@ -1,6 +1,6 @@
 ---
 id: 3214
-title: 'Merci @belgacom d&rsquo;avoir raccroché après 10min d&rsquo;écoute attentive de votre jingle'
+title: ''
 date: 2013-10-31T15:43:02+00:00
 author: cedric
 layout: post

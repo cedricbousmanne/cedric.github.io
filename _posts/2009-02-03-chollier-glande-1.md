@@ -1,6 +1,6 @@
 ---
 id: 3714
-title: '@chollier : glande +1'
+title: ''
 date: 2009-02-03T23:12:52+00:00
 author: cedric
 layout: post

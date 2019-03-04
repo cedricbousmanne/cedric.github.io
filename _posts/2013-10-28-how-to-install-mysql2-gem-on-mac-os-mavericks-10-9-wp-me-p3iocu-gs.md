@@ -1,6 +1,6 @@
 ---
 id: 3237
-title: How to install mysql2 gem on Mac OS Mavericks (10.9) wp.me/p3Iocu-gs
+title: ''
 date: 2013-10-28T12:01:47+00:00
 author: cedric
 layout: post

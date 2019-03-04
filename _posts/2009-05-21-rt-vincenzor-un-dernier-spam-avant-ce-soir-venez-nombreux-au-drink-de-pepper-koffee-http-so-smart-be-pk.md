@@ -1,6 +1,6 @@
 ---
 id: 3571
-title: 'RT @VincenzoR: Un dernier spam avant ce soir, venez nombreux au drink de Pepper &#038; Koffee !! http://so-smart.be/~pk'
+title: ''
 date: 2009-05-21T13:54:11+00:00
 author: cedric
 layout: post

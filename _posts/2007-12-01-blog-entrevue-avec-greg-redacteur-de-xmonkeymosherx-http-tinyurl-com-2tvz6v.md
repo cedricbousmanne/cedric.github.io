@@ -1,6 +1,6 @@
 ---
 id: 3922
-title: '[blog] Entrevue avec Greg, rédacteur de xMonkeyMosherx http://tinyurl.com/2tvz6v'
+title: ''
 date: 2007-12-01T03:47:24+00:00
 author: cedric
 layout: post

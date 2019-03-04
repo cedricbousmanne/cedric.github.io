@@ -1,6 +1,6 @@
 ---
 id: 2898
-title: 'RT @david_leloup: La Leffe en cannette « déconseillée » aux enfants de moins de 3 ans en Belgique. Pas pour l&rsquo;alcool. Pour le #bisphénolA htt…'
+title: ''
 date: 2014-12-15T14:11:39+00:00
 author: cedric
 layout: post

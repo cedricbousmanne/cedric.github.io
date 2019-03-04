@@ -1,6 +1,6 @@
 ---
 id: 2726
-title: @alexsolex @ncharlot faut oser aussi proche de la présentation ;-)
+title: ''
 date: 2015-03-21T21:24:34+00:00
 author: cedric
 layout: post

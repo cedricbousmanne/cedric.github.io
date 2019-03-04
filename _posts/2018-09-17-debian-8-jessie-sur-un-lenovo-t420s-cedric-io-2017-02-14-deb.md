@@ -1,6 +1,6 @@
 ---
 id: 1995
-title: Debian 8 Jessie sur un Lenovo T420s cedric.io/2017/02/14/deb…
+title: ''
 date: 2018-09-17T11:08:40+00:00
 author: cedric
 layout: post

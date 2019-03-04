@@ -1,6 +1,6 @@
 ---
 id: 2592
-title: 'RT @cafeNArlon: Barbec de fin d&rsquo;année pour l&rsquo;équipe du Café numérique Arlon! On vous prépare la rentrée :) pic.twitter.com/DZME3fKtRt'
+title: ''
 date: 2015-07-12T20:00:21+00:00
 author: cedric
 layout: post

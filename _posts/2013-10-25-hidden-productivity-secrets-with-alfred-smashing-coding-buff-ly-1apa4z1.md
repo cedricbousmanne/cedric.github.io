@@ -1,6 +1,6 @@
 ---
 id: 3234
-title: Hidden Productivity Secrets With Alfred | Smashing Coding buff.ly/1apa4Z1
+title: ''
 date: 2013-10-25T16:06:18+00:00
 author: cedric
 layout: post

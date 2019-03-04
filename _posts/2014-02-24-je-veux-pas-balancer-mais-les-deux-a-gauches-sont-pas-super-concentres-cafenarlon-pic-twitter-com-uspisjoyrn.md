@@ -1,6 +1,6 @@
 ---
 id: 3135
-title: 'Je veux pas balancer, mais les deux a gauches sont pas super concentrés #cafenarlon pic.twitter.com/UspisJoYRn'
+title: ''
 date: 2014-02-24T22:28:53+00:00
 author: cedric
 layout: post

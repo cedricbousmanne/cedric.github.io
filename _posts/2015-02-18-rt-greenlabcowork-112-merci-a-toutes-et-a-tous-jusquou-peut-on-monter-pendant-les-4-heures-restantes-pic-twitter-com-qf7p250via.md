@@ -1,6 +1,6 @@
 ---
 id: 2793
-title: 'RT @greenlabcowork: 112% ! Merci à toutes et à tous ! Jusqu&rsquo;où peut-on monter pendant les 4 heures restantes ? pic.twitter.com/qF7p250vIA'
+title: ''
 date: 2015-02-18T21:11:53+00:00
 author: cedric
 layout: post

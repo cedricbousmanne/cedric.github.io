@@ -1,6 +1,6 @@
 ---
 id: 3690
-title: '#wordpress Comment notifier votre compte twitter lorsqu’un nouvel article est publié http://tinyurl.com/cpt8z6'
+title: ''
 date: 2009-03-02T16:53:19+00:00
 author: cedric
 layout: post

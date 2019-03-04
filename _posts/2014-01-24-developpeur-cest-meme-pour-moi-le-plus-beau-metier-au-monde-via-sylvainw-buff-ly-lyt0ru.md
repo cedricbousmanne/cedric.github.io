@@ -1,6 +1,6 @@
 ---
 id: 3155
-title: '« Développeur (&#8230;) c&rsquo;est même pour moi le plus beau métier au monde » (via @sylvainw) buff.ly/LYT0Ru'
+title: ''
 date: 2014-01-24T12:32:05+00:00
 author: cedric
 layout: post

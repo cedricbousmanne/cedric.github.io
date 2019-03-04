@@ -1,6 +1,6 @@
 ---
 id: 3112
-title: 'RT @2houses_com: New #debate in #Belgium ! Would you take the last #name from your #mother or your #father? bit.ly/1eXBS6D http://t…'
+title: ''
 date: 2014-02-26T18:07:38+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3994
-title: 'journée photo en noir et blanc&#8230; je suis pressé de voir le tirage des négatifs!'
+title: ''
 date: 2007-10-08T17:41:48+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3902
-title: 'Grmbl&#8230; Quand ça veut pas&#8230;'
+title: ''
 date: 2007-12-12T12:05:04+00:00
 author: cedric
 layout: post

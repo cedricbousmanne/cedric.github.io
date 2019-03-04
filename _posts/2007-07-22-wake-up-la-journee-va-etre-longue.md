@@ -1,6 +1,6 @@
 ---
 id: 4062
-title: 'Wake up&#8230; la journée va etre longue'
+title: ''
 date: 2007-07-22T09:13:18+00:00
 author: cedric
 layout: post

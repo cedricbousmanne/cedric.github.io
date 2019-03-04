@@ -1,6 +1,6 @@
 ---
 id: 4053
-title: 'C&rsquo;est toujours quand on s&rsquo;y attend le moins que les fantômes du passé reviennent frapper à la porte&#8230;'
+title: ''
 date: 2007-06-18T00:46:30+00:00
 author: cedric
 layout: post

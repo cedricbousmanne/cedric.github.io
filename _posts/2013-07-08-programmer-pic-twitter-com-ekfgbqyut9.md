@@ -1,6 +1,6 @@
 ---
 id: 3302
-title: Programmer pic.twitter.com/EKFgBQYUt9
+title: ''
 date: 2013-07-08T09:10:18+00:00
 author: cedric
 layout: post

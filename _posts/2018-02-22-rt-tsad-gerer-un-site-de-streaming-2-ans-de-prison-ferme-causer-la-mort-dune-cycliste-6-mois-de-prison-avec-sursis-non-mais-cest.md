@@ -1,10 +1,6 @@
 ---
 id: 2044
-title: |
-  RT @Tsad: Gérer un site de streaming : 2 ans de prison ferme.
-  Causer la mort d&rsquo;une cycliste : 6 mois de prison avec sursis.
-  
-  Non mais c&rsquo;est…
+title: ''
 date: 2018-02-22T14:27:57+00:00
 author: cedric
 layout: post

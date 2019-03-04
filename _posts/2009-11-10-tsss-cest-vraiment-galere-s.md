@@ -1,6 +1,6 @@
 ---
 id: 3483
-title: 'tsss… c&rsquo;est vraiment galère :-S'
+title: ''
 date: 2009-11-10T21:02:53+00:00
 author: cedric
 layout: post

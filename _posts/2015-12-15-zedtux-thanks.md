@@ -1,6 +1,6 @@
 ---
 id: 2382
-title: @zedtux thanks!
+title: ''
 date: 2015-12-15T01:34:34+00:00
 author: cedric
 layout: post

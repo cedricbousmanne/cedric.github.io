@@ -1,6 +1,6 @@
 ---
 id: 3266
-title: 'I&rsquo;m at Taverne du Marquis w/ @gilloutte 4sq.com/16WReo0'
+title: ''
 date: 2013-08-05T13:07:19+00:00
 author: cedric
 layout: post

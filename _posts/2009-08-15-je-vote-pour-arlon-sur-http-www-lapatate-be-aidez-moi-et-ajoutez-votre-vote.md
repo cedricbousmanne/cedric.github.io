@@ -1,6 +1,6 @@
 ---
 id: 3524
-title: je vote pour Arlon sur http://www.lapatate.be, aidez moi et ajoutez votre vote !
+title: ''
 date: 2009-08-15T10:33:30+00:00
 author: cedric
 layout: post

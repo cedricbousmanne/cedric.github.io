@@ -1,6 +1,6 @@
 ---
 id: 2942
-title: 'PowerPoint qui lâche en pleine présentation #fail #cafenarlon'
+title: ''
 date: 2014-09-11T20:41:39+00:00
 author: cedric
 layout: post

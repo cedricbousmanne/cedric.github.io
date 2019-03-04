@@ -1,6 +1,6 @@
 ---
 id: 3223
-title: @doomhz Could you send me the details (DM or email)?
+title: ''
 date: 2013-12-14T14:28:35+00:00
 author: cedric
 layout: post

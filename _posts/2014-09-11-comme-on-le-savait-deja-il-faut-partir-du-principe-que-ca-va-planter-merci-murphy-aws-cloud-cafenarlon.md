@@ -1,6 +1,6 @@
 ---
 id: 2964
-title: 'Comme on le savait déjà : il faut partir du principe que ça va planter. Merci Murphy #aws #cloud #cafenarlon'
+title: ''
 date: 2014-09-11T20:23:13+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2993
-title: 'RT @cafeNArlon: N&rsquo;oubliez pas : jeudi, reprise du Café Numérique #Arlon avec @sebsto qui viendra nous parler de #cloud et de #aws https://t…'
+title: ''
 date: 2014-09-09T08:54:13+00:00
 author: cedric
 layout: post

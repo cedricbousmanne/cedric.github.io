@@ -1,6 +1,6 @@
 ---
 id: 3146
-title: '#RockAField 2014 @spotify playlist : buff.ly/1ex9QkK'
+title: ''
 date: 2014-02-05T14:51:17+00:00
 author: cedric
 layout: post

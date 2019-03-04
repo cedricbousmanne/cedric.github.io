@@ -1,6 +1,6 @@
 ---
 id: 2934
-title: 'RT @cafeNArlon: Merci! “@SiliconLux: @cafeNArlon ce soir?Selfie interview bit.ly/1tpup5W pic.twitter.com/sBWagGvvRT” cc @notwally @prig…'
+title: ''
 date: 2014-11-24T09:45:34+00:00
 author: cedric
 layout: post

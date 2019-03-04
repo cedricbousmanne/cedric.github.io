@@ -1,6 +1,6 @@
 ---
 id: 2209
-title: 'Mon fils de 4 mois est fan du camion de @MrDergonic 🚛 #cafenarlon'
+title: ''
 date: 2016-04-20T21:19:25+00:00
 author: cedric
 layout: post

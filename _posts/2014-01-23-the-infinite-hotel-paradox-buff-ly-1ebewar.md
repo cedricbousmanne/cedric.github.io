@@ -1,6 +1,6 @@
 ---
 id: 3152
-title: 'The Infinite Hotel Paradox &#8211; buff.ly/1eBEwAr'
+title: ''
 date: 2014-01-23T12:32:17+00:00
 author: cedric
 layout: post

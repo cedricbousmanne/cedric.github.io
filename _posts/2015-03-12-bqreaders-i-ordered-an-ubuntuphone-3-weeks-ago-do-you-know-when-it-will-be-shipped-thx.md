@@ -1,6 +1,6 @@
 ---
 id: 2753
-title: '@bqreaders I ordered an #ubuntuphone 3 weeks ago. Do you know when it will be shipped ? Thx'
+title: ''
 date: 2015-03-12T21:53:55+00:00
 author: cedric
 layout: post

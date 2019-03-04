@@ -1,6 +1,6 @@
 ---
 id: 2682
-title: @benoitdessaucy @CafeNMarche 5726 ! And counting :-)
+title: ''
 date: 2015-03-31T21:22:35+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2949
-title: '@yoseihana c&rsquo;est quoi le p&rsquo;tit picto sur ton avatar ? #questioncondujour'
+title: ''
 date: 2014-10-21T18:16:43+00:00
 author: cedric
 layout: post

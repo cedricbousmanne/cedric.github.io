@@ -1,6 +1,6 @@
 ---
 id: 3539
-title: 'L&rsquo;interface PC-Banking de (BNP-Paribas)Fortis en vert : beurk! #fortis'
+title: ''
 date: 2009-06-14T11:14:53+00:00
 author: cedric
 layout: post

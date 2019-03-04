@@ -1,6 +1,6 @@
 ---
 id: 3737
-title: '[WP] Comment mettre en avant les commentaires de l’auteur de l’article: Un blog est avant tout un moyen de c.. http://tinyurl.com/7w72wo'
+title: ''
 date: 2009-01-19T20:54:33+00:00
 author: cedric
 layout: post

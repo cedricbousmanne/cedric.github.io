@@ -1,6 +1,6 @@
 ---
 id: 3702
-title: '@jean_baptiste : j&rsquo;ai même pas la possibilité de choisir, c&rsquo;est détecté automatiquement apparemment'
+title: ''
 date: 2009-02-13T12:45:20+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3578
-title: 'Nouvelle version de Google Webmaster Tools : https://www.google.com/webmasters/tools/new/'
+title: ''
 date: 2009-05-23T11:03:12+00:00
 author: cedric
 layout: post

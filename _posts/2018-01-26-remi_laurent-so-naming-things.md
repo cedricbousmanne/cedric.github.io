@@ -1,6 +1,6 @@
 ---
 id: 2056
-title: @remi_laurent So, naming things?
+title: ''
 date: 2018-01-26T09:55:01+00:00
 author: cedric
 layout: post

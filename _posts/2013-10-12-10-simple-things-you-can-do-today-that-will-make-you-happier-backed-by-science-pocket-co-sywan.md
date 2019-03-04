@@ -1,6 +1,6 @@
 ---
 id: 3251
-title: '10 Simple Things You Can Do Today That Will Make You Happier, Backed By Science &#8211; pocket.co/sYWAN'
+title: ''
 date: 2013-10-12T16:05:09+00:00
 author: cedric
 layout: post

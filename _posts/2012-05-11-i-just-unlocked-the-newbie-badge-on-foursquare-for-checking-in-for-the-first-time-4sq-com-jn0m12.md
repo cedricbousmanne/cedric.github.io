@@ -1,6 +1,6 @@
 ---
 id: 3413
-title: I just unlocked the « Newbie » badge on @foursquare for checking in for the first time! 4sq.com/Jn0M12
+title: ''
 date: 2012-05-11T19:45:57+00:00
 author: cedric
 layout: post

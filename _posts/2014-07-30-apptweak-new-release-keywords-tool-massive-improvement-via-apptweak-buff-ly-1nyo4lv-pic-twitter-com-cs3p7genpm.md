@@ -1,8 +1,6 @@
 ---
 id: 3004
-title: |
-  AppTweak New Release: Keywords Tool Massive Improvement (via @apptweak)
-  buff.ly/1nYO4Lv pic.twitter.com/CS3p7GeNPm
+title: ''
 date: 2014-07-30T11:32:02+00:00
 author: cedric
 layout: post

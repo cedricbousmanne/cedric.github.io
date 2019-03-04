@@ -1,6 +1,6 @@
 ---
 id: 3325
-title: Continuous Design and the NoPSD Movement buff.ly/12dRLOx
+title: ''
 date: 2013-07-05T13:12:35+00:00
 author: cedric
 layout: post

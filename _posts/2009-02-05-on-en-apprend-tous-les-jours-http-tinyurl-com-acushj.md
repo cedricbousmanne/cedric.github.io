@@ -1,6 +1,6 @@
 ---
 id: 3720
-title: On en apprend tous les jours http://tinyurl.com/acushj
+title: ''
 date: 2009-02-05T22:54:55+00:00
 author: cedric
 layout: post

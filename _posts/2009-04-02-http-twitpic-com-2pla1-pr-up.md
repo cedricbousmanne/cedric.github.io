@@ -1,6 +1,6 @@
 ---
 id: 3654
-title: 'http://twitpic.com/2pla1 &#8211; PR up!'
+title: ''
 date: 2009-04-02T09:13:06+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4066
-title: Check les nouvelles sur Blogasty
+title: ''
 date: 2007-06-14T02:10:08+00:00
 author: cedric
 layout: post

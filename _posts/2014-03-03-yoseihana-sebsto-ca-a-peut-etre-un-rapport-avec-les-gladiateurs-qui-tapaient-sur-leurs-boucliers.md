@@ -1,6 +1,6 @@
 ---
 id: 3119
-title: @yoseihana @sebsto ça a peut être un rapport avec les gladiateurs qui tapaient sur leurs boucliers :-)
+title: ''
 date: 2014-03-03T21:21:19+00:00
 author: cedric
 layout: post

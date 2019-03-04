@@ -1,6 +1,6 @@
 ---
 id: 3226
-title: 'Facebook Hashtags Aren’t Very Effective, Study Says &#8211; buff.ly/18QGXh5'
+title: ''
 date: 2013-12-17T11:10:05+00:00
 author: cedric
 layout: post

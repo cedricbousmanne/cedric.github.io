@@ -1,6 +1,6 @@
 ---
 id: 3808
-title: 'S&rsquo;en va gambader à Bruxelles en charmante compagnie, bonne journée!'
+title: ''
 date: 2008-12-13T13:30:12+00:00
 author: cedric
 layout: post

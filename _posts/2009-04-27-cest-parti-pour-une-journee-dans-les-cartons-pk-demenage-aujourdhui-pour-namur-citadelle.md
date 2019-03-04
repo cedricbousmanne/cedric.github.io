@@ -1,6 +1,6 @@
 ---
 id: 3587
-title: 'C&rsquo;est parti pour une journée dans les cartons, P&#038;K déménage aujourd&rsquo;hui pour Namur-Citadelle :-)'
+title: ''
 date: 2009-04-27T07:45:54+00:00
 author: cedric
 layout: post

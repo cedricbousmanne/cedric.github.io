@@ -1,6 +1,6 @@
 ---
 id: 2375
-title: 'I&rsquo;m at Challenge Scrl fs in Neufchâteau, Région Wallonne swarmapp.com/c/eftOrYlS2Gs'
+title: ''
 date: 2015-12-07T09:30:33+00:00
 author: cedric
 layout: post

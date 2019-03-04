@@ -1,8 +1,6 @@
 ---
 id: 2738
-title: |
-  RT @alexsolex: Entendu au #hackalux
-  «Je veux bien de-dirtyser le code»
+title: ''
 date: 2015-03-21T02:15:18+00:00
 author: cedric
 layout: post

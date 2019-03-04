@@ -1,6 +1,6 @@
 ---
 id: 3491
-title: 'Smile, tomorrow will be worst #murphy #fb'
+title: ''
 date: 2009-11-17T18:17:55+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2760
-title: @petitemarmite @cafenarlon @fchasseur @dorogof si vous testez, on veut bien votre avis sur la question :-)
+title: ''
 date: 2015-02-25T00:08:32+00:00
 author: cedric
 layout: post

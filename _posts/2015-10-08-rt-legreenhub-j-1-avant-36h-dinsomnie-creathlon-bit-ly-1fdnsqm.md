@@ -1,6 +1,6 @@
 ---
 id: 2476
-title: 'RT @LeGreenHub: J-1 avant 36h d&rsquo;insomnie ! #CREATHLON  bit.ly/1fDNSQM'
+title: ''
 date: 2015-10-08T09:05:49+00:00
 author: cedric
 layout: post

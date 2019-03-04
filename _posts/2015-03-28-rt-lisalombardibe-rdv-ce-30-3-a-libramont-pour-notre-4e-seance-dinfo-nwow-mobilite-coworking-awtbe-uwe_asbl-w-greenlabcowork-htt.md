@@ -1,6 +1,6 @@
 ---
 id: 2675
-title: 'RT @lisalombardibe: Rdv ce 30/3 à #Libramont pour notre 4è séance d&rsquo;info #NWOW #mobilité #coworking @awtbe @UWE_asbl w/ @greenlabcowork htt…'
+title: ''
 date: 2015-03-28T22:51:09+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2973
-title: '@yoseihana @gcuisinier @benoitdessaucy #prude !'
+title: ''
 date: 2014-09-11T08:50:34+00:00
 author: cedric
 layout: post

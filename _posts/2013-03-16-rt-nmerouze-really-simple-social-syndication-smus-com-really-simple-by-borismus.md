@@ -1,6 +1,6 @@
 ---
 id: 3352
-title: 'RT @nmerouze: Really Simple Social Syndication smus.com/really-simple-… by @borismus'
+title: ''
 date: 2013-03-16T00:18:08+00:00
 author: cedric
 layout: post

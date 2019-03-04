@@ -1,6 +1,6 @@
 ---
 id: 3384
-title: 'RT @spawnrider: 10 More Responsive Navigation Solutions speckyboy.com/2013/01/30/mor…'
+title: ''
 date: 2013-01-31T01:12:59+00:00
 author: cedric
 layout: post

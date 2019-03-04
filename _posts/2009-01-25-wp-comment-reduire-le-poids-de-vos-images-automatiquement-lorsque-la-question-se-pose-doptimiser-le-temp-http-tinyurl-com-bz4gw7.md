@@ -1,6 +1,6 @@
 ---
 id: 3743
-title: '[WP] Comment réduire le poids de vos images automatiquement: Lorsque la question se pose d&rsquo;optimiser le temp.. http://tinyurl.com/bz4gw7'
+title: ''
 date: 2009-01-25T16:52:18+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3666
-title: '#wordpress Comment désactiver les commentaires sur vos anciens articles http://tinyurl.com/ancan4'
+title: ''
 date: 2009-03-14T08:53:49+00:00
 author: cedric
 layout: post

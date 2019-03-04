@@ -1,6 +1,6 @@
 ---
 id: 2475
-title: '@legreenhub Si ça se passe dans la même ambiance que le #hackalux, je souhaite bon courage à tout le monde :-D'
+title: ''
 date: 2015-10-08T09:05:45+00:00
 author: cedric
 layout: post

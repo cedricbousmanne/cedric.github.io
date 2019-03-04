@@ -1,6 +1,6 @@
 ---
 id: 2370
-title: '@remi_laurent @6x7asbl moi je suis old school, j&rsquo;ai pécho dans un bal, a l&rsquo;ancienne :-D'
+title: ''
 date: 2015-11-25T21:59:35+00:00
 author: cedric
 layout: post

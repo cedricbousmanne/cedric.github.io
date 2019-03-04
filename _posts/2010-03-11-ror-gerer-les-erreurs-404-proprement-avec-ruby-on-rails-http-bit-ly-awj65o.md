@@ -1,6 +1,6 @@
 ---
 id: 3445
-title: '#RoR Gérer les erreurs 404 proprement avec Ruby On Rails http://bit.ly/aWj65o'
+title: ''
 date: 2010-03-11T01:43:12+00:00
 author: cedric
 layout: post

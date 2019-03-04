@@ -1,6 +1,6 @@
 ---
 id: 3427
-title: '#Belgique : Et si demain Albert  nous nommait un « déserteur », ou alors&#8230; moosh.free.fr/selecteur.php #fb'
+title: ''
 date: 2010-10-12T11:18:18+00:00
 author: cedric
 layout: post

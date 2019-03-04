@@ -1,6 +1,6 @@
 ---
 id: 3449
-title: @amaury Merci, mais il faut que ça fonctionne aussi sous IE ;-)
+title: ''
 date: 2010-09-28T11:40:15+00:00
 author: cedric
 layout: post

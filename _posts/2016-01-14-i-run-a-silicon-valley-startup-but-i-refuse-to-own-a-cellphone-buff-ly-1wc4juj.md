@@ -1,6 +1,6 @@
 ---
 id: 2317
-title: I run a Silicon Valley startup – but I refuse to own a cellphone buff.ly/1Wc4jUJ
+title: ''
 date: 2016-01-14T23:41:16+00:00
 author: cedric
 layout: post

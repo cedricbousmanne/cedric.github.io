@@ -1,6 +1,6 @@
 ---
 id: 2600
-title: '@yoseihana @prignony ca me rappelle les bons vieux cliparts #cafenarlon #IoT'
+title: ''
 date: 2015-05-27T21:22:34+00:00
 author: cedric
 layout: post

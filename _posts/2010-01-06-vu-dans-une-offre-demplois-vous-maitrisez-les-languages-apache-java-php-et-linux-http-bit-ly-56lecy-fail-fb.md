@@ -1,6 +1,6 @@
 ---
 id: 3480
-title: 'Vu dans une offre d&#8217;emplois : « Vous maîtrisez les languages Apache, Java, PHP, et Linux ». http://bit.ly/56lEcY #fail #fb'
+title: ''
 date: 2010-01-06T09:37:45+00:00
 author: cedric
 layout: post

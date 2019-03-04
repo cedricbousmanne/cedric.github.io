@@ -1,6 +1,6 @@
 ---
 id: 3776
-title: 'dimanche bricolage : chauffe-eau réparé o/'
+title: ''
 date: 2009-01-04T17:35:39+00:00
 author: cedric
 layout: post

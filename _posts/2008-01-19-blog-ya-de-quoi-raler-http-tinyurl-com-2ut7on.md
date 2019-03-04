@@ -1,6 +1,6 @@
 ---
 id: 3879
-title: '[blog] Y’a de quoi râler http://tinyurl.com/2ut7on'
+title: ''
 date: 2008-01-19T20:40:57+00:00
 author: cedric
 layout: post

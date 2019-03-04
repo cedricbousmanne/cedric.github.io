@@ -1,6 +1,6 @@
 ---
 id: 4058
-title: En route, on va charger la camionette
+title: ''
 date: 2007-06-29T13:54:45+00:00
 author: cedric
 layout: post

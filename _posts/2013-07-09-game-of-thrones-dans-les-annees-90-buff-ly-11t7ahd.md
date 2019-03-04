@@ -1,6 +1,6 @@
 ---
 id: 3312
-title: 'Game of Thrones dans les années 90  buff.ly/11t7AHd'
+title: ''
 date: 2013-07-09T13:12:16+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2620
-title: 'beechamresearch.com/article.aspx?i… #cafenarlon'
+title: ''
 date: 2015-05-27T20:01:34+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4025
-title: '[blog] Morceau de Skeud #1 : Hands Held High http://tinyurl.com/3cgu54'
+title: ''
 date: 2007-08-01T15:11:02+00:00
 author: cedric
 layout: post

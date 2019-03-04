@@ -1,6 +1,6 @@
 ---
 id: 2437
-title: @yoseihana @xtordoir @noootsab ouais ouais on sait, tu veux ouvrir une ferme de lamas et de chats -_-
+title: ''
 date: 2015-10-20T22:14:04+00:00
 author: cedric
 layout: post

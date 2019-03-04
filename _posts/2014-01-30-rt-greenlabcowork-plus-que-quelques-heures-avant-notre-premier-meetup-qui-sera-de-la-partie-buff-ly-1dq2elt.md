@@ -1,6 +1,6 @@
 ---
 id: 3141
-title: 'RT @greenlabcowork: Plus que quelques heures avant notre premier #meetup, qui sera de la partie ? buff.ly/1dQ2ELT'
+title: ''
 date: 2014-01-30T12:45:02+00:00
 author: cedric
 layout: post

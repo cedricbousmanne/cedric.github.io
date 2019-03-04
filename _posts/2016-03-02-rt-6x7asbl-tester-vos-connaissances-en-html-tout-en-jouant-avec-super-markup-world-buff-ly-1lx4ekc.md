@@ -1,6 +1,6 @@
 ---
 id: 2240
-title: 'RT @6x7asbl: Tester vos connaissances en HTML tout en jouant avec &lsquo;Super Markup World&rsquo; buff.ly/1Lx4eKc'
+title: ''
 date: 2016-03-02T15:36:05+00:00
 author: cedric
 layout: post

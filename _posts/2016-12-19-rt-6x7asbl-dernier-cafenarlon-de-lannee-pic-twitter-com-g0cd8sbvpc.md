@@ -1,6 +1,6 @@
 ---
 id: 2128
-title: 'RT @6x7asbl: Dernier #cafenarlon de l&rsquo;année pic.twitter.com/g0Cd8sbvPC'
+title: ''
 date: 2016-12-19T20:13:07+00:00
 author: cedric
 layout: post

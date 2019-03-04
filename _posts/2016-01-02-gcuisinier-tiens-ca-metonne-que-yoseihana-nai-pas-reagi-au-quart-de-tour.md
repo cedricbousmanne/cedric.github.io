@@ -1,6 +1,6 @@
 ---
 id: 2334
-title: '@gcuisinier tiens ça m&rsquo;étonne que @yoseihana n&rsquo;ai pas réagi au quart de tour ^^'
+title: ''
 date: 2016-01-02T00:22:15+00:00
 author: cedric
 layout: post

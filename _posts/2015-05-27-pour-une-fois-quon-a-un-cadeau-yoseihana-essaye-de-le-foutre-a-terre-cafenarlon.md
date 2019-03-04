@@ -1,6 +1,6 @@
 ---
 id: 2624
-title: 'Pour une fois qu&rsquo;on a un cadeau, @yoseihana essaye de le foutre à terre #cafenarlon'
+title: ''
 date: 2015-05-27T20:27:15+00:00
 author: cedric
 layout: post

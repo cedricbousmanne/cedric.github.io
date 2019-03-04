@@ -1,6 +1,6 @@
 ---
 id: 2710
-title: 'RT @phisab: La minute de célébrité du Green Hub, Télé LUX au #hackalux eTourisme&#8230; Quelle ardeur ! pic.twitter.com/c2jRk6wkxI'
+title: ''
 date: 2015-03-22T15:07:35+00:00
 author: cedric
 layout: post

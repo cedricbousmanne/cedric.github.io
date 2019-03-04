@@ -1,6 +1,6 @@
 ---
 id: 2418
-title: « Vous ne souhaitez plus recevoir notre newsletter ? Envoyez Stop + Nom Prénom par mail » Euh… pardon? @IFAPME
+title: ''
 date: 2015-10-27T16:47:40+00:00
 author: cedric
 layout: post

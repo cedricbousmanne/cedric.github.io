@@ -1,6 +1,6 @@
 ---
 id: 3910
-title: '[blog] Digg-like belge http://tinyurl.com/35amx5'
+title: ''
 date: 2007-12-14T17:43:45+00:00
 author: cedric
 layout: post

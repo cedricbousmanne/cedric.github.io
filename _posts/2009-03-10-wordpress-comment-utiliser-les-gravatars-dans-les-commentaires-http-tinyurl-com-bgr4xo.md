@@ -1,6 +1,6 @@
 ---
 id: 3664
-title: '#wordpress Comment utiliser les gravatars dans les commentaires http://tinyurl.com/bgr4xo'
+title: ''
 date: 2009-03-10T09:53:30+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2718
-title: '@hackathonwegov Quelle équipe &lt;3 #hackalux'
+title: ''
 date: 2015-03-21T17:29:12+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4049
-title: 'C&rsquo;est officiel : je m&#8217;emmerde'
+title: ''
 date: 2007-06-17T11:54:14+00:00
 author: cedric
 layout: post

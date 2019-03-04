@@ -1,6 +1,6 @@
 ---
 id: 2351
-title: 'Reservoir Devs: Why apps really hit iOS before Android buff.ly/1NX97vb pic.twitter.com/aZS6tolt4K'
+title: ''
 date: 2015-12-19T11:26:05+00:00
 author: cedric
 layout: post

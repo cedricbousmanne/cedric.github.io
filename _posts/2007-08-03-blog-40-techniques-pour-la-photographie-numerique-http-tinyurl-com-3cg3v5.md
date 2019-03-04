@@ -1,6 +1,6 @@
 ---
 id: 4030
-title: '[blog] 40 techniques pour la photographie numérique http://tinyurl.com/3cg3v5'
+title: ''
 date: 2007-08-03T12:10:21+00:00
 author: cedric
 layout: post

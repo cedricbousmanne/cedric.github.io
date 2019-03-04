@@ -1,6 +1,6 @@
 ---
 id: 3791
-title: 'http://www.hurl.ws/i3o c&rsquo;est Noël, on peut rêver non?'
+title: ''
 date: 2008-12-24T18:57:49+00:00
 author: cedric
 layout: post

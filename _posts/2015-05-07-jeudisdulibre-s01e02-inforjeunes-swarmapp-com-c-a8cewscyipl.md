@@ -1,6 +1,6 @@
 ---
 id: 2639
-title: '#jeudisdulibre S01E02 (@ Inforjeunes) swarmapp.com/c/a8cEwscyIpL'
+title: ''
 date: 2015-05-07T18:47:52+00:00
 author: cedric
 layout: post

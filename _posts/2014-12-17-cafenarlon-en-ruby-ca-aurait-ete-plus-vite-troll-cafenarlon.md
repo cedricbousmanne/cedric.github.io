@@ -1,6 +1,6 @@
 ---
 id: 2882
-title: '@cafeNArlon en ruby ça aurait été plus vite #troll #cafenarlon'
+title: ''
 date: 2014-12-17T20:57:29+00:00
 author: cedric
 layout: post

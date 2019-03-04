@@ -1,6 +1,6 @@
 ---
 id: 3896
-title: '[blog] Merise sous Ubuntu Linux http://tinyurl.com/2o783n'
+title: ''
 date: 2008-01-07T00:42:31+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3626
-title: 'work on  http://bit.ly/Jfd2n'
+title: ''
 date: 2009-04-18T11:54:38+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3501
-title: 'Dernier né des studios @pepperkoffee : http://www.jemange.com/'
+title: ''
 date: 2009-10-13T18:02:27+00:00
 author: cedric
 layout: post

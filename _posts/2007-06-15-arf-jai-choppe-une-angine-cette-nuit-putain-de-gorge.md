@@ -1,6 +1,6 @@
 ---
 id: 4076
-title: 'Arf, j&rsquo;ai choppé une angine cette nuit&#8230; putain de gorge :-('
+title: ''
 date: 2007-06-15T11:47:07+00:00
 author: cedric
 layout: post

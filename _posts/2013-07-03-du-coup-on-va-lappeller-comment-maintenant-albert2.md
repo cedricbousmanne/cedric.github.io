@@ -1,6 +1,6 @@
 ---
 id: 3343
-title: 'Du coup, on va l&rsquo;appeller comment maintenant? #albert2'
+title: ''
 date: 2013-07-03T18:02:31+00:00
 author: cedric
 layout: post

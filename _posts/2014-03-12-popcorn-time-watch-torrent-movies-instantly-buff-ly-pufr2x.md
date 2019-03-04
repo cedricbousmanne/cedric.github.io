@@ -1,6 +1,6 @@
 ---
 id: 3101
-title: 'Popcorn Time &#8211; Watch torrent movies instantly buff.ly/Pufr2X'
+title: ''
 date: 2014-03-12T22:05:12+00:00
 author: cedric
 layout: post

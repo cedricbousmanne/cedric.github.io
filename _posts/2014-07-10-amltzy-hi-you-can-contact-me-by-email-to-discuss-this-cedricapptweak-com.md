@@ -1,6 +1,6 @@
 ---
 id: 3022
-title: '@amltzy Hi, you can contact me by email to discuss this : cedric@apptweak.com'
+title: ''
 date: 2014-07-10T11:49:23+00:00
 author: cedric
 layout: post

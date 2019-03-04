@@ -1,6 +1,6 @@
 ---
 id: 2906
-title: 'Vous prévoyez de lancer un forum ou une autre plateforme pour souder la communauté @ArlonCity ? #cafenarlon'
+title: ''
 date: 2014-12-17T20:51:54+00:00
 author: cedric
 layout: post

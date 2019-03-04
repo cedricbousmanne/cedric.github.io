@@ -1,6 +1,6 @@
 ---
 id: 2735
-title: 'Demo drone au #hackalux pic.twitter.com/R7A10WF43T'
+title: ''
 date: 2015-03-20T17:03:41+00:00
 author: cedric
 layout: post

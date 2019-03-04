@@ -1,6 +1,6 @@
 ---
 id: 3182
-title: 'Pour bien commencer l&rsquo;année, une petite enquête concernant le #coworking en province de #Luxembourg &#8211; RT apprécié &#8211; buff.ly/19XPS0Z'
+title: ''
 date: 2014-01-02T11:15:05+00:00
 author: cedric
 layout: post

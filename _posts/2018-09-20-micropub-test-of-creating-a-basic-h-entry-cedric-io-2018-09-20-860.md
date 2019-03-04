@@ -1,10 +1,6 @@
 ---
 id: 1980
-title: |
-  .
-  Micropub test of creating a basic h-entry
-  
-  &#8211; cedric.io/2018/09/20/860/
+title: ''
 date: 2018-09-20T10:37:00+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3709
-title: 'is now following @quentin_t : hello!'
+title: ''
 date: 2009-02-01T15:32:33+00:00
 author: cedric
 layout: post

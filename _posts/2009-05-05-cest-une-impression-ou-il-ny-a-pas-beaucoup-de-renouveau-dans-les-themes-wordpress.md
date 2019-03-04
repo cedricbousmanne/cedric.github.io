@@ -1,6 +1,6 @@
 ---
 id: 3590
-title: 'C&rsquo;est une impression ou il n&rsquo;y a pas beaucoup de renouveau dans les thèmes #wordpress ?'
+title: ''
 date: 2009-05-05T19:29:41+00:00
 author: cedric
 layout: post

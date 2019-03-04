@@ -1,6 +1,6 @@
 ---
 id: 2530
-title: 'RT @MrDergonic: #cafenarlon jouer pour casser la glace. Le début d&rsquo;une relation commerciale saine.'
+title: ''
 date: 2015-09-30T20:26:51+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3025
-title: @yoseihana Pas de quoi. Hésite pas si tu as besoin d’aide ;-)
+title: ''
 date: 2014-07-11T12:22:44+00:00
 author: cedric
 layout: post

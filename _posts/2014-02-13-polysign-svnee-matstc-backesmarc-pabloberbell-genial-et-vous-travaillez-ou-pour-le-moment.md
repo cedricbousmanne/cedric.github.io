@@ -1,6 +1,6 @@
 ---
 id: 3148
-title: @polysign @svnee @matstc @backesmarc @pabloberbell Génial ! Et vous travaillez où pour le moment ? ;-)
+title: ''
 date: 2014-02-13T16:32:07+00:00
 author: cedric
 layout: post

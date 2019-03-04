@@ -1,6 +1,6 @@
 ---
 id: 3368
-title: '@VincenzoR @mailbox please wait&#8230; pic.twitter.com/IBR9dYZz'
+title: ''
 date: 2013-02-20T20:44:09+00:00
 author: cedric
 layout: post

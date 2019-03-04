@@ -1,6 +1,6 @@
 ---
 id: 3868
-title: foutu encodage!
+title: ''
 date: 2008-04-19T12:05:28+00:00
 author: cedric
 layout: post

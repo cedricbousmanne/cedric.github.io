@@ -1,6 +1,6 @@
 ---
 id: 3028
-title: 40 Genius Travel Tips That Will Change Your Life Forever buff.ly/1y8go1t
+title: ''
 date: 2014-07-14T11:32:03+00:00
 author: cedric
 layout: post

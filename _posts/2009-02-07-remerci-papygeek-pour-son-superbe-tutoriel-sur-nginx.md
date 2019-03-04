@@ -1,6 +1,6 @@
 ---
 id: 3694
-title: remerci @papygeek pour son superbe tutoriel sur Nginx
+title: ''
 date: 2009-02-07T10:11:14+00:00
 author: cedric
 layout: post

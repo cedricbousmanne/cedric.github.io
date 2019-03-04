@@ -1,6 +1,6 @@
 ---
 id: 3696
-title: '[WP] Comment insérer du texte automatiquement après chaque article http://tinyurl.com/abuxwy'
+title: ''
 date: 2009-02-08T13:53:09+00:00
 author: cedric
 layout: post

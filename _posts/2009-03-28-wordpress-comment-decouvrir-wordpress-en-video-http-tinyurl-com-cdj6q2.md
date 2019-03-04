@@ -1,6 +1,6 @@
 ---
 id: 3647
-title: '#wordpress Comment découvrir WordPress… en vidéo http://tinyurl.com/cdj6q2'
+title: ''
 date: 2009-03-28T09:52:47+00:00
 author: cedric
 layout: post

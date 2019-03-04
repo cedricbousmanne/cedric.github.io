@@ -1,6 +1,6 @@
 ---
 id: 3882
-title: '[blog] Merci la SNCB http://tinyurl.com/2vc95o'
+title: ''
 date: 2008-01-26T02:40:20+00:00
 author: cedric
 layout: post

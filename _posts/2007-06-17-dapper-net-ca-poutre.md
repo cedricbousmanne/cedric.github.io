@@ -1,6 +1,6 @@
 ---
 id: 4050
-title: dapper.net, ca poutre!
+title: ''
 date: 2007-06-17T12:27:25+00:00
 author: cedric
 layout: post

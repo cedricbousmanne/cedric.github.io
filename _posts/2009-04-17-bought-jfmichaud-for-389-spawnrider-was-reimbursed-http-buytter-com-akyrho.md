@@ -1,6 +1,6 @@
 ---
 id: 3618
-title: 'bought @jfmichaud  for $ 389 @spawnrider was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-17T12:45:54+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3464
-title: How to transfert a SVN onto another server http://post.ly/L8po
+title: ''
 date: 2010-01-29T11:31:16+00:00
 author: cedric
 layout: post

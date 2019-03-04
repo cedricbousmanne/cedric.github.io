@@ -1,6 +1,6 @@
 ---
 id: 3874
-title: '[blog] Ploum, le blogeur devenu influant du jour au lendemain http://tinyurl.com/2ywskg'
+title: ''
 date: 2008-01-13T13:41:15+00:00
 author: cedric
 layout: post

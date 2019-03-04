@@ -1,6 +1,6 @@
 ---
 id: 2532
-title: 'RT @cafeNArlon: #LOL #cafenarlon #seriousgaming pic.twitter.com/RjEw94SUdY'
+title: ''
 date: 2015-09-30T21:38:22+00:00
 author: cedric
 layout: post

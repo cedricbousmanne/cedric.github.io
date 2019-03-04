@@ -1,6 +1,6 @@
 ---
 id: 4005
-title: '[blog] Cracovie et Oświęcim http://tinyurl.com/yo2vdv'
+title: ''
 date: 2007-08-06T22:10:26+00:00
 author: cedric
 layout: post

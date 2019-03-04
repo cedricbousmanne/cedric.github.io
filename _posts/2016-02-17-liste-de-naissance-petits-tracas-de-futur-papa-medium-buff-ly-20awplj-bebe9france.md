@@ -1,6 +1,6 @@
 ---
 id: 2255
-title: 'Liste de naissance : petits tracas de futur papa — Medium buff.ly/20AWPLJ @bebe9france'
+title: ''
 date: 2016-02-17T11:26:18+00:00
 author: cedric
 layout: post

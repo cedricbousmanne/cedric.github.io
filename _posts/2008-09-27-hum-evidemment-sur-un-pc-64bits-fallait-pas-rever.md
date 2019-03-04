@@ -1,6 +1,6 @@
 ---
 id: 3826
-title: 'Hum évidemment, sur un PC 64bits, fallait pas rêver&#8230;'
+title: ''
 date: 2008-09-27T15:40:43+00:00
 author: cedric
 layout: post

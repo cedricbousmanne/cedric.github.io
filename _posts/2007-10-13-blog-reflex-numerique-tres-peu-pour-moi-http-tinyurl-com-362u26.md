@@ -1,6 +1,6 @@
 ---
 id: 3999
-title: '[blog] Réflex numérique, très peu pour moi http://tinyurl.com/362u26'
+title: ''
 date: 2007-10-13T19:17:43+00:00
 author: cedric
 layout: post

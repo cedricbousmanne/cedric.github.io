@@ -1,6 +1,6 @@
 ---
 id: 1963
-title: Why the Indie Web movement is so important – Dan Gillmor (cedric.io/2018/10/02/why…)
+title: ''
 date: 2018-10-02T10:45:47+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2217
-title: 'After 7 years together, I discovered something more important than proving myself right : proving my wife&rsquo;s wrong #relationshipsgoal'
+title: ''
 date: 2016-04-24T22:09:35+00:00
 author: cedric
 layout: post

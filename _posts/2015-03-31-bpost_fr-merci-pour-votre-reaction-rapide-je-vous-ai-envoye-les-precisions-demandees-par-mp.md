@@ -1,6 +1,6 @@
 ---
 id: 2678
-title: @bpost_fr Merci pour votre réaction rapide ! Je vous ai envoyé les précisions demandées par MP
+title: ''
 date: 2015-03-31T16:41:37+00:00
 author: cedric
 layout: post

@@ -1,8 +1,6 @@
 ---
 id: 2989
-title: |
-  RT @greenlabcowork: (ICYMI) Espace de coworking en création cherche menuisier sympa
-  &#8230;et autres mécènes &#8211; buff.ly/1vd47XG
+title: ''
 date: 2014-08-20T15:48:30+00:00
 author: cedric
 layout: post

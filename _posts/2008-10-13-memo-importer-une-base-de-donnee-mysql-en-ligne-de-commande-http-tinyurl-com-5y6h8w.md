@@ -1,6 +1,6 @@
 ---
 id: 3839
-title: 'Mémo : importer une base de donnée MySQL en ligne de commande http://tinyurl.com/5y6h8w'
+title: ''
 date: 2008-10-13T19:57:30+00:00
 author: cedric
 layout: post

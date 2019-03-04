@@ -1,6 +1,6 @@
 ---
 id: 3900
-title: '[blog] BlogStar 2007 http://tinyurl.com/2sq5np'
+title: ''
 date: 2007-12-12T00:43:46+00:00
 author: cedric
 layout: post

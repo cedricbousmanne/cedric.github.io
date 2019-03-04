@@ -1,6 +1,6 @@
 ---
 id: 3612
-title: '@ManuSupra  Je ne connais pas exactement les limitations de wordpress.com donc difficile à dire :)'
+title: ''
 date: 2009-04-25T09:28:27+00:00
 author: cedric
 layout: post

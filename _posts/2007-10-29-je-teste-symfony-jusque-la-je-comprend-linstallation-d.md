@@ -1,6 +1,6 @@
 ---
 id: 3970
-title: 'Je teste symfony&#8230; jusque là, je comprend l&rsquo;installation :-D'
+title: ''
 date: 2007-10-29T15:03:40+00:00
 author: cedric
 layout: post

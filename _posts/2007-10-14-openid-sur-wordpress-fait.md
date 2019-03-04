@@ -1,6 +1,6 @@
 ---
 id: 4003
-title: 'OpenID sur WordPress : fait'
+title: ''
 date: 2007-10-14T14:09:21+00:00
 author: cedric
 layout: post

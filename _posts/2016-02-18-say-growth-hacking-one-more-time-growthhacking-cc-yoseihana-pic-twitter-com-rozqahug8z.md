@@ -1,6 +1,6 @@
 ---
 id: 2259
-title: 'Say « Growth Hacking » One More Time… #GrowthHacking cc @yoseihana pic.twitter.com/rOZQaHUg8Z'
+title: ''
 date: 2016-02-18T17:11:33+00:00
 author: cedric
 layout: post

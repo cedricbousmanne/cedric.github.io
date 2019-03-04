@@ -1,6 +1,6 @@
 ---
 id: 2864
-title: 'Tout est prêt pour le #cafenarlon &#8211; On vous attend @cafeNArlon pic.twitter.com/cYpO8nwlsC'
+title: ''
 date: 2015-01-21T19:51:26+00:00
 author: cedric
 layout: post

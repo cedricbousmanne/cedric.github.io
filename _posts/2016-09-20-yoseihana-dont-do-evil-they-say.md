@@ -1,6 +1,6 @@
 ---
 id: 2166
-title: '@yoseihana « don&rsquo;t do evil », they say'
+title: ''
 date: 2016-09-20T22:07:41+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2702
-title: @benoitdessaucy le manque de sommeil te va bien :-D
+title: ''
 date: 2015-03-21T22:02:11+00:00
 author: cedric
 layout: post

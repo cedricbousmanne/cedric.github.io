@@ -1,6 +1,6 @@
 ---
 id: 3184
-title: 'RT @greenlabcowork: Vous êtes déjà plus de 70 à avoir participé à notre enquête sur le #coworking ! Continuez à partager :-) http://t.co/y9…'
+title: ''
 date: 2014-01-09T13:35:16+00:00
 author: cedric
 layout: post

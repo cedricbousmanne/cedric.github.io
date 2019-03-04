@@ -1,6 +1,6 @@
 ---
 id: 2819
-title: 'RT @greenlabcowork: C&rsquo;est la dernière ligne droite : dernière journée pour participer à notre campagne de #crowdfunding http://t.co/8nwaaxJ…'
+title: ''
 date: 2015-02-18T09:20:42+00:00
 author: cedric
 layout: post

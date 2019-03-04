@@ -1,6 +1,6 @@
 ---
 id: 3553
-title: 'Plus de 10 minutes pour installer Midori&#8230; c&rsquo;est pas qu&rsquo;une impression :('
+title: ''
 date: 2009-06-09T23:02:14+00:00
 author: cedric
 layout: post

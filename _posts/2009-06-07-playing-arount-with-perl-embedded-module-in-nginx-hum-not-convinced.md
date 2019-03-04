@@ -1,6 +1,6 @@
 ---
 id: 3547
-title: 'Playing arount with Perl Embedded Module in Nginx&#8230; Hum&#8230; not convinced&#8230;'
+title: ''
 date: 2009-06-07T12:04:56+00:00
 author: cedric
 layout: post

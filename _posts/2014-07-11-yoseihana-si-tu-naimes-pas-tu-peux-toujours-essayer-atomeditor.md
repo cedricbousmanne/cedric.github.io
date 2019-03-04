@@ -1,6 +1,6 @@
 ---
 id: 3024
-title: @yoseihana si tu n’aimes pas, tu peux toujours essayer @AtomEditor
+title: ''
 date: 2014-07-11T12:19:45+00:00
 author: cedric
 layout: post

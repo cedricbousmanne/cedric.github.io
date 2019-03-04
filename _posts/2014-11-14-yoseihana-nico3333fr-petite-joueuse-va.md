@@ -1,6 +1,6 @@
 ---
 id: 2929
-title: @yoseihana @nico3333fr petite joueuse va :)
+title: ''
 date: 2014-11-14T16:23:56+00:00
 author: cedric
 layout: post

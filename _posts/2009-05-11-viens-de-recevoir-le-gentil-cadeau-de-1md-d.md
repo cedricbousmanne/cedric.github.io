@@ -1,6 +1,6 @@
 ---
 id: 3596
-title: 'viens de recevoir le gentil cadeau de #1MD :-D'
+title: ''
 date: 2009-05-11T10:50:03+00:00
 author: cedric
 layout: post

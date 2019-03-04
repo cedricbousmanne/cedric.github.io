@@ -1,6 +1,6 @@
 ---
 id: 3608
-title: '@maximeguernion pourquoi pas un&#8230; blog? :-D'
+title: ''
 date: 2009-04-21T18:01:52+00:00
 author: cedric
 layout: post

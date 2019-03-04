@@ -1,6 +1,6 @@
 ---
 id: 4074
-title: 'L&rsquo;extension BlogSigs pour Firefox marche du tonerre!'
+title: ''
 date: 2007-06-14T17:54:08+00:00
 author: cedric
 layout: post

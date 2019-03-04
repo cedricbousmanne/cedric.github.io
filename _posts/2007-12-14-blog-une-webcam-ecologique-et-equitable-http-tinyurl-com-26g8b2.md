@@ -1,6 +1,6 @@
 ---
 id: 3909
-title: '[blog] Une webcam écologique et équitable http://tinyurl.com/26g8b2'
+title: ''
 date: 2007-12-14T17:43:35+00:00
 author: cedric
 layout: post

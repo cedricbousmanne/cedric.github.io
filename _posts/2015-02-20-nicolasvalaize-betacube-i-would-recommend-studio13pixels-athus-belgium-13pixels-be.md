@@ -1,6 +1,6 @@
 ---
 id: 2795
-title: @nicolasvalaize @betacube I would recommend @studio13pixels (Athus, Belgium) 13pixels.be
+title: ''
 date: 2015-02-20T11:05:27+00:00
 author: cedric
 layout: post

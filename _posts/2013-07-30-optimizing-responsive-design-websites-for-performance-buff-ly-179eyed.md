@@ -1,6 +1,6 @@
 ---
 id: 3283
-title: 'Optimizing Responsive Design Websites for Performance &#8211; buff.ly/179eYEd'
+title: ''
 date: 2013-07-30T16:05:08+00:00
 author: cedric
 layout: post

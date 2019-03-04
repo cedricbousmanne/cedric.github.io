@@ -1,6 +1,6 @@
 ---
 id: 3877
-title: '[blog] M.O.T.I.V. moti-moti-motivé! http://tinyurl.com/34ujay'
+title: ''
 date: 2008-01-14T13:41:13+00:00
 author: cedric
 layout: post

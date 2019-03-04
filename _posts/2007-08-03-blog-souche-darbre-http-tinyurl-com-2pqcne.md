@@ -1,6 +1,6 @@
 ---
 id: 4031
-title: '[blog] Souche d’arbre http://tinyurl.com/2pqcne'
+title: ''
 date: 2007-08-03T23:10:19+00:00
 author: cedric
 layout: post

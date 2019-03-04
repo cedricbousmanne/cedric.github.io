@@ -1,6 +1,6 @@
 ---
 id: 2776
-title: '@akyrho: En gros l&rsquo;impression alimentaire, c&rsquo;est une « machine à buzz », pas vraiment de l&rsquo;impression 3D #cafenarlon'
+title: ''
 date: 2015-02-24T21:13:04+00:00
 author: cedric
 layout: post

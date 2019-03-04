@@ -1,6 +1,6 @@
 ---
 id: 2215
-title: 'RT @cafeNArlon: Les slides du #cafenarlon de mercredi soir sont disponibles : 6x7asbl.be/cna-s04e08-les… #raspberry #RaspberryPi'
+title: ''
 date: 2016-04-22T09:36:56+00:00
 author: cedric
 layout: post

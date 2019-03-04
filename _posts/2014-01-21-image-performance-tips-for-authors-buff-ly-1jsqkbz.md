@@ -1,6 +1,6 @@
 ---
 id: 3176
-title: 'Image Performance Tips For Authors &#8211; buff.ly/1jsqKBZ'
+title: ''
 date: 2014-01-21T12:32:04+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2596
-title: 'RT @prignony: #iot produit bcp de données, reste à savoir quoi en faire #cafenarlon'
+title: ''
 date: 2015-05-27T20:40:22+00:00
 author: cedric
 layout: post

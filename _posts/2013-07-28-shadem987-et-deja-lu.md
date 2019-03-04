@@ -1,6 +1,6 @@
 ---
 id: 3276
-title: @Shadem987 et déjà lu?
+title: ''
 date: 2013-07-28T14:15:41+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2309
-title: @proximus Merci pour la rapidité :)
+title: ''
 date: 2016-01-09T17:24:57+00:00
 author: cedric
 layout: post

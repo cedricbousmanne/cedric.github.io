@@ -1,6 +1,6 @@
 ---
 id: 2446
-title: '@digitalwallonia Merci, j&rsquo;ai réussi à ajouter l&rsquo;event :-)'
+title: ''
 date: 2015-10-20T19:59:16+00:00
 author: cedric
 layout: post

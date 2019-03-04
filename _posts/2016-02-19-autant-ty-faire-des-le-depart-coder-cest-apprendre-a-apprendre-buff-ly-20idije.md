@@ -1,6 +1,6 @@
 ---
 id: 2263
-title: “Autant t’y faire dès le départ. Coder c’est apprendre à apprendre.” buff.ly/20IDiJe
+title: ''
 date: 2016-02-19T17:26:23+00:00
 author: cedric
 layout: post

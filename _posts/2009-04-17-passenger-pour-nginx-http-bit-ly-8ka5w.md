@@ -1,6 +1,6 @@
 ---
 id: 3617
-title: 'Passenger pour Nginx :  http://bit.ly/8Ka5w'
+title: ''
 date: 2009-04-17T09:29:59+00:00
 author: cedric
 layout: post

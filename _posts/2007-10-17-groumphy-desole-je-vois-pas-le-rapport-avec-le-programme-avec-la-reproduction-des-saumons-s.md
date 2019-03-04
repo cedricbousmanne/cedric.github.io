@@ -1,6 +1,6 @@
 ---
 id: 3979
-title: '@Groumphy  : désolé, je vois pas le rapport avec le programme avec la reproduction des saumons :s'
+title: ''
 date: 2007-10-17T09:06:35+00:00
 author: cedric
 layout: post

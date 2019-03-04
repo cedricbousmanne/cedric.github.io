@@ -1,6 +1,6 @@
 ---
 id: 3215
-title: '@belgacom J&rsquo;ai réussi à avoir un agent en ligne etre temps. Merci pour la réactivité!'
+title: ''
 date: 2013-10-31T17:21:31+00:00
 author: cedric
 layout: post

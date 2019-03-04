@@ -1,6 +1,6 @@
 ---
 id: 3766
-title: '[WP] Comment optimiser le fichier robots.txt: Le fichier robots.txt permet de contrôler efficacement le cont.. http://tinyurl.com/9nuru9'
+title: ''
 date: 2008-12-30T13:52:57+00:00
 author: cedric
 layout: post

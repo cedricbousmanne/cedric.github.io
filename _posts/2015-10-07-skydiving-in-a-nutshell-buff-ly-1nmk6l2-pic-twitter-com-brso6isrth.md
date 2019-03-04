@@ -1,6 +1,6 @@
 ---
 id: 2474
-title: Skydiving in a nutshell buff.ly/1NmK6L2 pic.twitter.com/bRSO6IsRTH
+title: ''
 date: 2015-10-07T15:10:15+00:00
 author: cedric
 layout: post

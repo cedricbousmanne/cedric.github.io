@@ -1,6 +1,6 @@
 ---
 id: 2947
-title: '@franzbel @cafeNArlon avec plaisir :) n&rsquo;hésite pas à revenir au prochain #cafenarlon !'
+title: ''
 date: 2014-10-16T08:29:16+00:00
 author: cedric
 layout: post

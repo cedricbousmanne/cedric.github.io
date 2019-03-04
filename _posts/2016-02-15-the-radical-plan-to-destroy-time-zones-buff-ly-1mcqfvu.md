@@ -1,6 +1,6 @@
 ---
 id: 2288
-title: The radical plan to destroy time zones buff.ly/1mCqfvu
+title: ''
 date: 2016-02-15T13:20:08+00:00
 author: cedric
 layout: post

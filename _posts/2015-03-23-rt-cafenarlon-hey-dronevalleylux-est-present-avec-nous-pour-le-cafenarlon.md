@@ -1,6 +1,6 @@
 ---
 id: 2688
-title: 'RT @cafeNArlon: Hey, @DroneValleyLux est présent avec nous pour le #cafenarlon :)'
+title: ''
 date: 2015-03-23T21:36:22+00:00
 author: cedric
 layout: post

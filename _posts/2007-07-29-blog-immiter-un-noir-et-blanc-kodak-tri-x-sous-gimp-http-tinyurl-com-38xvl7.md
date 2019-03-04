@@ -1,6 +1,6 @@
 ---
 id: 4041
-title: '[blog] Immiter un noir et blanc Kodak TRI-X sous Gimp http://tinyurl.com/38xvl7'
+title: ''
 date: 2007-07-29T19:11:45+00:00
 author: cedric
 layout: post

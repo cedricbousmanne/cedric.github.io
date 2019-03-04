@@ -1,6 +1,6 @@
 ---
 id: 3484
-title: 'l&rsquo;avantage de bosser un jour férié, c&rsquo;est qu&rsquo;on a la E411 pour soi :-)'
+title: ''
 date: 2009-11-11T10:21:36+00:00
 author: cedric
 layout: post

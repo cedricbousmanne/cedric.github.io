@@ -1,6 +1,6 @@
 ---
 id: 3990
-title: '[blog] Ils sont fous ces louvanistes http://tinyurl.com/yumzga'
+title: ''
 date: 2007-10-02T17:31:34+00:00
 author: cedric
 layout: post

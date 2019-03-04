@@ -1,8 +1,6 @@
 ---
 id: 2003
-title: |
-  . So long Disqus, hello Webmention – nicolas-hoizey.com/2017/07/so-lon…
-  &#8211; cedric.io/2018/09/18/834/
+title: ''
 date: 2018-09-18T13:08:03+00:00
 author: cedric
 layout: post

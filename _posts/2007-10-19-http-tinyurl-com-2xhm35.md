@@ -1,6 +1,6 @@
 ---
 id: 3986
-title: http://tinyurl.com/2xhm35
+title: ''
 date: 2007-10-19T23:30:00+00:00
 author: cedric
 layout: post

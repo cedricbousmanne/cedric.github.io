@@ -1,6 +1,6 @@
 ---
 id: 2872
-title: '@gcuisinier @Groumphy @greenlabcowork @cafeNArlon on est impatients aussi. N&rsquo;hésite pas à faire passet l&rsquo;info ;-)'
+title: ''
 date: 2015-01-14T21:39:25+00:00
 author: cedric
 layout: post

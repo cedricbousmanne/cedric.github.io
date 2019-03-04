@@ -1,6 +1,6 @@
 ---
 id: 2430
-title: '« Si y&rsquo;avait pas Google, y&rsquo;aurait rien du tout » @noootsab #cafenarlon'
+title: ''
 date: 2015-10-20T20:59:39+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3218
-title: Project History (ping @gillruidant @gilloutte) — buff.ly/1cZBSmp
+title: ''
 date: 2013-11-08T11:10:04+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2814
-title: '@clawfire @yoseihana point de vue intéressant :-D Et si c&rsquo;était @prignony en short, ça choque toujours?'
+title: ''
 date: 2015-02-17T09:39:09+00:00
 author: cedric
 layout: post

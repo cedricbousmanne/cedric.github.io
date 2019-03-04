@@ -1,6 +1,6 @@
 ---
 id: 2199
-title: @NormanDesVideos merci pour la photo 📸
+title: ''
 date: 2016-05-07T22:19:43+00:00
 author: cedric
 layout: post

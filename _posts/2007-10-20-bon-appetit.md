@@ -1,6 +1,6 @@
 ---
 id: 3988
-title: Bon appétit!
+title: ''
 date: 2007-10-20T13:06:05+00:00
 author: cedric
 layout: post

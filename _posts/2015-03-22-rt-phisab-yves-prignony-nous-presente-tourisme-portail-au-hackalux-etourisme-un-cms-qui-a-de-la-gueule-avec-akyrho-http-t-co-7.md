@@ -1,6 +1,6 @@
 ---
 id: 2685
-title: 'RT @phisab: Yves @prignony nous présente « Tourisme Portail » au #hackalux eTourisme &#8211; un CMS qui a de la gueule &#8211; avec @akyrho http://t.co/7…'
+title: ''
 date: 2015-03-22T18:46:55+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3521
-title: 'RT @lapatatebelge: Devenez également fan de laPatate sur Facebook, vous serez avertis en primeur :) http://so-smart.be/~patate'
+title: ''
 date: 2009-07-10T09:35:10+00:00
 author: cedric
 layout: post

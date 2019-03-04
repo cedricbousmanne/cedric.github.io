@@ -1,6 +1,6 @@
 ---
 id: 3604
-title: 'RT @lhektsok: #photography Sligo &#8211; Nuits Celtiques 2009 &#8211; Attert http://tinyurl.com/c67drs'
+title: ''
 date: 2009-04-19T19:09:49+00:00
 author: cedric
 layout: post

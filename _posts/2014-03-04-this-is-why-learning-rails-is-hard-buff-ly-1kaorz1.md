@@ -1,6 +1,6 @@
 ---
 id: 3121
-title: 'This is Why Learning Rails is Hard  buff.ly/1kAOrZ1'
+title: ''
 date: 2014-03-04T12:32:00+00:00
 author: cedric
 layout: post

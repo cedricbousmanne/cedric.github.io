@@ -1,6 +1,6 @@
 ---
 id: 3365
-title: '@LudiqPlayground Gill t&rsquo;envoie un mail à ce sujet ;-)'
+title: ''
 date: 2013-02-20T12:57:54+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2758
-title: '@yoseihana @greenlabcowork o/ &#8211; C&rsquo;est paru dans quel magazine ?'
+title: ''
 date: 2015-03-19T11:32:10+00:00
 author: cedric
 layout: post

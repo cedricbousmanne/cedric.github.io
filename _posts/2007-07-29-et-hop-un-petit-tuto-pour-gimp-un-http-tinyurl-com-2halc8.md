@@ -1,6 +1,6 @@
 ---
 id: 4040
-title: Et hop, un petit tuto pour Gimp, un! http://tinyurl.com/2halc8
+title: ''
 date: 2007-07-29T14:53:22+00:00
 author: cedric
 layout: post

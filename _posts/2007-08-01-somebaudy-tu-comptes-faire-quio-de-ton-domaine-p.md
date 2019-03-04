@@ -1,6 +1,6 @@
 ---
 id: 4022
-title: '@Somebaudy : tu comptes faire quio de ton domaine ? :p'
+title: ''
 date: 2007-08-01T12:16:05+00:00
 author: cedric
 layout: post

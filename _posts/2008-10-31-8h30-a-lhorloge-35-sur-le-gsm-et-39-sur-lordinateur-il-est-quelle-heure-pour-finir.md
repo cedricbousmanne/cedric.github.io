@@ -1,6 +1,6 @@
 ---
 id: 3819
-title: '8h30 à l&rsquo;horloge, 35 sur le GSM et 39 sur l&rsquo;ordinateur&#8230; il est quelle heure pour finir?'
+title: ''
 date: 2008-10-31T09:39:50+00:00
 author: cedric
 layout: post

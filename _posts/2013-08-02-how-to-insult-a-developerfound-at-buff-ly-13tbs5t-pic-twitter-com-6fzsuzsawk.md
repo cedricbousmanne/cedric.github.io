@@ -1,9 +1,6 @@
 ---
 id: 3259
-title: |
-  How To Insult a Developer
-  
-  Found at buff.ly/13tbs5t pic.twitter.com/6fzSuzSawK
+title: ''
 date: 2013-08-02T10:10:12+00:00
 author: cedric
 layout: post

@@ -1,9 +1,6 @@
 ---
 id: 2826
-title: |
-  Vous vous demandez à quoi ressemblent les locaux de @greenlabcowork actuellement?
-  
-  buff.ly/1z54djL pic.twitter.com/qp9jMuuL34
+title: ''
 date: 2015-02-02T12:32:01+00:00
 author: cedric
 layout: post

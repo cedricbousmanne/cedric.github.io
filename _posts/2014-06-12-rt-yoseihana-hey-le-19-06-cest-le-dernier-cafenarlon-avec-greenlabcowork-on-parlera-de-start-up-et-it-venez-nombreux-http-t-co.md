@@ -1,6 +1,6 @@
 ---
 id: 3033
-title: 'RT @yoseihana: Hey! Le 19/06, c&rsquo;est le dernier @cafeNArlon avec @greenlabcowork ! On parlera de start-up et IT. Venez nombreux http://t.co/…'
+title: ''
 date: 2014-06-12T09:11:02+00:00
 author: cedric
 layout: post

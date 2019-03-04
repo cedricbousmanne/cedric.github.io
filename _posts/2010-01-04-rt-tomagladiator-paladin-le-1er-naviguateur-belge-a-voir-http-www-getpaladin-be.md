@@ -1,6 +1,6 @@
 ---
 id: 3478
-title: 'RT @tomagladiator: Paladin, le 1er naviguateur belge&#8230; a voir : http://www.getpaladin.be'
+title: ''
 date: 2010-01-04T22:30:25+00:00
 author: cedric
 layout: post

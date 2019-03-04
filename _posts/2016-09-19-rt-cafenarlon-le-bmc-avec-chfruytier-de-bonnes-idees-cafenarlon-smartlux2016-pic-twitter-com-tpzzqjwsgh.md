@@ -1,6 +1,6 @@
 ---
 id: 2160
-title: 'RT @cafeNArlon: Le #bmc avec @ChFruytier de bonnes idées ! #cafenarlon #smartlux2016 pic.twitter.com/tpZZqJwsgH'
+title: ''
 date: 2016-09-19T20:01:36+00:00
 author: cedric
 layout: post

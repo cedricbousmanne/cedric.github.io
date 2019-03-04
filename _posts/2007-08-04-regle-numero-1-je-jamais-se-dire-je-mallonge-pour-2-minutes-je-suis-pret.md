@@ -1,6 +1,6 @@
 ---
 id: 4032
-title: 'Règle numéro 1 : je jamais se dire « je m&rsquo;allonge pour 2 minutes, je suis pret »'
+title: ''
 date: 2007-08-04T08:41:38+00:00
 author: cedric
 layout: post

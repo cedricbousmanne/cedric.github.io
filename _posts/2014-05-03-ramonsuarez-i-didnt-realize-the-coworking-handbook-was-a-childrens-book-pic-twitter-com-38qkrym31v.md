@@ -1,6 +1,6 @@
 ---
 id: 3064
-title: @ramonsuarez I didn’t realize « the coworking handbook » was a children’s book ;-) pic.twitter.com/38QKryM31V
+title: ''
 date: 2014-05-03T00:32:35+00:00
 author: cedric
 layout: post

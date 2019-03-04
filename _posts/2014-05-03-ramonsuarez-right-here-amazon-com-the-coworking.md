@@ -1,6 +1,6 @@
 ---
 id: 3066
-title: '@ramonsuarez right here : amazon.com/The-Coworking-…'
+title: ''
 date: 2014-05-03T00:49:51+00:00
 author: cedric
 layout: post

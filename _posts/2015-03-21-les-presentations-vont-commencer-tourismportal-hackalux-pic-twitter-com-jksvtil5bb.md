@@ -1,6 +1,6 @@
 ---
 id: 2723
-title: 'Les présentations vont commencer #TourismPortal #hackalux pic.twitter.com/jksVTIL5bB'
+title: ''
 date: 2015-03-21T20:10:02+00:00
 author: cedric
 layout: post

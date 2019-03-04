@@ -1,6 +1,6 @@
 ---
 id: 3557
-title: '@Yuston merci :) @Bleebot : http://lhektsok.net, le site de ma copine :)'
+title: ''
 date: 2009-05-30T00:46:35+00:00
 author: cedric
 layout: post

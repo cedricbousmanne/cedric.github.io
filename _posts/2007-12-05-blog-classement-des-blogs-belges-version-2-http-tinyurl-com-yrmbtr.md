@@ -1,6 +1,6 @@
 ---
 id: 3925
-title: '[blog] Classement des blogs belges, version 2 http://tinyurl.com/yrmbtr'
+title: ''
 date: 2007-12-05T18:44:01+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2846
-title: @yoseihana même en vacances tu raccroches jamais hein ;-)
+title: ''
 date: 2015-01-28T16:27:16+00:00
 author: cedric
 layout: post

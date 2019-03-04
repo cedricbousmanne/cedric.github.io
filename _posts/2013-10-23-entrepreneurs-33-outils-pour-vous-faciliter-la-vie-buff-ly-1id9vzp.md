@@ -1,6 +1,6 @@
 ---
 id: 3227
-title: 'Entrepreneurs : 33 outils pour vous faciliter la vie ! buff.ly/1id9VZp'
+title: ''
 date: 2013-10-23T16:06:35+00:00
 author: cedric
 layout: post

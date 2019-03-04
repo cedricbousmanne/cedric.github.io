@@ -1,6 +1,6 @@
 ---
 id: 3884
-title: '[blog] Yulbiz-Namur #1 http://tinyurl.com/372vdj'
+title: ''
 date: 2008-02-04T09:39:45+00:00
 author: cedric
 layout: post

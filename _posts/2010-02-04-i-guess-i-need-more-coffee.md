@@ -1,6 +1,6 @@
 ---
 id: 3438
-title: 'I guess i need more coffee&#8230;'
+title: ''
 date: 2010-02-04T11:16:23+00:00
 author: cedric
 layout: post

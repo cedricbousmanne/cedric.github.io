@@ -1,6 +1,6 @@
 ---
 id: 2580
-title: 'Le dernier #cafenarlon démarre avec la présentation de @ChFruytier'
+title: ''
 date: 2015-06-17T20:00:02+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3975
-title: '[blog] Couleurs d’automne http://tinyurl.com/27nnus'
+title: ''
 date: 2007-10-16T08:19:26+00:00
 author: cedric
 layout: post

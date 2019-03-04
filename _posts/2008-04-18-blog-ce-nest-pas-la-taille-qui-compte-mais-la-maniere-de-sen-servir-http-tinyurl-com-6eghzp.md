@@ -1,6 +1,6 @@
 ---
 id: 3867
-title: '[blog] Ce n’est pas la taille qui compte, mais la manière de s’en servir http://tinyurl.com/6eghzp'
+title: ''
 date: 2008-04-18T07:02:31+00:00
 author: cedric
 layout: post

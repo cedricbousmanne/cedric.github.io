@@ -1,6 +1,6 @@
 ---
 id: 3442
-title: less stress, less cigarettes, less coffee, less junk-food, more sport, more work, more fun, more life
+title: ''
 date: 2010-02-05T15:39:34+00:00
 author: cedric
 layout: post

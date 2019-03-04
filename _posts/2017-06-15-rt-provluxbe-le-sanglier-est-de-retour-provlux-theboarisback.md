@@ -1,6 +1,6 @@
 ---
 id: 2108
-title: 'RT @ProvLuxBe: Le sanglier est de retour #provlux #TheBoarIsBack'
+title: ''
 date: 2017-06-15T10:22:05+00:00
 author: cedric
 layout: post

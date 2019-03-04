@@ -1,6 +1,6 @@
 ---
 id: 3326
-title: 'Deployment Best Practices &#8211; buff.ly/15gnmEy'
+title: ''
 date: 2013-07-05T16:05:10+00:00
 author: cedric
 layout: post

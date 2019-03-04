@@ -1,6 +1,6 @@
 ---
 id: 4067
-title: 'Y&rsquo;a moyen d&rsquo;être insomniaque? Oui, il y a moyen&#8230;'
+title: ''
 date: 2007-06-14T03:21:04+00:00
 author: cedric
 layout: post

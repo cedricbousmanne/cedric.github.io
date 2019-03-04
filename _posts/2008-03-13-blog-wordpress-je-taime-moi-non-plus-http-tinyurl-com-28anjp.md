@@ -1,6 +1,6 @@
 ---
 id: 3857
-title: '[blog] WordPress : je t’aime, moi non plus http://tinyurl.com/28anjp'
+title: ''
 date: 2008-03-13T01:00:20+00:00
 author: cedric
 layout: post

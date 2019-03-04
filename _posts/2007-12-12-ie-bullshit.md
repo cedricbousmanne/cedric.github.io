@@ -1,6 +1,6 @@
 ---
 id: 3907
-title: 'IE : bullshit!'
+title: ''
 date: 2007-12-12T16:15:54+00:00
 author: cedric
 layout: post

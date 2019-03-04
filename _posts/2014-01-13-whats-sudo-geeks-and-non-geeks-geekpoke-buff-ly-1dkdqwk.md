@@ -1,6 +1,6 @@
 ---
 id: 3167
-title: '« What&rsquo;s sudo ? » Geeks And Non-Geeks — Geek&amp;Poke buff.ly/1dKDQWk'
+title: ''
 date: 2014-01-13T22:12:01+00:00
 author: cedric
 layout: post

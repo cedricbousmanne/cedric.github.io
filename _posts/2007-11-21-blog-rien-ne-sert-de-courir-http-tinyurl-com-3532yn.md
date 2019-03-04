@@ -1,6 +1,6 @@
 ---
 id: 3916
-title: '[blog] Rien ne sert de courir http://tinyurl.com/3532yn'
+title: ''
 date: 2007-11-21T10:44:52+00:00
 author: cedric
 layout: post

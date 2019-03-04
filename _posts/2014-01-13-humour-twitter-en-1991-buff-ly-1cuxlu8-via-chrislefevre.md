@@ -1,6 +1,6 @@
 ---
 id: 3194
-title: 'Humour : Twitter en 1991 buff.ly/1cUXlu8 (via @ChrisLefevre)'
+title: ''
 date: 2014-01-13T12:32:05+00:00
 author: cedric
 layout: post

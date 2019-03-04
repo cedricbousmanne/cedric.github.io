@@ -1,6 +1,6 @@
 ---
 id: 3620
-title: 'bought @maigretsblog  for $ 200  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-17T14:21:55+00:00
 author: cedric
 layout: post

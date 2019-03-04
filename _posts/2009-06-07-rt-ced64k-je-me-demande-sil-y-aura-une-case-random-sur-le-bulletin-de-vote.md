@@ -1,6 +1,6 @@
 ---
 id: 3546
-title: 'RT @ced64k: Je me demande s&rsquo;il y aura une case « Random » sur le bulletin de vote…'
+title: ''
 date: 2009-06-07T11:16:42+00:00
 author: cedric
 layout: post

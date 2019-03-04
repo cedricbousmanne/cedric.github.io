@@ -1,6 +1,6 @@
 ---
 id: 3486
-title: 'Never define the I18n path elsewhere than environment.rb. Fine, noted. #in'
+title: ''
 date: 2009-11-12T15:02:00+00:00
 author: cedric
 layout: post

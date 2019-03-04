@@ -1,6 +1,6 @@
 ---
 id: 3118
-title: 'RT @JSLuxembourg: We start. @kramp talking about #nodejs.'
+title: ''
 date: 2014-03-03T20:20:02+00:00
 author: cedric
 layout: post

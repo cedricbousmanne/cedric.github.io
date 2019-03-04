@@ -1,6 +1,6 @@
 ---
 id: 2679
-title: '@ChFruytier @evanlaloux @dvdvuy @yoseihana j&rsquo;ai eu mon verre ! Merci :-)'
+title: ''
 date: 2015-03-31T21:20:26+00:00
 author: cedric
 layout: post

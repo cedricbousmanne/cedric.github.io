@@ -1,6 +1,6 @@
 ---
 id: 3974
-title: '[blog] OpenID sur (parenthèse.be) http://tinyurl.com/2bsx7y'
+title: ''
 date: 2007-10-15T08:17:19+00:00
 author: cedric
 layout: post

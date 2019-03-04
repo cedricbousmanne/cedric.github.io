@@ -1,6 +1,6 @@
 ---
 id: 2743
-title: 'Voir @prignony en slip dans les couloirs de l&rsquo;HERS c&rsquo;est signe que la journée est pliée  #hackalux'
+title: ''
 date: 2015-03-21T05:29:10+00:00
 author: cedric
 layout: post

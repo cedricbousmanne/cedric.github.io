@@ -1,6 +1,6 @@
 ---
 id: 3327
-title: Imiter le grain du Ilford HP5 à partir d’une photo numérique bit.ly/13yCwG4
+title: ''
 date: 2013-07-05T19:56:19+00:00
 author: cedric
 layout: post

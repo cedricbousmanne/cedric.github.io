@@ -1,6 +1,6 @@
 ---
 id: 2531
-title: @remi_laurent @cafeNArlon euh, comment ? ;-)
+title: ''
 date: 2015-09-30T21:37:55+00:00
 author: cedric
 layout: post

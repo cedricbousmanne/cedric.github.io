@@ -1,6 +1,6 @@
 ---
 id: 3613
-title: @Vinch01 Essent
+title: ''
 date: 2009-04-25T11:07:38+00:00
 author: cedric
 layout: post

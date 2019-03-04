@@ -1,6 +1,6 @@
 ---
 id: 3803
-title: Hello @zorrobiwan !
+title: ''
 date: 2008-12-03T19:55:37+00:00
 author: cedric
 layout: post

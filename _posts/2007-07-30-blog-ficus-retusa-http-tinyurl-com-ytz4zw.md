@@ -1,6 +1,6 @@
 ---
 id: 4043
-title: '[blog] Ficus rétusa http://tinyurl.com/ytz4zw'
+title: ''
 date: 2007-07-30T19:10:48+00:00
 author: cedric
 layout: post

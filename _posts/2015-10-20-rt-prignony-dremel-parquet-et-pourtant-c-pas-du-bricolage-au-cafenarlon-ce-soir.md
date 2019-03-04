@@ -1,6 +1,6 @@
 ---
 id: 2431
-title: 'RT @prignony: #dremel #parquet  et pourtant c pas du bricolage au #cafenarlon ce soir'
+title: ''
 date: 2015-10-20T21:01:25+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2241
-title: 'How DHH organizes his Rails controllers &#8211; Jerome&rsquo;s Adventures in Software buff.ly/1TT8x5j'
+title: ''
 date: 2016-03-03T23:41:03+00:00
 author: cedric
 layout: post

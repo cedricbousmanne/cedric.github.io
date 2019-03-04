@@ -1,6 +1,6 @@
 ---
 id: 4029
-title: '[blog] Amis de la poésie… http://tinyurl.com/2lyvkr'
+title: ''
 date: 2007-08-03T11:10:24+00:00
 author: cedric
 layout: post

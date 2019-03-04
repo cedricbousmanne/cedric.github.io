@@ -1,6 +1,6 @@
 ---
 id: 3482
-title: Ah, quand même, ça a fini par passer =
+title: ''
 date: 2009-11-10T20:47:57+00:00
 author: cedric
 layout: post

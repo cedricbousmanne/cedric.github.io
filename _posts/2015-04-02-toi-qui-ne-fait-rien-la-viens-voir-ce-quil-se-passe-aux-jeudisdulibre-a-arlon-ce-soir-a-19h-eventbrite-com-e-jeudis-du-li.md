@@ -1,6 +1,6 @@
 ---
 id: 2664
-title: 'Toi qui ne fait rien là, viens voir ce qu&rsquo;il se passe aux #JeudisDuLibre à Arlon ce soir à 19h : eventbrite.com/e/jeudis-du-li…'
+title: ''
 date: 2015-04-02T18:09:15+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2555
-title: 'RT @6x7asbl: Les #JeudisDuLibre, c&rsquo;est reparti! Jeudi 3 septembre, nous parlerons de la VoIP avec le logiciel Asterisk &#8211; http://t.co/iVydih…'
+title: ''
 date: 2015-09-01T09:28:38+00:00
 author: cedric
 layout: post

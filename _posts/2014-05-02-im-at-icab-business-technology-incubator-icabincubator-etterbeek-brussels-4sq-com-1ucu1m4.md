@@ -1,6 +1,6 @@
 ---
 id: 3063
-title: 'I&rsquo;m at ICAB Business &amp; Technology Incubator &#8211; @icabincubator (Etterbeek, Brussels) 4sq.com/1ucu1M4'
+title: ''
 date: 2014-05-02T11:26:47+00:00
 author: cedric
 layout: post

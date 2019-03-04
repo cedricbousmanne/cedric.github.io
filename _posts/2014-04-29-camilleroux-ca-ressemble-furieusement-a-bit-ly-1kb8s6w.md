@@ -1,6 +1,6 @@
 ---
 id: 3091
-title: @CamilleRoux Ca ressemble furieusement a bit.ly/1kb8s6w :-)
+title: ''
 date: 2014-04-29T17:27:40+00:00
 author: cedric
 layout: post

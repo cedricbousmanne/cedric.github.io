@@ -1,6 +1,6 @@
 ---
 id: 2617
-title: 'RT @prignony: Create the internet of your things #cafenarlon avec Benoît Fortemps'
+title: ''
 date: 2015-05-27T19:49:37+00:00
 author: cedric
 layout: post

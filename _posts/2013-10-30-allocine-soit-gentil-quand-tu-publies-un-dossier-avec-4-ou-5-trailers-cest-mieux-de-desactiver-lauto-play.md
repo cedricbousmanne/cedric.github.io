@@ -1,6 +1,6 @@
 ---
 id: 3241
-title: '@allocine, soit gentil, quand tu publies un dossier avec 4 ou 5 trailers, c&rsquo;est mieux de désactiver l&rsquo;auto-play'
+title: ''
 date: 2013-10-30T22:29:31+00:00
 author: cedric
 layout: post

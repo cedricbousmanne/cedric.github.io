@@ -1,8 +1,6 @@
 ---
 id: 2988
-title: |
-  RT @greenlabcowork: Espace de coworking en création cherche menuisier sympa
-  &#8230;et autres mécènes &#8211; buff.ly/1pY4sMk
+title: ''
 date: 2014-08-20T10:51:31+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2194
-title: 'RT @fabienpenso: RT if you ever used google to search for a coding problem and the answer you found was actually written by you.'
+title: ''
 date: 2016-05-01T19:11:31+00:00
 author: cedric
 layout: post

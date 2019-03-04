@@ -1,6 +1,6 @@
 ---
 id: 3817
-title: '@Chacsam : http://www.hurl.ws/bo6'
+title: ''
 date: 2008-10-26T13:04:49+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2838
-title: '.@WaltDisneyBEL et si tout le monde souhaite la paix éternelle dans le monde, vous faites comment? #iwish #troll'
+title: ''
 date: 2015-01-23T21:30:36+00:00
 author: cedric
 layout: post

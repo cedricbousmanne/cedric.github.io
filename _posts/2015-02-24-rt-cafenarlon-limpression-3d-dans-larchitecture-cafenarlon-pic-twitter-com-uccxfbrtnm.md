@@ -1,6 +1,6 @@
 ---
 id: 2787
-title: 'RT @cafeNArlon: L&rsquo;impression #3D dans l&rsquo;architecture #cafenarlon pic.twitter.com/ucCXfbrtNM'
+title: ''
 date: 2015-02-24T22:18:58+00:00
 author: cedric
 layout: post

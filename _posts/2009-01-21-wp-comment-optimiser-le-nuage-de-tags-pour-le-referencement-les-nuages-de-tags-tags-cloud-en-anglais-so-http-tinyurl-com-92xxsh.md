@@ -1,6 +1,6 @@
 ---
 id: 3738
-title: '[WP] Comment optimiser le nuage de tags pour le référencement: Les nuages de tags (tags cloud en anglais) so.. http://tinyurl.com/92xxsh'
+title: ''
 date: 2009-01-21T23:53:39+00:00
 author: cedric
 layout: post

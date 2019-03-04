@@ -1,6 +1,6 @@
 ---
 id: 3136
-title: '#cafenarlon on va se mettre à l&rsquo;assembleur alors'
+title: ''
 date: 2014-02-24T22:59:40+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3906
-title: 'Ca avance, ça avance&#8230; et je fatigue déjà :-s'
+title: ''
 date: 2007-12-12T16:14:39+00:00
 author: cedric
 layout: post

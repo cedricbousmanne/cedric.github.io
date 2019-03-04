@@ -1,6 +1,6 @@
 ---
 id: 3562
-title: 'just discovering Aiden (http://bit.ly/LTPH7) &#8211; Our Gangs Dark Oath #posthardcore'
+title: ''
 date: 2009-06-02T23:13:34+00:00
 author: cedric
 layout: post

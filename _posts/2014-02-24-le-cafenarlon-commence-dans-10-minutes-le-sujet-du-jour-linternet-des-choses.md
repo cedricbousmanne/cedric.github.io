@@ -1,6 +1,6 @@
 ---
 id: 3151
-title: 'Le #cafenarlon commence dans 10 minutes. Le sujet du jour : l&rsquo;Internet des choses'
+title: ''
 date: 2014-02-24T20:20:07+00:00
 author: cedric
 layout: post

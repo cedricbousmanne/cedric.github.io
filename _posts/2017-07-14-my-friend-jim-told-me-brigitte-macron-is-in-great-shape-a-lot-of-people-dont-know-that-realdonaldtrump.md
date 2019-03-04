@@ -1,6 +1,6 @@
 ---
 id: 2088
-title: '« My friend Jim told me Brigitte Macron is in great shape. A lot of people don&rsquo;t know that » &#8211; @realDonaldTrump'
+title: ''
 date: 2017-07-14T09:58:09+00:00
 author: cedric
 layout: post

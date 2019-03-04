@@ -1,6 +1,6 @@
 ---
 id: 2962
-title: 'A SF, les data center sont disposés de chaque côté de la faille #cloud #cafenarlon'
+title: ''
 date: 2014-09-11T20:21:24+00:00
 author: cedric
 layout: post

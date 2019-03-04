@@ -1,6 +1,6 @@
 ---
 id: 3921
-title: 'temps de merde&#8230;'
+title: ''
 date: 2007-11-29T17:00:59+00:00
 author: cedric
 layout: post

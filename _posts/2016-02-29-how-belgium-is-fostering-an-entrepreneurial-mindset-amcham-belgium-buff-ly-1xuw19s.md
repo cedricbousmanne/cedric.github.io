@@ -1,6 +1,6 @@
 ---
 id: 2236
-title: How Belgium is fostering an entrepreneurial mindset | AmCham Belgium buff.ly/1XUw19s
+title: ''
 date: 2016-02-29T11:26:04+00:00
 author: cedric
 layout: post

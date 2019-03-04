@@ -1,6 +1,6 @@
 ---
 id: 2703
-title: 'Retrouvez notre prototype sur tourism-portal.be @HackathonWeGov @LeGreenHub #TourismPortal #hackalux'
+title: ''
 date: 2015-03-21T22:05:21+00:00
 author: cedric
 layout: post

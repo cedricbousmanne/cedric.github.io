@@ -1,6 +1,6 @@
 ---
 id: 1997
-title: Le taux d’attrition (churn) expliqué à la laverie de mon quartier cedric.io/2016/02/15/le-…
+title: ''
 date: 2018-09-17T11:09:17+00:00
 author: cedric
 layout: post

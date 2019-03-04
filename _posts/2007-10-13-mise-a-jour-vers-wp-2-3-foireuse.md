@@ -1,6 +1,6 @@
 ---
 id: 3998
-title: 'Mise à jour vers WP 2.3 foireuse&#8230;'
+title: ''
 date: 2007-10-13T11:01:15+00:00
 author: cedric
 layout: post

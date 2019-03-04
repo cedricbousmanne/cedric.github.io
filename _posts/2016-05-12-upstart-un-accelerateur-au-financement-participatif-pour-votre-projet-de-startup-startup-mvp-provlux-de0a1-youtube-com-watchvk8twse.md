@@ -1,6 +1,6 @@
 ---
 id: 2201
-title: 'UpStart, un accélérateur au financement participatif pour votre projet de startup. #startup #mvp #ProvLux #de0a1 youtube.com/watch?v=K8twse…'
+title: ''
 date: 2016-05-12T16:21:33+00:00
 author: cedric
 layout: post

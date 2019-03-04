@@ -1,6 +1,6 @@
 ---
 id: 2720
-title: 'Les toutes dernières lignes de code avant la présentation  #hackalux'
+title: ''
 date: 2015-03-21T19:33:03+00:00
 author: cedric
 layout: post

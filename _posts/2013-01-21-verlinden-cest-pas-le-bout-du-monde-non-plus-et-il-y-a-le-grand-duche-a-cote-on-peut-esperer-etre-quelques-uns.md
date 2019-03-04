@@ -1,6 +1,6 @@
 ---
 id: 3404
-title: '@verlinden C&rsquo;est pas le bout du monde non plus, et il y a le Grand-Duché à côté, on peut espérer être quelques-uns ;-)'
+title: ''
 date: 2013-01-21T17:52:43+00:00
 author: cedric
 layout: post

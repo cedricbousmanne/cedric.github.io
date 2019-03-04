@@ -1,6 +1,6 @@
 ---
 id: 3775
-title: @jean_baptiste génial, exactement ce que je cherchais! Quand tu veux pour le bloguer ;-)
+title: ''
 date: 2009-01-04T02:10:18+00:00
 author: cedric
 layout: post

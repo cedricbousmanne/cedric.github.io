@@ -1,6 +1,6 @@
 ---
 id: 3145
-title: Typo fail pic.twitter.com/9s3zIfVz5d
+title: ''
 date: 2014-02-03T10:36:38+00:00
 author: cedric
 layout: post

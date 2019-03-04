@@ -1,6 +1,6 @@
 ---
 id: 2749
-title: '.@ManifestoBE #BEStartupManifesto motto suggestion : « Do It. Now! »'
+title: ''
 date: 2015-03-12T12:28:21+00:00
 author: cedric
 layout: post

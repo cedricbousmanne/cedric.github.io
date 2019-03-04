@@ -1,6 +1,6 @@
 ---
 id: 2272
-title: 'RT @wborsus: .@ChFruytier évoque l&rsquo;impact du digital sur les entreprises et les commerçants, l&rsquo;aspect formation est primordial https://t.co…'
+title: ''
 date: 2016-02-16T21:03:05+00:00
 author: cedric
 layout: post

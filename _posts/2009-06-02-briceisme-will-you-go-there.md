@@ -1,6 +1,6 @@
 ---
 id: 3561
-title: @briceisme will you go there?
+title: ''
 date: 2009-06-02T20:08:08+00:00
 author: cedric
 layout: post

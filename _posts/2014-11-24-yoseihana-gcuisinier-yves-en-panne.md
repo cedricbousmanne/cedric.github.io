@@ -1,6 +1,6 @@
 ---
 id: 2936
-title: @yoseihana @gcuisinier Yves en panne?
+title: ''
 date: 2014-11-24T21:16:48+00:00
 author: cedric
 layout: post

@@ -1,8 +1,6 @@
 ---
 id: 2134
-title: |
-  RT @Foguenne: Café Numérique Arlon S05#02 : L’avenir des voitures électriques en Province du Luxembourg. (Avec Tesla Luxembourg.)
-  #cafenarl…
+title: ''
 date: 2016-10-04T19:40:06+00:00
 author: cedric
 layout: post

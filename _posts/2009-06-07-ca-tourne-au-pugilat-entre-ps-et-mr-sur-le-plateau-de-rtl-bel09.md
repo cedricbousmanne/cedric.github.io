@@ -1,6 +1,6 @@
 ---
 id: 3548
-title: 'Ca tourne au pugilat entre #ps et #mr sur le plateau de RTL. #bel09'
+title: ''
 date: 2009-06-07T21:35:06+00:00
 author: cedric
 layout: post

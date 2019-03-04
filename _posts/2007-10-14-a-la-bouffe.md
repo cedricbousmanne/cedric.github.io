@@ -1,6 +1,6 @@
 ---
 id: 4002
-title: A la bouffe!
+title: ''
 date: 2007-10-14T12:56:15+00:00
 author: cedric
 layout: post

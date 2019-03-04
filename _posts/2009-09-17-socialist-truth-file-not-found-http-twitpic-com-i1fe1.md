@@ -1,6 +1,6 @@
 ---
 id: 3499
-title: 'Socialist Truth : file not found  http://twitpic.com/i1fe1'
+title: ''
 date: 2009-09-17T14:14:28+00:00
 author: cedric
 layout: post

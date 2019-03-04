@@ -1,6 +1,6 @@
 ---
 id: 2955
-title: Ruby is about to get red hot. Again. (via @AstonJ) buff.ly/1x5KQYV
+title: ''
 date: 2014-11-04T12:32:07+00:00
 author: cedric
 layout: post

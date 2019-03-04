@@ -1,6 +1,6 @@
 ---
 id: 2416
-title: '@yoseihana je ne crois que ce que je vois, et pour l&rsquo;instant je n&rsquo;ai pas vu grand chose :-D'
+title: ''
 date: 2015-10-24T14:01:45+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3023
-title: Urquhart castle over the Loch Ness instagram.com/p/qTo0CNIKA9/
+title: ''
 date: 2014-07-11T12:07:47+00:00
 author: cedric
 layout: post

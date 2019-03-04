@@ -1,6 +1,6 @@
 ---
 id: 2023
-title: 'Château de sable: cedric.io/2018/09/15/cha…'
+title: ''
 date: 2018-09-15T23:02:38+00:00
 author: cedric
 layout: post

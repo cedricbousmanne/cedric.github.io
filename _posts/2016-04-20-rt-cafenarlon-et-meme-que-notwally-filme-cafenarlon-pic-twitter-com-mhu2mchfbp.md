@@ -1,6 +1,6 @@
 ---
 id: 2207
-title: 'RT @cafeNArlon: Et même que @notwally filme! #cafenarlon pic.twitter.com/mhU2MCHFBP'
+title: ''
 date: 2016-04-20T20:08:37+00:00
 author: cedric
 layout: post

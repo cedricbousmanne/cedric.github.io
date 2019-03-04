@@ -1,6 +1,6 @@
 ---
 id: 3199
-title: Ruby on Rails, pour un développement web rigoureux en 10 points buff.ly/J2aiLf
+title: ''
 date: 2013-12-18T11:10:12+00:00
 author: cedric
 layout: post

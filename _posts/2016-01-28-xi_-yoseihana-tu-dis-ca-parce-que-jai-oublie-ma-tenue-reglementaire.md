@@ -1,6 +1,6 @@
 ---
 id: 2300
-title: '@_Xi_ @yoseihana tu dis ça parce que j&rsquo;ai oublié ma tenue réglementaire ? ;-)'
+title: ''
 date: 2016-01-28T21:28:19+00:00
 author: cedric
 layout: post

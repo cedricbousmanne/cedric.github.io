@@ -1,6 +1,6 @@
 ---
 id: 3549
-title: 'Marrant comme @eliodirupo et @dreynders font de la lèche à @jmjavaux #bel09'
+title: ''
 date: 2009-06-07T22:13:53+00:00
 author: cedric
 layout: post

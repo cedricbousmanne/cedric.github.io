@@ -1,6 +1,6 @@
 ---
 id: 3854
-title: '[blog] Et paf le blog http://tinyurl.com/49bzla'
+title: ''
 date: 2008-09-24T08:52:05+00:00
 author: cedric
 layout: post

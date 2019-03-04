@@ -1,6 +1,6 @@
 ---
 id: 2905
-title: '.@nicolas_nthill vient de commencer la présentation de @ArlonCity #cafenarlon'
+title: ''
 date: 2014-12-17T20:50:53+00:00
 author: cedric
 layout: post

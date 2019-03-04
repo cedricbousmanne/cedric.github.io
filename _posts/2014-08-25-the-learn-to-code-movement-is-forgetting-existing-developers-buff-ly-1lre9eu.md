@@ -1,6 +1,6 @@
 ---
 id: 2990
-title: The Learn to Code Movement is Forgetting Existing Developers buff.ly/1lre9Eu
+title: ''
 date: 2014-08-25T11:32:06+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2998
-title: 'Why Starbucks Spells Your Name Wrong  buff.ly/1nLoRkH'
+title: ''
 date: 2014-09-10T17:21:07+00:00
 author: cedric
 layout: post

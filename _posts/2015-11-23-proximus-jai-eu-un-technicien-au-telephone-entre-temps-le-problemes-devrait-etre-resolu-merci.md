@@ -1,6 +1,6 @@
 ---
 id: 2385
-title: '@proximus j&rsquo;ai eu un technicien au téléphone entre temps. Le problèmes devrait être résolu. Merci'
+title: ''
 date: 2015-11-23T11:29:46+00:00
 author: cedric
 layout: post

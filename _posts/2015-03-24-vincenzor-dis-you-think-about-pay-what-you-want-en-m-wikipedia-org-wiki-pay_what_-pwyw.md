@@ -1,6 +1,6 @@
 ---
 id: 2693
-title: '@VincenzoR dis you think about Pay What You Want ? en.m.wikipedia.org/wiki/Pay_what_… #pwyw'
+title: ''
 date: 2015-03-24T21:01:05+00:00
 author: cedric
 layout: post

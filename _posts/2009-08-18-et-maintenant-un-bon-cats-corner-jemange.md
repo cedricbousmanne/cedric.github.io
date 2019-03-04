@@ -1,6 +1,6 @@
 ---
 id: 3496
-title: 'Et maintenant, un bon cat&rsquo;s corner #jemange'
+title: ''
 date: 2009-08-18T12:11:13+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3876
-title: '[blog] CodeIgniter et les formulaires &#8211; partie 1 http://tinyurl.com/2bcq3d'
+title: ''
 date: 2008-01-14T03:41:11+00:00
 author: cedric
 layout: post

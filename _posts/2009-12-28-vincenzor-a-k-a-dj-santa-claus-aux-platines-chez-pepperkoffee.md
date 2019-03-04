@@ -1,6 +1,6 @@
 ---
 id: 3474
-title: @vincenzor a.k.a. DJ Santa Claus aux platines chez @pepperkoffee
+title: ''
 date: 2009-12-28T18:20:26+00:00
 author: cedric
 layout: post

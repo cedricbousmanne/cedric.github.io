@@ -1,6 +1,6 @@
 ---
 id: 3837
-title: '@bleebot : bonne nuit'
+title: ''
 date: 2008-10-12T01:30:12+00:00
 author: cedric
 layout: post

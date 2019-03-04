@@ -1,6 +1,6 @@
 ---
 id: 3224
-title: Widespread Apple App Store Search Rankings Change Sees iOS Apps Moved Over 40 Spots, On Average buff.ly/19pY5L5
+title: ''
 date: 2013-12-16T11:10:12+00:00
 author: cedric
 layout: post

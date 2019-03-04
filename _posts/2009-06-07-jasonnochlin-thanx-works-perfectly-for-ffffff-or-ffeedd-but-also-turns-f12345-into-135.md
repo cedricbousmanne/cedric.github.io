@@ -1,6 +1,6 @@
 ---
 id: 3543
-title: '@jasonnochlin Thanx, works perfectly for #FFFFFF or #FFEEDD, but also turns #F12345 into #135 :/'
+title: ''
 date: 2009-06-07T10:02:50+00:00
 author: cedric
 layout: post

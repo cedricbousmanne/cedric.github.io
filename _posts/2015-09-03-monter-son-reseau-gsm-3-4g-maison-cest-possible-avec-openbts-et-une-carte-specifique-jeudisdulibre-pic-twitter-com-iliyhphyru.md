@@ -1,6 +1,6 @@
 ---
 id: 2538
-title: 'Monter son réseau GSM 3/4G maison, c&rsquo;est possible avec OpenBTS et une carte spécifique #jeudisdulibre pic.twitter.com/IliyhPHYru'
+title: ''
 date: 2015-09-03T21:03:39+00:00
 author: cedric
 layout: post

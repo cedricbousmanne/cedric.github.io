@@ -1,6 +1,6 @@
 ---
 id: 3635
-title: '@spawnrider : http://pwet.fr/man/linux/commandes/diff'
+title: ''
 date: 2009-04-10T09:48:26+00:00
 author: cedric
 layout: post

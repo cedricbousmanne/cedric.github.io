@@ -1,6 +1,6 @@
 ---
 id: 3930
-title: et maintenant, on fait quoi?
+title: ''
 date: 2007-11-07T15:39:28+00:00
 author: cedric
 layout: post

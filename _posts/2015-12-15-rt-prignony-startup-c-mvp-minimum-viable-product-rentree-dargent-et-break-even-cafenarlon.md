@@ -1,6 +1,6 @@
 ---
 id: 2361
-title: 'RT @prignony: #startup c MVP (minimum viable product) rentrée d&rsquo;argent et break even #cafenarlon'
+title: ''
 date: 2015-12-15T22:08:26+00:00
 author: cedric
 layout: post

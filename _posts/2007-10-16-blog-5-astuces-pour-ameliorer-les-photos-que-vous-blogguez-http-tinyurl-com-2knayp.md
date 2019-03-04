@@ -1,6 +1,6 @@
 ---
 id: 3977
-title: '[blog] 5 astuces pour améliorer les photos que vous blogguez http://tinyurl.com/2knayp'
+title: ''
 date: 2007-10-16T17:25:27+00:00
 author: cedric
 layout: post

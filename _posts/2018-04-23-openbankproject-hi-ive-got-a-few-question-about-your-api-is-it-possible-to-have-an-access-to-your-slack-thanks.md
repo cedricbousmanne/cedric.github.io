@@ -1,6 +1,6 @@
 ---
 id: 2030
-title: '@OpenBankProject Hi! I&rsquo;ve got a few question about your API &#8211; Is it possible to have an access to your Slack ? Thanks!'
+title: ''
 date: 2018-04-23T10:54:46+00:00
 author: cedric
 layout: post

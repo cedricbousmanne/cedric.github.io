@@ -1,6 +1,6 @@
 ---
 id: 3692
-title: Migration des flux FeedBurner http://tinyurl.com/d2bmgk
+title: ''
 date: 2009-02-05T22:54:59+00:00
 author: cedric
 layout: post

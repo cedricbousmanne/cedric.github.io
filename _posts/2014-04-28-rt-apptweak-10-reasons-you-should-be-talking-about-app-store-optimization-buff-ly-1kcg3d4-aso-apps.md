@@ -1,6 +1,6 @@
 ---
 id: 3090
-title: 'RT @AppTweak: 10 Reasons You Should Be Talking About App Store Optimization -buff.ly/1kcg3D4 &#8211; #ASO #Apps'
+title: ''
 date: 2014-04-28T19:44:17+00:00
 author: cedric
 layout: post

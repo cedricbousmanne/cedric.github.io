@@ -1,6 +1,6 @@
 ---
 id: 3718
-title: Zemanta révolutionne la rédaction sur Internet http://tinyurl.com/bpxvd4
+title: ''
 date: 2009-02-05T22:54:49+00:00
 author: cedric
 layout: post

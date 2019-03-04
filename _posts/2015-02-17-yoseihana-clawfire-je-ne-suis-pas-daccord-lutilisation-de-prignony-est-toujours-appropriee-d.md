@@ -1,6 +1,6 @@
 ---
 id: 2816
-title: '@yoseihana @clawfire Je ne suis pas d&rsquo;accord, l&rsquo;utilisation de @prignony est toujours appropriée :-D'
+title: ''
 date: 2015-02-17T09:46:01+00:00
 author: cedric
 layout: post

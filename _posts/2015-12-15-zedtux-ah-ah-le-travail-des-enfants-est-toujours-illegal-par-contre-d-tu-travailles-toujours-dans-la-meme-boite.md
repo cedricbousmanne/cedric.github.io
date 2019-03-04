@@ -1,6 +1,6 @@
 ---
 id: 2354
-title: @zedtux ah ah, le travail des enfants est toujours illégal par contre :-D Tu travailles toujours dans la même boite?
+title: ''
 date: 2015-12-15T17:21:55+00:00
 author: cedric
 layout: post

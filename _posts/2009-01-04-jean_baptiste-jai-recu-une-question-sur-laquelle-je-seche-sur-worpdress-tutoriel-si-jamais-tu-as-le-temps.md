@@ -1,6 +1,6 @@
 ---
 id: 3777
-title: '@jean_baptiste j&rsquo;ai reçu une question sur laquelle je sèche sur worpdress-tutoriel, si jamais tu as le temps ;-)'
+title: ''
 date: 2009-01-04T18:21:17+00:00
 author: cedric
 layout: post

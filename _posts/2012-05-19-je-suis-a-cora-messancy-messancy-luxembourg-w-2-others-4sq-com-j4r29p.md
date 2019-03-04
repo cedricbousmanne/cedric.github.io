@@ -1,6 +1,6 @@
 ---
 id: 3393
-title: Je suis à Cora Messancy (Messancy, Luxembourg) w/ 2 others 4sq.com/J4R29P
+title: ''
 date: 2012-05-19T17:46:48+00:00
 author: cedric
 layout: post

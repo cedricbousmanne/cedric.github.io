@@ -1,6 +1,6 @@
 ---
 id: 2771
-title: A(nother) new era of WordPress – Be the signal buff.ly/1wwPLa8
+title: ''
 date: 2015-03-02T12:32:00+00:00
 author: cedric
 layout: post

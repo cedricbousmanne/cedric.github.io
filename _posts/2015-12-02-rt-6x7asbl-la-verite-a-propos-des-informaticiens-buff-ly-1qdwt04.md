@@ -1,6 +1,6 @@
 ---
 id: 2374
-title: 'RT @6x7asbl: La vérité à propos des “informaticiens”… — buff.ly/1Qdwt04'
+title: ''
 date: 2015-12-02T11:17:23+00:00
 author: cedric
 layout: post

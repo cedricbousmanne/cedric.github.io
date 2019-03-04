@@ -1,6 +1,6 @@
 ---
 id: 3799
-title: '@ma2t : http://www.hurl.ws/dw7'
+title: ''
 date: 2008-11-19T21:49:32+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3669
-title: '#wordpress Comment afficher les balises HTML autorisées dans les commentaires http://tinyurl.com/coq8jy'
+title: ''
 date: 2009-03-20T19:54:33+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3937
-title: '[blog] Le buzz mystère : fin http://tinyurl.com/3a5qtg'
+title: ''
 date: 2007-11-13T22:45:39+00:00
 author: cedric
 layout: post

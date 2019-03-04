@@ -1,6 +1,6 @@
 ---
 id: 3630
-title: offered a Cofee to @papygeek http://buytter.com/papygeek
+title: ''
 date: 2009-04-19T11:49:10+00:00
 author: cedric
 layout: post

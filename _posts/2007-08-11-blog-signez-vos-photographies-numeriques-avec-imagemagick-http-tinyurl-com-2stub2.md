@@ -1,6 +1,6 @@
 ---
 id: 4011
-title: '[blog] Signez vos photographies numériques avec ImageMagick http://tinyurl.com/2stub2'
+title: ''
 date: 2007-08-11T14:11:45+00:00
 author: cedric
 layout: post

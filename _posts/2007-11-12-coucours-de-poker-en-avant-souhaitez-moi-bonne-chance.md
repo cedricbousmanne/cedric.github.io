@@ -1,6 +1,6 @@
 ---
 id: 3935
-title: Coucours de poker, en avant! Souhaitez moi bonne chance :-)
+title: ''
 date: 2007-11-12T21:00:31+00:00
 author: cedric
 layout: post

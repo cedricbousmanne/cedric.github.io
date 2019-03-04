@@ -1,6 +1,6 @@
 ---
 id: 2686
-title: 'RT @prignony: Julien Minet commence sa présentation sur #openstreetmap au #cafenarlon pic.twitter.com/NJViRQ5cvj'
+title: ''
 date: 2015-03-23T21:35:47+00:00
 author: cedric
 layout: post

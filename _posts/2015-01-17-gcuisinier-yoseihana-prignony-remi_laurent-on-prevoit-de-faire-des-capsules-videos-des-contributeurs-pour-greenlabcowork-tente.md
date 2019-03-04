@@ -1,6 +1,6 @@
 ---
 id: 2874
-title: @gcuisinier @yoseihana @prignony @remi_laurent on prévoit de faire des capsules vidéos des contributeurs pour @greenlabcowork, tenté ?
+title: ''
 date: 2015-01-17T20:32:46+00:00
 author: cedric
 layout: post

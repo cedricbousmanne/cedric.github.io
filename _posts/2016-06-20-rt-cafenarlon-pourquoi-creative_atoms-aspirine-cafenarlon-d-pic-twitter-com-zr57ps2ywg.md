@@ -1,6 +1,6 @@
 ---
 id: 2181
-title: 'RT @cafeNArlon: Pourquoi @creative_atoms ? #aspirine #cafenarlon :D pic.twitter.com/zR57PS2YWG'
+title: ''
 date: 2016-06-20T21:57:36+00:00
 author: cedric
 layout: post

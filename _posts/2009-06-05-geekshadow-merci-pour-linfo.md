@@ -1,6 +1,6 @@
 ---
 id: 3569
-title: '@geekshadow Merci pour l&rsquo;info!'
+title: ''
 date: 2009-06-05T20:06:02+00:00
 author: cedric
 layout: post

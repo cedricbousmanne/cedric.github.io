@@ -1,6 +1,6 @@
 ---
 id: 2214
-title: 'Quand tu dis que tu viens de la #provlux et qu’on te demande « comment vous faites pour rouler en hiver? » 9gag.com/gag/a3Begv3'
+title: ''
 date: 2016-04-21T12:39:32+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3358
-title: @VincenzoR il est disponible sur Spotify je pense
+title: ''
 date: 2013-05-21T19:37:34+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2119
-title: 'RT @lgalazzo: Discover how to improve your app&rsquo;s #SEO and Search Engines visibility with this insightful post from @WooRank &#8211; https://t.co/…'
+title: ''
 date: 2016-11-18T21:47:59+00:00
 author: cedric
 layout: post

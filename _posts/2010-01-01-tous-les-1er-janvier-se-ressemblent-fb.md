@@ -1,6 +1,6 @@
 ---
 id: 3477
-title: 'Tous les 1er janvier se ressemblent #fb'
+title: ''
 date: 2010-01-01T20:39:40+00:00
 author: cedric
 layout: post

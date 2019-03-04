@@ -1,6 +1,6 @@
 ---
 id: 2454
-title: 'RT @Gotham3: IT server support team before going on holiday pic.twitter.com/Cr97WWQY0E'
+title: ''
 date: 2015-10-20T20:49:02+00:00
 author: cedric
 layout: post

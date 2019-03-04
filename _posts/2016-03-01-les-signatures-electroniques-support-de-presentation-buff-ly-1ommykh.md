@@ -1,6 +1,6 @@
 ---
 id: 2239
-title: 'Les signatures électroniques &#8211; Support de présentation buff.ly/1OMmyKh'
+title: ''
 date: 2016-03-01T19:46:00+00:00
 author: cedric
 layout: post

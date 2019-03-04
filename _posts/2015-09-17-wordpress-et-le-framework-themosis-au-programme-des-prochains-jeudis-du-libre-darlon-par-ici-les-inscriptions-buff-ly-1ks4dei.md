@@ -1,6 +1,6 @@
 ---
 id: 2548
-title: '#WordPress et le framework #Themosis au programme des prochains Jeudis du Libre d&rsquo;Arlon. Par ici les inscriptions ;-) buff.ly/1Ks4Dei'
+title: ''
 date: 2015-09-17T17:21:08+00:00
 author: cedric
 layout: post

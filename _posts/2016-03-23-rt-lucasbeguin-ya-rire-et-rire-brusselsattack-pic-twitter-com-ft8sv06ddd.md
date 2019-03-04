@@ -1,6 +1,6 @@
 ---
 id: 2225
-title: 'RT @LucasBeguin: Y&rsquo;a rire et rire ! #brusselsattack pic.twitter.com/Ft8sv06Ddd'
+title: ''
 date: 2016-03-23T14:38:46+00:00
 author: cedric
 layout: post

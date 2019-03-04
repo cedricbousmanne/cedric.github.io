@@ -1,6 +1,6 @@
 ---
 id: 3515
-title: '@catswhocode you&rsquo;ve got a dead « contact » link on this page : http://www.catswhocode.com/blog/contribute'
+title: ''
 date: 2009-06-26T12:51:22+00:00
 author: cedric
 layout: post

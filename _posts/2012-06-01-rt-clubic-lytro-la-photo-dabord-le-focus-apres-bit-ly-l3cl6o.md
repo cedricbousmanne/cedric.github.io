@@ -1,6 +1,6 @@
 ---
 id: 3399
-title: 'RT @Clubic: Lytro : la photo d&rsquo;abord, le focus après. bit.ly/L3Cl6o'
+title: ''
 date: 2012-06-01T23:34:15+00:00
 author: cedric
 layout: post

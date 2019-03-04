@@ -1,6 +1,6 @@
 ---
 id: 2190
-title: 'RT @cafeNArlon: Hey! Saviez-vous qu&rsquo;il y a un @hackathon_lu au #Luxembourg en juin? ow.ly/4nbWrt'
+title: ''
 date: 2016-04-28T22:05:08+00:00
 author: cedric
 layout: post

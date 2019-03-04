@@ -1,6 +1,6 @@
 ---
 id: 2492
-title: 'GitHub Pages : Configurer Votre Nom De Domaine buff.ly/1LclMZZ #octopress #ruby'
+title: ''
 date: 2015-10-05T17:21:20+00:00
 author: cedric
 layout: post

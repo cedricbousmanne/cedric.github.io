@@ -1,6 +1,6 @@
 ---
 id: 2728
-title: @benoitdessaucy Benoît a.k.a Narcisse Dessaucy ? ;-)
+title: ''
 date: 2015-03-21T21:36:43+00:00
 author: cedric
 layout: post

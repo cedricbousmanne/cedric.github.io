@@ -1,6 +1,6 @@
 ---
 id: 2353
-title: GCHQ open-sources its spy software buff.ly/1RtjhWU pic.twitter.com/Cjdjc18jqj
+title: ''
 date: 2015-12-19T14:08:07+00:00
 author: cedric
 layout: post

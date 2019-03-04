@@ -1,6 +1,6 @@
 ---
 id: 3659
-title: @warin si tu as une autre idée pour le rendre plus léger, je suis preneur :)
+title: ''
 date: 2009-04-04T12:44:40+00:00
 author: cedric
 layout: post

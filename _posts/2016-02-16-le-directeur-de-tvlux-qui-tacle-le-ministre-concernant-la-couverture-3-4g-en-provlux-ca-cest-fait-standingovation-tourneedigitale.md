@@ -1,6 +1,6 @@
 ---
 id: 2253
-title: 'Le directeur de @TVLux qui tâcle le ministre concernant la couverture 3/4g en #ProvLux, ça c&rsquo;est fait #standingovation #TourneeDigitale'
+title: ''
 date: 2016-02-16T22:20:09+00:00
 author: cedric
 layout: post

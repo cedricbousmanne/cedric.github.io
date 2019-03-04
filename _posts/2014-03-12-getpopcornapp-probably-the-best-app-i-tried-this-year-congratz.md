@@ -1,6 +1,6 @@
 ---
 id: 3102
-title: @getpopcornapp Probably the best app i tried this year. Congratz !
+title: ''
 date: 2014-03-12T22:06:35+00:00
 author: cedric
 layout: post

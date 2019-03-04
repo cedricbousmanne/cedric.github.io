@@ -1,6 +1,6 @@
 ---
 id: 4006
-title: Grmbl encore levé à la bourre! http://tinyurl.com/2wr3lh
+title: ''
 date: 2007-08-07T09:10:39+00:00
 author: cedric
 layout: post

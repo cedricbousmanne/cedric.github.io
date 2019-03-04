@@ -1,6 +1,6 @@
 ---
 id: 3978
-title: '@Groumphy : de quoi tu parles? :s'
+title: ''
 date: 2007-10-17T08:20:32+00:00
 author: cedric
 layout: post

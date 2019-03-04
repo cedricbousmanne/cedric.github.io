@@ -1,6 +1,6 @@
 ---
 id: 2585
-title: '« Les investisseurs, c&rsquo;est pas des bisounours » #cafenarlon'
+title: ''
 date: 2015-06-17T20:19:35+00:00
 author: cedric
 layout: post

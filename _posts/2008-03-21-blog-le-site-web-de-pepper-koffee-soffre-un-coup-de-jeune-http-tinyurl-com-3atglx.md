@@ -1,6 +1,6 @@
 ---
 id: 3861
-title: '[blog] Le site web de Pepper &#038; Koffee s’offre un coup de jeune http://tinyurl.com/3atglx'
+title: ''
 date: 2008-03-21T21:57:49+00:00
 author: cedric
 layout: post

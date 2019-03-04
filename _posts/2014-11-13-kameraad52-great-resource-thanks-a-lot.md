@@ -1,6 +1,6 @@
 ---
 id: 2927
-title: @kameraad52 Great resource ! Thanks a lot !
+title: ''
 date: 2014-11-13T15:58:46+00:00
 author: cedric
 layout: post

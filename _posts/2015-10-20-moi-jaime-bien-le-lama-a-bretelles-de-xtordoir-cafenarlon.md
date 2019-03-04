@@ -1,6 +1,6 @@
 ---
 id: 2435
-title: 'Moi j&rsquo;aime bien le lama à bretelles de @xtordoir #cafenarlon'
+title: ''
 date: 2015-10-20T21:58:24+00:00
 author: cedric
 layout: post

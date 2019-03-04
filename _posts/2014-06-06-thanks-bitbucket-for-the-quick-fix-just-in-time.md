@@ -1,6 +1,6 @@
 ---
 id: 3061
-title: Thanks @bitbucket for the quick fix. Just in time ;-)
+title: ''
 date: 2014-06-06T10:36:56+00:00
 author: cedric
 layout: post

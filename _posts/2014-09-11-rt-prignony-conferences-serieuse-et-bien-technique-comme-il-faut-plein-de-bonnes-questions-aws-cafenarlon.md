@@ -1,6 +1,6 @@
 ---
 id: 2960
-title: 'RT @prignony: Conférences sérieuse et bien technique comme il faut, plein de bonnes questions! #AWS #cafenarlon'
+title: ''
 date: 2014-09-11T20:19:52+00:00
 author: cedric
 layout: post

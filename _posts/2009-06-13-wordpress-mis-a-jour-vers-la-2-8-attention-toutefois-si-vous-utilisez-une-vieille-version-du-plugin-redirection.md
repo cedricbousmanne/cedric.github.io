@@ -1,6 +1,6 @@
 ---
 id: 3538
-title: WordPress mis à jour vers la 2.8. Attention toutefois si vous utilisez une vieille version du plugin Redirection :)
+title: ''
 date: 2009-06-13T20:08:39+00:00
 author: cedric
 layout: post

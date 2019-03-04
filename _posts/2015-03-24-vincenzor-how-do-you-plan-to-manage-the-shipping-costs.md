@@ -1,6 +1,6 @@
 ---
 id: 2670
-title: @VincenzoR how do you plan to manage the shipping costs ?
+title: ''
 date: 2015-03-24T23:03:39+00:00
 author: cedric
 layout: post

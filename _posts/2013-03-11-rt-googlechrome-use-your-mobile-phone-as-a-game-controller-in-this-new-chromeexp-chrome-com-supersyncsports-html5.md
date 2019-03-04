@@ -1,6 +1,6 @@
 ---
 id: 3350
-title: 'RT @googlechrome: Use your mobile phone as a game controller in this new @ChromeExp: chrome.com/supersyncsports #html5'
+title: ''
 date: 2013-03-11T21:50:31+00:00
 author: cedric
 layout: post

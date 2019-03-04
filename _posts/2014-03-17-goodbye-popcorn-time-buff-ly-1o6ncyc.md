@@ -1,6 +1,6 @@
 ---
 id: 3105
-title: Goodbye Popcorn Time — buff.ly/1o6ncYC
+title: ''
 date: 2014-03-17T18:21:21+00:00
 author: cedric
 layout: post

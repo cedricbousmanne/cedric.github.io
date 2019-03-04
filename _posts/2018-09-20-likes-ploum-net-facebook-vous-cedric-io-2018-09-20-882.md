@@ -1,8 +1,6 @@
 ---
 id: 1982
-title: |
-  . Likes ploum.net/facebook-vous-….
-  &#8211; cedric.io/2018/09/20/882/
+title: ''
 date: 2018-09-20T13:09:00+00:00
 author: cedric
 layout: post

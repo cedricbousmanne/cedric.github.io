@@ -1,6 +1,6 @@
 ---
 id: 2708
-title: 'RT @prignony: Très content de notre prestation au #hackalux une super équipe! @akyrho, #DidierHermant et #Gamdolf on recommence quand vous …'
+title: ''
 date: 2015-03-22T01:13:46+00:00
 author: cedric
 layout: post

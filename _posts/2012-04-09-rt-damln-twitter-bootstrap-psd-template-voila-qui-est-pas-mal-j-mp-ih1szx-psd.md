@@ -1,6 +1,6 @@
 ---
 id: 3412
-title: 'RT @damln: Twitter Bootstrap PSD Template, voilà qui est pas mal :) | j.mp/Ih1SZx #psd'
+title: ''
 date: 2012-04-09T17:23:38+00:00
 author: cedric
 layout: post

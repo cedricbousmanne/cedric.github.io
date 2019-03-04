@@ -1,6 +1,6 @@
 ---
 id: 3133
-title: '@notwally et les cupcakes de @cookies_cooker #cafenarlon'
+title: ''
 date: 2014-02-24T22:25:23+00:00
 author: cedric
 layout: post

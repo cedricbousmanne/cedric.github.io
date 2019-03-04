@@ -1,6 +1,6 @@
 ---
 id: 3416
-title: Je suis à Buffalo Grill (messancy buvange) 4sq.com/IQnuMV
+title: ''
 date: 2012-05-12T19:28:54+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3987
-title: Goooooooooooooooooooood morniiiiiiiiiiing!
+title: ''
 date: 2007-10-20T08:45:33+00:00
 author: cedric
 layout: post

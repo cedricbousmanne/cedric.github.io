@@ -1,6 +1,6 @@
 ---
 id: 2889
-title: 'Developers have relationship issues too &#8211; buff.ly/1wC6Qxj pic.twitter.com/LEyCOofoG7'
+title: ''
 date: 2014-12-23T12:32:02+00:00
 author: cedric
 layout: post

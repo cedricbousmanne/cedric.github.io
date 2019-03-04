@@ -1,6 +1,6 @@
 ---
 id: 3117
-title: 'Rails without a JS framework  buff.ly/1eAbFy0'
+title: ''
 date: 2014-03-03T18:21:04+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2940
-title: @askpaypal Merci DW, je viens de vous contacter par DM
+title: ''
 date: 2014-11-27T17:16:24+00:00
 author: cedric
 layout: post

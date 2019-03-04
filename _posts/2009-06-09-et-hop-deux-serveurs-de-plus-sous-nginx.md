@@ -1,6 +1,6 @@
 ---
 id: 3550
-title: Et hop, deux serveurs de plus sous Nginx
+title: ''
 date: 2009-06-09T16:19:29+00:00
 author: cedric
 layout: post

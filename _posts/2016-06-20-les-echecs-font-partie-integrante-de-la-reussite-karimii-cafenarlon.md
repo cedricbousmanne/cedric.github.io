@@ -1,6 +1,6 @@
 ---
 id: 2179
-title: '« Les échecs font partie intégrante de la réussite » #karimii #cafeNarlon'
+title: ''
 date: 2016-06-20T19:40:00+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2329
-title: 'Un hôpital de référence à Habay: on serait parvenu enfin à un accord buff.ly/1RHlspS'
+title: ''
 date: 2015-12-24T11:26:10+00:00
 author: cedric
 layout: post

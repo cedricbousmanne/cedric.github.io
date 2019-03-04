@@ -1,6 +1,6 @@
 ---
 id: 2999
-title: '@yoseihana @gcuisinier @cafenarlon @sebsto Y&rsquo;en a déjà qui essayent de resquiller ? :-D'
+title: ''
 date: 2014-09-11T08:40:13+00:00
 author: cedric
 layout: post

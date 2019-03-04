@@ -1,6 +1,6 @@
 ---
 id: 2861
-title: 'RT @yoseihana: Je suis un star grâce à @greenlabcowork :P fr.ulule.com/greenlabcowork… Il est temps de contribuer'
+title: ''
 date: 2015-01-21T13:18:21+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4021
-title: 'en route pour le jardin&#8230;'
+title: ''
 date: 2007-08-01T10:02:59+00:00
 author: cedric
 layout: post

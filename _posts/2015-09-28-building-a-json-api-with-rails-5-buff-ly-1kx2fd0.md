@@ -1,6 +1,6 @@
 ---
 id: 2523
-title: Building a JSON API with Rails 5 buff.ly/1KX2FD0
+title: ''
 date: 2015-09-28T11:32:12+00:00
 author: cedric
 layout: post

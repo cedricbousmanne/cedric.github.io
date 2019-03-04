@@ -1,6 +1,6 @@
 ---
 id: 2164
-title: 'RT @cafeNArlon: Le groupe @FuturoCite #smartlux2016 #cafenarlon pic.twitter.com/GAPMoadKfq'
+title: ''
 date: 2016-09-19T20:02:20+00:00
 author: cedric
 layout: post

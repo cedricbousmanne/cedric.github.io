@@ -1,6 +1,6 @@
 ---
 id: 2198
-title: 'P&rsquo;tite chemise, p&rsquo;tites chaussures, p&rsquo;tit spectacle de @NormanDesVideos, aicht. pic.twitter.com/bUnLUkTucI'
+title: ''
 date: 2016-05-07T19:37:10+00:00
 author: cedric
 layout: post

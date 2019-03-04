@@ -1,6 +1,6 @@
 ---
 id: 2448
-title: '.@_Xi_ : on parle de #scala au #cafenarlon avec @xtordoir'
+title: ''
 date: 2015-10-20T20:09:56+00:00
 author: cedric
 layout: post

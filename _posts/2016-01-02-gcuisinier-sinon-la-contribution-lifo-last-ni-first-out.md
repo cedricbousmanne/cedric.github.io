@@ -1,6 +1,6 @@
 ---
 id: 2335
-title: '@gcuisinier sinon la contribution : LiFo (Last ni, First out)'
+title: ''
 date: 2016-01-02T00:23:22+00:00
 author: cedric
 layout: post

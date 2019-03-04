@@ -1,6 +1,6 @@
 ---
 id: 3716
-title: 'RT @catswhocode psdrecipes : Daily Recipes to cook with Photoshop http://tr.im/eqqw'
+title: ''
 date: 2009-02-05T16:06:24+00:00
 author: cedric
 layout: post

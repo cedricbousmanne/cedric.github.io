@@ -1,6 +1,6 @@
 ---
 id: 2705
-title: 'Roulement de tambour, on va bientôt connaître les lauréats du #hackalux'
+title: ''
 date: 2015-03-21T22:54:51+00:00
 author: cedric
 layout: post

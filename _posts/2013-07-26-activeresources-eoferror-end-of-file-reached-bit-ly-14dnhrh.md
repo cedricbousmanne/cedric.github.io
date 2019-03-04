@@ -1,6 +1,6 @@
 ---
 id: 3299
-title: 'ActiveResources EOFError: end of file reached bit.ly/14dNhrH'
+title: ''
 date: 2013-07-26T11:11:05+00:00
 author: cedric
 layout: post

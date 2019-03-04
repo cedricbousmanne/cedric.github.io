@@ -1,6 +1,6 @@
 ---
 id: 3742
-title: '[WP] Comment afficher le contenu d’un flux RSS dans votre thème: Il y a quelques temps, je vous avais présen.. http://tinyurl.com/bl4kwx'
+title: ''
 date: 2009-01-23T20:53:33+00:00
 author: cedric
 layout: post

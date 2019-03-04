@@ -1,6 +1,6 @@
 ---
 id: 2654
-title: @linxos je viens de tester votre app, malheureusement, les banques belges ne sont pas prise en charge. Comptez-vous le faire prochainement ?
+title: ''
 date: 2015-04-28T10:30:35+00:00
 author: cedric
 layout: post

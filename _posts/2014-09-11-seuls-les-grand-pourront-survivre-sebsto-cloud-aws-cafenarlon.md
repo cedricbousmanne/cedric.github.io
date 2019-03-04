@@ -1,6 +1,6 @@
 ---
 id: 2980
-title: 'Seuls les grand pourront survivre @sebsto #cloud #AWS #cafenarlon'
+title: ''
 date: 2014-09-11T19:44:38+00:00
 author: cedric
 layout: post

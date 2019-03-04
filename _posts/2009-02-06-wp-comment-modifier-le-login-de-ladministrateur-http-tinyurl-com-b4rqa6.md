@@ -1,6 +1,6 @@
 ---
 id: 3693
-title: '[WP] Comment modifier le login de l’administrateur http://tinyurl.com/b4rqa6'
+title: ''
 date: 2009-02-06T08:53:45+00:00
 author: cedric
 layout: post

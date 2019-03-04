@@ -1,6 +1,6 @@
 ---
 id: 3573
-title: '#wordpress J’ai la guitare qui me démange… http://tinyurl.com/r7y23g'
+title: ''
 date: 2009-05-21T15:55:18+00:00
 author: cedric
 layout: post

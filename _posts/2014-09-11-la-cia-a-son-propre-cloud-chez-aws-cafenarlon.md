@@ -1,6 +1,6 @@
 ---
 id: 2971
-title: 'La CIA a son propre cloud chez #aws #cafenarlon'
+title: ''
 date: 2014-09-11T20:32:05+00:00
 author: cedric
 layout: post

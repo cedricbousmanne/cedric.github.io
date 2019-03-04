@@ -1,6 +1,6 @@
 ---
 id: 2432
-title: '« Diviser pour mieux régner », c&rsquo;est l&rsquo;idée de map reduce dans le cadre du #BigData  #cafenarlon'
+title: ''
 date: 2015-10-20T21:31:19+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2451
-title: 'Le séquençage de l&rsquo;ADN a commencé dans les années &rsquo;70 #cafenarlon #bigdata #genomic'
+title: ''
 date: 2015-10-20T20:27:24+00:00
 author: cedric
 layout: post

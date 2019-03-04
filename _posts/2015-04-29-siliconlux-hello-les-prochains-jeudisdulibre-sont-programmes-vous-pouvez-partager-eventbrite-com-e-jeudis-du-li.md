@@ -1,9 +1,6 @@
 ---
 id: 2629
-title: |
-  @SiliconLux Hello ! Les prochains #JeudisDuLibre sont programmés, vous pouvez partager? ;-)
-  
-  eventbrite.com/e/jeudis-du-li…
+title: ''
 date: 2015-04-29T15:42:20+00:00
 author: cedric
 layout: post

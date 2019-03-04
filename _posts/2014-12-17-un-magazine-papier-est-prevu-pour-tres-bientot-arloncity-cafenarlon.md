@@ -1,6 +1,6 @@
 ---
 id: 2885
-title: 'Un magazine papier est prévu pour très bientôt @ArlonCity #cafenarlon'
+title: ''
 date: 2014-12-17T21:04:18+00:00
 author: cedric
 layout: post

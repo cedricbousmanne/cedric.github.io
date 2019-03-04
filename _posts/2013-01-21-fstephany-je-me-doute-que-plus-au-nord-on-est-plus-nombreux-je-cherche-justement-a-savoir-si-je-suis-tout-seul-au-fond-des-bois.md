@@ -1,6 +1,6 @@
 ---
 id: 3405
-title: @fstephany Je me doute que plus au nord, on est plus nombreux. Je cherche justement à savoir si je suis tout seul au fond des bois ;-)
+title: ''
 date: 2013-01-21T17:56:24+00:00
 author: cedric
 layout: post

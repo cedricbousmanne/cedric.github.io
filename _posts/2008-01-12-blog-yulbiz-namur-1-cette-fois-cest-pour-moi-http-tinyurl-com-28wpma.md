@@ -1,6 +1,6 @@
 ---
 id: 3872
-title: '[blog] Yulbiz-Namur #1 : cette fois, c’est pour moi! http://tinyurl.com/28wpma'
+title: ''
 date: 2008-01-12T13:41:21+00:00
 author: cedric
 layout: post

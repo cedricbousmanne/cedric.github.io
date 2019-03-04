@@ -1,6 +1,6 @@
 ---
 id: 1974
-title: @Shadem987 notre dernière conversation t’as donné des idées? 😉 (cedric.io/2018/10/04/151…)
+title: ''
 date: 2018-10-04T17:39:49+00:00
 author: cedric
 layout: post

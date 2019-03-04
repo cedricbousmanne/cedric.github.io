@@ -1,6 +1,6 @@
 ---
 id: 2986
-title: 'RT @cafeNArlon: Entreprises utilisant #cloud: @Airbnb @netflix @Adobe @NASA @Ubisoft etc  #cafenarlon'
+title: ''
 date: 2014-09-11T20:00:19+00:00
 author: cedric
 layout: post

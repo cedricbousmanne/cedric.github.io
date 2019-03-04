@@ -1,8 +1,6 @@
 ---
 id: 2517
-title: |
-  RT @CommitStrip: Refactoring will wait, I need you for something important
-  commitstrip.com/2015/10/02/can… pic.twitter.com/Y2ijyDl7Pg
+title: ''
 date: 2015-10-03T11:54:13+00:00
 author: cedric
 layout: post

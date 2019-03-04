@@ -1,6 +1,6 @@
 ---
 id: 3185
-title: 'RT @cafeNArlon: Bientôt la reprise de notre #cafenarlon pour 2014! Nous avons plein de surprises!'
+title: ''
 date: 2014-01-10T00:00:47+00:00
 author: cedric
 layout: post

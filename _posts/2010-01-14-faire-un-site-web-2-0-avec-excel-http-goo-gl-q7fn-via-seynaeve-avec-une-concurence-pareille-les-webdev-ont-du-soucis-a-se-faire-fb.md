@@ -1,6 +1,6 @@
 ---
 id: 3459
-title: '« Faire un site web 2.0 avec Excel » http://goo.gl/Q7Fn (via @seynaeve). Avec une concurence pareille, les webdev ont du soucis à se faire #fb'
+title: ''
 date: 2010-01-14T15:55:04+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2405
-title: '@SNCB le train de Bruxelles &#8211; Luxembourg qui aurait dû arriver à 20h50 à Arlon'
+title: ''
 date: 2015-11-06T22:46:25+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2644
-title: 'La prochaine fois qu&rsquo;il fait se temps là, il faudra prévoir un #cafenarlon / barbecue pic.twitter.com/TCVSA7mYNN'
+title: ''
 date: 2015-04-23T19:02:58+00:00
 author: cedric
 layout: post

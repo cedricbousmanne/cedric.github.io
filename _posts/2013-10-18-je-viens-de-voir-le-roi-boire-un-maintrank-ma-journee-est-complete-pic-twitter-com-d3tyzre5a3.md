@@ -1,6 +1,6 @@
 ---
 id: 3255
-title: 'Je viens de voir le Roi boire un #maintrank. Ma journée est complète pic.twitter.com/D3TYZRe5A3'
+title: ''
 date: 2013-10-18T13:40:27+00:00
 author: cedric
 layout: post

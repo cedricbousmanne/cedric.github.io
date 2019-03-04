@@ -1,6 +1,6 @@
 ---
 id: 3642
-title: 'bought @pressecitron  for $ 242 @papygeek was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-16T20:17:38+00:00
 author: cedric
 layout: post

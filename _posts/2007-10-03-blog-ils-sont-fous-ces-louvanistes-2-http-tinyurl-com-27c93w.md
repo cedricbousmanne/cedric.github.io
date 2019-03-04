@@ -1,6 +1,6 @@
 ---
 id: 3991
-title: '[blog] Ils sont fous ces louvanistes #2 http://tinyurl.com/27c93w'
+title: ''
 date: 2007-10-03T20:19:00+00:00
 author: cedric
 layout: post

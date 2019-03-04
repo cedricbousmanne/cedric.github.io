@@ -1,6 +1,6 @@
 ---
 id: 3885
-title: '[blog] WordPress 2.3 et les tags http://tinyurl.com/2srgbp'
+title: ''
 date: 2007-12-16T18:43:39+00:00
 author: cedric
 layout: post

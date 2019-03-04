@@ -1,6 +1,6 @@
 ---
 id: 3855
-title: '[blog] HTTParty #22 http://tinyurl.com/yvntv4'
+title: ''
 date: 2008-03-07T02:00:01+00:00
 author: cedric
 layout: post

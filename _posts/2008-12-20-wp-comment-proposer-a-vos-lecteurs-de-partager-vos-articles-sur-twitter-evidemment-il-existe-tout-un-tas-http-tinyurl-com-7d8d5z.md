@@ -1,6 +1,6 @@
 ---
 id: 3787
-title: '[WP] Comment proposer à vos lecteurs de partager vos articles sur Twitter: Evidemment, il existe tout un tas.. http://tinyurl.com/7d8d5z'
+title: ''
 date: 2008-12-20T22:52:58+00:00
 author: cedric
 layout: post

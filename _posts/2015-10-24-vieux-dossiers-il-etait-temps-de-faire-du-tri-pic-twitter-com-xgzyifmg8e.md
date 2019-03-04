@@ -1,6 +1,6 @@
 ---
 id: 2415
-title: Vieux dossiers. Il était temps de faire du tri pic.twitter.com/xgZYiFMG8E
+title: ''
 date: 2015-10-24T12:20:46+00:00
 author: cedric
 layout: post

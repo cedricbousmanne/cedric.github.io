@@ -1,6 +1,6 @@
 ---
 id: 3908
-title: 'Time to go&#8230; j&rsquo;espère que la SNCB ne me donnera pas une fois de plus une raison de raler&#8230;'
+title: ''
 date: 2007-12-14T17:22:12+00:00
 author: cedric
 layout: post

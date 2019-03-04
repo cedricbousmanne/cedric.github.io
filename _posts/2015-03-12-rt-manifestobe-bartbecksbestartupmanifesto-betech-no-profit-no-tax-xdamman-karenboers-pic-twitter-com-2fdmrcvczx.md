@@ -1,6 +1,6 @@
 ---
 id: 2748
-title: 'RT @ManifestoBE: @BartBecks#BEStartupManifesto #BeTech No profit, no tax @xdamman @karenboers pic.twitter.com/2FDmrCVCzx'
+title: ''
 date: 2015-03-12T12:26:04+00:00
 author: cedric
 layout: post

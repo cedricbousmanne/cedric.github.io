@@ -1,6 +1,6 @@
 ---
 id: 3331
-title: @Shadem987 tu as déjà lancé ta première appli?
+title: ''
 date: 2013-07-07T16:38:17+00:00
 author: cedric
 layout: post

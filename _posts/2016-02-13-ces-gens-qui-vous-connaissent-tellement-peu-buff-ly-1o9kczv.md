@@ -1,6 +1,6 @@
 ---
 id: 2287
-title: Ces gens qui vous connaissent tellement (peu) buff.ly/1o9kczv
+title: ''
 date: 2016-02-13T17:26:19+00:00
 author: cedric
 layout: post

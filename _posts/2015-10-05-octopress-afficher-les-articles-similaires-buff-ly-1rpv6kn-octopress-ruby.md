@@ -1,6 +1,6 @@
 ---
 id: 2491
-title: 'Octopress &#8211; Afficher Les Articles Similaires buff.ly/1Rpv6KN #octopress #ruby'
+title: ''
 date: 2015-10-05T11:32:16+00:00
 author: cedric
 layout: post

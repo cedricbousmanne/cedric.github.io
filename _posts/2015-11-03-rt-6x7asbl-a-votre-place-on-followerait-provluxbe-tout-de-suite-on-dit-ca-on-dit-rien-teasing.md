@@ -1,6 +1,6 @@
 ---
 id: 2421
-title: 'RT @6x7asbl: A votre place, on followerait @ProvLuxBe tout de suite. On dit ça, on dit rien… #teasing'
+title: ''
 date: 2015-11-03T18:16:33+00:00
 author: cedric
 layout: post

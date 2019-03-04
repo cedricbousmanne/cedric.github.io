@@ -1,6 +1,6 @@
 ---
 id: 3208
-title: '@cookies_cooker @fougere02 miam! Pourquoi il n&rsquo;y en avait pas au #cafenarlon ? ;-)'
+title: ''
 date: 2013-12-22T20:06:43+00:00
 author: cedric
 layout: post

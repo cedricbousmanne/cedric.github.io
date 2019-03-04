@@ -1,6 +1,6 @@
 ---
 id: 3047
-title: 'Chez @CarrefourBE, le paquet de grills est à 0.95€ &#8211; par 2, c’est 2.19€. Logique logique'
+title: ''
 date: 2014-05-14T18:59:18+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3059
-title: 'I&rsquo;m at Le Dagobert (Arlon) 4sq.com/1pOzKUO'
+title: ''
 date: 2014-06-03T13:20:53+00:00
 author: cedric
 layout: post

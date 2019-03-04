@@ -1,6 +1,6 @@
 ---
 id: 3221
-title: '@Spotify : when i « thumb down » 4 of 5 times the same band/album, please, do not try to make me listen to it again ;-)'
+title: ''
 date: 2013-12-04T15:15:10+00:00
 author: cedric
 layout: post

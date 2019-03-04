@@ -1,6 +1,6 @@
 ---
 id: 3376
-title: 'Est-ce qu&rsquo;on met en Prod aujourd&rsquo;hui? estcequonmetenprodaujourdhui.info cc/ @gillruidant'
+title: ''
 date: 2013-02-22T22:36:45+00:00
 author: cedric
 layout: post

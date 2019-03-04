@@ -1,6 +1,6 @@
 ---
 id: 3407
-title: 'Too bad, megavideo.com was paid until 2014-11-13 : pastebin.com/6X3DwDcQ #OpMegaUpload'
+title: ''
 date: 2012-01-20T18:35:43+00:00
 author: cedric
 layout: post

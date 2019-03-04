@@ -1,6 +1,6 @@
 ---
 id: 3279
-title: 'sur papier, l&rsquo;Ubuntu Edge est vraiment impressionnant buff.ly/12UKKUl'
+title: ''
 date: 2013-07-29T16:05:09+00:00
 author: cedric
 layout: post

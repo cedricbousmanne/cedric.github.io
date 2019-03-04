@@ -1,6 +1,6 @@
 ---
 id: 3503
-title: 'RT @VincenzoR : captcha FAIL :) http://twitpic.com/mh3lq'
+title: ''
 date: 2009-10-22T17:13:03+00:00
 author: cedric
 layout: post

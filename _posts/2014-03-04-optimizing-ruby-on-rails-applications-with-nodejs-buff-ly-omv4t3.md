@@ -1,6 +1,6 @@
 ---
 id: 3092
-title: 'Optimizing Ruby on Rails applications with NodeJS  buff.ly/OMv4T3'
+title: ''
 date: 2014-03-04T18:21:09+00:00
 author: cedric
 layout: post

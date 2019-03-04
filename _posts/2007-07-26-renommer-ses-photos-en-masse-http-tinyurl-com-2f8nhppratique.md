@@ -1,8 +1,6 @@
 ---
 id: 4035
-title: |
-  Renommer ses photos en masse : http://tinyurl.com/2f8nhp
-  Pratique!
+title: ''
 date: 2007-07-26T12:17:34+00:00
 author: cedric
 layout: post

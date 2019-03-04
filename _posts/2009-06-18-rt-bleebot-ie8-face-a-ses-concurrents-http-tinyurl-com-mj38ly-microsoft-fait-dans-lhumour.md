@@ -1,6 +1,6 @@
 ---
 id: 3514
-title: 'RT @Bleebot: IE8 face à ses concurrents  http://tinyurl.com/mj38ly Microsoft fait dans l&rsquo;humour'
+title: ''
 date: 2009-06-18T10:32:03+00:00
 author: cedric
 layout: post

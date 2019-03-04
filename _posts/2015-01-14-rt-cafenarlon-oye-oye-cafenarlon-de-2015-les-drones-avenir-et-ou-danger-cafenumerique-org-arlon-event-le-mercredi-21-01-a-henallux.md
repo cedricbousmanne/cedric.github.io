@@ -1,6 +1,6 @@
 ---
 id: 2869
-title: 'RT @cafeNArlon: Oyé Oyé, #cafenarlon de 2015: Les “drones”, avenir et/ou danger? cafenumerique.org/arlon/event/le… ? Mercredi 21/01 à Henallux'
+title: ''
 date: 2015-01-14T09:55:04+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2671
-title: « Si vous pensez que nous vivons une époque de guerres sanglantes » buff.ly/1N85aSg pic.twitter.com/E1Te218yZS
+title: ''
 date: 2015-03-25T16:50:35+00:00
 author: cedric
 layout: post

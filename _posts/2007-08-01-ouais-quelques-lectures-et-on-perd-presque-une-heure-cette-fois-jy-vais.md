@@ -1,6 +1,6 @@
 ---
 id: 4048
-title: 'Ouais&#8230; « quelques lectures » et on perd presque une heure&#8230; Cette fois j&rsquo;y vais!'
+title: ''
 date: 2007-08-01T00:42:12+00:00
 author: cedric
 layout: post

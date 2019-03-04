@@ -1,6 +1,6 @@
 ---
 id: 3391
-title: 'RT @CamilleRoux: « Why New Relic Is Raising $80 Million Now » bit.ly/VQxRJg'
+title: ''
 date: 2013-02-05T20:47:43+00:00
 author: cedric
 layout: post

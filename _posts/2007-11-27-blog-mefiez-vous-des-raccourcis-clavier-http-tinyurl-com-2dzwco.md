@@ -1,6 +1,6 @@
 ---
 id: 3920
-title: '[blog] Méfiez-vous des raccourcis clavier http://tinyurl.com/2dzwco'
+title: ''
 date: 2007-11-27T19:44:39+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4075
-title: Je reviens du cinéma, Shrek le Troisième, un bon moment de rigolade :-)
+title: ''
 date: 2007-06-14T23:36:36+00:00
 author: cedric
 layout: post

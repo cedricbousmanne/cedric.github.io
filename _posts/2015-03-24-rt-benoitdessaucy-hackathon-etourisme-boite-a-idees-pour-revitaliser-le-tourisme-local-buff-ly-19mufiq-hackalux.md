@@ -1,6 +1,6 @@
 ---
 id: 2695
-title: 'RT @benoitdessaucy: Hackathon #eTourisme: boîte à idées pour revitaliser le tourisme local buff.ly/19MUfiQ #hackalux'
+title: ''
 date: 2015-03-24T21:03:52+00:00
 author: cedric
 layout: post

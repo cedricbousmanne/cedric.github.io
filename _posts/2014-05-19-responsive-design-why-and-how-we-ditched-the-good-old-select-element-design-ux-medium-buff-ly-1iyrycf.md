@@ -1,6 +1,6 @@
 ---
 id: 3050
-title: 'Responsive Design: Why and how we ditched the good old select element — Design / UX — Medium buff.ly/1iYrYCf'
+title: ''
 date: 2014-05-19T17:21:17+00:00
 author: cedric
 layout: post

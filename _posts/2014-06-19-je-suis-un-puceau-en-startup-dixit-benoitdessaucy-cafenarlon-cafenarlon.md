@@ -1,6 +1,6 @@
 ---
 id: 3043
-title: '« Je suis un puceau en #startup », dixit @benoitdessaucy #CafeNArlon @cafeNArlon'
+title: ''
 date: 2014-06-19T20:37:32+00:00
 author: cedric
 layout: post

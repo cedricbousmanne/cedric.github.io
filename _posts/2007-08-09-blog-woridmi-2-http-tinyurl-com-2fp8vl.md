@@ -1,6 +1,6 @@
 ---
 id: 4010
-title: '[blog] Woridmi #2 http://tinyurl.com/2fp8vl'
+title: ''
 date: 2007-08-09T23:12:30+00:00
 author: cedric
 layout: post

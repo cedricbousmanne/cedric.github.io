@@ -1,6 +1,6 @@
 ---
 id: 3894
-title: 'Je ne sais pas pourquoi, mais trois foreach() imbriqué, ça m&rsquo;a l&rsquo;air malsain&#8230;'
+title: ''
 date: 2008-01-03T15:07:51+00:00
 author: cedric
 layout: post

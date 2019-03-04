@@ -1,6 +1,6 @@
 ---
 id: 2824
-title: 'RT @yoseihana: Qui c&rsquo;est qui veut faire une bonne action pour #Arlon et @greenlabcowork ? Par ici fr.ulule.com/greenlabcowork…'
+title: ''
 date: 2015-02-02T10:35:03+00:00
 author: cedric
 layout: post

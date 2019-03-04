@@ -1,6 +1,6 @@
 ---
 id: 3400
-title: 'RT @Modulaweb: Mouhahahahaha ! j&rsquo;adore FuckIt.js jslive.fr/items/1245-fuc… via @jslivefr'
+title: ''
 date: 2012-06-26T14:11:41+00:00
 author: cedric
 layout: post

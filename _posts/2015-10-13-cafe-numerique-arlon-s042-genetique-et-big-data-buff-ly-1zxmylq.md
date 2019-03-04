@@ -1,6 +1,6 @@
 ---
 id: 2459
-title: 'Café Numérique Arlon S04#2: Génétique et Big Data buff.ly/1ZxMylQ'
+title: ''
 date: 2015-10-13T10:08:37+00:00
 author: cedric
 layout: post

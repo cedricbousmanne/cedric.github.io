@@ -1,6 +1,6 @@
 ---
 id: 2615
-title: 'Ce soir, on est complet pour le #cafenarlon sur l&rsquo;#IoT'
+title: ''
 date: 2015-05-27T19:45:43+00:00
 author: cedric
 layout: post

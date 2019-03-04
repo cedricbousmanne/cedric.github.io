@@ -1,6 +1,6 @@
 ---
 id: 3623
-title: 'bought @fullhdready  for $ 5 619 @textoo was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-17T19:37:03+00:00
 author: cedric
 layout: post

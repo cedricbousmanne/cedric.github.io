@@ -1,6 +1,6 @@
 ---
 id: 2254
-title: 'RT @LiseSimonet: RT @RHAdvisor: Comment faire tourner la tête aux chasseurs de têtes buff.ly/1LrUknS'
+title: ''
 date: 2016-02-17T10:22:51+00:00
 author: cedric
 layout: post

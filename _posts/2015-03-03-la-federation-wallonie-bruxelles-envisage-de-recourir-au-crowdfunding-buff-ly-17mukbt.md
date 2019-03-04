@@ -1,6 +1,6 @@
 ---
 id: 2744
-title: La Fédération Wallonie-Bruxelles envisage de recourir au «crowdfunding» buff.ly/17MUkBt
+title: ''
 date: 2015-03-03T18:21:02+00:00
 author: cedric
 layout: post

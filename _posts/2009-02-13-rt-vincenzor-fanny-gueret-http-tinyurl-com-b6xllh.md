@@ -1,6 +1,6 @@
 ---
 id: 3703
-title: 'RT @vincenzor Fanny Guéret : http://tinyurl.com/b6xllh'
+title: ''
 date: 2009-02-13T15:36:52+00:00
 author: cedric
 layout: post

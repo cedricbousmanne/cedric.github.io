@@ -1,6 +1,6 @@
 ---
 id: 3580
-title: @Vinch01 Le dernier est passé en streaming sur justin.tv
+title: ''
 date: 2009-05-24T13:52:26+00:00
 author: cedric
 layout: post

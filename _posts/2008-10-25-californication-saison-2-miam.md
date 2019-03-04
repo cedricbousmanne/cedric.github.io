@@ -1,6 +1,6 @@
 ---
 id: 3816
-title: 'Californication saison 2 : miam!'
+title: ''
 date: 2008-10-25T23:09:51+00:00
 author: cedric
 layout: post

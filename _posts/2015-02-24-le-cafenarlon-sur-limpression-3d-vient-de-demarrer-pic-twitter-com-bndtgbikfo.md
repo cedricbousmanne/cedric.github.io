@@ -1,6 +1,6 @@
 ---
 id: 2803
-title: 'Le #cafenarlon sur l&rsquo;impression 3D vient de démarrer pic.twitter.com/BNDtGBikfo'
+title: ''
 date: 2015-02-24T20:46:54+00:00
 author: cedric
 layout: post

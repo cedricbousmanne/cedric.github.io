@@ -1,6 +1,6 @@
 ---
 id: 2603
-title: 'L&rsquo;enfer du décor buff.ly/1Ixn8OL'
+title: ''
 date: 2015-06-08T11:32:07+00:00
 author: cedric
 layout: post

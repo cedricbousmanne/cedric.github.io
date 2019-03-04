@@ -1,6 +1,6 @@
 ---
 id: 3944
-title: Fin de journée, je vais lire une bonne BD
+title: ''
 date: 2007-11-03T01:17:07+00:00
 author: cedric
 layout: post

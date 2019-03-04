@@ -1,6 +1,6 @@
 ---
 id: 2635
-title: @siliconlux Merci :-)
+title: ''
 date: 2015-04-29T17:26:41+00:00
 author: cedric
 layout: post

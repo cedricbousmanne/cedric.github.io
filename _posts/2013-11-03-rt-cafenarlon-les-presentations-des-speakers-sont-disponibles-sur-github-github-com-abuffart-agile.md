@@ -1,6 +1,6 @@
 ---
 id: 3217
-title: 'RT @cafeNArlon: Les présentations des speakers sont disponibles sur Github! github.com/abuffart/Agile…'
+title: ''
 date: 2013-11-03T15:42:24+00:00
 author: cedric
 layout: post

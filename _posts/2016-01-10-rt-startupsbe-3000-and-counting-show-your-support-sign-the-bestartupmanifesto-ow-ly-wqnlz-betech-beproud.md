@@ -1,6 +1,6 @@
 ---
 id: 2312
-title: 'RT @StartupsBe: +3,000 and counting&#8230;show your support! Sign the #BeStartupManifesto&gt; ow.ly/WQNLz #BeTech #BeProud'
+title: ''
 date: 2016-01-10T21:46:33+00:00
 author: cedric
 layout: post

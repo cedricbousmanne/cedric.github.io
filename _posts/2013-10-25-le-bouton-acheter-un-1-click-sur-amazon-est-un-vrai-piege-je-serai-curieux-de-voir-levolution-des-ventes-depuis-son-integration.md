@@ -1,6 +1,6 @@
 ---
 id: 3233
-title: 'Le bouton « acheter un 1-Click » sur #Amazon est un vrai piège :-) Je serai curieux de voir l’évolution des ventes depuis son intégration'
+title: ''
 date: 2013-10-25T12:27:39+00:00
 author: cedric
 layout: post

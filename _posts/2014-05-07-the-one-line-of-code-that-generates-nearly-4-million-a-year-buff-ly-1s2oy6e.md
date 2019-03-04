@@ -1,6 +1,6 @@
 ---
 id: 3070
-title: The One Line of Code That Generates Nearly $4 Million a Year buff.ly/1s2oy6E
+title: ''
 date: 2014-05-07T17:21:01+00:00
 author: cedric
 layout: post

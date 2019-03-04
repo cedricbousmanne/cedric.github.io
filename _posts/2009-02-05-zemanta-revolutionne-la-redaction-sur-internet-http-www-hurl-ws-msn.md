@@ -1,6 +1,6 @@
 ---
 id: 3717
-title: 'Zemanta révolutionne la rédaction sur Internet : http://www.hurl.ws/msn'
+title: ''
 date: 2009-02-05T22:03:54+00:00
 author: cedric
 layout: post

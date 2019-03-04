@@ -1,6 +1,6 @@
 ---
 id: 2587
-title: '« La Belgique a la capacité de soutenir l&rsquo;écosystème startup » #startup #cafenarlon'
+title: ''
 date: 2015-06-17T20:24:37+00:00
 author: cedric
 layout: post

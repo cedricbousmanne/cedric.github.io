@@ -1,6 +1,6 @@
 ---
 id: 3653
-title: 'new website online : http://cedricbousmanne.com/ &#8211; Feedback welcome :-)'
+title: ''
 date: 2009-04-01T21:00:00+00:00
 author: cedric
 layout: post

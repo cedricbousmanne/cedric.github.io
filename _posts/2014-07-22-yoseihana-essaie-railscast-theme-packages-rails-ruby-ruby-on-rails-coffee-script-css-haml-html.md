@@ -1,6 +1,6 @@
 ---
 id: 3031
-title: '@yoseihana Essaie « Railscast Theme », packages : Rails, Ruby, Ruby on Rails, Coffee Script, CSS, haml, html'
+title: ''
 date: 2014-07-22T09:14:16+00:00
 author: cedric
 layout: post

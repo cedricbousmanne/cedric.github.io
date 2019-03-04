@@ -1,6 +1,6 @@
 ---
 id: 2750
-title: 'The Belgian Startup Manifesto : Sign Now ! #BeStartupManifesto #BeProud @manifestobe buff.ly/1FQROFL'
+title: ''
 date: 2015-03-12T12:32:06+00:00
 author: cedric
 layout: post

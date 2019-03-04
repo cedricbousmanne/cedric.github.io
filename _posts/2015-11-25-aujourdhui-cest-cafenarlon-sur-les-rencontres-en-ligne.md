@@ -1,6 +1,6 @@
 ---
 id: 2388
-title: 'Aujourd&rsquo;hui c&rsquo;est #cafenarlon sur les rencontres en ligne'
+title: ''
 date: 2015-11-25T20:44:07+00:00
 author: cedric
 layout: post

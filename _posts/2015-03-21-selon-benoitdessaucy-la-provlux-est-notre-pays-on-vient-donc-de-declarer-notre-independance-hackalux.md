@@ -1,6 +1,6 @@
 ---
 id: 2724
-title: 'Selon @benoitdessaucy « la #ProvLux est notre pays ». On vient donc de déclarer notre indépendance :-) #hackalux'
+title: ''
 date: 2015-03-21T20:52:53+00:00
 author: cedric
 layout: post

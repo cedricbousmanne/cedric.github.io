@@ -1,6 +1,6 @@
 ---
 id: 3589
-title: 'Le drink Pepper &#038; Koffee, venez nombreux : http://tinyurl.com/cmvekc (RT @VincenzoR)'
+title: ''
 date: 2009-05-04T16:10:17+00:00
 author: cedric
 layout: post

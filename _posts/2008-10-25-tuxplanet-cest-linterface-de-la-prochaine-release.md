@@ -1,6 +1,6 @@
 ---
 id: 3815
-title: '@tuxplanet c&rsquo;est l&rsquo;interface de la prochaine release?'
+title: ''
 date: 2008-10-25T18:29:57+00:00
 author: cedric
 layout: post

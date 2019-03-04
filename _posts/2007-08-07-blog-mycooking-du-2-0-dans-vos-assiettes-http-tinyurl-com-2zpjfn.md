@@ -1,6 +1,6 @@
 ---
 id: 4007
-title: '[blog] MyCooking : du 2.0 dans vos assiettes http://tinyurl.com/2zpjfn'
+title: ''
 date: 2007-08-07T23:11:34+00:00
 author: cedric
 layout: post

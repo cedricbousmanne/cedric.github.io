@@ -1,6 +1,6 @@
 ---
 id: 2985
-title: 'Airbnb c&rsquo;est 1300 serveurs pour 5 opérateurs #cloud #cafenarlon'
+title: ''
 date: 2014-09-11T19:58:42+00:00
 author: cedric
 layout: post

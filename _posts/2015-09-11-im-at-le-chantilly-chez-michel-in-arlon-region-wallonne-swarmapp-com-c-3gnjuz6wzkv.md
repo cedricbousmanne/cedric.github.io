@@ -1,6 +1,6 @@
 ---
 id: 2546
-title: 'I&rsquo;m at Le Chantilly ( Chez Michel ) in Arlon, Région Wallonne swarmapp.com/c/3gnJuz6WzKV'
+title: ''
 date: 2015-09-11T18:07:27+00:00
 author: cedric
 layout: post

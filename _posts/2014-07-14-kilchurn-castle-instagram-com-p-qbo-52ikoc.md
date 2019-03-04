@@ -1,6 +1,6 @@
 ---
 id: 3027
-title: Kilchurn Castle instagram.com/p/qbO-52IKOC/
+title: ''
 date: 2014-07-14T10:56:00+00:00
 author: cedric
 layout: post

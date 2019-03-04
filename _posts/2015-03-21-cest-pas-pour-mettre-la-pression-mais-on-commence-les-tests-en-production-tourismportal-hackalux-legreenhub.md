@@ -1,6 +1,6 @@
 ---
 id: 2716
-title: 'C&rsquo;est pas pour mettre la pression, mais on commence les tests en production #TourismPortal #Hackalux #leGreenHub'
+title: ''
 date: 2015-03-21T16:56:23+00:00
 author: cedric
 layout: post

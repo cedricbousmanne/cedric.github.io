@@ -1,6 +1,6 @@
 ---
 id: 2769
-title: 'I&rsquo;m at L&rsquo;insolite swarmapp.com/c/9HUQVZgU3NE'
+title: ''
 date: 2015-03-01T00:29:15+00:00
 author: cedric
 layout: post

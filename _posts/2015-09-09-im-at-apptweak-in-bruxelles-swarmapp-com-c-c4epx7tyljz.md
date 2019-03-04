@@ -1,6 +1,6 @@
 ---
 id: 2545
-title: 'I&rsquo;m at @Apptweak in Bruxelles swarmapp.com/c/c4Epx7tYLjz'
+title: ''
 date: 2015-09-09T15:00:40+00:00
 author: cedric
 layout: post

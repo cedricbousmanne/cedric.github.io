@@ -1,6 +1,6 @@
 ---
 id: 3175
-title: 'RT @rubyflow: beer.db &#8211; 1000+ Beers, 1000+ Breweries, 100+ Countries (…) bit.ly/1cOC2dS ping @mhulet'
+title: ''
 date: 2014-01-21T10:38:35+00:00
 author: cedric
 layout: post

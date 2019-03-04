@@ -1,6 +1,6 @@
 ---
 id: 3793
-title: '[WP] Comment séparer les trackbacks et les commentaires: Le comportement par défaut de WordPress est d&rsquo;affic.. http://tinyurl.com/7ycv67'
+title: ''
 date: 2008-12-26T19:52:17+00:00
 author: cedric
 layout: post

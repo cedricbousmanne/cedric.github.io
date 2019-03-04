@@ -1,6 +1,6 @@
 ---
 id: 2640
-title: 'RT @dr4goonis: This is how programmers sleep pic.twitter.com/uheQEa2kik'
+title: ''
 date: 2015-04-22T20:53:15+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2135
-title: 'RT @grisha: L’avenir des voitures électriques en Province du Luxembourg avec Tesla w/ @teslaClubBe #cafenarlon swarmapp.com/c/212jLLHXHHg'
+title: ''
 date: 2016-10-04T19:40:13+00:00
 author: cedric
 layout: post

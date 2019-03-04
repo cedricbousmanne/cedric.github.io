@@ -1,6 +1,6 @@
 ---
 id: 2812
-title: 'RT @greenlabcowork: Notre campagne de financement se termine le 19, encore un petit effort #crowdfunding #coworking #provLux @ululeFR http:…'
+title: ''
 date: 2015-02-16T12:59:11+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3244
-title: 'Optimiser l’autonomie de l’iPhone sur iOS 7 &#8211; buff.ly/16qzYWk'
+title: ''
 date: 2013-09-23T10:10:06+00:00
 author: cedric
 layout: post

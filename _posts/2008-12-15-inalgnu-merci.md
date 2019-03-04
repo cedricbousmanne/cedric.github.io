@@ -1,6 +1,6 @@
 ---
 id: 3783
-title: @inalgnu merci
+title: ''
 date: 2008-12-15T23:47:27+00:00
 author: cedric
 layout: post

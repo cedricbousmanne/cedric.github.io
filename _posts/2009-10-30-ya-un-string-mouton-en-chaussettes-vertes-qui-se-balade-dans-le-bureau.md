@@ -1,6 +1,6 @@
 ---
 id: 3506
-title: 'Y&rsquo;a un string-mouton en chaussettes vertes qui se balade dans le bureau…'
+title: ''
 date: 2009-10-30T15:02:19+00:00
 author: cedric
 layout: post

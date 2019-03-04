@@ -1,6 +1,6 @@
 ---
 id: 3005
-title: 'We&rsquo;ve all been there &#8211; Top 6 worst ways to report a bug : buff.ly/1zAlSmj'
+title: ''
 date: 2014-08-01T11:32:06+00:00
 author: cedric
 layout: post

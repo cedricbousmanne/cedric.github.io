@@ -1,6 +1,6 @@
 ---
 id: 3212
-title: @VincenzoR Ils sont en concert à Luxembourg à la fin du mois
+title: ''
 date: 2013-10-30T22:42:56+00:00
 author: cedric
 layout: post

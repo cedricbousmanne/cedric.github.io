@@ -1,6 +1,6 @@
 ---
 id: 2407
-title: '@SNCB blague à part, prévoyez vous des compensations pour ce genre de retard ? (Plus d&rsquo;une heure)'
+title: ''
 date: 2015-11-06T22:53:58+00:00
 author: cedric
 layout: post

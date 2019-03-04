@@ -1,6 +1,6 @@
 ---
 id: 2010
-title: Notes on writing Service Objects buff.ly/2J0Okrd
+title: ''
 date: 2018-07-13T10:26:01+00:00
 author: cedric
 layout: post

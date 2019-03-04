@@ -1,6 +1,6 @@
 ---
 id: 2796
-title: '@nicolasvalaize otherwise, i can recommend you a print designer but he&rsquo;s not on Twitter &#8211; feel free to MP for details'
+title: ''
 date: 2015-02-20T11:10:40+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2248
-title: Thanks @humancoders ! pic.twitter.com/VrtJCJq780
+title: ''
 date: 2016-03-09T18:58:57+00:00
 author: cedric
 layout: post

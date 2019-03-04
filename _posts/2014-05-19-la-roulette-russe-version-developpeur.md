@@ -1,6 +1,6 @@
 ---
 id: 3049
-title: La roulette russe, version développeur
+title: ''
 date: 2014-05-19T11:32:00+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3164
-title: Le fishing avait plus de classe quand les apprentis hacker avaient un bescherelle sous la main pic.twitter.com/rfqiWHlGkq
+title: ''
 date: 2014-01-28T09:39:57+00:00
 author: cedric
 layout: post

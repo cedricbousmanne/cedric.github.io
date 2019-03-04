@@ -1,6 +1,6 @@
 ---
 id: 2982
-title: 'Le cloud fourni des services informatique via Internet #cafenarlon'
+title: ''
 date: 2014-09-11T19:45:44+00:00
 author: cedric
 layout: post

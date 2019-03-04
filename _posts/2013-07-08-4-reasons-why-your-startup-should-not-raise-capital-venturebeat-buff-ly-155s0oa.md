@@ -1,6 +1,6 @@
 ---
 id: 3303
-title: 4 reasons why your startup should not raise capital | VentureBeat buff.ly/155S0OA
+title: ''
 date: 2013-07-08T09:48:10+00:00
 author: cedric
 layout: post

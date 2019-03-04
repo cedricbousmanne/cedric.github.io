@@ -1,6 +1,6 @@
 ---
 id: 3418
-title: Je suis à Attert (Attert, Région Wallonne) 4sq.com/LSDQYm
+title: ''
 date: 2012-05-16T18:53:00+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3377
-title: '@fstephany Tout à fait, mais ça remonte à il y a plus d&rsquo;un an maintenant. Les choses ont peut-être évoluées depuis'
+title: ''
 date: 2013-01-22T09:53:23+00:00
 author: cedric
 layout: post

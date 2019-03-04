@@ -1,6 +1,6 @@
 ---
 id: 3565
-title: @briceisme wtf?
+title: ''
 date: 2009-06-04T19:56:50+00:00
 author: cedric
 layout: post

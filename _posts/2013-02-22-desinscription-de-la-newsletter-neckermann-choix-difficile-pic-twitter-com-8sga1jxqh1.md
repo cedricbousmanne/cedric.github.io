@@ -1,6 +1,6 @@
 ---
 id: 3375
-title: 'Désinscription de la newsletter Neckermann, choix difficile&#8230; pic.twitter.com/8sga1jXqH1'
+title: ''
 date: 2013-02-22T22:26:37+00:00
 author: cedric
 layout: post

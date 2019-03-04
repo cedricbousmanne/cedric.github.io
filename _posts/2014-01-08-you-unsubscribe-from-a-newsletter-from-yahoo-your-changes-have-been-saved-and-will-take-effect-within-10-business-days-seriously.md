@@ -1,6 +1,6 @@
 ---
 id: 3183
-title: 'You unsubscribe from a newsletter from @yahoo : «  your changes have been saved and will take effect within 10 business days ». Seriously?'
+title: ''
 date: 2014-01-08T00:29:32+00:00
 author: cedric
 layout: post

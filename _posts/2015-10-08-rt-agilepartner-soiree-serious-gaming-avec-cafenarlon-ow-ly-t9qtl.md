@@ -1,6 +1,6 @@
 ---
 id: 2479
-title: 'RT @AgilePartner: Soirée Serious Gaming avec @cafeNArlon ow.ly/T9QTL'
+title: ''
 date: 2015-10-08T11:53:42+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2131
-title: 'RT @S_Team_Approved: Electric vehicules is also dealing with philosophical and green attitude @cafeNArlon @PowerdaleEV #cafeNArlon https://…'
+title: ''
 date: 2016-10-04T19:39:24+00:00
 author: cedric
 layout: post

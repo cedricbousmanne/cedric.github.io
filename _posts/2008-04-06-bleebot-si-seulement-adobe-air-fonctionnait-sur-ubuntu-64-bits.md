@@ -1,6 +1,6 @@
 ---
 id: 3863
-title: @Bleebot Si seulement Adobe AIR fonctionnait sur Ubuntu 64-bits :(
+title: ''
 date: 2008-04-06T13:10:35+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3007
-title: '@jbescoyez : Just so you know, the link to efounders.co in the job offer on workable seems down (database error)'
+title: ''
 date: 2014-08-13T12:07:56+00:00
 author: cedric
 layout: post

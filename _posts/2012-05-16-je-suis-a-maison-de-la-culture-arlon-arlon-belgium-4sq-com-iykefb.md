@@ -1,6 +1,6 @@
 ---
 id: 3420
-title: Je suis à Maison De La Culture Arlon (Arlon, Belgium) 4sq.com/IYkEFB
+title: ''
 date: 2012-05-16T19:54:19+00:00
 author: cedric
 layout: post

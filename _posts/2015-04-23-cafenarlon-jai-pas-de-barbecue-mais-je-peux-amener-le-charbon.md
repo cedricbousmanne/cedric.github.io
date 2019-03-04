@@ -1,6 +1,6 @@
 ---
 id: 2650
-title: '@cafenarlon j&rsquo;ai pas de barbecue, mais je peux amener le charbon !'
+title: ''
 date: 2015-04-23T22:41:20+00:00
 author: cedric
 layout: post

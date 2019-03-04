@@ -1,6 +1,6 @@
 ---
 id: 2834
-title: 'RT @greenlabcowork: Greenlab Coworking Arlon : présentation du projet en vidéo #coworking #crowdfunding #arlon #ProvLux @ProvLux http://t.c…'
+title: ''
 date: 2015-02-07T15:18:15+00:00
 author: cedric
 layout: post

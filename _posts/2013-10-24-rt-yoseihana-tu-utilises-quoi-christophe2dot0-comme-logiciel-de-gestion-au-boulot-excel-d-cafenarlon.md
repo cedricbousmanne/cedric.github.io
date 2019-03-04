@@ -1,6 +1,6 @@
 ---
 id: 3228
-title: 'RT @yoseihana: « Tu utilises quoi @Christophe2dot0 comme logiciel de gestion au boulot? » « excel »&#8230; :D #cafenarlon'
+title: ''
 date: 2013-10-24T22:11:08+00:00
 author: cedric
 layout: post

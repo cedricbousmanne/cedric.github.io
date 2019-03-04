@@ -1,6 +1,6 @@
 ---
 id: 3174
-title: 'RT @javrycoffee: Gagnez 1 an de café Javry! Il suffit de vous inscrire ici: javry.com Bonne chance à tous.'
+title: ''
 date: 2014-01-20T10:26:36+00:00
 author: cedric
 layout: post

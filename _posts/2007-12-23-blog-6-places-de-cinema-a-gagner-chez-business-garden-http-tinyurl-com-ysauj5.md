@@ -1,6 +1,6 @@
 ---
 id: 3888
-title: '[blog] 6 places de cinéma a gagner chez Business Garden http://tinyurl.com/ysauj5'
+title: ''
 date: 2007-12-23T12:42:52+00:00
 author: cedric
 layout: post

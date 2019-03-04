@@ -1,6 +1,6 @@
 ---
 id: 2348
-title: 'Attendre plus de 15min au Carrefour Drive, je pense que c&rsquo;est la définition de « contre-productivité » @Carrefour_bnews'
+title: ''
 date: 2015-12-18T19:39:46+00:00
 author: cedric
 layout: post

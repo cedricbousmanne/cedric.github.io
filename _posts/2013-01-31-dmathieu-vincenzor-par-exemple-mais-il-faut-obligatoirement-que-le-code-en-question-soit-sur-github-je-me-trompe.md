@@ -1,6 +1,6 @@
 ---
 id: 3385
-title: @dmathieu @VincenzoR par exemple, mais il faut obligatoirement que le code en question soit sur GitHub je me trompe?
+title: ''
 date: 2013-01-31T09:41:59+00:00
 author: cedric
 layout: post

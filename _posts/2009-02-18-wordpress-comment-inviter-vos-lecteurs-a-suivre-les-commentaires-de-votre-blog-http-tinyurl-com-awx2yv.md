@@ -1,6 +1,6 @@
 ---
 id: 3677
-title: '#wordpress Comment inviter vos lecteurs à suivre les commentaires de votre blog http://tinyurl.com/awx2yv'
+title: ''
 date: 2009-02-18T08:52:43+00:00
 author: cedric
 layout: post

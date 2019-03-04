@@ -1,6 +1,6 @@
 ---
 id: 2700
-title: 'C&rsquo;est la fin. @prignony n&rsquo;a plus de batterie. Son portable et son téléphone non plus #hackalux'
+title: ''
 date: 2015-03-21T21:42:28+00:00
 author: cedric
 layout: post

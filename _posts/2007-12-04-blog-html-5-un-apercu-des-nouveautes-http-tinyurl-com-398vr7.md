@@ -1,6 +1,6 @@
 ---
 id: 3924
-title: '[blog] HTML 5, un aperçu des nouveautés http://tinyurl.com/398vr7'
+title: ''
 date: 2007-12-04T17:44:28+00:00
 author: cedric
 layout: post

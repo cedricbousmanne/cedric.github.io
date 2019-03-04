@@ -1,6 +1,6 @@
 ---
 id: 3336
-title: 'Apprendre Ruby on Rails pour un non-développeur &#8211;  buff.ly/17MmwmF'
+title: ''
 date: 2013-06-30T21:12:11+00:00
 author: cedric
 layout: post

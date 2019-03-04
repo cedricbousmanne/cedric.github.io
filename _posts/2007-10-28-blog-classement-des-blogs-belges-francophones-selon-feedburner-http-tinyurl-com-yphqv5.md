@@ -1,6 +1,6 @@
 ---
 id: 3966
-title: '[blog] Classement des blogs belges francophones selon FeedBurner http://tinyurl.com/yphqv5'
+title: ''
 date: 2007-10-28T03:46:02+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3444
-title: « undefined » is null or not an object (prototype.js, 214) with Lightview on IE8 http://post.ly/QsXD
+title: ''
 date: 2010-03-05T10:00:01+00:00
 author: cedric
 layout: post

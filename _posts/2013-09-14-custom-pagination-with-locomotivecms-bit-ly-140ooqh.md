@@ -1,6 +1,6 @@
 ---
 id: 3243
-title: Custom pagination with LocomotiveCMS bit.ly/140OoQh
+title: ''
 date: 2013-09-14T16:11:22+00:00
 author: cedric
 layout: post

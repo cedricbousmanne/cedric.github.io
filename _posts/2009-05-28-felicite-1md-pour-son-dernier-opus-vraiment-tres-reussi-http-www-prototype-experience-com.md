@@ -1,6 +1,6 @@
 ---
 id: 3583
-title: 'Félicite @1MD pour son dernier opus, vraiment très réussi : http://www.prototype-experience.com/'
+title: ''
 date: 2009-05-28T21:05:18+00:00
 author: cedric
 layout: post

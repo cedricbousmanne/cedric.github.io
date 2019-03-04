@@ -1,6 +1,6 @@
 ---
 id: 2457
-title: @yoseihana @xtordoir @_xi_ Aaaah ! Je me suis emmêlé les pinceaux alors ;-)
+title: ''
 date: 2015-10-20T20:55:58+00:00
 author: cedric
 layout: post

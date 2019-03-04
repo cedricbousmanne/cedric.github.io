@@ -1,6 +1,6 @@
 ---
 id: 2393
-title: 'Un cookie c&rsquo;est un biscuit non? #cafenarlon'
+title: ''
 date: 2015-11-25T21:35:28+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4054
-title: 'Note personnelle : penser à faire un backup de mon disque dur, on ne sait jamais&#8230;'
+title: ''
 date: 2007-06-18T12:57:08+00:00
 author: cedric
 layout: post

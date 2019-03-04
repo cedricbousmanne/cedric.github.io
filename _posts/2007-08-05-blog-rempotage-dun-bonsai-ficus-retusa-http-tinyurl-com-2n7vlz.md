@@ -1,6 +1,6 @@
 ---
 id: 4033
-title: '[blog] Rempotage d’un bonsai &#8211; ficus rétusa http://tinyurl.com/2n7vlz'
+title: ''
 date: 2007-08-05T16:10:57+00:00
 author: cedric
 layout: post

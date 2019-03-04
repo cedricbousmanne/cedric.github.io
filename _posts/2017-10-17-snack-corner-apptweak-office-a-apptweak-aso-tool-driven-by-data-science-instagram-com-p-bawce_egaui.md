@@ -1,6 +1,6 @@
 ---
 id: 2094
-title: 'Snack corner @AppTweak office à AppTweak: ASO Tool Driven by Data Science instagram.com/p/BaWcE_egAUi/'
+title: ''
 date: 2017-10-17T15:21:17+00:00
 author: cedric
 layout: post

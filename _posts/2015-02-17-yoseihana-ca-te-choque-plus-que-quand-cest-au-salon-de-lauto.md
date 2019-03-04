@@ -1,6 +1,6 @@
 ---
 id: 2813
-title: '@yoseihana ça te choque plus que quand c&rsquo;est au salon de l&rsquo;auto ?'
+title: ''
 date: 2015-02-17T09:35:29+00:00
 author: cedric
 layout: post

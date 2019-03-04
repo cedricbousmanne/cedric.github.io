@@ -1,6 +1,6 @@
 ---
 id: 3883
-title: '[blog] Pourquoi je n’ai pas acheté l’Asus EEE http://tinyurl.com/3e3ee3'
+title: ''
 date: 2008-01-27T14:40:01+00:00
 author: cedric
 layout: post

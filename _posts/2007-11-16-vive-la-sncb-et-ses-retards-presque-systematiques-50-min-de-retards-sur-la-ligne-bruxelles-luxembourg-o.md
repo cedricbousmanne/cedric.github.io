@@ -1,6 +1,6 @@
 ---
 id: 3940
-title: 'Vive la SNCB et ses retards « presque » systématiques&#8230; 50 min de retards sur la ligne Bruxelles-Luxembourg o/'
+title: ''
 date: 2007-11-16T21:24:41+00:00
 author: cedric
 layout: post

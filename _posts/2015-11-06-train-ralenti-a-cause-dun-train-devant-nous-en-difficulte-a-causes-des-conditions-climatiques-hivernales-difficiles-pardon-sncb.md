@@ -1,6 +1,6 @@
 ---
 id: 2403
-title: 'Train ralenti à cause d&rsquo;un train devant nous « en difficulté à causes des conditions climatiques hivernales difficiles » &#8211; pardon? @SNCB'
+title: ''
 date: 2015-11-06T22:40:18+00:00
 author: cedric
 layout: post

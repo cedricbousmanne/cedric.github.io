@@ -1,6 +1,6 @@
 ---
 id: 2252
-title: 'RT @wborsus: Clôture de cette étape luxembourgeoise de la tournée digitale par @alexanderdecroo #begov pic.twitter.com/xcVcMm50Fe'
+title: ''
 date: 2016-02-16T22:05:07+00:00
 author: cedric
 layout: post

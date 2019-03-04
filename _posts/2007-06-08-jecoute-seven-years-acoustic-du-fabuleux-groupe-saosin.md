@@ -1,6 +1,6 @@
 ---
 id: 4081
-title: 'J&rsquo;écoute « Seven Years, Acoustic » du fabuleux groupe Saosin'
+title: ''
 date: 2007-06-08T21:40:57+00:00
 author: cedric
 layout: post

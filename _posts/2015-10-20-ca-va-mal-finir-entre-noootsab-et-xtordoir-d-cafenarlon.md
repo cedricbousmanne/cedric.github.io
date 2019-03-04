@@ -1,6 +1,6 @@
 ---
 id: 2449
-title: 'Ca va mal finir entre @noootsab et @xtordoir :-D #cafenarlon'
+title: ''
 date: 2015-10-20T20:13:22+00:00
 author: cedric
 layout: post

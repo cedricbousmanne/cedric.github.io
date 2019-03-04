@@ -1,6 +1,6 @@
 ---
 id: 3489
-title: 'RT @chollier: HUU j&rsquo;avais pas vu, mon père dit « lol » à ma grand-mère sur facebook  http://twitpic.com/p9if8  #kikoofamily'
+title: ''
 date: 2009-11-13T09:44:27+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3207
-title: 'RT @svenpet: 11 Steps To Become a Better Coder pic.twitter.com/P6O4whuFqn'
+title: ''
 date: 2013-12-22T14:48:13+00:00
 author: cedric
 layout: post

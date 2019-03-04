@@ -1,6 +1,6 @@
 ---
 id: 2504
-title: '@Groumphy j&rsquo;ai peur de retweeter du coup :-D'
+title: ''
 date: 2015-10-06T22:12:13+00:00
 author: cedric
 layout: post

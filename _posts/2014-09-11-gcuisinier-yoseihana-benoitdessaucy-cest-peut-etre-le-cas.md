@@ -1,6 +1,6 @@
 ---
 id: 2972
-title: '@gcuisinier @yoseihana @benoitdessaucy C&rsquo;est peut-être le cas ;-)'
+title: ''
 date: 2014-09-11T08:47:38+00:00
 author: cedric
 layout: post

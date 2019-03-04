@@ -1,6 +1,6 @@
 ---
 id: 3475
-title: achevez-moi, @vincenzor est passé à la country :-
+title: ''
 date: 2009-12-28T18:31:31+00:00
 author: cedric
 layout: post

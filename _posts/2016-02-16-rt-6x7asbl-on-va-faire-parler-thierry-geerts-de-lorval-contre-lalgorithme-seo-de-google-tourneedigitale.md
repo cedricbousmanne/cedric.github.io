@@ -1,6 +1,6 @@
 ---
 id: 2276
-title: 'RT @6x7asbl: On va faire parler Thierry Geerts : de l&rsquo;Orval contre l&rsquo;algorithme SEO de Google #TourneeDigitale'
+title: ''
 date: 2016-02-16T21:18:07+00:00
 author: cedric
 layout: post

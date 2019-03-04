@@ -1,6 +1,6 @@
 ---
 id: 3389
-title: 'RT @emmanuelvivier: Facebook sort sa carte bleue- Ecrans bit.ly/14DVd9C'
+title: ''
 date: 2013-02-01T22:33:11+00:00
 author: cedric
 layout: post

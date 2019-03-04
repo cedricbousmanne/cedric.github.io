@@ -1,6 +1,6 @@
 ---
 id: 4036
-title: Retouche photo avec DigiKam, rien de plus simple
+title: ''
 date: 2007-07-26T22:46:21+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2944
-title: @PascalDuc on pourrait en parler, mais on devrait te faire disparaître après :-P
+title: ''
 date: 2014-09-11T21:10:10+00:00
 author: cedric
 layout: post

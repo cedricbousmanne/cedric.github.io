@@ -1,6 +1,6 @@
 ---
 id: 3540
-title: 'Camino Acid-test&#8230; Fail :  http://twitpic.com/7d8a7'
+title: ''
 date: 2009-06-14T11:17:52+00:00
 author: cedric
 layout: post

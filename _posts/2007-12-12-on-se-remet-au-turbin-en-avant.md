@@ -1,6 +1,6 @@
 ---
 id: 3905
-title: 'On se remet au turbin&#8230; en avant!'
+title: ''
 date: 2007-12-12T15:37:43+00:00
 author: cedric
 layout: post

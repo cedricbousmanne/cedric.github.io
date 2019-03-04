@@ -1,6 +1,6 @@
 ---
 id: 2147
-title: 'RT @LeGreenhub: Retour en image sur l&rsquo;atelier Make a #robot du 24/09. Prochain rdv le 5/11 à Marche.  bit.ly/2d3dloC'
+title: ''
 date: 2016-09-28T13:54:44+00:00
 author: cedric
 layout: post

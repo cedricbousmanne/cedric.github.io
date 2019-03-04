@@ -1,6 +1,6 @@
 ---
 id: 4044
-title: '[blog] Mail ouvert à Medium4You http://tinyurl.com/2t2glw'
+title: ''
 date: 2007-07-31T15:13:56+00:00
 author: cedric
 layout: post

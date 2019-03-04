@@ -1,6 +1,6 @@
 ---
 id: 2360
-title: 'RT @prignony: Un gestionnaire de #startup il a tous les chapeau #cafenarlon'
+title: ''
 date: 2015-12-15T22:08:23+00:00
 author: cedric
 layout: post

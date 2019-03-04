@@ -1,6 +1,6 @@
 ---
 id: 2077
-title: '1mm de neige et c&rsquo;est la cata #provlux pic.twitter.com/ZAlO1JjqaY'
+title: ''
 date: 2017-12-08T19:40:24+00:00
 author: cedric
 layout: post

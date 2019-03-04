@@ -1,6 +1,6 @@
 ---
 id: 2377
-title: Hello, World! pic.twitter.com/fv78YaNgmq
+title: ''
 date: 2015-12-13T00:06:43+00:00
 author: cedric
 layout: post

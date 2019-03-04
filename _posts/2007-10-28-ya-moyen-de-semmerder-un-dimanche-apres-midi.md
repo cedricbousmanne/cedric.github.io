@@ -1,6 +1,6 @@
 ---
 id: 3968
-title: 'Y&rsquo;a moyen de s&#8217;emmerder un dimanche après midi?'
+title: ''
 date: 2007-10-28T15:27:34+00:00
 author: cedric
 layout: post

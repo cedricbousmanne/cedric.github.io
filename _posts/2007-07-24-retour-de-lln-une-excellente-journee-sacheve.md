@@ -1,6 +1,6 @@
 ---
 id: 4063
-title: 'Retour de LLN&#8230; Une excellente journée s&rsquo;achève!'
+title: ''
 date: 2007-07-24T18:17:46+00:00
 author: cedric
 layout: post

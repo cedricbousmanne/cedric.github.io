@@ -1,6 +1,6 @@
 ---
 id: 3607
-title: '@maximeguernion pourquoi pas, en tout cas si tu le fais, j&rsquo;irais certainement y jetter un oeil'
+title: ''
 date: 2009-04-21T17:37:11+00:00
 author: cedric
 layout: post

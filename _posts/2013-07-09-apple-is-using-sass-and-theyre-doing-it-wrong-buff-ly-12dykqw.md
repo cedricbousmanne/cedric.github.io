@@ -1,6 +1,6 @@
 ---
 id: 3313
-title: 'Apple Is Using Sass, And They’re Doing It Wrong  buff.ly/12dyKQW'
+title: ''
 date: 2013-07-09T16:05:27+00:00
 author: cedric
 layout: post

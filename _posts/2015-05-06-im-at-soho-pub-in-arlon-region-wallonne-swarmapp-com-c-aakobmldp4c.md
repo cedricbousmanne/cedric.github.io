@@ -1,6 +1,6 @@
 ---
 id: 2637
-title: 'I&rsquo;m at Soho Pub in Arlon, Région Wallonne swarmapp.com/c/aAkObmldp4C'
+title: ''
 date: 2015-05-06T21:32:26+00:00
 author: cedric
 layout: post

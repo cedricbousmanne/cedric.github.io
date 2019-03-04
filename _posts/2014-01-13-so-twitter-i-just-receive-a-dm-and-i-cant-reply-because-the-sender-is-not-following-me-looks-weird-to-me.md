@@ -1,6 +1,6 @@
 ---
 id: 3196
-title: So @twitter, I just receive a DM and i can’t reply because the sender is not following me… Looks weird to me ;-)
+title: ''
 date: 2014-01-13T18:24:32+00:00
 author: cedric
 layout: post

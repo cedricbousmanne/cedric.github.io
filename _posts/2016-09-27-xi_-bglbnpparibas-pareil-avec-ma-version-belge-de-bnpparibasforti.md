@@ -1,6 +1,6 @@
 ---
 id: 2146
-title: @_Xi_ @BGLBNPParibas pareil avec ma version belge de @bnpparibasforti
+title: ''
 date: 2016-09-27T09:39:28+00:00
 author: cedric
 layout: post

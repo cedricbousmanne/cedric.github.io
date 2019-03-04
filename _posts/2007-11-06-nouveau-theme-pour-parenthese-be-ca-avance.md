@@ -1,6 +1,6 @@
 ---
 id: 3951
-title: 'nouveau thème pour parenthèse.be&#8230; ça avance!'
+title: ''
 date: 2007-11-06T16:53:32+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3564
-title: @Groumphy Tu as pensé à un captcha négatif?
+title: ''
 date: 2009-06-04T11:11:26+00:00
 author: cedric
 layout: post

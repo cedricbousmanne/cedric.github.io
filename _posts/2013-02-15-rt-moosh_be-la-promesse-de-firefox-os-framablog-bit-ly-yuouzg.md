@@ -1,6 +1,6 @@
 ---
 id: 3364
-title: 'RT @Moosh_be: La promesse de Firefox OS &#8211; Framablog bit.ly/YuOuZG'
+title: ''
 date: 2013-02-15T22:47:51+00:00
 author: cedric
 layout: post

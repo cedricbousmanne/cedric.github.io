@@ -1,6 +1,6 @@
 ---
 id: 2339
-title: 'RT @benoitdessaucy: « Personne dans l&rsquo;équipe de la #startup n&rsquo;a d&rsquo;enfant. Mais ça peut vite s&rsquo;arranger&#8230; » #cnarlon pic.twitter.com/LFXzSoNECs'
+title: ''
 date: 2015-12-16T00:05:28+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3750
-title: '-13° à Louvain-la-Neuve&#8230;charmant http://www.hurl.ws/jaz'
+title: ''
 date: 2009-01-06T09:28:40+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3462
-title: 301 permanent redirect with Nginx http://post.ly/KpAl
+title: ''
 date: 2010-01-27T17:33:31+00:00
 author: cedric
 layout: post

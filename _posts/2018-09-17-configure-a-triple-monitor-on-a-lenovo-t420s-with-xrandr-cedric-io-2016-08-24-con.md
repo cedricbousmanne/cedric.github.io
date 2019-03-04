@@ -1,6 +1,6 @@
 ---
 id: 1996
-title: Configure a triple monitor on a Lenovo T420s with xrandr cedric.io/2016/08/24/con…
+title: ''
 date: 2018-09-17T11:09:13+00:00
 author: cedric
 layout: post

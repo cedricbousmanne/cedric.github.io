@@ -1,6 +1,6 @@
 ---
 id: 3639
-title: '@maigretsblog  http://bit.ly/2XZCPQ : testé et approuvé ;-)'
+title: ''
 date: 2009-04-13T10:23:44+00:00
 author: cedric
 layout: post

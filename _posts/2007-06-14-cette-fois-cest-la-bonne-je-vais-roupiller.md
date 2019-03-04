@@ -1,6 +1,6 @@
 ---
 id: 4070
-title: 'Cette fois, c&rsquo;est la bonne, je vais roupiller'
+title: ''
 date: 2007-06-14T04:17:48+00:00
 author: cedric
 layout: post

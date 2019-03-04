@@ -1,6 +1,6 @@
 ---
 id: 2683
-title: @evanlaloux lance une campagne de crowdfunding !
+title: ''
 date: 2015-03-31T21:43:40+00:00
 author: cedric
 layout: post

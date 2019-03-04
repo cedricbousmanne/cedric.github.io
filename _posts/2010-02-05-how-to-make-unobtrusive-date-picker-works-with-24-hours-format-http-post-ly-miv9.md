@@ -1,6 +1,6 @@
 ---
 id: 3440
-title: How to make Unobtrusive Date-Picker works with 24-hours format http://post.ly/MIV9
+title: ''
 date: 2010-02-05T12:20:54+00:00
 author: cedric
 layout: post

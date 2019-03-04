@@ -1,6 +1,6 @@
 ---
 id: 4018
-title: 'Retour de 4 jours paradisiaques&#8230; Promenade, ciné, Bruxelles, Louvain-la-Neuve&#8230; Ah :-)'
+title: ''
 date: 2007-08-18T17:52:10+00:00
 author: cedric
 layout: post

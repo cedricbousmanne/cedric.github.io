@@ -1,6 +1,6 @@
 ---
 id: 2628
-title: '@yoseihana @_xi_ * jette une pierre *'
+title: ''
 date: 2015-04-29T15:41:29+00:00
 author: cedric
 layout: post

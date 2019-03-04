@@ -1,6 +1,6 @@
 ---
 id: 3972
-title: '[blog] Le buzz mystère : indice #2 http://tinyurl.com/2n86hh'
+title: ''
 date: 2007-11-02T21:45:25+00:00
 author: cedric
 layout: post

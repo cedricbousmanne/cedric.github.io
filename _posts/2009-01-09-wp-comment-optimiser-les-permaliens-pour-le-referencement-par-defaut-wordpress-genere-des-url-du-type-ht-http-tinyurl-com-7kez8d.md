@@ -1,6 +1,6 @@
 ---
 id: 3758
-title: '[WP] Comment optimiser les permaliens pour le référencement: Par défaut, WordPress génère des URL du type ht.. http://tinyurl.com/7kez8d'
+title: ''
 date: 2009-01-09T13:52:37+00:00
 author: cedric
 layout: post

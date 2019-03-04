@@ -1,6 +1,6 @@
 ---
 id: 2623
-title: 'RT @cafeNArlon: #cafenarlon pic.twitter.com/yU1RUFQTQj'
+title: ''
 date: 2015-05-27T20:20:39+00:00
 author: cedric
 layout: post

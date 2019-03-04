@@ -1,6 +1,6 @@
 ---
 id: 3525
-title: 'Deuxième séance photo chez Pepper &#038; Koffee pour laPatate.be !'
+title: ''
 date: 2009-08-18T12:05:08+00:00
 author: cedric
 layout: post

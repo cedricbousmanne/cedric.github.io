@@ -1,6 +1,6 @@
 ---
 id: 2455
-title: '@yoseihana @xtordoir @_xi_ je croyais que c&rsquo;était cours de piscine :-D'
+title: ''
 date: 2015-10-20T20:53:31+00:00
 author: cedric
 layout: post

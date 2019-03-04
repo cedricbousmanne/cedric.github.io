@@ -1,6 +1,6 @@
 ---
 id: 3189
-title: @yoseihana un vendredi en plus, c’est vraiment du sadisme ;-)
+title: ''
 date: 2014-01-10T19:40:59+00:00
 author: cedric
 layout: post

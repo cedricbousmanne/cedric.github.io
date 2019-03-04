@@ -1,6 +1,6 @@
 ---
 id: 2540
-title: 'RT @sadserver: does it count as quantum computing if your application simultaneously exists in two discretely fucked up states?'
+title: ''
 date: 2015-09-04T09:49:54+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3914
-title: '[blog] Recadrer une photographie suivant la règle des tiers avec The Gimp http://tinyurl.com/2xnabn'
+title: ''
 date: 2007-11-18T14:46:15+00:00
 author: cedric
 layout: post

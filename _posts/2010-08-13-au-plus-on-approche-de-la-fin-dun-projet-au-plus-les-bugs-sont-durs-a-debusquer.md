@@ -1,6 +1,6 @@
 ---
 id: 3446
-title: 'Au plus on approche de la fin d&rsquo;un projet, au plus les bugs sont durs à debusquer'
+title: ''
 date: 2010-08-13T11:24:58+00:00
 author: cedric
 layout: post

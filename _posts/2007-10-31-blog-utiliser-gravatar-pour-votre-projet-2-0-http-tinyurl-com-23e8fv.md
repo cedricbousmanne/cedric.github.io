@@ -1,6 +1,6 @@
 ---
 id: 3971
-title: '[blog] Utiliser Gravatar pour votre projet 2.0 http://tinyurl.com/23e8fv'
+title: ''
 date: 2007-10-31T11:45:30+00:00
 author: cedric
 layout: post

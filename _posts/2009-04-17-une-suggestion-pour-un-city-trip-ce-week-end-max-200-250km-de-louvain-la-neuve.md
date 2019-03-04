@@ -1,6 +1,6 @@
 ---
 id: 3619
-title: Une suggestion pour un city-trip ce week-end? Max. 200/250km de Louvain-la-Neuve
+title: ''
 date: 2009-04-17T12:51:13+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3537
-title: 'Utilisation des navigateurs 1994 &#8211; 2006 : http://bit.ly/1zhIV6'
+title: ''
 date: 2009-06-13T11:05:48+00:00
 author: cedric
 layout: post

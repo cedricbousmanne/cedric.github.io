@@ -1,6 +1,6 @@
 ---
 id: 2770
-title: 'RT @cafeNArlon: Retour sur notre #cafenarlon et les #3Dprinters avec @BulbZone @Rlambay et @xtensys  http://t.co/fcK2MZXg5w'
+title: ''
 date: 2015-03-02T11:18:40+00:00
 author: cedric
 layout: post

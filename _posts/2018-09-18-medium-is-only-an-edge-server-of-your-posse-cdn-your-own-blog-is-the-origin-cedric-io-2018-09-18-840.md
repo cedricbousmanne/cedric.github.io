@@ -1,6 +1,6 @@
 ---
 id: 2005
-title: 'Medium is only an edge server of your POSSE CDN, your own blog is the origin –&#8230; &#8211; cedric.io/2018/09/18/840/'
+title: ''
 date: 2018-09-18T17:24:32+00:00
 author: cedric
 layout: post

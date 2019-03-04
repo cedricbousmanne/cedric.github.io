@@ -1,6 +1,6 @@
 ---
 id: 3812
-title: @Chacsam et ça donne quoi? :-)
+title: ''
 date: 2008-10-25T15:45:46+00:00
 author: cedric
 layout: post

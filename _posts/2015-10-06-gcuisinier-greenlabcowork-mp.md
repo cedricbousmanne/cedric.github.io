@@ -1,6 +1,6 @@
 ---
 id: 2501
-title: @gcuisinier @greenlabcowork MP :-)
+title: ''
 date: 2015-10-06T17:40:54+00:00
 author: cedric
 layout: post

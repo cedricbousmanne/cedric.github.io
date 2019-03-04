@@ -1,6 +1,6 @@
 ---
 id: 3076
-title: 'The Dash, les premières oreillettes ultra-connectées aux possibilités infinies | le geek c&rsquo;est chic buff.ly/1jJ4eGS'
+title: ''
 date: 2014-05-12T11:32:06+00:00
 author: cedric
 layout: post

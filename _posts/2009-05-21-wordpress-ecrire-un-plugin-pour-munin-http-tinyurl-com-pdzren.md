@@ -1,6 +1,6 @@
 ---
 id: 3574
-title: '#wordpress Ecrire un plugin pour Munin http://tinyurl.com/pdzren'
+title: ''
 date: 2009-05-21T15:55:20+00:00
 author: cedric
 layout: post

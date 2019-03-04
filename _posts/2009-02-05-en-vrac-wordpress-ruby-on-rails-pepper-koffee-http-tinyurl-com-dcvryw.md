@@ -1,6 +1,6 @@
 ---
 id: 3691
-title: 'En vrac &#8211; WordPress, Ruby On Rails, Pepper &#038; Koffee http://tinyurl.com/dcvryw'
+title: ''
 date: 2009-02-05T22:54:57+00:00
 author: cedric
 layout: post

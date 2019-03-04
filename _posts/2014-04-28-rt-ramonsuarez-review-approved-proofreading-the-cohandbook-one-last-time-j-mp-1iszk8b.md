@@ -1,6 +1,6 @@
 ---
 id: 3088
-title: 'RT @ramonsuarez: Review approved! Proofreading the @cohandbook one last time :) j.mp/1isZK8b'
+title: ''
 date: 2014-04-28T19:43:02+00:00
 author: cedric
 layout: post

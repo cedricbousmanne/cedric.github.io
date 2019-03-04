@@ -1,6 +1,6 @@
 ---
 id: 2734
-title: 'Zone de travail #hackalux'
+title: ''
 date: 2015-03-20T14:04:25+00:00
 author: cedric
 layout: post

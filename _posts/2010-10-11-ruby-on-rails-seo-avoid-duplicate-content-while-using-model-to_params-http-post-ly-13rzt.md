@@ -1,6 +1,6 @@
 ---
 id: 3426
-title: 'Ruby on Rails SEO : avoid duplicate content while using Model.to_params http://post.ly/13RZt'
+title: ''
 date: 2010-10-11T14:08:21+00:00
 author: cedric
 layout: post

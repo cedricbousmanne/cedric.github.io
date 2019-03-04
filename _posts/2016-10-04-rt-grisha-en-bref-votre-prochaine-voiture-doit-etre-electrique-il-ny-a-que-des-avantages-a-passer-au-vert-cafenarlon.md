@@ -1,6 +1,6 @@
 ---
 id: 2132
-title: 'RT @grisha: En bref votre prochaine voiture doit être électrique. Il n&rsquo;y a que des avantages à passer au vert ! #cafenarlon'
+title: ''
 date: 2016-10-04T19:39:43+00:00
 author: cedric
 layout: post

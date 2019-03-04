@@ -1,6 +1,6 @@
 ---
 id: 3581
-title: '@Vinch01 : http://bit.ly/13zye1'
+title: ''
 date: 2009-05-24T20:30:07+00:00
 author: cedric
 layout: post

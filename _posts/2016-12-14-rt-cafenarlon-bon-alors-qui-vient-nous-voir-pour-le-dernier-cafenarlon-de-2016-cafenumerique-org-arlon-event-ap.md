@@ -1,6 +1,6 @@
 ---
 id: 2127
-title: 'RT @cafeNArlon: Bon alors qui vient nous voir pour le dernier #cafenarlon de 2016? :) cafenumerique.org/arlon/event/ap…'
+title: ''
 date: 2016-12-14T12:01:34+00:00
 author: cedric
 layout: post

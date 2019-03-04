@@ -1,6 +1,6 @@
 ---
 id: 3893
-title: Code Igniter, ça poutre!
+title: ''
 date: 2008-01-03T14:57:39+00:00
 author: cedric
 layout: post

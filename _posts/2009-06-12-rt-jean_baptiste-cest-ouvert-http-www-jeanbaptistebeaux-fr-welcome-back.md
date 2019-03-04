@@ -1,6 +1,6 @@
 ---
 id: 3535
-title: 'RT @jean_baptiste: C&rsquo;est ouvert&#8230; http://www.jeanbaptistebeaux.fr/ =&gt; welcome back :)'
+title: ''
 date: 2009-06-12T20:03:01+00:00
 author: cedric
 layout: post

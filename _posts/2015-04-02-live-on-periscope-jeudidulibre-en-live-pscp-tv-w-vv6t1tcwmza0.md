@@ -1,6 +1,6 @@
 ---
 id: 2666
-title: 'LIVE on #Periscope: #JeudiDuLibre en Live pscp.tv/w/Vv6t1TcwMzA0…'
+title: ''
 date: 2015-04-02T19:20:37+00:00
 author: cedric
 layout: post

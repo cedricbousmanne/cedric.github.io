@@ -1,6 +1,6 @@
 ---
 id: 2386
-title: '@proximus DM envoyé &#8211; Merci pour le suivi'
+title: ''
 date: 2015-11-23T14:46:03+00:00
 author: cedric
 layout: post

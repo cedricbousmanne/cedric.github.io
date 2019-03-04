@@ -1,6 +1,6 @@
 ---
 id: 3928
-title: '[blog] HTTParty #20 http://tinyurl.com/yosk48'
+title: ''
 date: 2007-12-08T13:43:54+00:00
 author: cedric
 layout: post

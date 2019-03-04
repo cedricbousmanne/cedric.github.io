@@ -1,6 +1,6 @@
 ---
 id: 3739
-title: '@spawnrider : chez moi c&rsquo;était divisé par 3 :s'
+title: ''
 date: 2009-01-22T00:20:49+00:00
 author: cedric
 layout: post

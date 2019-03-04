@@ -1,6 +1,6 @@
 ---
 id: 3498
-title: 'RT @VincenzoR: Les équipes de la RTBF viennent litéralement de retourner nos bureaux :)'
+title: ''
 date: 2009-08-20T13:16:50+00:00
 author: cedric
 layout: post

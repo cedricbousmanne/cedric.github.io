@@ -1,6 +1,6 @@
 ---
 id: 3953
-title: '@Groumphy : et comment, il va en falloir! :s Bonne journée à tous!'
+title: ''
 date: 2007-11-07T09:04:46+00:00
 author: cedric
 layout: post

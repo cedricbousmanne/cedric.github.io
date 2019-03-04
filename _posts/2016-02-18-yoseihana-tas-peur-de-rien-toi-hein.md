@@ -1,6 +1,6 @@
 ---
 id: 2260
-title: @yoseihana t’as peur de rien toi hein? ;-)
+title: ''
 date: 2016-02-18T17:13:38+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3273
-title: 'Ergonomie web : les mythes et légendes ont la vie dure…  buff.ly/1bWmJED'
+title: ''
 date: 2013-07-26T22:30:09+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3139
-title: @roneo on @greenlabcowork website, a coworking space project we’re working on. I’ll let you know as soon as the translation is published
+title: ''
 date: 2014-01-30T09:40:02+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3747
-title: '[RoR] Recevoir un eMail à chaque erreur dans votre application Rails http://tinyurl.com/bjtgl4'
+title: ''
 date: 2009-01-30T12:53:42+00:00
 author: cedric
 layout: post

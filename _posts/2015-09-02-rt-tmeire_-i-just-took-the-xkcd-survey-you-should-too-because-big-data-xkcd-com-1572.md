@@ -1,6 +1,6 @@
 ---
 id: 2561
-title: 'RT @tmeire_: I just took the XKCD Survey. You should too. Because Big Data. xkcd.com/1572/'
+title: ''
 date: 2015-09-02T22:40:42+00:00
 author: cedric
 layout: post

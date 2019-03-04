@@ -1,6 +1,6 @@
 ---
 id: 3667
-title: 'Is now following @lhektsok : amazing pictures on http://www.lhektsok.net/'
+title: ''
 date: 2009-03-17T22:59:16+00:00
 author: cedric
 layout: post

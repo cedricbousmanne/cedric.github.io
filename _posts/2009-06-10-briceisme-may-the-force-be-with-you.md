@@ -1,6 +1,6 @@
 ---
 id: 3530
-title: @briceisme may the force be with you :)
+title: ''
 date: 2009-06-10T20:04:50+00:00
 author: cedric
 layout: post

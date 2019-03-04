@@ -1,6 +1,6 @@
 ---
 id: 3509
-title: acts_as_ferret = headache
+title: ''
 date: 2009-11-10T12:46:05+00:00
 author: cedric
 layout: post

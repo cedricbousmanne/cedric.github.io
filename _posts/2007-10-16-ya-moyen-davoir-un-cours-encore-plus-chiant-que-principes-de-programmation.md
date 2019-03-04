@@ -1,6 +1,6 @@
 ---
 id: 3976
-title: 'Y&rsquo;a moyen d&rsquo;avoir un cours encore plus chiant que « principes de programmation »?'
+title: ''
 date: 2007-10-16T11:40:38+00:00
 author: cedric
 layout: post

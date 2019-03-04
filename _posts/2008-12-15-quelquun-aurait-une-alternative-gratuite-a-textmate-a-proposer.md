@@ -1,6 +1,6 @@
 ---
 id: 3781
-title: 'quelqu&rsquo;un aurait une alternative gratuite à TextMate à proposer?'
+title: ''
 date: 2008-12-15T22:38:12+00:00
 author: cedric
 layout: post

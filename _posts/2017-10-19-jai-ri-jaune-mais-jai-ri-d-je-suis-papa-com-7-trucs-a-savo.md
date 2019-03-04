@@ -1,6 +1,6 @@
 ---
 id: 2097
-title: 'J&rsquo;ai ri. Jaune, mais j&rsquo;ai ri :-D je-suis-papa.com/7-trucs-a-savo…'
+title: ''
 date: 2017-10-19T13:59:23+00:00
 author: cedric
 layout: post

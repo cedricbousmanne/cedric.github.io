@@ -1,6 +1,6 @@
 ---
 id: 3181
-title: 10 Programming Languages You Should Learn in 2014 buff.ly/1fW9aIJ
+title: ''
 date: 2014-01-22T18:21:09+00:00
 author: cedric
 layout: post

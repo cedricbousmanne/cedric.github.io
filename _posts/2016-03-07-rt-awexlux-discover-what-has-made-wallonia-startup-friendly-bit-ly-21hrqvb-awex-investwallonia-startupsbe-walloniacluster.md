@@ -1,6 +1,6 @@
 ---
 id: 2246
-title: 'RT @AwexLux: Discover what has made #Wallonia #startup friendly bit.ly/21HRqVB #AWEX @InvestWallonia @StartupsBe @WalloniaCluster …'
+title: ''
 date: 2016-03-07T13:25:18+00:00
 author: cedric
 layout: post

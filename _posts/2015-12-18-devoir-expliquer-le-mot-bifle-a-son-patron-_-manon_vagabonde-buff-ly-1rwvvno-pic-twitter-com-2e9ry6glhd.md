@@ -1,6 +1,6 @@
 ---
 id: 2350
-title: 'Devoir expliquer le mot « bifle » à son patron -_- @manon_vagabonde buff.ly/1RWvVNo pic.twitter.com/2E9Ry6glhD'
+title: ''
 date: 2015-12-18T23:41:07+00:00
 author: cedric
 layout: post

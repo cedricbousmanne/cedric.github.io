@@ -1,6 +1,6 @@
 ---
 id: 3939
-title: '[blog] Nouveau design'
+title: ''
 date: 2007-11-16T07:45:39+00:00
 author: cedric
 layout: post

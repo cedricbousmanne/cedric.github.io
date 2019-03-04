@@ -1,8 +1,6 @@
 ---
 id: 2627
-title: |
-  @yoseihana @_xi_ Licence BSD, je te montre la sortie ou tu connais ? :-D
-  fr.wikipedia.org/wiki/Scala_(la…
+title: ''
 date: 2015-04-29T15:40:32+00:00
 author: cedric
 layout: post

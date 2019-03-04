@@ -1,6 +1,6 @@
 ---
 id: 3560
-title: 'RT @tuxplanet: Linux Mastercards: http://digg.com/d1seRT?t (you can digg if you like)'
+title: ''
 date: 2009-06-01T23:26:34+00:00
 author: cedric
 layout: post

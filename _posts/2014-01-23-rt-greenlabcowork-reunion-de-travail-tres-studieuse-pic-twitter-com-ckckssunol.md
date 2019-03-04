@@ -1,6 +1,6 @@
 ---
 id: 3154
-title: 'RT @greenlabcowork: Réunion de travail très studieuse ;-) pic.twitter.com/CKcksSUNoL'
+title: ''
 date: 2014-01-23T21:59:56+00:00
 author: cedric
 layout: post

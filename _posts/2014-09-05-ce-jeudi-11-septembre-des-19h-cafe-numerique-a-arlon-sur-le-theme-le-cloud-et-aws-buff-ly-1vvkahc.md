@@ -1,6 +1,6 @@
 ---
 id: 2992
-title: 'Ce jeudi 11 septembre dès 19h, Café Numérique à Arlon sur le thème : Le cloud et AWS &#8211; buff.ly/1vVKAhC'
+title: ''
 date: 2014-09-05T10:28:49+00:00
 author: cedric
 layout: post

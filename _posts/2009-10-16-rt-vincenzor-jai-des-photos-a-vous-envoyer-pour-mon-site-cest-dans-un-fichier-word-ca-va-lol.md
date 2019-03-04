@@ -1,6 +1,6 @@
 ---
 id: 3502
-title: 'RT @VincenzoR: « j&rsquo;ai des photos à vous envoyer pour mon site, c&rsquo;est dans un fichier Word, ça va ? » lol'
+title: ''
 date: 2009-10-16T15:57:59+00:00
 author: cedric
 layout: post

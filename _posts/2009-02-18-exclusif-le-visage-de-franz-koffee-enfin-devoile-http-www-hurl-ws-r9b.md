@@ -1,6 +1,6 @@
 ---
 id: 3679
-title: 'Exclusif : le visage de Franz Koffee enfin dévoilé http://www.hurl.ws/r9b'
+title: ''
 date: 2009-02-18T15:15:50+00:00
 author: cedric
 layout: post

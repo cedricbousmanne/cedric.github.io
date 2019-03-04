@@ -1,8 +1,6 @@
 ---
 id: 2002
-title: |
-  . TIL Gem names are case sensitive – thanks RedCloth #ruby #gems
-  &#8211; cedric.io/2018/09/18/831/
+title: ''
 date: 2018-09-18T12:57:08+00:00
 author: cedric
 layout: post

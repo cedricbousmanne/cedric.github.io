@@ -1,6 +1,6 @@
 ---
 id: 4019
-title: '@groumphy : un lien qui t&rsquo;interressera peut-etre http://tinyurl.com/yuwx34'
+title: ''
 date: 2007-08-01T00:43:11+00:00
 author: cedric
 layout: post

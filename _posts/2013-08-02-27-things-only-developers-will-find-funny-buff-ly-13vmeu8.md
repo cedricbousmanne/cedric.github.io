@@ -1,6 +1,6 @@
 ---
 id: 3260
-title: 27 Things Only Developers Will Find Funny buff.ly/13vMeU8
+title: ''
 date: 2013-08-02T16:05:08+00:00
 author: cedric
 layout: post

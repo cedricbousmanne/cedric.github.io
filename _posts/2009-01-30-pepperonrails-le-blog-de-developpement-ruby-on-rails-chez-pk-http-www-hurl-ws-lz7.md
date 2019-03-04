@@ -1,6 +1,6 @@
 ---
 id: 3746
-title: 'PepperOnRails, le blog de développement Ruby On Rails chez P&#038;K : http://www.hurl.ws/lz7'
+title: ''
 date: 2009-01-30T12:21:15+00:00
 author: cedric
 layout: post

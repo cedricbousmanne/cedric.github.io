@@ -1,6 +1,6 @@
 ---
 id: 3421
-title: '@grisha ah non, je n&rsquo;ai pas changé de pseudo depuis mon arrivé sur Twitter'
+title: ''
 date: 2010-10-01T13:30:37+00:00
 author: cedric
 layout: post

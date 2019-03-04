@@ -1,6 +1,6 @@
 ---
 id: 3662
-title: @catswhocode dugg!
+title: ''
 date: 2009-03-03T16:10:49+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2832
-title: 'RT @greenlabcowork: 43% de notre objectif. Il ne reste que 13 jours pour arriver à 100, et nous avons besoin de vous pour y arriver ! http:…'
+title: ''
 date: 2015-02-06T18:56:11+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2289
-title: 'Le taux d&rsquo;attrition (churn) expliqué à la laverie de mon quartier #startup #churn buff.ly/1SQc1Wh pic.twitter.com/5ZOSjhfvPv'
+title: ''
 date: 2016-02-16T11:26:19+00:00
 author: cedric
 layout: post

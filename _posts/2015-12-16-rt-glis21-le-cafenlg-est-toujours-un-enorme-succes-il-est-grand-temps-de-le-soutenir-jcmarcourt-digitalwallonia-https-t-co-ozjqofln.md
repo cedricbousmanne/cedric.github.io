@@ -1,6 +1,6 @@
 ---
 id: 2343
-title: 'RT @glis21: Le @cafenlg est toujours un énorme succès. Il est grand temps de le soutenir @jcmarcourt @digitalwallonia https://t.co/OZJQofln…'
+title: ''
 date: 2015-12-16T22:44:01+00:00
 author: cedric
 layout: post

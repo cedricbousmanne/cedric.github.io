@@ -1,6 +1,6 @@
 ---
 id: 2968
-title: 'Les data center #Aws sont reliés par de la fibre. Les transferts entre eux sont gratuits #cafenarlon'
+title: ''
 date: 2014-09-11T20:28:30+00:00
 author: cedric
 layout: post

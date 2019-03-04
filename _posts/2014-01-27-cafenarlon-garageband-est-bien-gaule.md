@@ -1,6 +1,6 @@
 ---
 id: 3161
-title: '#cafenarlon « garageband est bien gaulé »'
+title: ''
 date: 2014-01-27T21:15:20+00:00
 author: cedric
 layout: post

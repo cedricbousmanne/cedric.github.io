@@ -1,6 +1,6 @@
 ---
 id: 2059
-title: 'RT @greenlabcowork: Une nouvelle recrue est arrivée chez Greenlab ! Et on vous la présente par ici : bit.ly/2BC7Ir4 #coworking #Ar…'
+title: ''
 date: 2018-01-30T16:13:47+00:00
 author: cedric
 layout: post

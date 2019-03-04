@@ -1,6 +1,6 @@
 ---
 id: 3314
-title: 'Off-canvas – comment contrer la verticalité des sites Web mobiles  buff.ly/1a47h60'
+title: ''
 date: 2013-07-09T20:12:05+00:00
 author: cedric
 layout: post

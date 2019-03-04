@@ -1,6 +1,6 @@
 ---
 id: 3036
-title: 'On parle de @greenlabcowork, de coworking et du @cafeNArlon de demain dans @lalibrebe d&rsquo;aujourd&rsquo;hui #arlon pic.twitter.com/Cfirorp3VB'
+title: ''
 date: 2014-06-18T13:45:39+00:00
 author: cedric
 layout: post

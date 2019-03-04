@@ -1,6 +1,6 @@
 ---
 id: 3736
-title: '[WP] Comment afficher le nombre d’abonnés à votre flux FeedBurner: La plupart des blogs affichent un compteu.. http://tinyurl.com/9q7zzq'
+title: ''
 date: 2009-01-17T13:52:30+00:00
 author: cedric
 layout: post

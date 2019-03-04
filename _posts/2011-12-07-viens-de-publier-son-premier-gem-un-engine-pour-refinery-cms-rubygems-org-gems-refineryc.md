@@ -1,6 +1,6 @@
 ---
 id: 3433
-title: 'Viens de publier son premier Gem : un Engine pour Refinery CMS : rubygems.org/gems/refineryc…'
+title: ''
 date: 2011-12-07T18:49:06+00:00
 author: cedric
 layout: post

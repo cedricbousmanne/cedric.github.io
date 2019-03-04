@@ -1,6 +1,6 @@
 ---
 id: 3901
-title: Au boulot! On se concentre, on coupe Gmail et Google Reader, on devient efficace!
+title: ''
 date: 2007-12-12T10:39:48+00:00
 author: cedric
 layout: post

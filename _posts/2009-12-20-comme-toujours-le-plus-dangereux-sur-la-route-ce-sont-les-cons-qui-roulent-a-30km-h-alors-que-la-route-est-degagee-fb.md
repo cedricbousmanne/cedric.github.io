@@ -1,6 +1,6 @@
 ---
 id: 3468
-title: 'comme toujours, le plus dangereux sur la route ce sont les cons qui roulent à 30km/h alors que la route est dégagée. #fb'
+title: ''
 date: 2009-12-20T20:59:07+00:00
 author: cedric
 layout: post

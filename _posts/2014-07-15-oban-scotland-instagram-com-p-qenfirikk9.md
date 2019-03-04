@@ -1,6 +1,6 @@
 ---
 id: 3029
-title: Oban, Scotland instagram.com/p/qenfIRIKK9/
+title: ''
 date: 2014-07-15T18:27:50+00:00
 author: cedric
 layout: post

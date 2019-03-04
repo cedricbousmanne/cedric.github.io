@@ -1,6 +1,6 @@
 ---
 id: 3818
-title: 'lancerais bien une petition pour bannir « commentcamarche.net » de l&rsquo;index de Google'
+title: ''
 date: 2008-10-27T19:12:50+00:00
 author: cedric
 layout: post

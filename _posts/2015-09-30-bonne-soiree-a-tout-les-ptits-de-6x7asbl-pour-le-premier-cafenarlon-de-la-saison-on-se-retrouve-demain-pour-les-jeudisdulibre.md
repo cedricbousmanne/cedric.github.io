@@ -1,6 +1,6 @@
 ---
 id: 2526
-title: 'bonne soirée à tout les p&rsquo;tits de @6x7asbl pour le premier @cafeNArlon de la saison! On se retrouve demain pour les #JeudisDuLibre'
+title: ''
 date: 2015-09-30T17:54:59+00:00
 author: cedric
 layout: post

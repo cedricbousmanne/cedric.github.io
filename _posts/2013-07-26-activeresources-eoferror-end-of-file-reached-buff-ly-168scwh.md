@@ -1,6 +1,6 @@
 ---
 id: 3301
-title: 'ActiveResources EOFError: end of file reached buff.ly/168SCWh'
+title: ''
 date: 2013-07-26T13:12:07+00:00
 author: cedric
 layout: post

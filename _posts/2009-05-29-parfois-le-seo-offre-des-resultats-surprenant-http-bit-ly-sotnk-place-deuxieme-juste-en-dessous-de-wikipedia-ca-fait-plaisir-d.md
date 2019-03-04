@@ -1,6 +1,6 @@
 ---
 id: 3584
-title: Parfois le SEO offre des résultats surprenant http://bit.ly/Sotnk (placé deuxième, juste en dessous de Wikipedia. Ca fait plaisir :-D
+title: ''
 date: 2009-05-29T23:54:57+00:00
 author: cedric
 layout: post

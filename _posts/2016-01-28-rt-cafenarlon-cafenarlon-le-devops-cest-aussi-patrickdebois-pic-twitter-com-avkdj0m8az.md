@@ -1,6 +1,6 @@
 ---
 id: 2297
-title: 'RT @cafeNArlon: #cafenarlon le #devops c&rsquo;est aussi @patrickdebois pic.twitter.com/AvkdJ0M8az'
+title: ''
 date: 2016-01-28T21:17:41+00:00
 author: cedric
 layout: post

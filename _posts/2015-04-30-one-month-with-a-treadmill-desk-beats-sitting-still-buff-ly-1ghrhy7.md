@@ -1,6 +1,6 @@
 ---
 id: 2636
-title: One Month With a Treadmill Desk Beats Sitting Still buff.ly/1GHRhY7
+title: ''
 date: 2015-04-30T11:32:06+00:00
 author: cedric
 layout: post

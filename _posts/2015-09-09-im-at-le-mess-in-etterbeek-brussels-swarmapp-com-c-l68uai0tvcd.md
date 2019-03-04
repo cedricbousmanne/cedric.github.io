@@ -1,6 +1,6 @@
 ---
 id: 2544
-title: 'I&rsquo;m at Le Mess in Etterbeek, Brussels swarmapp.com/c/l68UaI0TvcD'
+title: ''
 date: 2015-09-09T13:00:18+00:00
 author: cedric
 layout: post

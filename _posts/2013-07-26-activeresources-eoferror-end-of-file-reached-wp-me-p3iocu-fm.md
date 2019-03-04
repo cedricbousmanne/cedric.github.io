@@ -1,6 +1,6 @@
 ---
 id: 3298
-title: 'ActiveResources EOFError: end of file reached wp.me/p3Iocu-fM'
+title: ''
 date: 2013-07-26T11:10:18+00:00
 author: cedric
 layout: post

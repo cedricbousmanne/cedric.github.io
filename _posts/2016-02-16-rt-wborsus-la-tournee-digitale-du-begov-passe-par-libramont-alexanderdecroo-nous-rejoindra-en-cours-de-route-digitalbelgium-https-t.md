@@ -1,6 +1,6 @@
 ---
 id: 2265
-title: 'RT @wborsus: La tournée digitale du #begov passe par Libramont @alexanderdecroo nous rejoindra en cours de route #digitalBelgium https://t.…'
+title: ''
 date: 2016-02-16T20:31:00+00:00
 author: cedric
 layout: post

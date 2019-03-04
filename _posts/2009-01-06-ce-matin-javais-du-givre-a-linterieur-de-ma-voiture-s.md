@@ -1,6 +1,6 @@
 ---
 id: 3751
-title: 'Ce matin, j&rsquo;avais du givre à l&rsquo;intérieur de ma voiture :-S'
+title: ''
 date: 2009-01-06T10:14:29+00:00
 author: cedric
 layout: post

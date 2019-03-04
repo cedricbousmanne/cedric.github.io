@@ -1,6 +1,6 @@
 ---
 id: 3230
-title: @verlinden @directinvoice Congrats!
+title: ''
 date: 2013-10-24T22:15:36+00:00
 author: cedric
 layout: post

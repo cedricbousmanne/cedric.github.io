@@ -1,6 +1,6 @@
 ---
 id: 2331
-title: @gcuisinier @yoseihana oh non, elle va encore être intenable -_-
+title: ''
 date: 2015-12-24T15:17:41+00:00
 author: cedric
 layout: post

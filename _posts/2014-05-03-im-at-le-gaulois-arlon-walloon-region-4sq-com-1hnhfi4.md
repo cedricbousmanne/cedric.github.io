@@ -1,6 +1,6 @@
 ---
 id: 3067
-title: 'I&rsquo;m at Le Gaulois (Arlon, Walloon Region) 4sq.com/1hnhFI4'
+title: ''
 date: 2014-05-03T20:02:05+00:00
 author: cedric
 layout: post

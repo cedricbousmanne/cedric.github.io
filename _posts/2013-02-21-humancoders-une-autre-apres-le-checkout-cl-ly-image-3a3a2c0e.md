@@ -1,6 +1,6 @@
 ---
 id: 3372
-title: @humancoders une autre après le checkout cl.ly/image/3a3A2C0E…
+title: ''
 date: 2013-02-21T00:02:58+00:00
 author: cedric
 layout: post

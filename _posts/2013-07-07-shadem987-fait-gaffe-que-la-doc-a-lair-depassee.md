@@ -1,6 +1,6 @@
 ---
 id: 3330
-title: '@Shadem987 Fait gaffe que la doc a l&rsquo;air dépassée'
+title: ''
 date: 2013-07-07T16:36:02+00:00
 author: cedric
 layout: post

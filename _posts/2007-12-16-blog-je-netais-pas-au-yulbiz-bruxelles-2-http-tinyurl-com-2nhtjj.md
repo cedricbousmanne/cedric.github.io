@@ -1,6 +1,6 @@
 ---
 id: 3913
-title: '[blog] Je n’étais pas au Yulbiz-Bruxelles #2 http://tinyurl.com/2nhtjj'
+title: ''
 date: 2007-12-16T13:43:23+00:00
 author: cedric
 layout: post

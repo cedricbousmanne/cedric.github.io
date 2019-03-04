@@ -1,6 +1,6 @@
 ---
 id: 3270
-title: '“Les startups peuvent aussi bien réussir en Belgique” &#8211; buff.ly/16CtVlv'
+title: ''
 date: 2013-08-09T10:10:13+00:00
 author: cedric
 layout: post

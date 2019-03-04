@@ -1,6 +1,6 @@
 ---
 id: 2469
-title: Why I don’t answer most phone calls — Life Tips. — Medium buff.ly/1QM0jqX
+title: ''
 date: 2015-10-19T17:21:17+00:00
 author: cedric
 layout: post

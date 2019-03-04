@@ -1,6 +1,6 @@
 ---
 id: 3492
-title: 'La solution pour noter les coupures internet chez Belgacom? Ouvrir un Google Doc partagé, bien sûr! #fail'
+title: ''
 date: 2009-11-20T16:25:18+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3961
-title: 'Stardust : excellent!'
+title: ''
 date: 2007-10-26T11:44:52+00:00
 author: cedric
 layout: post

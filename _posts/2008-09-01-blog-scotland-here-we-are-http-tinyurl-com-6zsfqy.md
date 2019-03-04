@@ -1,6 +1,6 @@
 ---
 id: 3852
-title: '[blog] Scotland, here we are http://tinyurl.com/6zsfqy'
+title: ''
 date: 2008-09-01T08:55:37+00:00
 author: cedric
 layout: post

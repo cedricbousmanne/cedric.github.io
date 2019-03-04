@@ -1,6 +1,6 @@
 ---
 id: 3439
-title: 'Foutue chaudière, ça fait deux fois en deux semaines @#!'
+title: ''
 date: 2010-02-04T11:29:00+00:00
 author: cedric
 layout: post

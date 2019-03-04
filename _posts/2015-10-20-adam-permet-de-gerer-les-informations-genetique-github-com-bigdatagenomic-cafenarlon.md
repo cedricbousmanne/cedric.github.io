@@ -1,6 +1,6 @@
 ---
 id: 2434
-title: 'Adam permet de gérer les informations génétique github.com/bigdatagenomic… #cafenarlon'
+title: ''
 date: 2015-10-20T21:46:15+00:00
 author: cedric
 layout: post

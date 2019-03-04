@@ -1,6 +1,6 @@
 ---
 id: 2991
-title: Les petites choses qui énervent les codeurs buff.ly/1tAUPFL
+title: ''
 date: 2014-08-27T11:32:18+00:00
 author: cedric
 layout: post

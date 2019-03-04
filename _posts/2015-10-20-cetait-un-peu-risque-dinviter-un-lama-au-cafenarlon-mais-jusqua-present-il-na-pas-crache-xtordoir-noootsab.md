@@ -1,6 +1,6 @@
 ---
 id: 2436
-title: 'C&rsquo;était un peu risqué d&rsquo;inviter un lama au #cafenarlon, mais jusqu&rsquo;à présent, il n&rsquo;a pas craché @xtordoir @noootsab'
+title: ''
 date: 2015-10-20T22:11:12+00:00
 author: cedric
 layout: post

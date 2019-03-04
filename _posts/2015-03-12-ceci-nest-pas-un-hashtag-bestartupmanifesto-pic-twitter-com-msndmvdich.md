@@ -1,6 +1,6 @@
 ---
 id: 2752
-title: 'Ceci n&rsquo;est pas un hashtag #BEStartupManifesto pic.twitter.com/msndmVDicH'
+title: ''
 date: 2015-03-12T12:48:12+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3293
-title: Tiny, opensource, Bootstrap WYSIWYG rich text editor from MindMup buff.ly/15Ht0j7
+title: ''
 date: 2013-07-15T20:12:11+00:00
 author: cedric
 layout: post

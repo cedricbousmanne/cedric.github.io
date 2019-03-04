@@ -1,6 +1,6 @@
 ---
 id: 2141
-title: 'RT @sevgeorges: C&rsquo;est décidé, je lance une campagne de crowdfunding pour pouvoir m&rsquo;offrir une Tesla ! ^^ #ElectricVehicle #cafenarlon'
+title: ''
 date: 2016-10-04T19:54:43+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2595
-title: @gcuisinier ca peut donner des idées :-)
+title: ''
 date: 2015-05-27T20:27:52+00:00
 author: cedric
 layout: post

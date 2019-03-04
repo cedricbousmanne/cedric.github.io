@@ -1,6 +1,6 @@
 ---
 id: 4047
-title: 'Enfin reconnu à notre juste valeur : http://tinyurl.com/2how9z'
+title: ''
 date: 2007-07-31T23:59:16+00:00
 author: cedric
 layout: post

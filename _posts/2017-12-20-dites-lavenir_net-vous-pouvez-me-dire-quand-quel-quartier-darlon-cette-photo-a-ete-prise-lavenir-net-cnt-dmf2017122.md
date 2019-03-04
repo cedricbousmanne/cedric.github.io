@@ -1,6 +1,6 @@
 ---
 id: 2078
-title: 'Dites @lavenir_net, vous pouvez me dire quand quel quartier d&rsquo;Arlon cette photo a été prise? ;-) lavenir.net/cnt/dmf2017122…'
+title: ''
 date: 2017-12-20T13:56:07+00:00
 author: cedric
 layout: post

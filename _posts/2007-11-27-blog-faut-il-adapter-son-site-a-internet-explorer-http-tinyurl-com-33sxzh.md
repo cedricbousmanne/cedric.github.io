@@ -1,6 +1,6 @@
 ---
 id: 3919
-title: '[blog] Faut-il adapter son site à Internet Explorer? http://tinyurl.com/33sxzh'
+title: ''
 date: 2007-11-27T16:45:05+00:00
 author: cedric
 layout: post

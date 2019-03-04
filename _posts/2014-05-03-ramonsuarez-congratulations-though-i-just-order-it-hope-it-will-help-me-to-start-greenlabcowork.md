@@ -1,6 +1,6 @@
 ---
 id: 3065
-title: @ramonsuarez Congratulations though ! I just order it. Hope it will help me to start @greenlabcowork.
+title: ''
 date: 2014-05-03T00:39:57+00:00
 author: cedric
 layout: post

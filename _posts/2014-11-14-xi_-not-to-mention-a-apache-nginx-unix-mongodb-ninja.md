@@ -1,6 +1,6 @@
 ---
 id: 2928
-title: @_xi_ not to mention a apache/nginx/unix/mongodb ninja
+title: ''
 date: 2014-11-14T16:08:27+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3668
-title: '#wordpress Comment ajouter un lien d’édition pour chaque article http://tinyurl.com/cgcqz6'
+title: ''
 date: 2009-03-18T08:53:58+00:00
 author: cedric
 layout: post

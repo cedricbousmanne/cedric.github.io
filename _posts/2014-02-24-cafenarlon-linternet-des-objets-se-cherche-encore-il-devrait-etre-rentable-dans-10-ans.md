@@ -1,6 +1,6 @@
 ---
 id: 3129
-title: '#cafenarlon l&rsquo;Internet des objets se cherche encore, il devrait être rentable dans 10 ans'
+title: ''
 date: 2014-02-24T21:06:43+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3187
-title: @yoseihana gizmodo.com/5977989/intern…
+title: ''
 date: 2014-01-10T17:40:37+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3859
-title: '[blog] Une question de droit(s) http://tinyurl.com/23jy5p'
+title: ''
 date: 2008-03-13T20:00:06+00:00
 author: cedric
 layout: post

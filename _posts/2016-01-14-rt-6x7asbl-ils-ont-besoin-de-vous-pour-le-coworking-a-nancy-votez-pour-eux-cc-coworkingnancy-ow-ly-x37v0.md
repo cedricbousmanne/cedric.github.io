@@ -1,6 +1,6 @@
 ---
 id: 2316
-title: 'RT @6x7asbl: Ils ont besoin de vous! Pour le #coworking à Nancy votez pour eux! cc @ coworkingnancy ow.ly/X37v0'
+title: ''
 date: 2016-01-14T16:11:35+00:00
 author: cedric
 layout: post

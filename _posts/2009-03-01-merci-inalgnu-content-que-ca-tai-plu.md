@@ -1,6 +1,6 @@
 ---
 id: 3688
-title: 'merci @inalgnu, content que ça t&rsquo;ai plu :)'
+title: ''
 date: 2009-03-01T14:09:56+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3856
-title: '[blog] Aller-retour http://tinyurl.com/2fxs46'
+title: ''
 date: 2008-03-12T11:26:34+00:00
 author: cedric
 layout: post

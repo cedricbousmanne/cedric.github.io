@@ -1,6 +1,6 @@
 ---
 id: 4004
-title: 13 générateurs en ligne pour le web 2.0 http://tinyurl.com/2tyh4h
+title: ''
 date: 2007-08-06T19:11:33+00:00
 author: cedric
 layout: post

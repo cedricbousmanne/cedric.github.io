@@ -1,6 +1,6 @@
 ---
 id: 3650
-title: 'RT @mindtheshark : Pepper &#038; Koffee contacté par la Maison Blanche! http://tinyurl.com/c8t3sh'
+title: ''
 date: 2009-04-01T11:47:54+00:00
 author: cedric
 layout: post

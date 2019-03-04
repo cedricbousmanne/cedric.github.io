@@ -1,6 +1,6 @@
 ---
 id: 3253
-title: Write less. buff.ly/GOLDt0
+title: ''
 date: 2013-10-14T16:06:59+00:00
 author: cedric
 layout: post

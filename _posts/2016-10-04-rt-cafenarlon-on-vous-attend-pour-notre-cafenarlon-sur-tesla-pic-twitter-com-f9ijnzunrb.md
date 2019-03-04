@@ -1,6 +1,6 @@
 ---
 id: 2136
-title: 'RT @cafeNArlon: On vous attend pour notre #cafenarlon sur #tesla pic.twitter.com/f9IJNzuNrb'
+title: ''
 date: 2016-10-04T19:40:17+00:00
 author: cedric
 layout: post

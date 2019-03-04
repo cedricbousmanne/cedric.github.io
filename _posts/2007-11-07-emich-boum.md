@@ -1,6 +1,6 @@
 ---
 id: 3954
-title: '@emich: boum?'
+title: ''
 date: 2007-11-07T15:11:37+00:00
 author: cedric
 layout: post

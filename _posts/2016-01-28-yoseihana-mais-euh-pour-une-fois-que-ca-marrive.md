@@ -1,6 +1,6 @@
 ---
 id: 2301
-title: "@yoseihana mais euh, pour une fois que ca m&rsquo;arrive :'("
+title: ''
 date: 2016-01-28T21:37:39+00:00
 author: cedric
 layout: post

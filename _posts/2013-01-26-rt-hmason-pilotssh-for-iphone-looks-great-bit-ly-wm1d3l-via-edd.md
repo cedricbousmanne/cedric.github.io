@@ -1,6 +1,6 @@
 ---
 id: 3379
-title: 'RT @hmason: PilotSSH (for iphone) looks great bit.ly/Wm1d3l (via @edd)'
+title: ''
 date: 2013-01-26T21:25:26+00:00
 author: cedric
 layout: post

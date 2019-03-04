@@ -1,6 +1,6 @@
 ---
 id: 4027
-title: '[blog] L’orange bleue, une histoire belge… http://tinyurl.com/2cr5qu'
+title: ''
 date: 2007-08-01T18:13:01+00:00
 author: cedric
 layout: post

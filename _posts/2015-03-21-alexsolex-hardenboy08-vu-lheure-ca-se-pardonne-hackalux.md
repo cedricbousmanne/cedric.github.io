@@ -1,6 +1,6 @@
 ---
 id: 2741
-title: '@alexsolex @hardenboy08 vu l&rsquo;heure ca se pardonne :) #hackalux'
+title: ''
 date: 2015-03-21T05:01:13+00:00
 author: cedric
 layout: post

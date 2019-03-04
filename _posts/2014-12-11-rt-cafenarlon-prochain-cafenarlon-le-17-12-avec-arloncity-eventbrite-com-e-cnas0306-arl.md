@@ -1,6 +1,6 @@
 ---
 id: 2922
-title: 'RT @cafeNArlon: Prochain  #cafenarlon le 17/12 avec @ArlonCity eventbrite.com/e/cnas0306-arl…'
+title: ''
 date: 2014-12-11T16:21:06+00:00
 author: cedric
 layout: post

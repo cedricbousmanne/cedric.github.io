@@ -1,6 +1,6 @@
 ---
 id: 3295
-title: How to modify Bootstrap simply and effectively | Webdesigner Depot buff.ly/12DsSMd
+title: ''
 date: 2013-07-16T13:12:02+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2395
-title: 'RT @prignony: Internet, le ciblage pour une rencontre rapide et une rationalisation de la relation. Peut être moins spontané ? #cafenarlon'
+title: ''
 date: 2015-11-25T21:35:45+00:00
 author: cedric
 layout: post

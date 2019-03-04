@@ -1,6 +1,6 @@
 ---
 id: 3534
-title: '#FollowFriday @papygeek @lhektsok @spawnrider @brocode @catswhocode @jean_baptiste'
+title: ''
 date: 2009-06-12T19:59:36+00:00
 author: cedric
 layout: post

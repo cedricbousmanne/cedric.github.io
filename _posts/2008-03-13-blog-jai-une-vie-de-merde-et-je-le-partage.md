@@ -1,6 +1,6 @@
 ---
 id: 3858
-title: '[blog] J’ai une vie de merde, et je le partage'
+title: ''
 date: 2008-03-13T11:13:00+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3282
-title: '3 SEO Methods to Repurpose Great Content  buff.ly/1e3FW3T'
+title: ''
 date: 2013-07-30T10:10:05+00:00
 author: cedric
 layout: post

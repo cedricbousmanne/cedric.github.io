@@ -1,6 +1,6 @@
 ---
 id: 3526
-title: 'RT @VincenzoR: Petit délire développé par Pepper &#038; Koffee : http://www.noote.be/'
+title: ''
 date: 2009-06-09T23:27:27+00:00
 author: cedric
 layout: post

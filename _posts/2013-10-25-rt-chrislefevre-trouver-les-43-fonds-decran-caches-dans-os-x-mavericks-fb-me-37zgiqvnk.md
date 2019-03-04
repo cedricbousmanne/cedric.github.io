@@ -1,6 +1,6 @@
 ---
 id: 3231
-title: 'RT @ChrisLefevre: Trouver les 43 fonds d’écran cachés dans OS X Mavericks fb.me/37zgIqvnk'
+title: ''
 date: 2013-10-25T09:17:05+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3287
-title: 'Témoignage de Sophie Mercier, conseillère conjugale et familiale &#8211; buff.ly/1aupRb2'
+title: ''
 date: 2013-07-11T20:12:18+00:00
 author: cedric
 layout: post

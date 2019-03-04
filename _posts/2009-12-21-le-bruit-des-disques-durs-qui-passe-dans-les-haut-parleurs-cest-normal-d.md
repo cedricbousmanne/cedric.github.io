@@ -1,6 +1,6 @@
 ---
 id: 3470
-title: 'Le bruit des disques durs qui passe dans les haut-parleurs, c&rsquo;est normal? :-D'
+title: ''
 date: 2009-12-21T12:36:44+00:00
 author: cedric
 layout: post

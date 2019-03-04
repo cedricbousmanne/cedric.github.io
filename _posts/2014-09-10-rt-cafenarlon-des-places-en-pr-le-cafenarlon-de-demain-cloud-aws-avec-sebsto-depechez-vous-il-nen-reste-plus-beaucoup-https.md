@@ -1,6 +1,6 @@
 ---
 id: 2997
-title: 'RT @cafeNArlon: Des places en + pr le #cafenarlon de demain! #cloud #aws avec @sebsto ! Dépêchez-vous il n&rsquo;en reste plus beaucoup ;) https:…'
+title: ''
 date: 2014-09-10T17:10:49+00:00
 author: cedric
 layout: post

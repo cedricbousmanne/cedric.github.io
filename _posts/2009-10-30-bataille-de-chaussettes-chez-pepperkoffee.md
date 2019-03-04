@@ -1,6 +1,6 @@
 ---
 id: 3505
-title: Bataille de chaussettes chez @pepperkoffee
+title: ''
 date: 2009-10-30T14:52:09+00:00
 author: cedric
 layout: post

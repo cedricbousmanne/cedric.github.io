@@ -1,6 +1,6 @@
 ---
 id: 3805
-title: 'Quelqu&rsquo;un a déjà testé IntenseDebate sur son blog? http://www.hurl.ws/fbh'
+title: ''
 date: 2008-12-05T19:34:31+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3203
-title: Merci @LDLC pour les chocolats! pic.twitter.com/9iaj8vUCh1
+title: ''
 date: 2013-12-18T17:26:55+00:00
 author: cedric
 layout: post

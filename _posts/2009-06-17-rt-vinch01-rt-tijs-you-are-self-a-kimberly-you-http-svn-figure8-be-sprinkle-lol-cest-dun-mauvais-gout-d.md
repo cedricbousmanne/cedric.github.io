@@ -1,6 +1,6 @@
 ---
 id: 3513
-title: 'RT @Vinch01: RT @tijs: You are self a #kimberly you http://svn.figure8.be/sprinkle/ LOL=&gt; c&rsquo;est d&rsquo;un mauvais goût :D'
+title: ''
 date: 2009-06-17T15:07:39+00:00
 author: cedric
 layout: post

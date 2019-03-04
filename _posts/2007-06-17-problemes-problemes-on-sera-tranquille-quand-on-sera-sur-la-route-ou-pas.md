@@ -1,6 +1,6 @@
 ---
 id: 4051
-title: 'Problèmes, problèmes&#8230; on sera tranquille quand on sera sur la route&#8230; ou pas'
+title: ''
 date: 2007-06-17T21:37:28+00:00
 author: cedric
 layout: post

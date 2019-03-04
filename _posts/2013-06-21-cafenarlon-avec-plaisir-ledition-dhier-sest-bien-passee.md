@@ -1,6 +1,6 @@
 ---
 id: 3333
-title: '@cafeNArlon Avec plaisir! L&rsquo;édition d&rsquo;hier s&rsquo;est bien passée?'
+title: ''
 date: 2013-06-21T12:22:59+00:00
 author: cedric
 layout: post

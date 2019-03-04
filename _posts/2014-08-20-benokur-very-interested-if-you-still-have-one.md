@@ -1,6 +1,6 @@
 ---
 id: 3012
-title: @benokur very interested if you still have one
+title: ''
 date: 2014-08-20T00:35:51+00:00
 author: cedric
 layout: post

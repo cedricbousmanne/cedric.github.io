@@ -1,6 +1,6 @@
 ---
 id: 2852
-title: 'RT @yoseihana: Interview pour la campagne de crowdfunding de greenlab ! (@ Greenlab Coworking &#8211; @greenlabcowork) swarmapp.com/c/0O2ZDZ7RZkw'
+title: ''
 date: 2015-01-18T19:12:01+00:00
 author: cedric
 layout: post

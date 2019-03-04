@@ -1,6 +1,6 @@
 ---
 id: 3641
-title: 'bought @papygeek  for $ 389 @infotox was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-16T20:17:25+00:00
 author: cedric
 layout: post

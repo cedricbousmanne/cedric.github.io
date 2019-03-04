@@ -1,6 +1,6 @@
 ---
 id: 2924
-title: 'Les grèves, c&rsquo;est un peu comme les chansons de Justin Bieber : à force de les subir, ça fini par filer la nausée'
+title: ''
 date: 2014-12-11T19:01:11+00:00
 author: cedric
 layout: post

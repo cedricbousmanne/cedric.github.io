@@ -1,6 +1,6 @@
 ---
 id: 2910
-title: 'La pub permet de financer le développement et de mettre en avant les commerces de la ville @ArlonCity #cafenarlon'
+title: ''
 date: 2014-12-17T20:56:28+00:00
 author: cedric
 layout: post

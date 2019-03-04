@@ -1,6 +1,6 @@
 ---
 id: 3321
-title: 'Mozilla : Firefox OS mieux adapté qu’Android sur du matériel d’entrée de gamme buff.ly/17HOqwG'
+title: ''
 date: 2013-07-04T16:05:05+00:00
 author: cedric
 layout: post

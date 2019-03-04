@@ -1,6 +1,6 @@
 ---
 id: 2560
-title: '@claudex1 je n&rsquo;ai pas à me plaindre du train que je prend d&rsquo;habitude, donc non ;-) et puis il était sympa, je ne voulais pas le vexer :-)'
+title: ''
 date: 2015-09-02T22:10:11+00:00
 author: cedric
 layout: post

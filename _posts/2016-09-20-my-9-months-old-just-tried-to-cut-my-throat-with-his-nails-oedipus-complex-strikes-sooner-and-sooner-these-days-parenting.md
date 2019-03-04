@@ -1,6 +1,6 @@
 ---
 id: 2169
-title: 'My 9 months old just tried to cut my throat with his nails. Oedipus complex strikes sooner and sooner these days. #parenting'
+title: ''
 date: 2016-09-20T22:58:31+00:00
 author: cedric
 layout: post

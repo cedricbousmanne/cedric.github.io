@@ -1,6 +1,6 @@
 ---
 id: 2233
-title: 'RT @raywongy: Rose gold MacBook kill me now'
+title: ''
 date: 2016-04-20T11:53:30+00:00
 author: cedric
 layout: post

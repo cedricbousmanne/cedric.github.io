@@ -1,6 +1,6 @@
 ---
 id: 4045
-title: 'Lecture, veille, RSS, beta privée&#8230; je crois que je suis amoureux de la blogosphère :-)'
+title: ''
 date: 2007-07-31T23:34:09+00:00
 author: cedric
 layout: post

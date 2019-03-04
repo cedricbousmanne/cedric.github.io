@@ -1,6 +1,6 @@
 ---
 id: 2227
-title: '@yoseihana @6x7asbl c&rsquo;est un défi que tu lances ? ;-)'
+title: ''
 date: 2016-03-27T18:31:20+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2897
-title: 'RT @StartupsBe: « If you have a plan and believe in it, you&rsquo;ll do well. You may fail, but you will be better next time » @Greetdekeyser #Fail…'
+title: ''
 date: 2014-12-15T14:07:12+00:00
 author: cedric
 layout: post

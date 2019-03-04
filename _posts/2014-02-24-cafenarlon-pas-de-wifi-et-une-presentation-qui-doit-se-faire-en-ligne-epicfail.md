@@ -1,6 +1,6 @@
 ---
 id: 3132
-title: '#cafenarlon pas de wifi et une présentation qui doit se faire en ligne #epicfail'
+title: ''
 date: 2014-02-24T22:14:28+00:00
 author: cedric
 layout: post

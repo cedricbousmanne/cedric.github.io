@@ -1,6 +1,6 @@
 ---
 id: 3687
-title: merci @catswhocode :-)
+title: ''
 date: 2009-03-01T14:01:55+00:00
 author: cedric
 layout: post

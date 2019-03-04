@@ -1,6 +1,6 @@
 ---
 id: 3209
-title: How to recruit your developer? lnkd.in/dzShQv9
+title: ''
 date: 2013-12-29T17:14:56+00:00
 author: cedric
 layout: post

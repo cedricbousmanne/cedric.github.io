@@ -1,6 +1,6 @@
 ---
 id: 3410
-title: 'RT @webatou: Bruxelles (CE) s’oppose à #SOPA par la voix @NeelieKroesEU ur1.ca/7l7l4 &gt; ur1.ca/7l7l5'
+title: ''
 date: 2012-01-20T18:56:55+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3062
-title: 'Practical example of using git in a school &#8211; Sébastien Saunier buff.ly/1fvmswa'
+title: ''
 date: 2014-05-01T11:32:03+00:00
 author: cedric
 layout: post

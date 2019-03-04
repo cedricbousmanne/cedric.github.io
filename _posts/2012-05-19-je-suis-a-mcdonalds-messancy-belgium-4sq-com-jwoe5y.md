@@ -1,6 +1,6 @@
 ---
 id: 3394
-title: 'Je suis à McDonald&rsquo;s (Messancy, Belgium) 4sq.com/JWoe5y'
+title: ''
 date: 2012-05-19T17:48:24+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3993
-title: Back on twitter
+title: ''
 date: 2007-10-08T12:31:21+00:00
 author: cedric
 layout: post

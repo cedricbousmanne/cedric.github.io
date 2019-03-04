@@ -1,6 +1,6 @@
 ---
 id: 3274
-title: Ruby on Rails 4.0 Guide free for Amazon Kindle buff.ly/1e0Fi7b
+title: ''
 date: 2013-07-27T09:10:08+00:00
 author: cedric
 layout: post

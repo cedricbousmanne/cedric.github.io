@@ -1,6 +1,6 @@
 ---
 id: 3252
-title: '10 sélecteurs CSS dont vous ne pourrez plus vous passer &#8211; pocket.co/sYWAC'
+title: ''
 date: 2013-10-14T10:10:10+00:00
 author: cedric
 layout: post

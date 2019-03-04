@@ -1,6 +1,6 @@
 ---
 id: 3257
-title: '« Well, at least it displays a very pretty error » &#8211; #ProgrammingExcuses buff.ly/1e6ReEw'
+title: ''
 date: 2013-08-01T10:10:07+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2593
-title: 'RT @remi_laurent: 6x7ninjas, antenne #1 UP square Astrid. network.6&#215;7.ninja aux intéressés. Cc @cafeNArlon et notre PR @yoseihana http…'
+title: ''
 date: 2015-07-12T20:00:28+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3247
-title: Minions Ipsum, le Lorem Ipsum revisité buff.ly/GQ4dR7
+title: ''
 date: 2013-10-10T16:07:08+00:00
 author: cedric
 layout: post

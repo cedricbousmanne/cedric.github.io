@@ -1,6 +1,6 @@
 ---
 id: 3682
-title: '#wordpress Comment installer un plugin http://tinyurl.com/cbvjor'
+title: ''
 date: 2009-02-24T08:53:17+00:00
 author: cedric
 layout: post

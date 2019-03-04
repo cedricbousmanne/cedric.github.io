@@ -1,6 +1,6 @@
 ---
 id: 3095
-title: 'Dear recruiters, I understand this is your job but&#8230; #freelance pic.twitter.com/WhuGZgtvxn'
+title: ''
 date: 2014-03-05T18:21:12+00:00
 author: cedric
 layout: post

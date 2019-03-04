@@ -1,6 +1,6 @@
 ---
 id: 2681
-title: 'RT @dalaidenneg: « Internet et des chats, c&rsquo;était gagné d&rsquo;avance » @akyrho #CafeNMarche'
+title: ''
 date: 2015-03-31T21:21:57+00:00
 author: cedric
 layout: post

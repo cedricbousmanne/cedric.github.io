@@ -1,6 +1,6 @@
 ---
 id: 4060
-title: 'De retour à la maison&#8230; fatigué, mais tellement content :-)'
+title: ''
 date: 2007-07-20T14:08:40+00:00
 author: cedric
 layout: post

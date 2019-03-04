@@ -1,6 +1,6 @@
 ---
 id: 3870
-title: '[blog] Récupérer les méta-données d’une page HTML grâce à PHP http://tinyurl.com/2j5psk'
+title: ''
 date: 2008-01-09T20:41:40+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2438
-title: @yoseihana @xtordoir @noootsab @manon_vagabonde je me demande quand même comment tu compte en vivre ^^
+title: ''
 date: 2015-10-20T22:15:59+00:00
 author: cedric
 layout: post

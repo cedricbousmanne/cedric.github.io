@@ -1,6 +1,6 @@
 ---
 id: 3542
-title: 'Looking for a f*****g regex turning hexadecimal color values to short (#FFFFFF =&gt; #FFF and #FFEEDD =&gt; #FED). Anyone?'
+title: ''
 date: 2009-06-07T00:09:25+00:00
 author: cedric
 layout: post

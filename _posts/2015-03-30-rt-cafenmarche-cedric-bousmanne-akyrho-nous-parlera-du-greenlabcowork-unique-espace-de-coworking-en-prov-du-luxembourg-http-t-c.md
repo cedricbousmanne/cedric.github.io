@@ -1,6 +1,6 @@
 ---
 id: 2676
-title: 'RT @CafeNMarche: Cédric Bousmanne (@akyrho) nous parlera du @greenlabcowork : Unique espace de coworking en prov. du #Luxembourg http://t.c…'
+title: ''
 date: 2015-03-30T21:57:41+00:00
 author: cedric
 layout: post

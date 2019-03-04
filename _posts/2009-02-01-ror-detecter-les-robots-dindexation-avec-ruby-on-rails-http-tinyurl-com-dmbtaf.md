@@ -1,6 +1,6 @@
 ---
 id: 3708
-title: '[RoR] Détecter les robots d’indexation avec Ruby on Rails http://tinyurl.com/dmbtaf'
+title: ''
 date: 2009-02-01T09:51:56+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3933
-title: fin de la réunion, rien de bien intéressant :(
+title: ''
 date: 2007-11-12T20:30:40+00:00
 author: cedric
 layout: post

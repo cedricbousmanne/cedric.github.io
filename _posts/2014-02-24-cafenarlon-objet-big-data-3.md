@@ -1,6 +1,6 @@
 ---
 id: 3130
-title: '#cafenarlon objet + big data = &lt;3'
+title: ''
 date: 2014-02-24T21:16:08+00:00
 author: cedric
 layout: post

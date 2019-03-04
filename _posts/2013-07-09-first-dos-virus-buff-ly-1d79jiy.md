@@ -1,6 +1,6 @@
 ---
 id: 3311
-title: 'First DOS Virus  buff.ly/1d79JIy'
+title: ''
 date: 2013-07-09T09:10:06+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3238
-title: Best bug ever buff.ly/1cfQ4am cc @gilloutte @gillruidant
+title: ''
 date: 2013-10-29T17:06:59+00:00
 author: cedric
 layout: post

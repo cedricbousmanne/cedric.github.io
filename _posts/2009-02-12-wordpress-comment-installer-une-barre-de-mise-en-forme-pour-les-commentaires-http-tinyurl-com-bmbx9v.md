@@ -1,6 +1,6 @@
 ---
 id: 3699
-title: '#wordpress Comment installer une barre de mise en forme pour les commentaires http://tinyurl.com/bmbx9v'
+title: ''
 date: 2009-02-12T10:52:03+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2668
-title: 'RT @Shadem987: 10 façons efficaces de stimuler sa créativité | squid-impact.fr squid-impact.fr/2013/09/27/10-… #blog #wordpress'
+title: ''
 date: 2015-04-06T20:07:33+00:00
 author: cedric
 layout: post

@@ -1,8 +1,6 @@
 ---
 id: 2007
-title: |
-  HTML : forcer l&rsquo;affichage du point (.) ou de la virgule (,) comme séparateur décimal.
-  &#8211; cedric.io/2018/09/19/htm…
+title: ''
 date: 2018-09-19T10:31:20+00:00
 author: cedric
 layout: post

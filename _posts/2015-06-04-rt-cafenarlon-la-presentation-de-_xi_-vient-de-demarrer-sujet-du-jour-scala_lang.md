@@ -1,6 +1,6 @@
 ---
 id: 2602
-title: 'RT @cafeNArlon: La présentation de @_Xi_ vient de démarrer. Sujet du jour : @scala_lang'
+title: ''
 date: 2015-06-04T19:32:04+00:00
 author: cedric
 layout: post

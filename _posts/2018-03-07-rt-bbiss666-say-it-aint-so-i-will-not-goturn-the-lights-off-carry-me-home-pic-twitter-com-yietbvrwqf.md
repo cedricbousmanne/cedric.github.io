@@ -1,10 +1,6 @@
 ---
 id: 2051
-title: |
-  RT @bbiss666: say it ain&rsquo;t so,
-  i will not go
-  turn the lights off,
-  carry me home pic.twitter.com/yIeTBvrwQF
+title: ''
 date: 2018-03-07T16:56:50+00:00
 author: cedric
 layout: post

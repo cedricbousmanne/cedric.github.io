@@ -1,6 +1,6 @@
 ---
 id: 3672
-title: '@vinch01 : TextMate'
+title: ''
 date: 2009-03-26T11:01:39+00:00
 author: cedric
 layout: post

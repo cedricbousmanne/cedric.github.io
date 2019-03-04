@@ -1,6 +1,6 @@
 ---
 id: 3827
-title: 'Déménagement du blog : transfert du nom de domaine http://tinyurl.com/4g3zo8'
+title: ''
 date: 2008-09-29T12:55:17+00:00
 author: cedric
 layout: post

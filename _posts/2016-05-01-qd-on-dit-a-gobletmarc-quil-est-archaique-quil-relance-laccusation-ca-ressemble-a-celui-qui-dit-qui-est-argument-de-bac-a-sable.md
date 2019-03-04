@@ -1,6 +1,6 @@
 ---
 id: 2193
-title: 'Qd on dit à @GobletMarc qu&rsquo;il est archaïque &amp; qu&rsquo;il relance l&rsquo;accusation, ça ressemble à « celui qui dit qui est ». Argument de bac à sable'
+title: ''
 date: 2016-05-01T13:36:22+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2178
-title: 'I&rsquo;m at Greenlab Coworking &#8211; @greenlabcowork in Arlon, Luxembourg swarmapp.com/c/kRMFxeCeOFF'
+title: ''
 date: 2016-06-20T13:11:30+00:00
 author: cedric
 layout: post

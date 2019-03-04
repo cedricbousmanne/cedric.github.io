@@ -1,6 +1,6 @@
 ---
 id: 3848
-title: mi pololo me hace tan feliz :D http://tinyurl.com/5gejjb
+title: ''
 date: 2008-06-13T08:01:48+00:00
 author: cedric
 layout: post

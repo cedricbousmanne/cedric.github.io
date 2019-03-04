@@ -1,6 +1,6 @@
 ---
 id: 2943
-title: 'Maitenant c&rsquo;est @_Xi_ qui parle de son expérience avec #aws #cafeNArlon'
+title: ''
 date: 2014-09-11T21:09:24+00:00
 author: cedric
 layout: post

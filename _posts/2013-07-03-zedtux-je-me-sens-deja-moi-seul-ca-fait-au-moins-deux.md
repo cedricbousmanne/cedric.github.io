@@ -1,6 +1,6 @@
 ---
 id: 3317
-title: @zedtux Je me sens déjà moi seul, ça fait au moins deux ;-)
+title: ''
 date: 2013-07-03T21:51:49+00:00
 author: cedric
 layout: post

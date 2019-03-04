@@ -1,6 +1,6 @@
 ---
 id: 3638
-title: 'Y aurait-il quelque chose de spécial a faire aujourd&rsquo;hui à Namur?'
+title: ''
 date: 2009-04-13T09:10:09+00:00
 author: cedric
 layout: post

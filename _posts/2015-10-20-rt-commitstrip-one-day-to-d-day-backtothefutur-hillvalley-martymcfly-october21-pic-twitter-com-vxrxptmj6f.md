@@ -1,6 +1,6 @@
 ---
 id: 2453
-title: 'RT @CommitStrip: One day to D-Day #BackToTheFutur #HillValley #MartyMcFly #october21 pic.twitter.com/vxRxPtmJ6f'
+title: ''
 date: 2015-10-20T20:45:59+00:00
 author: cedric
 layout: post

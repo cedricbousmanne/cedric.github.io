@@ -1,6 +1,6 @@
 ---
 id: 3015
-title: @yoseihana wanna try @mailbox?
+title: ''
 date: 2014-08-20T09:18:24+00:00
 author: cedric
 layout: post

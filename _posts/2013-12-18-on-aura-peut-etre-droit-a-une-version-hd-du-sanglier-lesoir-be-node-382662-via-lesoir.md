@@ -1,6 +1,6 @@
 ---
 id: 3201
-title: 'On aura peut-être droit à une version HD du sanglier : lesoir.be/node/382662 via @lesoir'
+title: ''
 date: 2013-12-18T13:13:43+00:00
 author: cedric
 layout: post

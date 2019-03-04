@@ -1,6 +1,6 @@
 ---
 id: 3467
-title: 'va aller déblayer la neige&#8230; pour la deuxième fois aujourd&rsquo;hui. #fb'
+title: ''
 date: 2009-12-20T16:02:10+00:00
 author: cedric
 layout: post

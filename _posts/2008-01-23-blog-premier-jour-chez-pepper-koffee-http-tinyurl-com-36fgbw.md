@@ -1,6 +1,6 @@
 ---
 id: 3881
-title: '[blog] Premier jour chez Pepper &#038; Koffee http://tinyurl.com/36fgbw'
+title: ''
 date: 2008-01-23T07:40:33+00:00
 author: cedric
 layout: post

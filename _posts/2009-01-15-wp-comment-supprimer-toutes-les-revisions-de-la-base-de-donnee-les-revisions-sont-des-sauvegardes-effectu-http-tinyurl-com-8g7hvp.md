@@ -1,6 +1,6 @@
 ---
 id: 3763
-title: '[WP] Comment supprimer toutes les révisions de la base de donnée: Les révisions sont des sauvegardes effectu.. http://tinyurl.com/8g7hvp'
+title: ''
 date: 2009-01-15T13:52:55+00:00
 author: cedric
 layout: post

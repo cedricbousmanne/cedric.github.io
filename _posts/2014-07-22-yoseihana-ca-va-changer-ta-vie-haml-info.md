@@ -1,6 +1,6 @@
 ---
 id: 3002
-title: @yoseihana ça va changer ta vie :-) haml.info
+title: ''
 date: 2014-07-22T09:19:11+00:00
 author: cedric
 layout: post

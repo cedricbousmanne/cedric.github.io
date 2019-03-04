@@ -1,6 +1,6 @@
 ---
 id: 4001
-title: '[blog] HTTParty #16 http://tinyurl.com/3xpmkb'
+title: ''
 date: 2007-10-14T11:17:01+00:00
 author: cedric
 layout: post

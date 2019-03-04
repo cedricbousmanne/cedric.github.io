@@ -1,6 +1,6 @@
 ---
 id: 3759
-title: arg, serveur down :(
+title: ''
 date: 2009-01-09T22:05:42+00:00
 author: cedric
 layout: post

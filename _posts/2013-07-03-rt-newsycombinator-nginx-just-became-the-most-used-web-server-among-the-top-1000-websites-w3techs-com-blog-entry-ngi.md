@@ -1,6 +1,6 @@
 ---
 id: 3341
-title: 'RT @newsycombinator: Nginx just became the most used web server among the top 1000 websites w3techs.com/blog/entry/ngi…'
+title: ''
 date: 2013-07-03T17:28:02+00:00
 author: cedric
 layout: post

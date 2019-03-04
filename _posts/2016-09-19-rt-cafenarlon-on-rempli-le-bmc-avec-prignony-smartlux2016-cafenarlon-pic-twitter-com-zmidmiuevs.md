@@ -1,6 +1,6 @@
 ---
 id: 2161
-title: 'RT @cafeNArlon: On rempli le #bmc avec @prignony ! #smartlux2016 #cafenarlon pic.twitter.com/ZMiDMIuevS'
+title: ''
 date: 2016-09-19T20:01:42+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2440
-title: '@yoseihana Et encore, c&rsquo;est l&rsquo;hypothèse pésimiste ou tu n&rsquo;as besoin que de 1000€ net par mois pour vivre et que @_Xi_ gagne au Lotto :-D'
+title: ''
 date: 2015-10-20T22:19:07+00:00
 author: cedric
 layout: post

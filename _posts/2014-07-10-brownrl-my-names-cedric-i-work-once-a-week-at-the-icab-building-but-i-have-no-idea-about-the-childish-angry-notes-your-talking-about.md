@@ -1,6 +1,6 @@
 ---
 id: 3021
-title: @brownrl My name’s Cedric, i work once a week at the icab building, but i have no idea about the childish angry notes your talking about ;-)
+title: ''
 date: 2014-07-10T11:48:24+00:00
 author: cedric
 layout: post

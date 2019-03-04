@@ -1,6 +1,6 @@
 ---
 id: 3806
-title: is bash-scripting
+title: ''
 date: 2008-12-12T10:23:16+00:00
 author: cedric
 layout: post

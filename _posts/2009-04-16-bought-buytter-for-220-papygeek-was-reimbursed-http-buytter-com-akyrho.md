@@ -1,6 +1,6 @@
 ---
 id: 3616
-title: 'bought @buytter  for $ 220 @papygeek was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-16T20:19:32+00:00
 author: cedric
 layout: post

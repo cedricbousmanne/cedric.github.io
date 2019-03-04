@@ -1,6 +1,6 @@
 ---
 id: 2357
-title: '@yoseihana @_Xi_ évidemment le jour où je suis pas la, Alexis revient -_- je vais finir par être vexé ^^'
+title: ''
 date: 2015-12-15T22:07:34+00:00
 author: cedric
 layout: post

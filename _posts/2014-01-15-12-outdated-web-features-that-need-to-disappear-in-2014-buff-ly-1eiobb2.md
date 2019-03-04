@@ -1,6 +1,6 @@
 ---
 id: 3171
-title: 12 Outdated Web Features That Need to Disappear in 2014 buff.ly/1eIoBB2
+title: ''
 date: 2014-01-15T18:21:04+00:00
 author: cedric
 layout: post

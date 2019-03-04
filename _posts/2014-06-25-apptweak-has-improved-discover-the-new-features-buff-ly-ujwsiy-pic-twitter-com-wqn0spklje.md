@@ -1,6 +1,6 @@
 ---
 id: 3019
-title: 'AppTweak has improved! Discover the new features&#8230; buff.ly/UJwsIy pic.twitter.com/wqn0SpklJe'
+title: ''
 date: 2014-06-25T17:21:10+00:00
 author: cedric
 layout: post

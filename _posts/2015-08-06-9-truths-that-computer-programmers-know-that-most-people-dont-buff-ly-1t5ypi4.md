@@ -1,6 +1,6 @@
 ---
 id: 2576
-title: 9 truths that computer programmers know that most people don’t. buff.ly/1T5YPI4
+title: ''
 date: 2015-08-06T11:32:07+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3086
-title: TDD is dead. Long live testing. (DHH) buff.ly/1kbS2fe
+title: ''
 date: 2014-04-28T17:21:02+00:00
 author: cedric
 layout: post

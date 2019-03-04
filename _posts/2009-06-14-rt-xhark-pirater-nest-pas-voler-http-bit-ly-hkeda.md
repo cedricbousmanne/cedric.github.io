@@ -1,6 +1,6 @@
 ---
 id: 3511
-title: 'RT @xhark : Pirater n&rsquo;est pas voler http://bit.ly/hKeDA'
+title: ''
 date: 2009-06-14T15:30:39+00:00
 author: cedric
 layout: post

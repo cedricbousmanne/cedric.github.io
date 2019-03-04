@@ -1,6 +1,6 @@
 ---
 id: 2775
-title: 'On peut même imprimer avec du chocolat, mais c&rsquo;est juste un dessin en chocolat #cafenarlon'
+title: ''
 date: 2015-02-24T21:11:28+00:00
 author: cedric
 layout: post

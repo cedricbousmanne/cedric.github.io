@@ -1,6 +1,6 @@
 ---
 id: 2014
-title: The open-plan office is a terrible, horrible, no good, very bad idea buff.ly/2JA28JO
+title: ''
 date: 2018-07-17T13:12:09+00:00
 author: cedric
 layout: post

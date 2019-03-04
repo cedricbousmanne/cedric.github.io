@@ -1,6 +1,6 @@
 ---
 id: 3648
-title: 'RT @lhektsok #photography Tri Yann &#8211; Nuits Celtiques 2009 &#8211; Attert (Partie 1) http://tinyurl.com/cxdbtt'
+title: ''
 date: 2009-03-30T09:06:44+00:00
 author: cedric
 layout: post

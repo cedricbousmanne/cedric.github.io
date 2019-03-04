@@ -1,6 +1,6 @@
 ---
 id: 2303
-title: 'RT @gilbitron: Why I work remotely (hint: it has nothing to do with productivity) bit.ly/1SnwDDe'
+title: ''
 date: 2016-01-29T10:26:20+00:00
 author: cedric
 layout: post

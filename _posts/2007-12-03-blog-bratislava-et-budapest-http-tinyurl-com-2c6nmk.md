@@ -1,6 +1,6 @@
 ---
 id: 3923
-title: '[blog] Bratislava et Budapest http://tinyurl.com/2c6nmk'
+title: ''
 date: 2007-12-03T22:44:49+00:00
 author: cedric
 layout: post

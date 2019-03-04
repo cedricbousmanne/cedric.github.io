@@ -1,6 +1,6 @@
 ---
 id: 3772
-title: '@friandiz @jean_baptiste c&rsquo;est&#8230;impressionnant :-)'
+title: ''
 date: 2009-01-04T01:51:45+00:00
 author: cedric
 layout: post

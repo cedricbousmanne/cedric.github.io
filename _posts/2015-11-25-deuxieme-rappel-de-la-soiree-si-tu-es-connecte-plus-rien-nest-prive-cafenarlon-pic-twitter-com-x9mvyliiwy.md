@@ -1,6 +1,6 @@
 ---
 id: 2397
-title: 'Deuxième rappel de la soirée : si tu es connecté, plus rien n&rsquo;est privé  #cafenarlon pic.twitter.com/X9mVyLIiwy'
+title: ''
 date: 2015-11-25T21:43:06+00:00
 author: cedric
 layout: post

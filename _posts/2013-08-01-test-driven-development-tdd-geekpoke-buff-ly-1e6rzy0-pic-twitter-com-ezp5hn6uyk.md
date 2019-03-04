@@ -1,6 +1,6 @@
 ---
 id: 3258
-title: 'Test Driven Development (TDD) — Geek&amp;Poke &#8211; buff.ly/1e6RzY0 pic.twitter.com/EZP5hn6uYK'
+title: ''
 date: 2013-08-01T16:05:09+00:00
 author: cedric
 layout: post

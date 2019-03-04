@@ -1,6 +1,6 @@
 ---
 id: 2206
-title: 'RT @cafeNArlon: Le #cafenarlon c&rsquo;est dès le plus jeune âge ! pic.twitter.com/6Ebngt0XL9'
+title: ''
 date: 2016-04-20T19:15:20+00:00
 author: cedric
 layout: post

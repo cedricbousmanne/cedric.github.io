@@ -1,6 +1,6 @@
 ---
 id: 3811
-title: Un peu déroutant au début quand même, mais on si fait assez vite :-)
+title: ''
 date: 2008-10-24T18:15:35+00:00
 author: cedric
 layout: post

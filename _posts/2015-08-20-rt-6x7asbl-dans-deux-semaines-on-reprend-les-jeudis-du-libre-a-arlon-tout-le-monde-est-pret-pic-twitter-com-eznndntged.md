@@ -1,6 +1,6 @@
 ---
 id: 2552
-title: 'RT @6x7asbl: Dans deux semaines, on reprend les Jeudis du Libre à Arlon. Tout le monde est prêt? ;-) pic.twitter.com/eZNNDntgEd'
+title: ''
 date: 2015-08-20T15:26:21+00:00
 author: cedric
 layout: post

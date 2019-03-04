@@ -1,6 +1,6 @@
 ---
 id: 2957
-title: 'RT @benoitdessaucy: Non, Stormacq n&rsquo;a rien à voir avec PAPAOUTAI #cafenarlon'
+title: ''
 date: 2014-09-11T20:14:00+00:00
 author: cedric
 layout: post

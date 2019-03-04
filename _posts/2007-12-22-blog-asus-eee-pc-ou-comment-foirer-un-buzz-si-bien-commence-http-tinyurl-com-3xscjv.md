@@ -1,6 +1,6 @@
 ---
 id: 3886
-title: '[blog] Asus EEE PC, ou comment foirer un buzz si bien commencé http://tinyurl.com/3xscjv'
+title: ''
 date: 2007-12-22T00:43:41+00:00
 author: cedric
 layout: post

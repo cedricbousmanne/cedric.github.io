@@ -1,6 +1,6 @@
 ---
 id: 3701
-title: '@jean_baptiste : je suis en Belgique :-)'
+title: ''
 date: 2009-02-13T12:43:57+00:00
 author: cedric
 layout: post

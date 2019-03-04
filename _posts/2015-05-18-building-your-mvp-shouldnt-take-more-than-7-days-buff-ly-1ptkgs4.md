@@ -1,6 +1,6 @@
 ---
 id: 2612
-title: '« Building your MVP (&#8230;) shouldn’t take more than 7 days. » buff.ly/1PtKgS4'
+title: ''
 date: 2015-05-18T17:21:05+00:00
 author: cedric
 layout: post

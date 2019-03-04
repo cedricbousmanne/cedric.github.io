@@ -1,6 +1,6 @@
 ---
 id: 2140
-title: 'RT @prignony: Autopilot v8 pour octobre en Europe. Maintenant #Tesla voit 2voitures devant #CafeNArlon'
+title: ''
 date: 2016-10-04T19:54:39+00:00
 author: cedric
 layout: post

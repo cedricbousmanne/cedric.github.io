@@ -1,6 +1,6 @@
 ---
 id: 3790
-title: '[WP] Comment et où trouver l’inspiration pour créer son thème WordPress: Dans l&rsquo;univers des blogs, on a très.. http://tinyurl.com/8xe3w7'
+title: ''
 date: 2008-12-24T01:52:50+00:00
 author: cedric
 layout: post

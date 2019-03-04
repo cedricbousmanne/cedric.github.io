@@ -1,6 +1,6 @@
 ---
 id: 2497
-title: Slack is going to eat your old office software alive buff.ly/1L4bYxq
+title: ''
 date: 2015-10-06T14:05:46+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3712
-title: '[RoR] Ne pas afficher les mots de passes dans les logs Rails http://tinyurl.com/bc2632'
+title: ''
 date: 2009-02-03T11:53:28+00:00
 author: cedric
 layout: post

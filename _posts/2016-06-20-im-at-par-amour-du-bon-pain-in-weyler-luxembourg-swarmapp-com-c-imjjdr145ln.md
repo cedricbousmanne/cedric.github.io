@@ -1,6 +1,6 @@
 ---
 id: 2177
-title: 'I&rsquo;m at Par amour du bon pain in Weyler, Luxembourg swarmapp.com/c/imJjDR145lN'
+title: ''
 date: 2016-06-20T12:41:16+00:00
 author: cedric
 layout: post

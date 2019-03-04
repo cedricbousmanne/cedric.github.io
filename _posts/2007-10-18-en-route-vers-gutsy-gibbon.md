@@ -1,6 +1,6 @@
 ---
 id: 3982
-title: En route vers Gutsy Gibbon!
+title: ''
 date: 2007-10-18T17:11:54+00:00
 author: cedric
 layout: post

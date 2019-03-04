@@ -1,6 +1,6 @@
 ---
 id: 3248
-title: 'First things first &#8211; buff.ly/GQa3BU'
+title: ''
 date: 2013-10-11T10:10:04+00:00
 author: cedric
 layout: post

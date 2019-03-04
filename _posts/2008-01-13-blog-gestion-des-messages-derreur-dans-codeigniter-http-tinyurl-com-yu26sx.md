@@ -1,6 +1,6 @@
 ---
 id: 3873
-title: '[blog] Gestion des messages d’erreur dans CodeIgniter http://tinyurl.com/yu26sx'
+title: ''
 date: 2008-01-13T03:41:55+00:00
 author: cedric
 layout: post

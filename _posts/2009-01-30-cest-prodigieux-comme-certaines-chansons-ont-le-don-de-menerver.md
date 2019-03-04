@@ -1,6 +1,6 @@
 ---
 id: 3748
-title: 'c&rsquo;est prodigieux comme certaines chansons ont le don de m&rsquo;énerver&#8230;'
+title: ''
 date: 2009-01-30T14:40:34+00:00
 author: cedric
 layout: post

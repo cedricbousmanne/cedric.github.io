@@ -1,6 +1,6 @@
 ---
 id: 3411
-title: 'Responsinator : testez votre site sur iphone, android, ipad, kindle : responsinator.com #responsive #design #webapp'
+title: ''
 date: 2012-04-09T12:06:41+00:00
 author: cedric
 layout: post

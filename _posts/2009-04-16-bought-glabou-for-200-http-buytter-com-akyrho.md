@@ -1,6 +1,6 @@
 ---
 id: 3644
-title: 'bought @glabou  for $ 200  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-16T20:19:10+00:00
 author: cedric
 layout: post

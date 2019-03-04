@@ -1,6 +1,6 @@
 ---
 id: 2945
-title: @_xi_ Nope, jamais
+title: ''
 date: 2014-09-22T08:47:14+00:00
 author: cedric
 layout: post

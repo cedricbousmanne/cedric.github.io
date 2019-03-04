@@ -1,6 +1,6 @@
 ---
 id: 3079
-title: 'Chez le médecin : &#8211; Que faites-vous comme travail ? &#8211; Développeur &#8211; C&rsquo;est un métier physique ça ?'
+title: ''
 date: 2014-04-03T15:20:00+00:00
 author: cedric
 layout: post

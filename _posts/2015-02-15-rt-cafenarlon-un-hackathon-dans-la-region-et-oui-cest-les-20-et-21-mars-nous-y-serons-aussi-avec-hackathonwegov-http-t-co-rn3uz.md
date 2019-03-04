@@ -1,6 +1,6 @@
 ---
 id: 2811
-title: 'RT @cafeNArlon: Un Hackathon, dans la région? Et oui, c&rsquo;est les 20 et 21 mars! Nous y serons aussi avec @HackathonWeGov ! http://t.co/Rn3uZ…'
+title: ''
 date: 2015-02-15T20:03:28+00:00
 author: cedric
 layout: post

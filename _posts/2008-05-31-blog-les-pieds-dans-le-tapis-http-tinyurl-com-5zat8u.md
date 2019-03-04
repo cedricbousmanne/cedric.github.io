@@ -1,6 +1,6 @@
 ---
 id: 3842
-title: '[blog] Les pieds dans le tapis http://tinyurl.com/5zat8u'
+title: ''
 date: 2008-05-31T00:59:01+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3342
-title: 'Est-ce que Yves Leterme a briefé #albert2 pour le discours qu&rsquo;il va prononcer dans 20min?'
+title: ''
 date: 2013-07-03T17:41:29+00:00
 author: cedric
 layout: post

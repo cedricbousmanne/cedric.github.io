@@ -1,6 +1,6 @@
 ---
 id: 3388
-title: 'RT @2houses_com: Win One-year subscription to 2houses &#8211;  Un abonnement d&rsquo;un an à 2houses : facebook.com/pages/2houses.…'
+title: ''
 date: 2013-02-01T17:38:15+00:00
 author: cedric
 layout: post

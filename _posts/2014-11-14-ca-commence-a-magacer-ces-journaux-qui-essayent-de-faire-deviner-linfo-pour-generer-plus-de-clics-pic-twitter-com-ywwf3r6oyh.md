@@ -1,6 +1,6 @@
 ---
 id: 2930
-title: 'Ca commence à m&rsquo;agacer ces journaux qui essayent de faire « deviner » l&rsquo;info pour générer plus de clics pic.twitter.com/YWwf3R6Oyh'
+title: ''
 date: 2014-11-14T18:21:02+00:00
 author: cedric
 layout: post

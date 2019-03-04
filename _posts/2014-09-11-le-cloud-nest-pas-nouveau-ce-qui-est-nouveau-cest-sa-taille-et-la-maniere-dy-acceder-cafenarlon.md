@@ -1,6 +1,6 @@
 ---
 id: 2979
-title: 'Le cloud n&rsquo;est pas nouveau, ce qui est nouveau, c&rsquo;est sa taille et la manière d&rsquo;y accéder #cafenarlon'
+title: ''
 date: 2014-09-11T19:43:16+00:00
 author: cedric
 layout: post

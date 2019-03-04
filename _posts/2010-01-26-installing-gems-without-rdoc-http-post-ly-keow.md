@@ -1,6 +1,6 @@
 ---
 id: 3461
-title: Installing gems without Rdoc http://post.ly/KeOw
+title: ''
 date: 2010-01-26T17:54:08+00:00
 author: cedric
 layout: post

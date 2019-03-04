@@ -1,6 +1,6 @@
 ---
 id: 2698
-title: 'Planifier des travaux au @greenlabcowork juste après le #hackalux n&rsquo;était peut-être pas ma meilleure idée :-/'
+title: ''
 date: 2015-03-24T21:07:44+00:00
 author: cedric
 layout: post

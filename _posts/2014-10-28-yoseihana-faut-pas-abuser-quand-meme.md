@@ -1,6 +1,6 @@
 ---
 id: 2951
-title: @yoseihana faut pas abuser quand même :)
+title: ''
 date: 2014-10-28T22:33:49+00:00
 author: cedric
 layout: post

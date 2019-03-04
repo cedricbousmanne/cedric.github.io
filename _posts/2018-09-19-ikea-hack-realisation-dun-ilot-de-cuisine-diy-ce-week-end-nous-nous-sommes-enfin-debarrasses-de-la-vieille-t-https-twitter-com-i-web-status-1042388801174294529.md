@@ -1,9 +1,6 @@
 ---
 id: 2008
-title: |
-  Ikea Hack : réalisation d&rsquo;un ilôt de cuisine DIY. Ce week-end, nous nous sommes (enfin) débarrassés de la vieille t…
-  
-  https://twitter.com/i/web/status/1042388801174294529
+title: ''
 date: 2018-09-19T14:23:51+00:00
 author: cedric
 layout: post

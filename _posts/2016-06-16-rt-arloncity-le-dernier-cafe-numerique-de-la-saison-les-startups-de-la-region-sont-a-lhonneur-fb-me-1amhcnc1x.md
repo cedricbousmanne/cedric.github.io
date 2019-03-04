@@ -1,6 +1,6 @@
 ---
 id: 2175
-title: 'RT @ArlonCity: Le dernier Café Numérique de la saison. Les startups de la région sont à l&rsquo;honneur!&#8230; fb.me/1amhCnC1x'
+title: ''
 date: 2016-06-16T14:43:07+00:00
 author: cedric
 layout: post

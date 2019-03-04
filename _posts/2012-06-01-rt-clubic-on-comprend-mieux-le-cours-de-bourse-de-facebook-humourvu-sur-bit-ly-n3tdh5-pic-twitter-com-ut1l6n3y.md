@@ -1,8 +1,6 @@
 ---
 id: 3398
-title: |
-  RT @Clubic: On comprend mieux le cours de bourse de Facebook ! #humour
-  Vu sur bit.ly/N3TDH5 pic.twitter.com/uT1l6N3y
+title: ''
 date: 2012-06-01T23:11:27+00:00
 author: cedric
 layout: post

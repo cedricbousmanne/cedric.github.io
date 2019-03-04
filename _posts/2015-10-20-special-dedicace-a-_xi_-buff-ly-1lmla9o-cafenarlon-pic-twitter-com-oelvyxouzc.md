@@ -1,6 +1,6 @@
 ---
 id: 2458
-title: 'Spécial dédicace à @_Xi_ buff.ly/1LmlA9o #cafenarlon pic.twitter.com/OELvYxouZC'
+title: ''
 date: 2015-10-20T20:57:18+00:00
 author: cedric
 layout: post

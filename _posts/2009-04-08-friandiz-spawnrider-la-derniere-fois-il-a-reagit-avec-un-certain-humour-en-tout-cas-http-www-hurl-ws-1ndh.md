@@ -1,6 +1,6 @@
 ---
 id: 3660
-title: @friandiz @spawnrider la dernière fois il a réagit avec un certain humour en tout cas http://www.hurl.ws/1ndh
+title: ''
 date: 2009-04-08T08:20:01+00:00
 author: cedric
 layout: post

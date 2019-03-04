@@ -1,6 +1,6 @@
 ---
 id: 3936
-title: Gooooooooooooood mooooooooorniiiiiiiiiiiiiing
+title: ''
 date: 2007-11-13T09:53:29+00:00
 author: cedric
 layout: post

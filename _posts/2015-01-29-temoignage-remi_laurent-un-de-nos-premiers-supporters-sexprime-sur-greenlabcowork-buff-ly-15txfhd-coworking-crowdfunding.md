@@ -1,6 +1,6 @@
 ---
 id: 2847
-title: 'Témoignage : @remi_laurent, un de nos premiers supporters, s&rsquo;exprime sur @greenlabcowork buff.ly/15TXfHd  #coworking #crowdfunding'
+title: ''
 date: 2015-01-29T14:28:01+00:00
 author: cedric
 layout: post

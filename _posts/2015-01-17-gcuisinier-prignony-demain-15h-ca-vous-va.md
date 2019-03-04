@@ -1,6 +1,6 @@
 ---
 id: 2879
-title: @gcuisinier @prignony demain 15h ca vous va?
+title: ''
 date: 2015-01-17T23:51:06+00:00
 author: cedric
 layout: post

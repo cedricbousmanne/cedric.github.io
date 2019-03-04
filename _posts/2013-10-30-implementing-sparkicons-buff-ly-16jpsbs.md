@@ -1,6 +1,6 @@
 ---
 id: 3240
-title: Implementing Sparkicons buff.ly/16JPSBS
+title: ''
 date: 2013-10-30T17:06:47+00:00
 author: cedric
 layout: post

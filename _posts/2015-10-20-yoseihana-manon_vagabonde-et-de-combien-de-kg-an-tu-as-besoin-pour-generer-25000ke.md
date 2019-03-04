@@ -1,6 +1,6 @@
 ---
 id: 2439
-title: @yoseihana @manon_vagabonde Et de combien de kg/an tu as besoin pour générer 25000k€? :)
+title: ''
 date: 2015-10-20T22:17:50+00:00
 author: cedric
 layout: post

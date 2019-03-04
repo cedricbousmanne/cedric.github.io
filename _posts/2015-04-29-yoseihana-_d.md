@@ -1,6 +1,6 @@
 ---
 id: 2633
-title: @yoseihana :_D
+title: ''
 date: 2015-04-29T16:22:07+00:00
 author: cedric
 layout: post

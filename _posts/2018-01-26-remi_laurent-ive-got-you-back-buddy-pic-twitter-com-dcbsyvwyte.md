@@ -1,6 +1,6 @@
 ---
 id: 2057
-title: '@remi_laurent I&rsquo;ve got you back buddy! pic.twitter.com/dcbsyvwYte'
+title: ''
 date: 2018-01-26T10:37:05+00:00
 author: cedric
 layout: post

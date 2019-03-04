@@ -1,9 +1,6 @@
 ---
 id: 2306
-title: |
-  Why use www?
-  
-  buff.ly/1NJj7Ue
+title: ''
 date: 2016-01-31T17:26:02+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3554
-title: 'Près de 20 minutes plus tard&#8230; toujours rien'
+title: ''
 date: 2009-06-09T23:18:36+00:00
 author: cedric
 layout: post

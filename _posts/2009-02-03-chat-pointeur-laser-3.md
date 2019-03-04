@@ -1,6 +1,6 @@
 ---
 id: 3713
-title: 'chat + pointeur laser = &lt;3'
+title: ''
 date: 2009-02-03T21:57:10+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2055
-title: 'Let&rsquo;s explain #NetNeutrality with #BurgerKing&rsquo;s Whopper youtu.be/ltzy5vRmN8Q'
+title: ''
 date: 2018-01-25T18:36:02+00:00
 author: cedric
 layout: post

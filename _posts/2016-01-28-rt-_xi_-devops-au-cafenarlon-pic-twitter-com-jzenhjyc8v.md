@@ -1,6 +1,6 @@
 ---
 id: 2298
-title: 'RT @_Xi_: #devops au @cafeNArlon pic.twitter.com/JZENHjyc8v'
+title: ''
 date: 2016-01-28T21:18:15+00:00
 author: cedric
 layout: post

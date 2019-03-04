@@ -1,6 +1,6 @@
 ---
 id: 2052
-title: Hello, Aidan 👶❤️ pic.twitter.com/GdOfP1coAr
+title: ''
 date: 2018-03-09T00:32:14+00:00
 author: cedric
 layout: post

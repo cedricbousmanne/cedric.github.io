@@ -1,6 +1,6 @@
 ---
 id: 3338
-title: 'Héberger une application Ruby on Rails avec Amazon Web Services &#8211; buff.ly/10xRHwt'
+title: ''
 date: 2013-07-03T13:12:10+00:00
 author: cedric
 layout: post

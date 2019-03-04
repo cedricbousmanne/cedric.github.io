@@ -1,6 +1,6 @@
 ---
 id: 3128
-title: '#cafenarlon Hype Cycle&#8230; Puis douche froide pic.twitter.com/5fIUf77x71'
+title: ''
 date: 2014-02-24T21:04:59+00:00
 author: cedric
 layout: post

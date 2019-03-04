@@ -1,6 +1,6 @@
 ---
 id: 2626
-title: '@_Xi_ : Toujours OK pour présenter Scala aux #JeudisDuLibre du mois de juin ?'
+title: ''
 date: 2015-04-29T15:37:46+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2827
-title: 'RT @greenlabcowork: Hier, il n&rsquo;y a pas que la radio qui a parlé de notre projet. L&rsquo;avenir du Luxembourg aussi ! buff.ly/1Kgklr6 http…'
+title: ''
 date: 2015-02-05T10:11:24+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2715
-title: 'RT @benoitdessaucy: Hackathon, hack-a-thon, humour geek pourri #hackalux #betech pic.twitter.com/ocz7bxNhLL'
+title: ''
 date: 2015-03-21T14:50:41+00:00
 author: cedric
 layout: post

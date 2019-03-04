@@ -1,6 +1,6 @@
 ---
 id: 3628
-title: 'RT @lhektsok: #photography Liadan &#8211; Nuits Celtiques 2009 &#8211; Attert http://tinyurl.com/ct8nar'
+title: ''
 date: 2009-04-18T22:55:55+00:00
 author: cedric
 layout: post

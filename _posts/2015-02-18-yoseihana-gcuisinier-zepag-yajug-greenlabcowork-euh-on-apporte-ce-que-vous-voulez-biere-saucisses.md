@@ -1,6 +1,6 @@
 ---
 id: 2792
-title: '@yoseihana @gcuisinier @zepag @yajug @greenlabcowork euh on apporte ce que vous voulez : bière, saucisses ?'
+title: ''
 date: 2015-02-18T19:45:14+00:00
 author: cedric
 layout: post

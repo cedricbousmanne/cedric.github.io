@@ -1,6 +1,6 @@
 ---
 id: 2250
-title: '@alexanderdecroo entre en scène apres l&rsquo;intervention de @ThGeerts #tourneedigitale pic.twitter.com/JAbGDUc2gG'
+title: ''
 date: 2016-02-16T21:45:56+00:00
 author: cedric
 layout: post

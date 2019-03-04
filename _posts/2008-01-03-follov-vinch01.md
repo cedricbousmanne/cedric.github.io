@@ -1,6 +1,6 @@
 ---
 id: 3892
-title: follov Vinch01
+title: ''
 date: 2008-01-03T14:56:50+00:00
 author: cedric
 layout: post

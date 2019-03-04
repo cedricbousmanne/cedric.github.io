@@ -1,6 +1,6 @@
 ---
 id: 2631
-title: 'RT @cafeNArlon: Prochain #jeudidulibre à Arlon sur #Docker ! eventbrite.com/e/jeudis-du-li… le 7/05!'
+title: ''
 date: 2015-04-29T15:50:35+00:00
 author: cedric
 layout: post

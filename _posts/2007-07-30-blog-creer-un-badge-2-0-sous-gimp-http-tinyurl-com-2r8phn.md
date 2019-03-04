@@ -1,6 +1,6 @@
 ---
 id: 4042
-title: '[blog] Créer un badge 2.0 sous Gimp http://tinyurl.com/2r8phn'
+title: ''
 date: 2007-07-30T15:12:27+00:00
 author: cedric
 layout: post

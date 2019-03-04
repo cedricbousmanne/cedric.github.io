@@ -1,6 +1,6 @@
 ---
 id: 3567
-title: http://twitpic.com/6mln2
+title: ''
 date: 2009-06-05T00:00:34+00:00
 author: cedric
 layout: post

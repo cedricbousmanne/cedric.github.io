@@ -1,9 +1,6 @@
 ---
 id: 2632
-title: |
-  @yoseihana Je veux pas chicaner… mais… un peu quand même
-  
-  canva.com/design/DABPjly…
+title: ''
 date: 2015-04-29T16:12:46+00:00
 author: cedric
 layout: post

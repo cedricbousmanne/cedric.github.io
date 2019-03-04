@@ -1,6 +1,6 @@
 ---
 id: 2258
-title: 'Octopress : Utiliser les Hooks pour surcharger les permalinks buff.ly/1WoZG9e #ruby #octopress #permalink #hooks'
+title: ''
 date: 2016-02-18T11:26:04+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2304
-title: '#Ruby et les dépendances : #RubyGems, Gemfile et Ruby Toolbox buff.ly/1SPDUgu pic.twitter.com/XXNfAAUvuG'
+title: ''
 date: 2016-01-30T13:20:02+00:00
 author: cedric
 layout: post

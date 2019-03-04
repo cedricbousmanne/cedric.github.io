@@ -1,6 +1,6 @@
 ---
 id: 3946
-title: '[blog] Critique du Web 2.0 http://tinyurl.com/2tdha2'
+title: ''
 date: 2007-11-03T23:45:33+00:00
 author: cedric
 layout: post

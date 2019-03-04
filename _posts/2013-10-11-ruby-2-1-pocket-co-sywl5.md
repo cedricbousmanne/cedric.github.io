@@ -1,6 +1,6 @@
 ---
 id: 3249
-title: 'Ruby 2.1 &#8211; pocket.co/sYWL5'
+title: ''
 date: 2013-10-11T16:06:35+00:00
 author: cedric
 layout: post

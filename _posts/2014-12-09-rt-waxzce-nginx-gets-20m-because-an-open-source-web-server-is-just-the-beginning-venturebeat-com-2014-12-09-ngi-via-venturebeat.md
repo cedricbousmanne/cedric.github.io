@@ -1,6 +1,6 @@
 ---
 id: 2919
-title: 'RT @waxzce: Nginx gets $20M, because an open-source web server is just the beginning venturebeat.com/2014/12/09/ngi… via @VentureBeat'
+title: ''
 date: 2014-12-09T23:51:40+00:00
 author: cedric
 layout: post

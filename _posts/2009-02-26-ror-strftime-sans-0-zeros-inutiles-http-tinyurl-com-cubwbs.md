@@ -1,6 +1,6 @@
 ---
 id: 3684
-title: '#RoR strftime sans 0 (zéros) inutiles http://tinyurl.com/cubwbs'
+title: ''
 date: 2009-02-26T20:57:10+00:00
 author: cedric
 layout: post

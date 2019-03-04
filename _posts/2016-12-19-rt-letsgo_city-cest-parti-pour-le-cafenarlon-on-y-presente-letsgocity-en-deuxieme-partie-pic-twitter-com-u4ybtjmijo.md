@@ -1,6 +1,6 @@
 ---
 id: 2129
-title: 'RT @letsgo_city: C’est parti pour le @cafeNArlon ! :-) on y présente #letsgocity en deuxième partie! pic.twitter.com/u4ybtJMiJo'
+title: ''
 date: 2016-12-19T20:13:14+00:00
 author: cedric
 layout: post

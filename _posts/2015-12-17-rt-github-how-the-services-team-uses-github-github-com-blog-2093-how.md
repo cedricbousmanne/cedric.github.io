@@ -1,6 +1,6 @@
 ---
 id: 2345
-title: 'RT @github: How the Services team uses GitHub: github.com/blog/2093-how-…'
+title: ''
 date: 2015-12-17T22:07:08+00:00
 author: cedric
 layout: post

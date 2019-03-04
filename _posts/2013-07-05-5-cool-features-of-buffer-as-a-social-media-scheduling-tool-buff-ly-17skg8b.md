@@ -1,6 +1,6 @@
 ---
 id: 3323
-title: 5 Cool Features of Buffer as a Social Media Scheduling Tool buff.ly/17SKg8B
+title: ''
 date: 2013-07-05T09:10:11+00:00
 author: cedric
 layout: post

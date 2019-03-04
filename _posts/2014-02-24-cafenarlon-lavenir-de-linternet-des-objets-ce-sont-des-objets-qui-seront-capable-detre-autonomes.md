@@ -1,6 +1,6 @@
 ---
 id: 3127
-title: '#cafenarlon l&rsquo;avenir de l&rsquo;Internet des objets, ce sont des objets qui seront capable d&rsquo;être autonomes'
+title: ''
 date: 2014-02-24T21:02:32+00:00
 author: cedric
 layout: post

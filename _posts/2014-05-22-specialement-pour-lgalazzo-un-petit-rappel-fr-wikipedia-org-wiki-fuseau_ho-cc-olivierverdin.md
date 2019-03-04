@@ -1,6 +1,6 @@
 ---
 id: 3053
-title: 'Spécialement pour @lgalazzo, un petit rappel : fr.wikipedia.org/wiki/Fuseau_ho… cc @olivierverdin'
+title: ''
 date: 2014-05-22T16:30:00+00:00
 author: cedric
 layout: post

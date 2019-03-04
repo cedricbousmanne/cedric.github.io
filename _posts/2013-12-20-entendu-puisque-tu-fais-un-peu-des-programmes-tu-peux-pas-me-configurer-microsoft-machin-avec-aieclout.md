@@ -1,6 +1,6 @@
 ---
 id: 3205
-title: 'Entendu : « puisque tu fais un peu des programmes, tu peux pas me configurer Microsoft machin avec AïeClout? »'
+title: ''
 date: 2013-12-20T11:14:08+00:00
 author: cedric
 layout: post

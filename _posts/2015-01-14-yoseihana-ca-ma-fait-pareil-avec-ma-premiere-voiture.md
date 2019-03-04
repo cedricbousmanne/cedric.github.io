@@ -1,6 +1,6 @@
 ---
 id: 2873
-title: '@yoseihana ça m&rsquo;a fait pareil avec ma premiére voiture :-)'
+title: ''
 date: 2015-01-14T22:48:32+00:00
 author: cedric
 layout: post

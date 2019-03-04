@@ -1,6 +1,6 @@
 ---
 id: 3170
-title: 'Guide de migration vers Capistrano 3 &#8211; via @VFsvp buff.ly/1hiqjJK'
+title: ''
 date: 2014-01-15T12:32:04+00:00
 author: cedric
 layout: post

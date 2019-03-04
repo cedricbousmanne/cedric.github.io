@@ -1,6 +1,6 @@
 ---
 id: 3614
-title: 'I joined twitter on 8 June 2007 &#8211; http://whendidyoujointwitter.com ?'
+title: ''
 date: 2009-04-26T13:10:45+00:00
 author: cedric
 layout: post

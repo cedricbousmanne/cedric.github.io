@@ -1,6 +1,6 @@
 ---
 id: 3188
-title: @yoseihana A ta place je le ferais en silence plutôt que de le crier sur Twitter ;-)
+title: ''
 date: 2014-01-10T17:44:48+00:00
 author: cedric
 layout: post

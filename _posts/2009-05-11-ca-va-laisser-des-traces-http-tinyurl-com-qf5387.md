@@ -1,6 +1,6 @@
 ---
 id: 3597
-title: Ca va laisser des traces http://tinyurl.com/qf5387
+title: ''
 date: 2009-05-11T13:55:11+00:00
 author: cedric
 layout: post

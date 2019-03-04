@@ -1,6 +1,6 @@
 ---
 id: 3328
-title: Le piège du design pour les masses (ou pourquoi faire générique ne marche pas) | UX, Startups et Cie buff.ly/1aFEck0
+title: ''
 date: 2013-07-05T20:12:09+00:00
 author: cedric
 layout: post

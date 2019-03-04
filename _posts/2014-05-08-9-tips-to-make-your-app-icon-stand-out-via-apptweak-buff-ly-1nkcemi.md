@@ -1,6 +1,6 @@
 ---
 id: 3073
-title: 9 Tips to Make Your App Icon Stand Out (via @AppTweak) buff.ly/1nkCEmi
+title: ''
 date: 2014-05-08T11:32:10+00:00
 author: cedric
 layout: post

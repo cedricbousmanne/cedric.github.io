@@ -1,6 +1,6 @@
 ---
 id: 2139
-title: 'RT @6x7asbl: Tesla en chiffres #cafenarlon @TeslaMotors https://t.co/sCmfqp1QGg'
+title: ''
 date: 2016-10-04T19:53:52+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2773
-title: Symple — Planet Friendly Ubuntu Linux PCs buff.ly/17KXzJJ
+title: ''
 date: 2015-03-03T12:32:18+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3836
-title: Répondez à la question, avec un peu de retard http://tinyurl.com/3jmh44
+title: ''
 date: 2008-10-12T00:57:03+00:00
 author: cedric
 layout: post

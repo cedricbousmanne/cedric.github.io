@@ -1,6 +1,6 @@
 ---
 id: 2975
-title: @yoseihana @benoitdessaucy @sebsto @gcuisinier Benoît fera ça très bien :-P
+title: ''
 date: 2014-09-11T08:54:33+00:00
 author: cedric
 layout: post

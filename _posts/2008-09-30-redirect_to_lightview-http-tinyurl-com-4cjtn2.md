@@ -1,6 +1,6 @@
 ---
 id: 3828
-title: redirect_to_lightview http://tinyurl.com/4cjtn2
+title: ''
 date: 2008-09-30T13:55:05+00:00
 author: cedric
 layout: post

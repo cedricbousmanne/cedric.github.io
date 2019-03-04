@@ -1,6 +1,6 @@
 ---
 id: 3807
-title: 'following @inforoutes @darialalala @MonkeyMosher @mathias_poujol : hello!'
+title: ''
 date: 2008-12-13T13:23:33+00:00
 author: cedric
 layout: post

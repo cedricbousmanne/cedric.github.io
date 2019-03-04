@@ -1,6 +1,6 @@
 ---
 id: 2126
-title: 'RT @greenlabcowork: C&rsquo;est l&rsquo;heure du goûter! pic.twitter.com/drOErF2lrO'
+title: ''
 date: 2016-12-14T12:01:24+00:00
 author: cedric
 layout: post

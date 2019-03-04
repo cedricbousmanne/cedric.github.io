@@ -1,6 +1,6 @@
 ---
 id: 4016
-title: 'De retour de chez Lau&#8230; ça fait du bien de glander sur la terrasse, un bon whisky à la main :-)'
+title: ''
 date: 2007-08-12T19:31:13+00:00
 author: cedric
 layout: post

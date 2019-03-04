@@ -1,6 +1,6 @@
 ---
 id: 3586
-title: 'Docu : Le Phénomène des Blogs | Gonzague Dambricourt: http://bit.ly/PHui8 (RT @darialalala)'
+title: ''
 date: 2009-04-26T21:02:15+00:00
 author: cedric
 layout: post

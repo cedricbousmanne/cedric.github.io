@@ -1,6 +1,6 @@
 ---
 id: 4008
-title: Bonjour la Microsphère! http://tinyurl.com/2nlvfa
+title: ''
 date: 2007-08-08T08:40:51+00:00
 author: cedric
 layout: post

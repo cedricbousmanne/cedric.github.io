@@ -1,6 +1,6 @@
 ---
 id: 3262
-title: Vacant jobs at 2houses, the coparenting facilitator lnkd.in/t2ESUv
+title: ''
 date: 2013-08-03T00:43:43+00:00
 author: cedric
 layout: post

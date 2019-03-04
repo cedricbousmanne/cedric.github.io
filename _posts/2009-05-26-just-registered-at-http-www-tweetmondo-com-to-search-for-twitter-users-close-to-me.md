@@ -1,6 +1,6 @@
 ---
 id: 3582
-title: Just registered at http://www.tweetmondo.com to search for Twitter users close to me!
+title: ''
 date: 2009-05-26T10:40:48+00:00
 author: cedric
 layout: post

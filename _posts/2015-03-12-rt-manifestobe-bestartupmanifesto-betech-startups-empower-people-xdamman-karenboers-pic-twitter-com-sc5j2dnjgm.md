@@ -1,6 +1,6 @@
 ---
 id: 2746
-title: 'RT @ManifestoBE: #BEStartupManifesto #BeTech Startups empower people @xdamman @karenboers pic.twitter.com/Sc5j2dnjGM'
+title: ''
 date: 2015-03-12T12:24:43+00:00
 author: cedric
 layout: post

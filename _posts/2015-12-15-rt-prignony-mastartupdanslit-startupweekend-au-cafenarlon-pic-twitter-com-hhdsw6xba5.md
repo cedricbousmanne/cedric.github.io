@@ -1,6 +1,6 @@
 ---
 id: 2359
-title: 'RT @prignony: #mastartupdanslit #startupweekend au #Cafenarlon pic.twitter.com/HHDsw6xBa5'
+title: ''
 date: 2015-12-15T22:07:59+00:00
 author: cedric
 layout: post

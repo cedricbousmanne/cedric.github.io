@@ -1,6 +1,6 @@
 ---
 id: 3232
-title: 'RT @yoseihana: New Font Awesome! &lt;3 fortawesome.github.io/Font-Awesome/w…'
+title: ''
 date: 2013-10-25T10:47:12+00:00
 author: cedric
 layout: post

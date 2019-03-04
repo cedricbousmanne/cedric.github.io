@@ -1,6 +1,6 @@
 ---
 id: 2296
-title: 'RT @cafeNArlon: Dev is magic! #cafenarlon pic.twitter.com/KISaLtaBW2'
+title: ''
 date: 2016-01-28T21:17:17+00:00
 author: cedric
 layout: post

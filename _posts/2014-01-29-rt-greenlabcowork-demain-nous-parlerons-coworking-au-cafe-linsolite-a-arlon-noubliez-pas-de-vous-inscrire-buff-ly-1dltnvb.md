@@ -1,6 +1,6 @@
 ---
 id: 3137
-title: 'RT @greenlabcowork: Demain, nous parlerons #coworking au café « l&rsquo;insolite » à Arlon, n&rsquo;oubliez pas de vous inscrire buff.ly/1dLTnVb #…'
+title: ''
 date: 2014-01-29T15:48:47+00:00
 author: cedric
 layout: post

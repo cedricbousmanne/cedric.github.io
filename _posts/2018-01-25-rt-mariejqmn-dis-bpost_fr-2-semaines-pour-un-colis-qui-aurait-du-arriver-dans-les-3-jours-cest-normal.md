@@ -1,6 +1,6 @@
 ---
 id: 2083
-title: 'RT @MarieJqmn: Dis @bpost_fr, 2 semaines pour un colis qui aurait du arriver dans les 3 jours, c&rsquo;est normal ?'
+title: ''
 date: 2018-01-25T13:04:47+00:00
 author: cedric
 layout: post

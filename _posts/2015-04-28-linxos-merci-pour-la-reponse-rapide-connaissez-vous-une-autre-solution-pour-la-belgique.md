@@ -1,6 +1,6 @@
 ---
 id: 2625
-title: @linxos Merci pour la réponse rapide ! Connaissez-vous une autre solution pour la Belgique ?
+title: ''
 date: 2015-04-28T10:48:04+00:00
 author: cedric
 layout: post

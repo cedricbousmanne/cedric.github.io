@@ -1,6 +1,6 @@
 ---
 id: 2447
-title: 'Les speakers qui demandent un tour de table dans le public, c&rsquo;est une première :-) #cafenarlon #bigdata'
+title: ''
 date: 2015-10-20T20:03:40+00:00
 author: cedric
 layout: post

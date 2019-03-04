@@ -1,6 +1,6 @@
 ---
 id: 2489
-title: Un Arlonais crée un site de covoiturage pour les frontaliers qui travaillent à Luxembourg buff.ly/1L1c2y2
+title: ''
 date: 2015-10-05T11:14:34+00:00
 author: cedric
 layout: post

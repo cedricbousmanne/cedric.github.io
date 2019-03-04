@@ -1,6 +1,6 @@
 ---
 id: 3109
-title: 'RT @betacube: We are also actively working on our next #ruby #user #group #luxembourg event. So if you&rsquo;re a #ruby dev, signup to our newsle…'
+title: ''
 date: 2014-02-25T10:27:50+00:00
 author: cedric
 layout: post

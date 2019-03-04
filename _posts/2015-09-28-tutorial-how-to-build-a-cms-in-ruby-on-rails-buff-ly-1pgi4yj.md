@@ -1,6 +1,6 @@
 ---
 id: 2524
-title: 'Tutorial: How to Build a CMS in Ruby on Rails buff.ly/1PGi4Yj'
+title: ''
 date: 2015-09-28T17:21:01+00:00
 author: cedric
 layout: post

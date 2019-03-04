@@ -1,6 +1,6 @@
 ---
 id: 3306
-title: 'Your city doesn’t have a startup community? Start one! (via @Pocket) &#8211; pocket.co/sromA'
+title: ''
 date: 2013-07-08T20:12:12+00:00
 author: cedric
 layout: post

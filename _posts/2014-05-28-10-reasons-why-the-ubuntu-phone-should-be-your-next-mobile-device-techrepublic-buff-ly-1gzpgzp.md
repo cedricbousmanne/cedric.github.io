@@ -1,6 +1,6 @@
 ---
 id: 3058
-title: '10 reasons why the Ubuntu Phone should be your next mobile device &#8211; TechRepublic buff.ly/1gzpgZp'
+title: ''
 date: 2014-05-28T11:32:03+00:00
 author: cedric
 layout: post

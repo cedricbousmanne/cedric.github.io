@@ -1,6 +1,6 @@
 ---
 id: 2231
-title: @sncb Merci. A quel genre de retard dois-je m’attendre?
+title: ''
 date: 2016-04-14T19:33:15+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2634
-title: WordPress 4.3 will be rewritten in Node.js buff.ly/1QIzbdY
+title: ''
 date: 2015-04-29T17:21:06+00:00
 author: cedric
 layout: post

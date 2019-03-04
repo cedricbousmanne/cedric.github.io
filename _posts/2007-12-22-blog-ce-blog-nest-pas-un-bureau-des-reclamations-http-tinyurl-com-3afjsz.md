@@ -1,6 +1,6 @@
 ---
 id: 3887
-title: '[blog] Ce blog n’est pas un bureau des réclamations http://tinyurl.com/3afjsz'
+title: ''
 date: 2007-12-22T20:43:20+00:00
 author: cedric
 layout: post

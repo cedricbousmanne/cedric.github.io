@@ -1,6 +1,6 @@
 ---
 id: 3271
-title: 'Refactoring is key — Geek&amp;Poke buff.ly/153icJa'
+title: ''
 date: 2013-08-28T16:05:03+00:00
 author: cedric
 layout: post

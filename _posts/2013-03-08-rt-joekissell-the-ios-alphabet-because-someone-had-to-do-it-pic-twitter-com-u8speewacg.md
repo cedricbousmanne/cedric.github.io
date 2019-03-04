@@ -1,6 +1,6 @@
 ---
 id: 3349
-title: 'RT @joekissell: The iOS alphabet. Because someone had to do it. pic.twitter.com/u8SPEewAcg'
+title: ''
 date: 2013-03-08T11:21:22+00:00
 author: cedric
 layout: post

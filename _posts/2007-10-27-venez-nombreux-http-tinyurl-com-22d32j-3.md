@@ -1,6 +1,6 @@
 ---
 id: 3965
-title: Venez nombreux! http://tinyurl.com/22d32j
+title: ''
 date: 2007-10-27T15:00:53+00:00
 author: cedric
 layout: post

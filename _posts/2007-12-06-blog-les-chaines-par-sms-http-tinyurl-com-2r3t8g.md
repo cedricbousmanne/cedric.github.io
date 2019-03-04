@@ -1,6 +1,6 @@
 ---
 id: 3926
-title: '[blog] Les chaines par SMS http://tinyurl.com/2r3t8g'
+title: ''
 date: 2007-12-06T23:44:12+00:00
 author: cedric
 layout: post

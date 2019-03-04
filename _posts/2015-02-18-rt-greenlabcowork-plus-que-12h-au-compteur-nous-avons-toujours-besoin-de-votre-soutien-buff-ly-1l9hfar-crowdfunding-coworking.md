@@ -1,6 +1,6 @@
 ---
 id: 2820
-title: 'RT @greenlabcowork: Plus que 12h au compteur, nous avons toujours besoin de votre soutien ! buff.ly/1L9HFar #crowdfunding #coworking…'
+title: ''
 date: 2015-02-18T13:04:47+00:00
 author: cedric
 layout: post

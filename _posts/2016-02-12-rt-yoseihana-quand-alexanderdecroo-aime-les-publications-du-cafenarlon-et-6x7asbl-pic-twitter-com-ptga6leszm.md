@@ -1,6 +1,6 @@
 ---
 id: 2286
-title: 'RT @yoseihana: Quand @alexanderdecroo aime les publications du @cafeNArlon et @6x7asbl :) pic.twitter.com/PTgA6LESZM'
+title: ''
 date: 2016-02-12T12:34:50+00:00
 author: cedric
 layout: post

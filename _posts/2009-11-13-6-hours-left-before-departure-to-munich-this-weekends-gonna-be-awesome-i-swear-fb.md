@@ -1,6 +1,6 @@
 ---
 id: 3490
-title: '6 hours left before departure to Munich. This weekend&rsquo;s gonna be awesome, i swear #fb'
+title: ''
 date: 2009-11-13T10:54:54+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4077
-title: 'On modifie le tracé du parcours de l&rsquo;Eurotrip, en avant!'
+title: ''
 date: 2007-06-15T15:24:29+00:00
 author: cedric
 layout: post

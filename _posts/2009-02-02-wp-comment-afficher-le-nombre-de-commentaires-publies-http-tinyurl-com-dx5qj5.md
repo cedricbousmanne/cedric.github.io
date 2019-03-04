@@ -1,6 +1,6 @@
 ---
 id: 3710
-title: '[WP] Comment afficher le nombre de commentaires publiés http://tinyurl.com/dx5qj5'
+title: ''
 date: 2009-02-02T14:52:59+00:00
 author: cedric
 layout: post

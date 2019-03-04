@@ -1,6 +1,6 @@
 ---
 id: 3294
-title: 'Flat UI Kit &#8211; HTML/PSD Design Framework buff.ly/15HthCQ'
+title: ''
 date: 2013-07-16T09:10:08+00:00
 author: cedric
 layout: post

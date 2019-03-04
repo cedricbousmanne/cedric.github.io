@@ -1,6 +1,6 @@
 ---
 id: 3122
-title: 'Live hack du CSS de tweetwally.com au #cafenarlon pic.twitter.com/0tyYJ7QYQ5'
+title: ''
 date: 2014-02-24T20:41:04+00:00
 author: cedric
 layout: post

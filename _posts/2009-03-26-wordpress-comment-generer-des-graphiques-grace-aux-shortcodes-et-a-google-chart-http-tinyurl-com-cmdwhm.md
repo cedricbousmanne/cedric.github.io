@@ -1,6 +1,6 @@
 ---
 id: 3675
-title: '#wordpress Comment générer des graphiques grâce aux shortcodes et à Google Chart http://tinyurl.com/cmdwhm'
+title: ''
 date: 2009-03-26T22:59:21+00:00
 author: cedric
 layout: post

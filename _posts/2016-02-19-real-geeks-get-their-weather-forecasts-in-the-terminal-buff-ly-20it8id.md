@@ -1,6 +1,6 @@
 ---
 id: 2262
-title: Real geeks get their weather forecasts in the terminal buff.ly/20It8ID
+title: ''
 date: 2016-02-19T13:46:49+00:00
 author: cedric
 layout: post

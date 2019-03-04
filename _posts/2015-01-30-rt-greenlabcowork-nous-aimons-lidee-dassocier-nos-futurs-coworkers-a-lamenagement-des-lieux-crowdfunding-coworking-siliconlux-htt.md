@@ -1,6 +1,6 @@
 ---
 id: 2849
-title: 'RT @greenlabcowork: « nous aimons l’idée d’associer nos futurs coworkers à l’aménagement des lieux » #crowdfunding #coworking @SiliconLux htt…'
+title: ''
 date: 2015-01-30T17:00:52+00:00
 author: cedric
 layout: post

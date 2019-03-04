@@ -1,6 +1,6 @@
 ---
 id: 2880
-title: @prignony Ok, tiens moi au courant ;-)
+title: ''
 date: 2015-01-18T00:40:02+00:00
 author: cedric
 layout: post

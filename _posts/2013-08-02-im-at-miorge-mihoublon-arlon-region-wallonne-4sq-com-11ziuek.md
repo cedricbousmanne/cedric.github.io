@@ -1,6 +1,6 @@
 ---
 id: 3261
-title: 'I&rsquo;m at Miorge Mihoublon (Arlon, Région Wallonne) 4sq.com/11zIuEk'
+title: ''
 date: 2013-08-02T18:07:36+00:00
 author: cedric
 layout: post

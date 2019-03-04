@@ -1,6 +1,6 @@
 ---
 id: 2890
-title: 'RT @_Xi_: Passage au #HackerSpace avec @yoseihana et @akyrho (@ Level2 &#8211; @syn2cat in Luxembourg) swarmapp.com/c/lNoYGt93zgK'
+title: ''
 date: 2014-12-30T12:55:50+00:00
 author: cedric
 layout: post

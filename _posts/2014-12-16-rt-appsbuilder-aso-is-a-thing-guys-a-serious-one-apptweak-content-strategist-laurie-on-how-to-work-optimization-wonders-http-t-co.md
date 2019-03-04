@@ -1,6 +1,6 @@
 ---
 id: 2901
-title: 'RT @appsbuilder: #ASO is a thing guys &#8211; a serious one! @AppTweak Content Strategist Laurie on how to work optimization wonders: http://t.co…'
+title: ''
 date: 2014-12-16T16:22:44+00:00
 author: cedric
 layout: post

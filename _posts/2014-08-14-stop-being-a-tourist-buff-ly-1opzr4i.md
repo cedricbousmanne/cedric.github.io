@@ -1,6 +1,6 @@
 ---
 id: 3008
-title: 'Stop being a tourist &#8211; buff.ly/1oPzR4I'
+title: ''
 date: 2014-08-14T11:32:01+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3796
-title: Devant son café, a une petite pensée pour @Chacsam :-)
+title: ''
 date: 2008-11-19T10:10:17+00:00
 author: cedric
 layout: post

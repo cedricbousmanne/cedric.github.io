@@ -1,6 +1,6 @@
 ---
 id: 4080
-title: Je vais pisser (ben oui, faut que la nature se fasse!)
+title: ''
 date: 2007-06-08T21:38:51+00:00
 author: cedric
 layout: post

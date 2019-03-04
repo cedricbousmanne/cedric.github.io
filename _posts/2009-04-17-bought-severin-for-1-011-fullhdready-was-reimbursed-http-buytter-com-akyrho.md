@@ -1,6 +1,6 @@
 ---
 id: 3622
-title: 'bought @severin  for $ 1 011 @fullhdready was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-17T19:05:21+00:00
 author: cedric
 layout: post

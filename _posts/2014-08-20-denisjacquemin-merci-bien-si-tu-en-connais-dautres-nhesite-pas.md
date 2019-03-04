@@ -1,6 +1,6 @@
 ---
 id: 2987
-title: '@denisjacquemin Merci bien :-) Si tu en connais d&rsquo;autres, n&rsquo;hésite pas'
+title: ''
 date: 2014-08-20T09:28:58+00:00
 author: cedric
 layout: post

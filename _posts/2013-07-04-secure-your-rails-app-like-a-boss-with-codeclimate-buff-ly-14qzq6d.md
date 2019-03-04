@@ -1,6 +1,6 @@
 ---
 id: 3318
-title: Secure your Rails App like a boss with @codeclimate buff.ly/14qZQ6D
+title: ''
 date: 2013-07-04T09:10:05+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3570
-title: 'Va regarder #HOME sur club-rtl (20h15)'
+title: ''
 date: 2009-06-05T20:13:23+00:00
 author: cedric
 layout: post

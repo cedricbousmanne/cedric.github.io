@@ -1,6 +1,6 @@
 ---
 id: 2779
-title: 'Un beau vase, ca vous tente? #cafenarlon pic.twitter.com/MQbbiVvLnz'
+title: ''
 date: 2015-02-24T21:17:53+00:00
 author: cedric
 layout: post

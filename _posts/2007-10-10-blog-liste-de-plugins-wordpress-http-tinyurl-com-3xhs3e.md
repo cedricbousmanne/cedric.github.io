@@ -1,6 +1,6 @@
 ---
 id: 3995
-title: '[blog] Liste de plugins wordpress http://tinyurl.com/3xhs3e'
+title: ''
 date: 2007-10-10T12:16:10+00:00
 author: cedric
 layout: post

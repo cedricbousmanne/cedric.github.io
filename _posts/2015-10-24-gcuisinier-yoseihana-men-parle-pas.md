@@ -1,6 +1,6 @@
 ---
 id: 2417
-title: '@gcuisinier @yoseihana m&rsquo;en parle pas ^^'
+title: ''
 date: 2015-10-24T14:02:01+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3422
-title: '@Chaos_Be au moins ça changera de l&rsquo;été pourri :)'
+title: ''
 date: 2010-10-01T13:45:28+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3370
-title: '@humancoders @CamilleRoux petit souci à l&rsquo;ajout d&rsquo;un job sur HumanCoders cl.ly/image/3Y1K1m1G…'
+title: ''
 date: 2013-02-20T23:44:19+00:00
 author: cedric
 layout: post

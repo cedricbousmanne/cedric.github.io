@@ -1,6 +1,6 @@
 ---
 id: 3163
-title: 'Simba va avoir la nausée à force de tourner en boucle #cafenarlon pic.twitter.com/DyYk8bkIDI'
+title: ''
 date: 2014-01-27T21:42:25+00:00
 author: cedric
 layout: post

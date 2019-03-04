@@ -1,6 +1,6 @@
 ---
 id: 3770
-title: '[WP] Comment proposer à vos lecteurs de partager vos articles sur Facebook: Il y a deux semaines, je vous pr.. http://tinyurl.com/7hwwm2'
+title: ''
 date: 2009-01-01T13:52:12+00:00
 author: cedric
 layout: post

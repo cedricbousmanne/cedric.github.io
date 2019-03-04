@@ -1,6 +1,6 @@
 ---
 id: 3434
-title: '@CamilleRoux Merci! Je suppose que c&rsquo;est un grand moment dans la vie d&rsquo;un développer Rails :-)'
+title: ''
 date: 2011-12-07T19:01:26+00:00
 author: cedric
 layout: post

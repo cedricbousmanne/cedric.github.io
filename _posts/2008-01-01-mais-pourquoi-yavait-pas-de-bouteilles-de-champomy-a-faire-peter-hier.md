@@ -1,6 +1,6 @@
 ---
 id: 3891
-title: 'Mais pourquoi y&rsquo;avait pas de bouteilles de Champomy a faire péter hier ?'
+title: ''
 date: 2008-01-01T23:56:15+00:00
 author: cedric
 layout: post

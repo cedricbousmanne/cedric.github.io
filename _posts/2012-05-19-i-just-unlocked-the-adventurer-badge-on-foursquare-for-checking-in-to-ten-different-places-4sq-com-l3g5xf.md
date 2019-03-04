@@ -1,6 +1,6 @@
 ---
 id: 3395
-title: I just unlocked the « Adventurer » badge on @foursquare for checking in to ten different places! 4sq.com/L3g5xf
+title: ''
 date: 2012-05-19T18:42:42+00:00
 author: cedric
 layout: post

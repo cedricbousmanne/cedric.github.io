@@ -1,6 +1,6 @@
 ---
 id: 2028
-title: @benoitdessaucy @greenlabcowork Recompte :)
+title: ''
 date: 2018-03-29T21:43:48+00:00
 author: cedric
 layout: post

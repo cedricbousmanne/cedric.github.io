@@ -1,6 +1,6 @@
 ---
 id: 3899
-title: Discovering CodeIgniter
+title: ''
 date: 2007-12-09T13:14:33+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3487
-title: 'J&rsquo;ai toujours quelques invitations Google Wave à distribuer… DM si intéressé #fb #in'
+title: ''
 date: 2009-11-12T17:11:02+00:00
 author: cedric
 layout: post

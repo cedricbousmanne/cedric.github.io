@@ -1,6 +1,6 @@
 ---
 id: 2729
-title: @yoseihana Je veux bien :-)
+title: ''
 date: 2015-03-19T11:37:15+00:00
 author: cedric
 layout: post

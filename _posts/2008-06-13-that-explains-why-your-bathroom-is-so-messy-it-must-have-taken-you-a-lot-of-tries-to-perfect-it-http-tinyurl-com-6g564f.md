@@ -1,6 +1,6 @@
 ---
 id: 3845
-title: that explains why your bathroom is so messy, it must have taken you a lot of tries to perfect it http://tinyurl.com/6g564f
+title: ''
 date: 2008-06-13T08:01:43+00:00
 author: cedric
 layout: post

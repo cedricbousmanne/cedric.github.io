@@ -1,6 +1,6 @@
 ---
 id: 3510
-title: Ferret is definitly an amazing tool, but please, save my brain and write some doc…
+title: ''
 date: 2009-11-10T18:48:39+00:00
 author: cedric
 layout: post

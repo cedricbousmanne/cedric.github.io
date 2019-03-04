@@ -1,6 +1,6 @@
 ---
 id: 3159
-title: 'Ça commence @cafeNArlon #cafenarlon pic.twitter.com/V5Cat3B70e'
+title: ''
 date: 2014-01-27T20:47:41+00:00
 author: cedric
 layout: post

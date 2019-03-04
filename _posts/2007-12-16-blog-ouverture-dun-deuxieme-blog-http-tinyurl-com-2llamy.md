@@ -1,6 +1,6 @@
 ---
 id: 3912
-title: '[blog] Ouverture d’un deuxième blog http://tinyurl.com/2llamy'
+title: ''
 date: 2007-12-16T11:43:49+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2977
-title: How and Where to Learn Ruby buff.ly/1ovPzhk
+title: ''
 date: 2014-09-11T11:32:08+00:00
 author: cedric
 layout: post

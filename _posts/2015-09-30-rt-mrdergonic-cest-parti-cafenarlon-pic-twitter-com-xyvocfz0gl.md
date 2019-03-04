@@ -1,6 +1,6 @@
 ---
 id: 2529
-title: 'RT @MrDergonic: C&rsquo;est parti. #cafenarlon pic.twitter.com/XyVOcfz0GL'
+title: ''
 date: 2015-09-30T20:00:10+00:00
 author: cedric
 layout: post

@@ -1,8 +1,6 @@
 ---
 id: 3378
-title: |
-  Mozilla dévoile son smartphone Firefox OS pour les développeurs
-  presse-citron.net/mozilla-devoil…
+title: ''
 date: 2013-01-22T22:19:38+00:00
 author: cedric
 layout: post

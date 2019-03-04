@@ -1,6 +1,6 @@
 ---
 id: 3344
-title: 'Du coup, ça mérite une chope non? #albert2'
+title: ''
 date: 2013-07-03T18:23:37+00:00
 author: cedric
 layout: post

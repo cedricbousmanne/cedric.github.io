@@ -1,6 +1,6 @@
 ---
 id: 3315
-title: 'Before you knock, think twice &#8211; buff.ly/187KUzh pic.twitter.com/CaBrebc3yH'
+title: ''
 date: 2013-07-10T09:10:13+00:00
 author: cedric
 layout: post

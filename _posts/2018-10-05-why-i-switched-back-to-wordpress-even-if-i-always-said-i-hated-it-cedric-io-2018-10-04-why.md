@@ -1,6 +1,6 @@
 ---
 id: 1975
-title: 'Why I switched back to #WordPress – even if I always said I hated it cedric.io/2018/10/04/why…'
+title: ''
 date: 2018-10-05T08:57:24+00:00
 author: cedric
 layout: post

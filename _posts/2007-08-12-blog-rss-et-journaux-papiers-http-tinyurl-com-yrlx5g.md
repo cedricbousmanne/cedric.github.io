@@ -1,6 +1,6 @@
 ---
 id: 4015
-title: '[blog] RSS et journaux papiers http://tinyurl.com/yrlx5g'
+title: ''
 date: 2007-08-12T16:11:18+00:00
 author: cedric
 layout: post

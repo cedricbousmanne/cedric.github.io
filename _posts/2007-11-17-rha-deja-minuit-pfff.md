@@ -1,6 +1,6 @@
 ---
 id: 3941
-title: Rha! Déjà minuit!? Pfff.
+title: ''
 date: 2007-11-17T01:11:32+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2346
-title: 'RT @VincenzoR: You understand why minimalism is hard when you search for « WordPress Minimalist Theme » …'
+title: ''
 date: 2015-12-17T22:18:56+00:00
 author: cedric
 layout: post

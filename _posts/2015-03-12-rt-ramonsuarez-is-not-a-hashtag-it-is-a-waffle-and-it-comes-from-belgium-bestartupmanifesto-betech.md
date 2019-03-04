@@ -1,6 +1,6 @@
 ---
 id: 2751
-title: 'RT @ramonsuarez: # is not a hashtag, it is a waffle and it comes from Belgium #bestartupmanifesto #betech'
+title: ''
 date: 2015-03-12T12:36:38+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3663
-title: '#wordpress Comment afficher le profil de l’auteur http://tinyurl.com/bq8xvm'
+title: ''
 date: 2009-03-04T21:54:30+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3000
-title: 'RT @cafeNArlon: Il reste 5 places pour le #cafenarlon de ce soir! #AWS #Cloud avec @sebsto eventbrite.com/e/inscription-…'
+title: ''
 date: 2014-09-11T08:40:56+00:00
 author: cedric
 layout: post

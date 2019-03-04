@@ -1,6 +1,6 @@
 ---
 id: 2311
-title: '@gcuisinier c&rsquo;est pas bien comme teaser, je le suis fait avoir :-D'
+title: ''
 date: 2016-01-10T21:33:46+00:00
 author: cedric
 layout: post

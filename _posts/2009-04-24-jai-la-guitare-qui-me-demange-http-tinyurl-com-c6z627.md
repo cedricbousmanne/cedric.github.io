@@ -1,6 +1,6 @@
 ---
 id: 3610
-title: 'J&#8217;ai la guitare qui me démange&#8230; http://tinyurl.com/c6z627'
+title: ''
 date: 2009-04-24T23:54:54+00:00
 author: cedric
 layout: post

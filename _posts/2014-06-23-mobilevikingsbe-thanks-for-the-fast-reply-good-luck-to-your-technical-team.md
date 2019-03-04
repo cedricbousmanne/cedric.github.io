@@ -1,6 +1,6 @@
 ---
 id: 3017
-title: '@mobilevikingsBE Thanks for the fast reply &#8211; good luck to your technical team !'
+title: ''
 date: 2014-06-23T17:54:19+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3814
-title: 'Quelqu&rsquo;un aurait une suggestion pour un client twitter sous Mac OS X? Parce que les pubs dans twitterrific, moyen :s'
+title: ''
 date: 2008-10-25T17:35:50+00:00
 author: cedric
 layout: post

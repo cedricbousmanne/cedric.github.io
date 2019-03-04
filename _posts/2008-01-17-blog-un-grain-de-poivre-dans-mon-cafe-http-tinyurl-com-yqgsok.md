@@ -1,6 +1,6 @@
 ---
 id: 3878
-title: '[blog] Un grain de poivre dans mon café http://tinyurl.com/yqgsok'
+title: ''
 date: 2008-01-17T03:40:51+00:00
 author: cedric
 layout: post

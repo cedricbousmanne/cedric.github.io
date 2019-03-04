@@ -1,6 +1,6 @@
 ---
 id: 2324
-title: 'Koel : Self-Hosted Spotify Clone written with Laravel buff.ly/1Ntj6XK pic.twitter.com/MquDMO9v54'
+title: ''
 date: 2015-12-19T17:26:02+00:00
 author: cedric
 layout: post

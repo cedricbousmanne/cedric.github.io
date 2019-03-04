@@ -1,6 +1,6 @@
 ---
 id: 2321
-title: 'La rencontre entre les développeurs et les opérateurs: une légende? &#8211; Café Numérique Arlon buff.ly/1Ztrf1U'
+title: ''
 date: 2016-01-17T15:39:24+00:00
 author: cedric
 layout: post

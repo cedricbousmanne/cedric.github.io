@@ -1,6 +1,6 @@
 ---
 id: 2917
-title: Ping @benoitdessaucy checkthis.com/startupweekend…
+title: ''
 date: 2014-11-28T21:14:56+00:00
 author: cedric
 layout: post

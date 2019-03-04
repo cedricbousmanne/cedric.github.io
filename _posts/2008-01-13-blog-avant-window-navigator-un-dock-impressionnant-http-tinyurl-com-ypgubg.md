@@ -1,6 +1,6 @@
 ---
 id: 3875
-title: '[blog] Avant-window-navigator, un dock impressionnant http://tinyurl.com/ypgubg'
+title: ''
 date: 2008-01-13T22:41:01+00:00
 author: cedric
 layout: post

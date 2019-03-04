@@ -1,6 +1,6 @@
 ---
 id: 3497
-title: Qui à volé les chaussures de @mhulet?
+title: ''
 date: 2009-08-18T15:31:15+00:00
 author: cedric
 layout: post

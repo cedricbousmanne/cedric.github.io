@@ -1,6 +1,6 @@
 ---
 id: 2271
-title: 'RT @cafeNArlon: L&rsquo;équipe du #CafeNArlon / @6x7asbl sur grand écran au @LEC_Libramont #TourneeDigitale pic.twitter.com/6w9G3jLJ13'
+title: ''
 date: 2016-02-16T21:02:43+00:00
 author: cedric
 layout: post

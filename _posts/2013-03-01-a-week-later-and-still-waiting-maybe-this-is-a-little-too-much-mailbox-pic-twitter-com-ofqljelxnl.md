@@ -1,6 +1,6 @@
 ---
 id: 3348
-title: A week later and still waiting. Maybe this is a little too much @mailbox pic.twitter.com/ofQlJeLxNl
+title: ''
 date: 2013-03-01T10:11:43+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3026
-title: Edinburgh Castle instagram.com/p/qXmY9VoKHT/
+title: ''
 date: 2014-07-13T01:03:34+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4034
-title: 'Tentative sous un clavier en dvorak-fr&#8230; rien de très glorieux pour le moment&#8230;'
+title: ''
 date: 2007-07-24T18:53:31+00:00
 author: cedric
 layout: post

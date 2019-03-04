@@ -1,6 +1,6 @@
 ---
 id: 4028
-title: 'Sale journée&#8230; vais décompresser au coconuts'
+title: ''
 date: 2007-08-02T19:59:37+00:00
 author: cedric
 layout: post

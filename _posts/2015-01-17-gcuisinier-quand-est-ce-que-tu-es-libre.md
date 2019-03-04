@@ -1,6 +1,6 @@
 ---
 id: 2875
-title: @gcuisinier quand est-ce que tu es libre?
+title: ''
 date: 2015-01-17T21:12:11+00:00
 author: cedric
 layout: post

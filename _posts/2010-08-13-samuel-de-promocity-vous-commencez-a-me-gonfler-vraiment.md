@@ -1,6 +1,6 @@
 ---
 id: 3447
-title: 'Samuel de Promocity, vous commencez à me gonfler&#8230; Vraiment&#8230;'
+title: ''
 date: 2010-08-13T11:55:42+00:00
 author: cedric
 layout: post

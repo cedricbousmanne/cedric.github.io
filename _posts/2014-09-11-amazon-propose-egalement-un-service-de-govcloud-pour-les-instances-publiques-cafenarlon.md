@@ -1,6 +1,6 @@
 ---
 id: 2969
-title: 'Amazon propose également un service de GovCloud pour les instances publiques #cafenarlon'
+title: ''
 date: 2014-09-11T20:30:46+00:00
 author: cedric
 layout: post

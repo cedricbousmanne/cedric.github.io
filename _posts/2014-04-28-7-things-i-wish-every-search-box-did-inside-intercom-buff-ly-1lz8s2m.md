@@ -1,6 +1,6 @@
 ---
 id: 3084
-title: 7 things I Wish Every Search Box Did | Inside Intercom buff.ly/1lZ8S2m
+title: ''
 date: 2014-04-28T11:32:00+00:00
 author: cedric
 layout: post

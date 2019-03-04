@@ -1,6 +1,6 @@
 ---
 id: 3536
-title: '@jean_baptiste j&rsquo;aime beaucoup la présentation des archives. Tu utilises un plugin?'
+title: ''
 date: 2009-06-12T20:07:07+00:00
 author: cedric
 layout: post

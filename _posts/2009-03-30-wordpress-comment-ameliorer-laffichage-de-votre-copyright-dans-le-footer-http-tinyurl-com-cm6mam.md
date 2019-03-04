@@ -1,6 +1,6 @@
 ---
 id: 3649
-title: '#wordpress Comment améliorer l’affichage de votre copyright dans le footer http://tinyurl.com/cm6mam'
+title: ''
 date: 2009-03-30T23:54:34+00:00
 author: cedric
 layout: post

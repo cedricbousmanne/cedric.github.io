@@ -1,6 +1,6 @@
 ---
 id: 2282
-title: 'We need an ‘HTTP 425 : Impolite Request’ if an API is called without and argument ‘please=true’ cc/ @almathie'
+title: ''
 date: 2016-02-05T13:39:54+00:00
 author: cedric
 layout: post

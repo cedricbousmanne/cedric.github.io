@@ -1,6 +1,6 @@
 ---
 id: 3458
-title: 'Cherche cet agenda Moleskine (http://bit.ly/8v2BGY) quelque part en Belgique (ou en ligne). Une idée? #fb'
+title: ''
 date: 2010-01-12T20:35:42+00:00
 author: cedric
 layout: post

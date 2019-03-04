@@ -1,6 +1,6 @@
 ---
 id: 3210
-title: 'Pour bien finir l&rsquo;année, une petite enquête concernant le #coworking en province de #Luxembourg &#8211; RT apprécié &#8211; buff.ly/19XPS0Z'
+title: ''
 date: 2013-12-31T15:30:57+00:00
 author: cedric
 layout: post

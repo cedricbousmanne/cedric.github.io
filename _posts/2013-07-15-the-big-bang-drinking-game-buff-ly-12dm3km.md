@@ -1,6 +1,6 @@
 ---
 id: 3292
-title: The big bang drinking game buff.ly/12Dm3KM
+title: ''
 date: 2013-07-15T16:05:07+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3362
-title: '#Ldlc customer service #fail ramonsuarez.com/ldlc-pro-has-b…'
+title: ''
 date: 2013-02-05T20:56:59+00:00
 author: cedric
 layout: post

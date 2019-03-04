@@ -1,6 +1,6 @@
 ---
 id: 2761
-title: 'Le #cafenarlon c&rsquo;est toujours bon pour le moral : Follow et RT à gogo #cafen @cafeNArlon'
+title: ''
 date: 2015-02-25T00:11:16+00:00
 author: cedric
 layout: post

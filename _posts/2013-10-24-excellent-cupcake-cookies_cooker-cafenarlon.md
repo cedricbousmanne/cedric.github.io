@@ -1,8 +1,6 @@
 ---
 id: 3229
-title: |
-  Excellent cupcake !
-  @cookies_cooker #cafenarlon
+title: ''
 date: 2013-10-24T22:13:57+00:00
 author: cedric
 layout: post

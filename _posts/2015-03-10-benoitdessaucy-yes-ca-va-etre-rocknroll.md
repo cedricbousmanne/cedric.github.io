@@ -1,6 +1,6 @@
 ---
 id: 2745
-title: '@benoitdessaucy YES ! Ca va être rock&rsquo;n&rsquo;roll ;-)'
+title: ''
 date: 2015-03-10T23:45:00+00:00
 author: cedric
 layout: post

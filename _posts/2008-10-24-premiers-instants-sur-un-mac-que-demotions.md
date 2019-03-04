@@ -1,6 +1,6 @@
 ---
 id: 3810
-title: 'premiers instants sur un Mac&#8230; que d&rsquo;émotions :-)'
+title: ''
 date: 2008-10-24T17:09:52+00:00
 author: cedric
 layout: post

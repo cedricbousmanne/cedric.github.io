@@ -1,6 +1,6 @@
 ---
 id: 3889
-title: 'Listening to: « Umbrella version punk-rock » (http://tinyurl.com/2k9gjr)'
+title: ''
 date: 2007-12-26T00:18:28+00:00
 author: cedric
 layout: post

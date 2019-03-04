@@ -1,6 +1,6 @@
 ---
 id: 2376
-title: 'Quand on voit ce qu&rsquo;il se passe en France, on se dit que peut-être… buff.ly/1SJddXN'
+title: ''
 date: 2015-12-07T18:12:53+00:00
 author: cedric
 layout: post

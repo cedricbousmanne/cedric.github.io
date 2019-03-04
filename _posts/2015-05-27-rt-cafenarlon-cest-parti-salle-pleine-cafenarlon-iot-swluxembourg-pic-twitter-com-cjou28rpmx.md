@@ -1,6 +1,6 @@
 ---
 id: 2616
-title: 'RT @cafeNArlon: C&rsquo;est parti! Salle pleine ! #cafenarlon #IoT @swluxembourg pic.twitter.com/cJOU28rPmx'
+title: ''
 date: 2015-05-27T19:49:18+00:00
 author: cedric
 layout: post

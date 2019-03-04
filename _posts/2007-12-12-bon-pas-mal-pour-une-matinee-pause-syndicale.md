@@ -1,6 +1,6 @@
 ---
 id: 3904
-title: 'Bon&#8230; pas mal pour une matinée. Pause syndicale :)'
+title: ''
 date: 2007-12-12T14:57:44+00:00
 author: cedric
 layout: post

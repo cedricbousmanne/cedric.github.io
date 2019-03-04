@@ -1,6 +1,6 @@
 ---
 id: 3838
-title: a réussi a installer Adobe Air sous Ubuntu 64 bits o/
+title: ''
 date: 2008-10-12T23:57:30+00:00
 author: cedric
 layout: post

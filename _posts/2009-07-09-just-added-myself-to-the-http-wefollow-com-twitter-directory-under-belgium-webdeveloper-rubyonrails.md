@@ -1,6 +1,6 @@
 ---
 id: 3520
-title: 'Just added myself to the http://wefollow.com twitter directory under:  #belgium #webdeveloper #rubyonrails'
+title: ''
 date: 2009-07-09T13:16:43+00:00
 author: cedric
 layout: post

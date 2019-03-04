@@ -1,6 +1,6 @@
 ---
 id: 3204
-title: 'Un compte premium Skype gratuit pendant un an (au lieu de 71 euros)  &#8211; buff.ly/19yQ6LG'
+title: ''
 date: 2013-12-19T00:27:53+00:00
 author: cedric
 layout: post

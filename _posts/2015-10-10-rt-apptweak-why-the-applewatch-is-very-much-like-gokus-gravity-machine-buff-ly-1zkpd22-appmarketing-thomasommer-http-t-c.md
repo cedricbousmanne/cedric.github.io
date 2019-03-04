@@ -1,6 +1,6 @@
 ---
 id: 2484
-title: 'RT @AppTweak: Why the #AppleWatch Is Very Much Like Goku’s Gravity Machine &#8211; buff.ly/1ZkPd22 &#8211; #appmarketing @thomasommer http://t.c…'
+title: ''
 date: 2015-10-10T17:45:32+00:00
 author: cedric
 layout: post

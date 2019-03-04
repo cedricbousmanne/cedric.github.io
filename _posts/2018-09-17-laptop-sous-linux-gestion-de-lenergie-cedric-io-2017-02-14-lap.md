@@ -1,6 +1,6 @@
 ---
 id: 1994
-title: 'Laptop sous Linux : gestion de l’énergie cedric.io/2017/02/14/lap…'
+title: ''
 date: 2018-09-17T11:08:36+00:00
 author: cedric
 layout: post

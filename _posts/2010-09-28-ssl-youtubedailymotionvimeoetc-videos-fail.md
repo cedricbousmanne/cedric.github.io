@@ -1,6 +1,6 @@
 ---
 id: 3448
-title: 'SSL + (youtube|dailymotion|vimeo|etc) videos = #fail'
+title: ''
 date: 2010-09-28T11:33:12+00:00
 author: cedric
 layout: post

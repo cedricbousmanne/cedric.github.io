@@ -1,6 +1,6 @@
 ---
 id: 2050
-title: 'A l&rsquo;@lavenirAL, on aime bien commencer les titres par le mot « ivre » :-D pic.twitter.com/T2o1ELMN2A'
+title: ''
 date: 2018-03-07T11:38:47+00:00
 author: cedric
 layout: post

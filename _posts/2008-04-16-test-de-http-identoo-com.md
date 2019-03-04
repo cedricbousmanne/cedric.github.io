@@ -1,6 +1,6 @@
 ---
 id: 3866
-title: test de http://identoo.com
+title: ''
 date: 2008-04-16T08:44:18+00:00
 author: cedric
 layout: post

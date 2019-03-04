@@ -1,6 +1,6 @@
 ---
 id: 3840
-title: '[blog] CodeIgniter et Akismet http://tinyurl.com/5e2cda'
+title: ''
 date: 2008-05-25T13:53:10+00:00
 author: cedric
 layout: post

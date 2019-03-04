@@ -1,6 +1,6 @@
 ---
 id: 3950
-title: 'Quand ça veut pas&#8230; ça veut pas :-('
+title: ''
 date: 2007-11-06T14:46:41+00:00
 author: cedric
 layout: post

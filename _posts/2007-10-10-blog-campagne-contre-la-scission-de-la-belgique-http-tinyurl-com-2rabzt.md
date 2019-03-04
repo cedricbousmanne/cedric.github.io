@@ -1,6 +1,6 @@
 ---
 id: 3996
-title: '[blog] Campagne contre la scission de la Belgique http://tinyurl.com/2rabzt'
+title: ''
 date: 2007-10-10T13:17:10+00:00
 author: cedric
 layout: post

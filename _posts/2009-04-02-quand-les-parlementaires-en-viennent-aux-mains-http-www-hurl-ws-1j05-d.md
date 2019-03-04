@@ -1,6 +1,6 @@
 ---
 id: 3655
-title: 'quand les parlementaires en viennent aux mains : http://www.hurl.ws/1j05 :D'
+title: ''
 date: 2009-04-02T12:31:28+00:00
 author: cedric
 layout: post

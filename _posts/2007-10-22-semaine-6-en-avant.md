@@ -1,6 +1,6 @@
 ---
 id: 3960
-title: 'Semaine 6 : en avant!'
+title: ''
 date: 2007-10-22T09:16:04+00:00
 author: cedric
 layout: post

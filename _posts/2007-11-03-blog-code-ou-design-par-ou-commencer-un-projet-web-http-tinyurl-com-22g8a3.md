@@ -1,6 +1,6 @@
 ---
 id: 3973
-title: '[blog] Code ou design? Par où commencer un projet web http://tinyurl.com/22g8a3'
+title: ''
 date: 2007-11-03T00:45:32+00:00
 author: cedric
 layout: post

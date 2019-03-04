@@ -1,6 +1,6 @@
 ---
 id: 2314
-title: @yoseihana w00t o/
+title: ''
 date: 2016-01-12T10:04:10+00:00
 author: cedric
 layout: post

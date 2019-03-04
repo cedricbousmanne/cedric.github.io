@@ -1,6 +1,6 @@
 ---
 id: 3865
-title: 'Zut, on peut pas cliquer sur les URL&#8230;'
+title: ''
 date: 2008-04-06T16:04:12+00:00
 author: cedric
 layout: post

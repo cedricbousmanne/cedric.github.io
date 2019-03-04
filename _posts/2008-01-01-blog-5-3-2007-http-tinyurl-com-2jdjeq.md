@@ -1,6 +1,6 @@
 ---
 id: 3890
-title: '[blog] 5 * 3 * 2007 http://tinyurl.com/2jdjeq'
+title: ''
 date: 2008-01-01T23:41:56+00:00
 author: cedric
 layout: post

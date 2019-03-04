@@ -1,6 +1,6 @@
 ---
 id: 3997
-title: 'Lis « L&rsquo;arbre des possibles », Bernard Werber'
+title: ''
 date: 2007-10-13T09:57:02+00:00
 author: cedric
 layout: post

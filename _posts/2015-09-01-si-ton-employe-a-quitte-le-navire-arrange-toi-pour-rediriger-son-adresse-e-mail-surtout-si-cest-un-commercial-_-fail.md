@@ -1,6 +1,6 @@
 ---
 id: 2556
-title: 'Si ton employé a quitté le navire, arrange-toi pour rediriger son adresse e-mail, surtout si c&rsquo;est un commercial -_- #fail'
+title: ''
 date: 2015-09-01T14:48:38+00:00
 author: cedric
 layout: post

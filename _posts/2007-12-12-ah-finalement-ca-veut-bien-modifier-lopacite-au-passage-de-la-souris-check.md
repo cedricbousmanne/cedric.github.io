@@ -1,6 +1,6 @@
 ---
 id: 3903
-title: 'Ah?! Finalement, ça veut bien&#8230; Modifier l&rsquo;opacité au passage de la souris : check'
+title: ''
 date: 2007-12-12T12:16:04+00:00
 author: cedric
 layout: post

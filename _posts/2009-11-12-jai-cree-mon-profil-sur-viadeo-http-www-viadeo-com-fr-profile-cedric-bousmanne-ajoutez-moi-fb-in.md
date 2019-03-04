@@ -1,6 +1,6 @@
 ---
 id: 3488
-title: 'J&rsquo;ai crée mon profil sur Viadeo : http://www.viadeo.com/fr/profile/cedric.bousmanne, ajoutez-moi ;-) #fb #in'
+title: ''
 date: 2009-11-12T19:08:16+00:00
 author: cedric
 layout: post

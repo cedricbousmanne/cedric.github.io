@@ -1,6 +1,6 @@
 ---
 id: 3485
-title: 'headache&rsquo;s gone and Ferret server is working fine. RoR rocks #in'
+title: ''
 date: 2009-11-11T13:46:14+00:00
 author: cedric
 layout: post

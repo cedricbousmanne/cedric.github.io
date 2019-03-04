@@ -1,6 +1,6 @@
 ---
 id: 3625
-title: offered a Cofee to @zorrobiwan http://buytter.com/zorrobiwan
+title: ''
 date: 2009-04-18T00:12:28+00:00
 author: cedric
 layout: post

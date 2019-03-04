@@ -1,6 +1,6 @@
 ---
 id: 3942
-title: '[blog] Le retour du pigeon http://tinyurl.com/2w2clk'
+title: ''
 date: 2007-11-17T23:46:28+00:00
 author: cedric
 layout: post

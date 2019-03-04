@@ -1,6 +1,6 @@
 ---
 id: 2496
-title: 'Octopress &#8211; La colorisation syntaxique avec CodeBlock buff.ly/1Q27hYv #ruby #octopress'
+title: ''
 date: 2015-10-06T11:32:14+00:00
 author: cedric
 layout: post

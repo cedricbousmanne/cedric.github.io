@@ -1,6 +1,6 @@
 ---
 id: 3917
-title: http://www.sauvonslasolidarite.be/participer/participer.php
+title: ''
 date: 2007-11-21T13:18:12+00:00
 author: cedric
 layout: post

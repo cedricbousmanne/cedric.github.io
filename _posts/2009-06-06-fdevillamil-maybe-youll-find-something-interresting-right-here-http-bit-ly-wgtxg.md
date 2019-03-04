@@ -1,6 +1,6 @@
 ---
 id: 3541
-title: '@fdevillamil maybe you&rsquo;ll find something interresting right here : http://bit.ly/wGtxG'
+title: ''
 date: 2009-06-06T10:44:31+00:00
 author: cedric
 layout: post

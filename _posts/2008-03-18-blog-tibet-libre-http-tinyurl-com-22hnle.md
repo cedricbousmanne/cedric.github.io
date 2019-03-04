@@ -1,6 +1,6 @@
 ---
 id: 3860
-title: '[blog] Tibet Libre http://tinyurl.com/22hnle'
+title: ''
 date: 2008-03-18T13:58:47+00:00
 author: cedric
 layout: post

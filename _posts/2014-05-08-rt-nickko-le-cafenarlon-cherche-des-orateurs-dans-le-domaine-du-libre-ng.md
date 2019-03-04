@@ -1,6 +1,6 @@
 ---
 id: 3072
-title: 'RT @Nickko: Le @cafeNArlon cherche des orateurs dans le domaine du libre ^NG'
+title: ''
 date: 2014-05-08T10:36:26+00:00
 author: cedric
 layout: post

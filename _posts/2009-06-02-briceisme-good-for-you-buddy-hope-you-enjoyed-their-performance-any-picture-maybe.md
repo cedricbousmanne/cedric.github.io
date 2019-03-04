@@ -1,6 +1,6 @@
 ---
 id: 3563
-title: '@briceisme good for you buddy, hope you enjoyed their performance&#8230; any picture maybe?'
+title: ''
 date: 2009-06-02T23:46:56+00:00
 author: cedric
 layout: post

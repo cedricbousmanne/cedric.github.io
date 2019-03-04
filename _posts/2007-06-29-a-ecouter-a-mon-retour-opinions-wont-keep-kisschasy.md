@@ -1,6 +1,6 @@
 ---
 id: 4056
-title: 'A écouter à mon retour : Opinions Won&rsquo;t Keep, Kisschasy'
+title: ''
 date: 2007-06-29T13:01:18+00:00
 author: cedric
 layout: post

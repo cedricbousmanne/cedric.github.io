@@ -1,6 +1,6 @@
 ---
 id: 3286
-title: Peut-on se faire piéger par un feu rouge ? buff.ly/18NF1Yi
+title: ''
 date: 2013-07-31T16:05:11+00:00
 author: cedric
 layout: post

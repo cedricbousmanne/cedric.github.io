@@ -1,6 +1,6 @@
 ---
 id: 2084
-title: '@remi_laurent #ruby will always be happy to have you back'
+title: ''
 date: 2018-01-25T13:05:52+00:00
 author: cedric
 layout: post

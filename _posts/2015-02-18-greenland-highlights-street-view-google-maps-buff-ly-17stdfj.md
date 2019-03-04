@@ -1,6 +1,6 @@
 ---
 id: 2791
-title: 'Greenland Highlights &#8211; Street View &#8211; Google Maps buff.ly/17StdFJ'
+title: ''
 date: 2015-02-18T15:14:23+00:00
 author: cedric
 layout: post

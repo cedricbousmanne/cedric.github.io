@@ -1,6 +1,6 @@
 ---
 id: 3898
-title: '[blog] Jeux-blog, ou comment niquer la productivité d’un lundi matin http://tinyurl.com/2tzo5l'
+title: ''
 date: 2008-01-07T13:41:39+00:00
 author: cedric
 layout: post

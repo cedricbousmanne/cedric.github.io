@@ -1,6 +1,6 @@
 ---
 id: 3479
-title: 'Yes, i&rsquo;ve got my GitHub profile. Now i&rsquo;m a geek. http://github.com/cedricbousmanne #in #fb'
+title: ''
 date: 2010-01-05T22:40:04+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2594
-title: 'RT @AppTweak: 4 Things To Do Before Your App Launch &#8211; buff.ly/1CBgOnq &#8211; #appmarketing #ASO #indie @applift pic.twitter.com/rmTqQfqzRC'
+title: ''
 date: 2015-07-13T23:13:54+00:00
 author: cedric
 layout: post

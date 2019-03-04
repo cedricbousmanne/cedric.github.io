@@ -1,6 +1,6 @@
 ---
 id: 3964
-title: '[blog] Utiliser son adresse Gmail comme adresse de messagerie instantanée http://tinyurl.com/2krcsg'
+title: ''
 date: 2007-10-27T12:45:38+00:00
 author: cedric
 layout: post

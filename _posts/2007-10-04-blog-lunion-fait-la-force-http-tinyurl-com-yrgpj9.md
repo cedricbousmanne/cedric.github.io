@@ -1,6 +1,6 @@
 ---
 id: 3992
-title: '[blog] L’union fait la force http://tinyurl.com/yrgpj9'
+title: ''
 date: 2007-10-04T15:19:13+00:00
 author: cedric
 layout: post

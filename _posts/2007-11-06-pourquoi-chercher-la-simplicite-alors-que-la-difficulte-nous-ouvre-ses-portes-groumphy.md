@@ -1,6 +1,6 @@
 ---
 id: 3948
-title:  « Pourquoi chercher la simplicité alors que la difficulté nous ouvre ses portes ? », Groumphy
+title: ''
 date: 2007-11-06T13:59:41+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3595
-title: 'RT @jean_baptiste: Retweeting @Suchablog: Google Maroc hacké, carrement&#8230; http://google.co.ma/'
+title: ''
 date: 2009-05-09T17:56:41+00:00
 author: cedric
 layout: post

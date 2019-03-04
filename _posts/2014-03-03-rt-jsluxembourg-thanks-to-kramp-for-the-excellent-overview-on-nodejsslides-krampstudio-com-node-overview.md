@@ -1,9 +1,6 @@
 ---
 id: 3120
-title: |
-  RT @JSLuxembourg: Thanks to @kramp for the excellent overview on NodeJs
-  
-  Slides: krampstudio.com/node-overview-…
+title: ''
 date: 2014-03-03T21:21:29+00:00
 author: cedric
 layout: post

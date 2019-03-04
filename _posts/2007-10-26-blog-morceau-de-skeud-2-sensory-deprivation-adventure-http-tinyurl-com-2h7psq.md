@@ -1,6 +1,6 @@
 ---
 id: 3962
-title: '[blog] Morceau de skeud #2 : Sensory Deprivation Adventure http://tinyurl.com/2h7psq'
+title: ''
 date: 2007-10-26T11:45:32+00:00
 author: cedric
 layout: post

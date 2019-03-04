@@ -1,6 +1,6 @@
 ---
 id: 3927
-title: '[blog] Entrevue avec Jérémy, rédacteur de Pop/Rock Info http://tinyurl.com/2vfxmf'
+title: ''
 date: 2007-12-07T18:44:07+00:00
 author: cedric
 layout: post

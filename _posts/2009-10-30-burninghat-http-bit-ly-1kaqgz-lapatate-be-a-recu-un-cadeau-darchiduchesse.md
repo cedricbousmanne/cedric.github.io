@@ -1,6 +1,6 @@
 ---
 id: 3508
-title: '@burninghat : http://bit.ly/1kaQGZ laPatate.be à reçu un cadeau d&rsquo;Archiduchesse'
+title: ''
 date: 2009-10-30T16:22:23+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2412
-title: 'RT @Themosis: Themosis framework 1.2.0 is finally available: bit.ly/1tEtYFu'
+title: ''
 date: 2015-11-19T12:16:49+00:00
 author: cedric
 layout: post

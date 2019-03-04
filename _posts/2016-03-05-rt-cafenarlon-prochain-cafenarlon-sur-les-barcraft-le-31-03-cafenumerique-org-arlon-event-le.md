@@ -1,6 +1,6 @@
 ---
 id: 2243
-title: 'RT @cafeNArlon: Prochain #cafenarlon sur les #barcraft le 31/03. cafenumerique.org/arlon/event/le…'
+title: ''
 date: 2016-03-05T17:41:16+00:00
 author: cedric
 layout: post

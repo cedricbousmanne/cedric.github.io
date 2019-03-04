@@ -1,6 +1,6 @@
 ---
 id: 3309
-title: 'Flash sur la E411 direction Bruxelles, camionnette banalisée sur un pont juste après l&rsquo;aire de Wanlin'
+title: ''
 date: 2013-07-09T08:11:22+00:00
 author: cedric
 layout: post

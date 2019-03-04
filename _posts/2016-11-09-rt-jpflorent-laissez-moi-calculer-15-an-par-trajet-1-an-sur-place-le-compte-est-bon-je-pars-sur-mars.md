@@ -1,6 +1,6 @@
 ---
 id: 2116
-title: 'RT @jpflorent: Laissez moi calculer: 1,5 an par trajet, 1 an sur place&#8230; le compte est bon. Je pars sur Mars&#8230;'
+title: ''
 date: 2016-11-09T22:23:44+00:00
 author: cedric
 layout: post

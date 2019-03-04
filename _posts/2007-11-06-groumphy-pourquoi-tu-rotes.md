@@ -1,6 +1,6 @@
 ---
 id: 3949
-title: '@Groumphy : pourquoi, tu rotes?'
+title: ''
 date: 2007-11-06T14:11:08+00:00
 author: cedric
 layout: post

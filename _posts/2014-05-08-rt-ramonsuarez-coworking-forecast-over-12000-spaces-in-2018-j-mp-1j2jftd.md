@@ -1,6 +1,6 @@
 ---
 id: 3071
-title: 'RT @ramonsuarez: Coworking Forecast: over 12000 spaces in 2018  j.mp/1j2JftD'
+title: ''
 date: 2014-05-08T10:12:19+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3319
-title: 'RT @wearedead: Pire que la Comic Sans MS? La typo Nabilla dafont.com/fr/allo-tas-pa…'
+title: ''
 date: 2013-07-04T12:29:01+00:00
 author: cedric
 layout: post

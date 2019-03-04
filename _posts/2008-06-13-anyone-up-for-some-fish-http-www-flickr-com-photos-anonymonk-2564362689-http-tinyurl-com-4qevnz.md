@@ -1,6 +1,6 @@
 ---
 id: 3849
-title: Anyone up for some fish? http://www.flickr.com/photos/anonymonk/2564362689/ http://tinyurl.com/4qevnz
+title: ''
 date: 2008-06-13T08:01:50+00:00
 author: cedric
 layout: post

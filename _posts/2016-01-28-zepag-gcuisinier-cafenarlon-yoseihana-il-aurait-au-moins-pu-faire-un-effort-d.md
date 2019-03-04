@@ -1,6 +1,6 @@
 ---
 id: 2302
-title: @zepag @gcuisinier @cafeNArlon @yoseihana il aurait au moins pu faire un effort :-D
+title: ''
 date: 2016-01-28T22:01:22+00:00
 author: cedric
 layout: post

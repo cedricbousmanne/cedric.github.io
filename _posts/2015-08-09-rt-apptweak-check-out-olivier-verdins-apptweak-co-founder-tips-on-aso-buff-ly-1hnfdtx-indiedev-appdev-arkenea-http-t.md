@@ -1,6 +1,6 @@
 ---
 id: 2578
-title: 'RT @AppTweak: Check Out Olivier Verdin&rsquo;s (AppTweak co-Founder) Tips on #ASO &#8211; buff.ly/1hnFdTX &#8211; #indiedev #appdev @Arkenea http://t.…'
+title: ''
 date: 2015-08-09T19:17:15+00:00
 author: cedric
 layout: post

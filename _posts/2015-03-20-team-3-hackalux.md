@@ -1,6 +1,6 @@
 ---
 id: 2733
-title: 'Team #3 #hackalux'
+title: ''
 date: 2015-03-20T13:22:15+00:00
 author: cedric
 layout: post

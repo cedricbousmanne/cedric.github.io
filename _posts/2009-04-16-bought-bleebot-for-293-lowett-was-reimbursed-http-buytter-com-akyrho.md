@@ -1,6 +1,6 @@
 ---
 id: 3640
-title: 'bought @bleebot  for $ 293 @lowett was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-16T17:40:13+00:00
 author: cedric
 layout: post

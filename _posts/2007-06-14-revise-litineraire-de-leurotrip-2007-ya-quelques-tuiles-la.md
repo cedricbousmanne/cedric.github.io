@@ -1,6 +1,6 @@
 ---
 id: 4072
-title: 'Révise l&rsquo;itinéraire de l&rsquo;Eurotrip 2007&#8230; y&rsquo;a quelques tuiles là'
+title: ''
 date: 2007-06-14T16:20:06+00:00
 author: cedric
 layout: post

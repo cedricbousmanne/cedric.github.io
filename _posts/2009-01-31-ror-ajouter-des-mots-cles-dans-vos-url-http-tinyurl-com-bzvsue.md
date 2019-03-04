@@ -1,6 +1,6 @@
 ---
 id: 3706
-title: '[RoR] Ajouter des mots clès dans vos URL http://tinyurl.com/bzvsue'
+title: ''
 date: 2009-01-31T08:52:39+00:00
 author: cedric
 layout: post

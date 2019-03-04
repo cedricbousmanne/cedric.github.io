@@ -1,6 +1,6 @@
 ---
 id: 3871
-title: '[blog] Spambook http://tinyurl.com/2fcjc7'
+title: ''
 date: 2008-01-10T11:41:24+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3428
-title: How to export an entire SVN project http://post.ly/13wjq
+title: ''
 date: 2010-10-13T10:29:08+00:00
 author: cedric
 layout: post

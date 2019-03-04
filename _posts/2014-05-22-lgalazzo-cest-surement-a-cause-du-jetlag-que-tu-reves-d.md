@@ -1,6 +1,6 @@
 ---
 id: 3054
-title: @lgalazzo C’est sûrement à cause du jetlag que tu rêves :-D
+title: ''
 date: 2014-05-22T16:32:34+00:00
 author: cedric
 layout: post

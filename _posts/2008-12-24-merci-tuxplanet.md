@@ -1,6 +1,6 @@
 ---
 id: 3792
-title: merci @tuxplanet :-)
+title: ''
 date: 2008-12-24T19:02:51+00:00
 author: cedric
 layout: post

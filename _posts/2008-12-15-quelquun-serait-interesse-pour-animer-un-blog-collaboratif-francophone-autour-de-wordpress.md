@@ -1,6 +1,6 @@
 ---
 id: 3809
-title: 'Quelqu&rsquo;un serait interessé pour animer un blog collaboratif francophone autour de WordPress?'
+title: ''
 date: 2008-12-15T00:03:22+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3911
-title: '[blog] Contre-productivité http://tinyurl.com/2e3x5l'
+title: ''
 date: 2007-12-16T00:43:26+00:00
 author: cedric
 layout: post

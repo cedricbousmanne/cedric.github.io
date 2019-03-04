@@ -1,6 +1,6 @@
 ---
 id: 3116
-title: Pourquoi je me fous de ton projet buff.ly/Ndwk0b
+title: ''
 date: 2014-03-03T12:32:05+00:00
 author: cedric
 layout: post

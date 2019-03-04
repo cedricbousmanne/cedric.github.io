@@ -1,6 +1,6 @@
 ---
 id: 3943
-title: '[blog] Un nouveau bug chez FeedBurner? http://tinyurl.com/2kyfjc'
+title: ''
 date: 2007-11-18T13:46:10+00:00
 author: cedric
 layout: post

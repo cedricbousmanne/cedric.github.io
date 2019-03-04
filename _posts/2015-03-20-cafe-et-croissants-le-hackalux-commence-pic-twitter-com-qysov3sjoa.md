@@ -1,6 +1,6 @@
 ---
 id: 2730
-title: 'Café et croissants, le #hackalux commence pic.twitter.com/QYsoV3sJoA'
+title: ''
 date: 2015-03-20T11:25:13+00:00
 author: cedric
 layout: post

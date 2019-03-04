@@ -1,6 +1,6 @@
 ---
 id: 4082
-title: Je teste WordPress
+title: ''
 date: 2007-06-08T22:07:05+00:00
 author: cedric
 layout: post

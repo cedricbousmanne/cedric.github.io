@@ -1,6 +1,6 @@
 ---
 id: 3593
-title: '@zorrobiwan non, en fait c&rsquo;est : Wed May 06 16:53:48 +0000 2009'
+title: ''
 date: 2009-05-07T13:46:54+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3409
-title: 'RT @abdel_elbel: RT « @YourAnonNews: New: Reports that anti-piracy.be is Tango Down | #Anonymous #OpMegaupload »'
+title: ''
 date: 2012-01-20T18:49:00+00:00
 author: cedric
 layout: post

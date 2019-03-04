@@ -1,6 +1,6 @@
 ---
 id: 2673
-title: 'RT @benoitdessaucy: le Hackalux à Libramont :  l&rsquo;expérience d&rsquo;un hackathon #etourisme en #provlux buff.ly/1M4WxLa'
+title: ''
 date: 2015-03-26T21:56:22+00:00
 author: cedric
 layout: post

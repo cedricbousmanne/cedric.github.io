@@ -1,6 +1,6 @@
 ---
 id: 3406
-title: How to setup Omniauth for Facebook authentification with multiple domain names post.ly/4PprA
+title: ''
 date: 2011-12-22T12:34:58+00:00
 author: cedric
 layout: post

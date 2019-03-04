@@ -1,6 +1,6 @@
 ---
 id: 2414
-title: @yoseihana @railsgirls_lux tu commence enfin à apprendre rails ? :-D
+title: ''
 date: 2015-10-24T10:17:47+00:00
 author: cedric
 layout: post

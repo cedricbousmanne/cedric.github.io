@@ -1,6 +1,6 @@
 ---
 id: 2780
-title: 'RT @cafeNArlon: L&rsquo;équipe #cafenarlon teste la #3Dprinters #steampunk pic.twitter.com/wteTBoRGh0'
+title: ''
 date: 2015-02-24T21:21:18+00:00
 author: cedric
 layout: post

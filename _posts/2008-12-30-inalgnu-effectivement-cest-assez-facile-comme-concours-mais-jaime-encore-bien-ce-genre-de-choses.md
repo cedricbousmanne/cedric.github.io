@@ -1,6 +1,6 @@
 ---
 id: 3769
-title: '@inalgnu effectivement c&rsquo;est assez facile comme concours, mais j&rsquo;aime encore bien ce genre de choses'
+title: ''
 date: 2008-12-30T22:14:28+00:00
 author: cedric
 layout: post

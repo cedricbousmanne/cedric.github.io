@@ -1,6 +1,6 @@
 ---
 id: 2332
-title: 8 Out of 10 Statistics are Totally Made Up buff.ly/1IuxO1U
+title: ''
 date: 2015-12-25T23:41:03+00:00
 author: cedric
 layout: post

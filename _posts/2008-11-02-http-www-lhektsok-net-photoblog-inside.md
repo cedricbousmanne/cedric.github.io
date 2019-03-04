@@ -1,6 +1,6 @@
 ---
 id: 3820
-title: http://www.lhektsok.net/ (photoblog inside)
+title: ''
 date: 2008-11-02T12:13:52+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2976
-title: '@yoseihana @gcuisinier @sebsto @benoitdessaucy @_xi_ Je crois qu&rsquo;on vient de créer le #StartupDayTwitter'
+title: ''
 date: 2014-09-11T08:55:26+00:00
 author: cedric
 layout: post

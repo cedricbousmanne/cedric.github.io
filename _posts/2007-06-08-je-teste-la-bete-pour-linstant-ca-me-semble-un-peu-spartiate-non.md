@@ -1,6 +1,6 @@
 ---
 id: 4079
-title: 'Je teste la bête&#8230; Pour l&rsquo;instant, ça me semble un peu spartiate, non?'
+title: ''
 date: 2007-06-08T21:33:35+00:00
 author: cedric
 layout: post

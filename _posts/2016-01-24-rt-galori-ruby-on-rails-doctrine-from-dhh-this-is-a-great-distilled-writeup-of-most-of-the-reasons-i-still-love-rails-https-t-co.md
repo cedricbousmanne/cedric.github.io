@@ -1,6 +1,6 @@
 ---
 id: 2323
-title: 'RT @galori: « Ruby on Rails: Doctrine » from @DHH &#8211; this is a great distilled writeup of most of the reasons I still love Rails. https://t.co…'
+title: ''
 date: 2016-01-24T17:06:31+00:00
 author: cedric
 layout: post

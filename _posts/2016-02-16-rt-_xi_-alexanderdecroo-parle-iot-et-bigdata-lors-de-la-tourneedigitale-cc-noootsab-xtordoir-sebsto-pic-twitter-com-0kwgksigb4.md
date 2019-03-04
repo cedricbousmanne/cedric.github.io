@@ -1,6 +1,6 @@
 ---
 id: 2251
-title: 'RT @_Xi_: .@alexanderdecroo parle #IoT et #BigData lors de la #TourneeDigitale. cc @noootsab @xtordoir @sebsto pic.twitter.com/0KWGKSigB4'
+title: ''
 date: 2016-02-16T22:04:37+00:00
 author: cedric
 layout: post

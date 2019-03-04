@@ -1,6 +1,6 @@
 ---
 id: 2308
-title: '@yoseihana c&rsquo;est ça ton excuse pour sécher les #jeudisdulibre ? :-D'
+title: ''
 date: 2016-02-04T19:58:41+00:00
 author: cedric
 layout: post

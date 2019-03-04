@@ -1,6 +1,6 @@
 ---
 id: 2256
-title: 'GitHub responds to letter regarding developers&rsquo; concerns, says &lsquo;surprises&rsquo; are coming buff.ly/1Qktsxz'
+title: ''
 date: 2016-02-17T13:20:07+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3749
-title: '[RoR] Modifier facilement les liens générés par will_paginate dans une lightview http://tinyurl.com/cr2zlk'
+title: ''
 date: 2009-01-30T16:52:57+00:00
 author: cedric
 layout: post

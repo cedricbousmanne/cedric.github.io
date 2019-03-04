@@ -1,6 +1,6 @@
 ---
 id: 1990
-title: 'Couleurs d’automne: cedric.io/2018/09/29/cou…'
+title: ''
 date: 2018-09-29T13:22:17+00:00
 author: cedric
 layout: post

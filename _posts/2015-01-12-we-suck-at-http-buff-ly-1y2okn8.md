@@ -1,6 +1,6 @@
 ---
 id: 2867
-title: We Suck at HTTP buff.ly/1y2okn8
+title: ''
 date: 2015-01-12T12:32:08+00:00
 author: cedric
 layout: post

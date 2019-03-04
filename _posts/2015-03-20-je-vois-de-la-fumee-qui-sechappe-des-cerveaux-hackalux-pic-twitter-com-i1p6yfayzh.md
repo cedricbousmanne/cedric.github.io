@@ -1,6 +1,6 @@
 ---
 id: 2736
-title: 'Je vois de la fumée qui s&rsquo;échappe des cerveaux #hackalux pic.twitter.com/I1p6YfAYzh'
+title: ''
 date: 2015-03-20T19:44:14+00:00
 author: cedric
 layout: post

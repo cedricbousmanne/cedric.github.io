@@ -1,6 +1,6 @@
 ---
 id: 2480
-title: '“ 90% of start-ups that fail within their first year (&#8230;) use Rails to maximise your chances.” buff.ly/1RwbVzc'
+title: ''
 date: 2015-10-09T11:32:06+00:00
 author: cedric
 layout: post

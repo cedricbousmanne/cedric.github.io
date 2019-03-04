@@ -1,6 +1,6 @@
 ---
 id: 3500
-title: 'RT @li0nel: belgian festival for micro-breweries (17+18 oct 2009) www.brassigaume.be Your RT is welcome!'
+title: ''
 date: 2009-09-30T17:06:13+00:00
 author: cedric
 layout: post

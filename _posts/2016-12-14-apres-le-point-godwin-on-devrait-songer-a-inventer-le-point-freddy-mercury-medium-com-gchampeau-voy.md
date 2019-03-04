@@ -1,6 +1,6 @@
 ---
 id: 2125
-title: Après le point Godwin, on devrait songer à inventer le point Freddy Mercury medium.com/@gchampeau/voy…
+title: ''
 date: 2016-12-14T12:01:18+00:00
 author: cedric
 layout: post

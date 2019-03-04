@@ -1,6 +1,6 @@
 ---
 id: 2045
-title: 'C&rsquo;est à la mode, @greenlabcowork se mettra à l&rsquo;heure du #GDPR le 19 mars eventbrite.fr/e/billets-gdpr… #RGDP #provlux #arlon'
+title: ''
 date: 2018-02-26T23:22:01+00:00
 author: cedric
 layout: post

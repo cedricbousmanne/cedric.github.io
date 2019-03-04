@@ -1,6 +1,6 @@
 ---
 id: 3481
-title: 'Impossible de modifier mon dossier sur http://leforem.be, grrr #fail'
+title: ''
 date: 2009-11-10T20:32:28+00:00
 author: cedric
 layout: post

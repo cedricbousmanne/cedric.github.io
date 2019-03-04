@@ -1,6 +1,6 @@
 ---
 id: 3754
-title: '@chacsam devient une vraie star sur Vimeo : http://www.hurl.ws/jda'
+title: ''
 date: 2009-01-07T22:53:24+00:00
 author: cedric
 layout: post

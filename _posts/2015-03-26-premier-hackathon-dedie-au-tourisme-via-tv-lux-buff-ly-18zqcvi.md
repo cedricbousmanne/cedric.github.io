@@ -1,6 +1,6 @@
 ---
 id: 2672
-title: Premier Hackathon dédié au tourisme via TV Lux buff.ly/18ZQCVI
+title: ''
 date: 2015-03-26T13:33:49+00:00
 author: cedric
 layout: post

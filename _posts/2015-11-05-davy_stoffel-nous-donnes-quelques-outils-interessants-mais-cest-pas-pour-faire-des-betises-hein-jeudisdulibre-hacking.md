@@ -1,6 +1,6 @@
 ---
 id: 2400
-title: '.@davy_stoffel nous donnes quelques outils intéressants, mais c&rsquo;est pas pour faire des bêtises hein #JeudisDuLibre #Hacking'
+title: ''
 date: 2015-11-05T21:09:44+00:00
 author: cedric
 layout: post

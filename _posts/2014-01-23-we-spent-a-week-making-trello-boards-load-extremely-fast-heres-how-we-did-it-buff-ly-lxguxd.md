@@ -1,6 +1,6 @@
 ---
 id: 3153
-title: We spent a week making Trello boards load extremely fast. Here’s how we did it. buff.ly/LXguXd
+title: ''
 date: 2014-01-23T18:21:03+00:00
 author: cedric
 layout: post

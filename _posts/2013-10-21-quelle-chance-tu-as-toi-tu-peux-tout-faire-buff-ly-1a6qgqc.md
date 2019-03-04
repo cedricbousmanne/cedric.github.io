@@ -1,6 +1,6 @@
 ---
 id: 3256
-title: « Quelle chance tu as toi, tu peux tout faire! » buff.ly/1a6QGQc
+title: ''
 date: 2013-10-21T16:06:56+00:00
 author: cedric
 layout: post

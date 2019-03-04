@@ -1,6 +1,6 @@
 ---
 id: 3356
-title: 'I&rsquo;m at 2houses HQ &#8211; @2houses_com (Fleurus) 4sq.com/WY1UR0'
+title: ''
 date: 2013-03-28T09:42:40+00:00
 author: cedric
 layout: post

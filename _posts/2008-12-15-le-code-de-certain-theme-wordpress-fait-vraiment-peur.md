@@ -1,6 +1,6 @@
 ---
 id: 3780
-title: Le code de certain thème wordpress fait vraiment peur :-/
+title: ''
 date: 2008-12-15T22:30:36+00:00
 author: cedric
 layout: post

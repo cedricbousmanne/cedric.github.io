@@ -1,6 +1,6 @@
 ---
 id: 2551
-title: 'RT @6x7asbl: Réunion d&rsquo;équipe avant la rentrée. Comme vous pouvez le constater, on est en pleine forme! pic.twitter.com/xalhYiyIxs'
+title: ''
 date: 2015-08-17T23:05:46+00:00
 author: cedric
 layout: post

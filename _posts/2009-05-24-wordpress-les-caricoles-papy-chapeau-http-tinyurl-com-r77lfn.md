@@ -1,6 +1,6 @@
 ---
 id: 3579
-title: '#wordpress Les Caricoles &#8211; Papy Chapeau http://tinyurl.com/r77lfn'
+title: ''
 date: 2009-05-24T12:54:04+00:00
 author: cedric
 layout: post

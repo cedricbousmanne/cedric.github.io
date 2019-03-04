@@ -1,6 +1,6 @@
 ---
 id: 2691
-title: 'RT @cafeNArlon: Ce n&rsquo;est pas pcq c&rsquo;est une donnée officielle qu&rsquo;il n&rsquo;y a pas d&rsquo;erreur ! #cafenarlon'
+title: ''
 date: 2015-03-23T21:42:37+00:00
 author: cedric
 layout: post

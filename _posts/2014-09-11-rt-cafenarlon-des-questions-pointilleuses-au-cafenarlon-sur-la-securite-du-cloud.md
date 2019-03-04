@@ -1,6 +1,6 @@
 ---
 id: 2959
-title: 'RT @cafeNArlon: Des questions pointilleuses au #cafenarlon sur la sécurité du #cloud'
+title: ''
 date: 2014-09-11T20:19:46+00:00
 author: cedric
 layout: post

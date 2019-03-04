@@ -1,9 +1,6 @@
 ---
 id: 2013
-title: |
-  Burglar breaks into “escape room” business, panics, and calls 911
-  
-  buff.ly/2NNUb6X
+title: ''
 date: 2018-07-14T10:26:00+00:00
 author: cedric
 layout: post

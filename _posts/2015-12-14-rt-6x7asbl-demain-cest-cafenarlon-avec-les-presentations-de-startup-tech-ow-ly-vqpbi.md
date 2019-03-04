@@ -1,6 +1,6 @@
 ---
 id: 2379
-title: 'RT @6x7asbl: Demain, c&rsquo;est #cafenarlon avec les présentations de Startup Tech ! ow.ly/VQpBI'
+title: ''
 date: 2015-12-14T12:49:00+00:00
 author: cedric
 layout: post

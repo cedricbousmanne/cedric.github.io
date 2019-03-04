@@ -1,6 +1,6 @@
 ---
 id: 3051
-title: 5 Tips to Optimize your iOS App Name via @AppTweak buff.ly/R2S4x2
+title: ''
 date: 2014-05-20T11:32:01+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3435
-title: @CamilleRoux Déjà fait ;-) rubylive.fr/items/31-optim…
+title: ''
 date: 2011-12-07T19:09:51+00:00
 author: cedric
 layout: post

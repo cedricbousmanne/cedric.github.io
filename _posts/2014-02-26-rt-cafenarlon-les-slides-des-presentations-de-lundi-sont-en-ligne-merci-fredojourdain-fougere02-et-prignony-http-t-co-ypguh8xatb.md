@@ -1,6 +1,6 @@
 ---
 id: 3113
-title: 'RT @cafeNArlon: Les slides des présentations de lundi sont en ligne! Merci @FredoJourdain, @fougere02 et @prignony ! http://t.co/YPGUH8XATB'
+title: ''
 date: 2014-02-26T18:57:45+00:00
 author: cedric
 layout: post

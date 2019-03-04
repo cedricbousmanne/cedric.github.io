@@ -1,6 +1,6 @@
 ---
 id: 4057
-title: 'miam-time&#8230; j&rsquo;ai faim!'
+title: ''
 date: 2007-06-29T13:06:19+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3957
-title: 'La Chambre est pleine&#8230; ça va commencer'
+title: ''
 date: 2007-11-07T15:32:44+00:00
 author: cedric
 layout: post

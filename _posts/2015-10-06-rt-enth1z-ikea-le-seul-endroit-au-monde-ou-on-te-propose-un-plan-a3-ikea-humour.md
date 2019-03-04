@@ -1,6 +1,6 @@
 ---
 id: 2503
-title: 'RT @ENTH1Z: IKEA , le seul endroit au monde où on te propose un plan A3.   #IKEA #humour'
+title: ''
 date: 2015-10-06T22:11:02+00:00
 author: cedric
 layout: post

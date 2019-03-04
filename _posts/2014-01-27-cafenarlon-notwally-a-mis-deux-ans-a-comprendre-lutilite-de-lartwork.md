@@ -1,6 +1,6 @@
 ---
 id: 3162
-title: '#cafenarlon @notwally a mis deux ans à comprendre l&rsquo;utilité de l&rsquo;artwork'
+title: ''
 date: 2014-01-27T21:21:25+00:00
 author: cedric
 layout: post

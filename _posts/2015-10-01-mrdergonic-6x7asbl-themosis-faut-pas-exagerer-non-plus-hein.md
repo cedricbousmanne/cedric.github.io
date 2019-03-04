@@ -1,6 +1,6 @@
 ---
 id: 2510
-title: @mrdergonic @6x7asbl @themosis Faut pas exagérer non plus hein ;-)
+title: ''
 date: 2015-10-01T21:41:14+00:00
 author: cedric
 layout: post

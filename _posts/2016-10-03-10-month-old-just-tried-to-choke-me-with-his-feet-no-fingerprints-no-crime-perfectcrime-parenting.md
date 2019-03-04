@@ -1,6 +1,6 @@
 ---
 id: 2151
-title: '10 month old just tried to choke me with his feet. No fingerprints, no crime. #PerfectCrime #parenting'
+title: ''
 date: 2016-10-03T20:29:09+00:00
 author: cedric
 layout: post

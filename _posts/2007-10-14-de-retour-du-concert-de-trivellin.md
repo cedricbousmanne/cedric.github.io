@@ -1,6 +1,6 @@
 ---
 id: 4000
-title: 'De retour du concert de Trivellin&#8230;'
+title: ''
 date: 2007-10-14T02:35:27+00:00
 author: cedric
 layout: post

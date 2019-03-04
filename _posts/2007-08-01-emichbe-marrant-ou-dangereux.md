@@ -1,6 +1,6 @@
 ---
 id: 4026
-title: '@emichbe : marrant ou dangereux? :-)'
+title: ''
 date: 2007-08-01T18:03:13+00:00
 author: cedric
 layout: post

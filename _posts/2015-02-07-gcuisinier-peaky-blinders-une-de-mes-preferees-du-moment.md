@@ -1,6 +1,6 @@
 ---
 id: 2835
-title: @gcuisinier Peaky Blinders, une de mes préférées du moment
+title: ''
 date: 2015-02-07T22:54:52+00:00
 author: cedric
 layout: post

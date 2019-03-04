@@ -1,6 +1,6 @@
 ---
 id: 2588
-title: 'Les armes d&rsquo;une startup belge lors d&rsquo;un salon : chocolat, bière et chokotoff pour attirer les curieux  #cafenarlon'
+title: ''
 date: 2015-06-17T21:02:48+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2295
-title: 'Code is magic #cafenarlon #DevOps @6x7asbl @cafeNArlon pic.twitter.com/mGAFIW1pUf'
+title: ''
 date: 2016-01-28T21:12:56+00:00
 author: cedric
 layout: post

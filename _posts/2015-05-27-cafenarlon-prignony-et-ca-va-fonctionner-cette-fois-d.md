@@ -1,6 +1,6 @@
 ---
 id: 2598
-title: @cafeNArlon @prignony et ça va fonctionner cette fois ? :-D
+title: ''
 date: 2015-05-27T21:21:50+00:00
 author: cedric
 layout: post

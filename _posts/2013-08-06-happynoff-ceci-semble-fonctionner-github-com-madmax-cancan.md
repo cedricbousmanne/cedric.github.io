@@ -1,6 +1,6 @@
 ---
 id: 3269
-title: '@happynoff ceci semble fonctionner : github.com/madmax/cancan/…'
+title: ''
 date: 2013-08-06T21:13:40+00:00
 author: cedric
 layout: post

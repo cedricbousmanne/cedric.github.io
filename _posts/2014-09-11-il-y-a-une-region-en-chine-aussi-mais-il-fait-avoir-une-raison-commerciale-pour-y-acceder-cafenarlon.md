@@ -1,6 +1,6 @@
 ---
 id: 2970
-title: 'Il y a une région en Chine aussi, mais il fait avoir une raison commerciale pour y accéder  #cafenarlon'
+title: ''
 date: 2014-09-11T20:31:25+00:00
 author: cedric
 layout: post

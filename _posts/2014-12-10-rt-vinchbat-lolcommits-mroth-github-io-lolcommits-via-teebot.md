@@ -1,6 +1,6 @@
 ---
 id: 2921
-title: 'RT @vinchbat: lolcommits mroth.github.io/lolcommits/ (via @teebot)'
+title: ''
 date: 2014-12-10T00:12:58+00:00
 author: cedric
 layout: post

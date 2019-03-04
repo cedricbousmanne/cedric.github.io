@@ -1,6 +1,6 @@
 ---
 id: 3371
-title: '@humancoders Après confirmation de l&rsquo;étape 1, le mail est malgré tout envoyé'
+title: ''
 date: 2013-02-20T23:48:49+00:00
 author: cedric
 layout: post

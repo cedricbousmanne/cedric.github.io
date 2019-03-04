@@ -1,6 +1,6 @@
 ---
 id: 4014
-title: 'Dimanche, soleil, bonne humeur&#8230; Que demander de plus?'
+title: ''
 date: 2007-08-12T10:38:18+00:00
 author: cedric
 layout: post

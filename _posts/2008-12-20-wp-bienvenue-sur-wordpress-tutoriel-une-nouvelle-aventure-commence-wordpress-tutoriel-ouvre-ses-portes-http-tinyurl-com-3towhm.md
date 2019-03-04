@@ -1,6 +1,6 @@
 ---
 id: 3786
-title: '[WP] Bienvenue sur WordPress Tutoriel: Une nouvelle aventure commence : WordPress Tutoriel ouvre ses portes! http://tinyurl.com/3towhm'
+title: ''
 date: 2008-12-20T02:51:20+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3823
-title: Nouveau thème pour http://www.lhektsok.net/ !
+title: ''
 date: 2008-11-15T19:10:52+00:00
 author: cedric
 layout: post

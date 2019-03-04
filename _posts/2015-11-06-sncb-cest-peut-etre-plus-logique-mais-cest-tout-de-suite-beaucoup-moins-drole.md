@@ -1,6 +1,6 @@
 ---
 id: 2406
-title: '@SNCB c&rsquo;est peut être plus logique, mais c&rsquo;est tout de suite beaucoup moins drôle :-)'
+title: ''
 date: 2015-11-06T22:50:29+00:00
 author: cedric
 layout: post

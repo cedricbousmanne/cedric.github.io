@@ -1,6 +1,6 @@
 ---
 id: 2305
-title: 'Slackin : une landing page pour votre communauté #Slack buff.ly/1QyGZyk pic.twitter.com/AsSeoAO0Sq'
+title: ''
 date: 2016-01-30T14:08:01+00:00
 author: cedric
 layout: post

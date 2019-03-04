@@ -1,6 +1,6 @@
 ---
 id: 2714
-title: '@yoseihana @prignony Fallait venir :-) Ce qui se passe au #hackalux reste au #hackalux :-D'
+title: ''
 date: 2015-03-21T14:49:45+00:00
 author: cedric
 layout: post

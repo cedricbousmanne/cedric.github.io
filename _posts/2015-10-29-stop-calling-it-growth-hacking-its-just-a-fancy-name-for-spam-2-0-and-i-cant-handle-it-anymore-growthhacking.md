@@ -1,6 +1,6 @@
 ---
 id: 2419
-title: 'Stop calling it « Growth Hacking » &#8211; It&rsquo;s just a fancy name for spam 2.0 and I can&rsquo;t handle it anymore #growthhacking'
+title: ''
 date: 2015-10-29T17:26:12+00:00
 author: cedric
 layout: post

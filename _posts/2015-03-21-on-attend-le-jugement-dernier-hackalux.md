@@ -1,6 +1,6 @@
 ---
 id: 2704
-title: 'On attend le jugement dernier #hackalux'
+title: ''
 date: 2015-03-21T22:17:53+00:00
 author: cedric
 layout: post

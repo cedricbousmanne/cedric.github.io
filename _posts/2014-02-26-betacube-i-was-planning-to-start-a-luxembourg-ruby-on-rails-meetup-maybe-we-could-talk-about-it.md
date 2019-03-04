@@ -1,6 +1,6 @@
 ---
 id: 3111
-title: @betacube I was planning to start a Luxembourg Ruby on Rails Meetup. Maybe we could talk about it ? ;-)
+title: ''
 date: 2014-02-26T15:02:50+00:00
 author: cedric
 layout: post

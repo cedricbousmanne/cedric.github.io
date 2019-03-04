@@ -1,6 +1,6 @@
 ---
 id: 2157
-title: 'RT @6x7asbl: Seance de networking devant un verre avant la conférence #Tesla pic.twitter.com/d2NqSiT5AM'
+title: ''
 date: 2016-10-04T18:47:17+00:00
 author: cedric
 layout: post

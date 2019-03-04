@@ -1,6 +1,6 @@
 ---
 id: 2913
-title: @stevenart Oui oui, ça arrive encore ;-)
+title: ''
 date: 2014-11-27T17:35:41+00:00
 author: cedric
 layout: post

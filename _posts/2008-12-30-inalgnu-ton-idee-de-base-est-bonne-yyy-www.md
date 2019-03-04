@@ -1,6 +1,6 @@
 ---
 id: 3768
-title: '@inalgnu : ton idée de base est bonne, YYY =&gt; WWW'
+title: ''
 date: 2008-12-30T19:49:33+00:00
 author: cedric
 layout: post

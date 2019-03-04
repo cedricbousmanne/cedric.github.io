@@ -1,6 +1,6 @@
 ---
 id: 3359
-title: 'RT @VincenzoR: “@mat: Posting embarrassing pictures of your friends to Google+ is so amazing because they’ll never know”'
+title: ''
 date: 2013-05-30T22:44:49+00:00
 author: cedric
 layout: post

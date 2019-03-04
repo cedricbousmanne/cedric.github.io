@@ -1,6 +1,6 @@
 ---
 id: 3443
-title: '@amaury  apparamment, ça sera + 1,15€ par mois par rapport à l&rsquo;abonnement classique&#8230;'
+title: ''
 date: 2010-02-05T15:56:06+00:00
 author: cedric
 layout: post

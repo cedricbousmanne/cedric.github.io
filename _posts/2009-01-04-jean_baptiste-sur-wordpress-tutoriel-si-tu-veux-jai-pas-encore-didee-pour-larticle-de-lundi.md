@@ -1,6 +1,6 @@
 ---
 id: 3773
-title: '@jean_baptiste : sur wordpress-tutoriel si tu veux ;-) j&rsquo;ai pas encore d&rsquo;idée pour l&rsquo;article de lundi'
+title: ''
 date: 2009-01-04T02:05:03+00:00
 author: cedric
 layout: post

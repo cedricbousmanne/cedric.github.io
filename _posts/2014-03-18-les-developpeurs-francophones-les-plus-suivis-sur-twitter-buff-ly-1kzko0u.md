@@ -1,6 +1,6 @@
 ---
 id: 3106
-title: Les développeurs francophones les plus suivis sur Twitter buff.ly/1kZko0u
+title: ''
 date: 2014-03-18T10:17:25+00:00
 author: cedric
 layout: post

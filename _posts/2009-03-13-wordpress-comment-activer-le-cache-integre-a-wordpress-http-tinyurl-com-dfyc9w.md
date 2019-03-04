@@ -1,6 +1,6 @@
 ---
 id: 3665
-title: '#wordpress Comment activer le cache intégré à WordPress http://tinyurl.com/dfyc9w'
+title: ''
 date: 2009-03-13T00:00:13+00:00
 author: cedric
 layout: post

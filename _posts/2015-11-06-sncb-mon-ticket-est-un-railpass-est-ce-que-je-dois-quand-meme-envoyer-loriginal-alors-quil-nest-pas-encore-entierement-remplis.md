@@ -1,6 +1,6 @@
 ---
 id: 2408
-title: '@SNCB mon ticket est un railpass, est ce que je dois quand même envoyer l&rsquo;original alors qu&rsquo;il n&rsquo;est pas encore entièrement remplis ?'
+title: ''
 date: 2015-11-06T22:59:10+00:00
 author: cedric
 layout: post

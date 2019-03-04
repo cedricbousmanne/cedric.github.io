@@ -1,6 +1,6 @@
 ---
 id: 3493
-title: 'Shame on me, untill today, i&rsquo;d never heard a single song of Foo Fighters. Ever. I&rsquo;d missed my life. #fb #in'
+title: ''
 date: 2009-11-26T18:02:34+00:00
 author: cedric
 layout: post

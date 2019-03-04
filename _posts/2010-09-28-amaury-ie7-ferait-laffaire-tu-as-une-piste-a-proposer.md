@@ -1,6 +1,6 @@
 ---
 id: 3450
-title: '@amaury IE7 ferait l&rsquo;affaire, tu as une piste à proposer?'
+title: ''
 date: 2010-09-28T11:46:10+00:00
 author: cedric
 layout: post

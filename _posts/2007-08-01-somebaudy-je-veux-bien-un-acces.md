@@ -1,6 +1,6 @@
 ---
 id: 4024
-title: '@Somebaudy : je veux bien un accès ;-)'
+title: ''
 date: 2007-08-01T13:55:19+00:00
 author: cedric
 layout: post

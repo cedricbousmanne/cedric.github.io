@@ -1,6 +1,6 @@
 ---
 id: 3225
-title: 6 raisons d’utiliser Ruby pour le développement web buff.ly/IPmkbo
+title: ''
 date: 2013-12-16T17:05:18+00:00
 author: cedric
 layout: post

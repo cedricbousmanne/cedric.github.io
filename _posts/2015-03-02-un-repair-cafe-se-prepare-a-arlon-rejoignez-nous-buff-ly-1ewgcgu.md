@@ -1,6 +1,6 @@
 ---
 id: 2772
-title: Un Repair Café se prépare à Arlon, rejoignez-nous ! buff.ly/1EWGCGU
+title: ''
 date: 2015-03-02T18:21:05+00:00
 author: cedric
 layout: post

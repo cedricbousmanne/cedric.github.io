@@ -1,6 +1,6 @@
 ---
 id: 3290
-title: @beergusto 33cl is not enough, I should order another round before saying anything ;-)
+title: ''
 date: 2013-07-14T21:33:37+00:00
 author: cedric
 layout: post

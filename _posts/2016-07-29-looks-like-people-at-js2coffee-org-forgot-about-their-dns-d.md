@@ -1,6 +1,6 @@
 ---
 id: 2186
-title: Looks like people at js2coffee.org forgot about their DNS :-D
+title: ''
 date: 2016-07-29T10:28:44+00:00
 author: cedric
 layout: post

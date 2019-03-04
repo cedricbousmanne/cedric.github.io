@@ -1,6 +1,6 @@
 ---
 id: 2871
-title: @gcuisinier @Groumphy @greenlabcowork @cafeNArlon congratz au premier contributeur ! Et merci mille fois !
+title: ''
 date: 2015-01-14T21:37:37+00:00
 author: cedric
 layout: post

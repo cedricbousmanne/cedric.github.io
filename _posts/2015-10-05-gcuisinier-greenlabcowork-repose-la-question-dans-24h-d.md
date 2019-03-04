@@ -1,6 +1,6 @@
 ---
 id: 2490
-title: @gcuisinier @greenlabcowork Repose la question dans 24h :-D
+title: ''
 date: 2015-10-05T11:20:59+00:00
 author: cedric
 layout: post

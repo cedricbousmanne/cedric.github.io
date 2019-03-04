@@ -1,6 +1,6 @@
 ---
 id: 2706
-title: '@HackathonWeGov du stress? Où ca? #hackalux'
+title: ''
 date: 2015-03-21T22:56:21+00:00
 author: cedric
 layout: post

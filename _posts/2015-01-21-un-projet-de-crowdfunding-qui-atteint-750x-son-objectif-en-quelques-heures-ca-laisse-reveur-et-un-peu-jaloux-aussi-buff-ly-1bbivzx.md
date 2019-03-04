@@ -1,6 +1,6 @@
 ---
 id: 2859
-title: 'Un projet de #crowdfunding qui atteint 750x son objectif en quelques heures ça laisse rêveur (et un peu jaloux aussi) buff.ly/1BBivzx'
+title: ''
 date: 2015-01-21T00:40:12+00:00
 author: cedric
 layout: post

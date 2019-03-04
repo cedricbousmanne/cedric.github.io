@@ -1,6 +1,6 @@
 ---
 id: 2310
-title: 'Thanks @Microsoft, forced update to #Windows10 made it much easier to convince my mother in law to switch to #Ubuntu !'
+title: ''
 date: 2016-01-10T20:34:13+00:00
 author: cedric
 layout: post

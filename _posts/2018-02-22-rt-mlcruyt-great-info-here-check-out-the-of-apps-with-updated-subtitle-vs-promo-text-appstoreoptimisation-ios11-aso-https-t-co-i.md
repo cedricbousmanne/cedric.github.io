@@ -1,6 +1,6 @@
 ---
 id: 2042
-title: 'RT @MLCruyt: Great info here! Check out the % of apps with updated subtitle vs. promo text #AppStoreOptimisation #IOS11 #ASO https://t.co/I…'
+title: ''
 date: 2018-02-22T13:31:18+00:00
 author: cedric
 layout: post

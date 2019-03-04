@@ -1,6 +1,6 @@
 ---
 id: 2618
-title: 'Petit clin d&rsquo;œil au futur #swProvLux au #cafenarlon'
+title: ''
 date: 2015-05-27T19:52:10+00:00
 author: cedric
 layout: post

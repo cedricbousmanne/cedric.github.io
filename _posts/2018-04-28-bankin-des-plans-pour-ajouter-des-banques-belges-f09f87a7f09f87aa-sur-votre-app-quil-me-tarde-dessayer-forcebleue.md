@@ -1,6 +1,6 @@
 ---
 id: 2031
-title: '@bankin des plans pour ajouter des banques belges 🇧🇪 sur votre app qu&rsquo;il me tarde d&rsquo;essayer ? #ForceBleue'
+title: ''
 date: 2018-04-28T14:32:58+00:00
 author: cedric
 layout: post

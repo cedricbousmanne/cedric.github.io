@@ -1,6 +1,6 @@
 ---
 id: 2667
-title: 'Quand @_Xi_ n&rsquo;est pas là, c&rsquo;est pas le même service hein ^^ #JeudisDuLibre'
+title: ''
 date: 2015-04-02T20:03:43+00:00
 author: cedric
 layout: post

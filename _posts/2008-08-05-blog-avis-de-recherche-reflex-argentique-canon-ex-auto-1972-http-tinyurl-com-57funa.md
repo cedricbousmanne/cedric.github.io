@@ -1,6 +1,6 @@
 ---
 id: 3851
-title: '[blog] Avis de recherche &#8211; Reflex argentique Canon EX Auto 1972 http://tinyurl.com/57funa'
+title: ''
 date: 2008-08-05T20:55:50+00:00
 author: cedric
 layout: post

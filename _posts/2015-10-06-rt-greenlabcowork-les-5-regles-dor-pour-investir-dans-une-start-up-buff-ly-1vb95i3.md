@@ -1,6 +1,6 @@
 ---
 id: 2505
-title: 'RT @greenlabcowork: Les 5 règles d&rsquo;or pour investir dans une start-up buff.ly/1VB95i3'
+title: ''
 date: 2015-10-06T22:13:21+00:00
 author: cedric
 layout: post

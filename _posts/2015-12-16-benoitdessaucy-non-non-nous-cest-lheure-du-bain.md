@@ -1,6 +1,6 @@
 ---
 id: 2362
-title: '@benoitdessaucy non non, nous c&rsquo;est l&rsquo;heure du bain :)'
+title: ''
 date: 2015-12-16T00:04:01+00:00
 author: cedric
 layout: post

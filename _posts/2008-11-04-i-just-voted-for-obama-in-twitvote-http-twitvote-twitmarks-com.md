@@ -1,6 +1,6 @@
 ---
 id: 3822
-title: 'I just voted for Obama in #TwitVote &#8212; http://twitvote.twitmarks.com/'
+title: ''
 date: 2008-11-04T10:43:39+00:00
 author: cedric
 layout: post

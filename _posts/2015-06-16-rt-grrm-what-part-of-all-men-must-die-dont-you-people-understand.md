@@ -1,6 +1,6 @@
 ---
 id: 2607
-title: 'RT @GRRM: What part of « All men must die, » don&rsquo;t you people understand?'
+title: ''
 date: 2015-06-16T23:57:32+00:00
 author: cedric
 layout: post

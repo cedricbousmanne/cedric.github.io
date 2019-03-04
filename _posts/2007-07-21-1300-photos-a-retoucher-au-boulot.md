@@ -1,6 +1,6 @@
 ---
 id: 4061
-title: '1300 photos à retoucher&#8230; au boulot!'
+title: ''
 date: 2007-07-21T12:03:29+00:00
 author: cedric
 layout: post

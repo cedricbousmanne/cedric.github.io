@@ -1,6 +1,6 @@
 ---
 id: 3602
-title: 'bought @bleebot  for $ 19 401 @papygeek was reimbursed.  http://buytter.com/akyrho'
+title: ''
 date: 2009-04-19T17:32:52+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3798
-title: '@ma2t : http://delicious.com avec le plugin firefox qui-va-bien'
+title: ''
 date: 2008-11-19T21:48:53+00:00
 author: cedric
 layout: post

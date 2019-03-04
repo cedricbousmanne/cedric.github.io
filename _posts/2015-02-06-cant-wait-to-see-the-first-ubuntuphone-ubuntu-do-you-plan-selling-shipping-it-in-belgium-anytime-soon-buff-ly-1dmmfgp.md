@@ -1,6 +1,6 @@
 ---
 id: 2830
-title: 'Can&rsquo;t wait to see the first #ubuntuphone &#8211; @Ubuntu do you plan selling/shipping it in Belgium anytime soon ? buff.ly/1DMMFgP'
+title: ''
 date: 2015-02-06T17:19:42+00:00
 author: cedric
 layout: post

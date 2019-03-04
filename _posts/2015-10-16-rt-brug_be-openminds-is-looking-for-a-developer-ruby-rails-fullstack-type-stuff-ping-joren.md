@@ -1,6 +1,6 @@
 ---
 id: 2468
-title: 'RT @brug_be: .@openminds is looking for a developer (Ruby, Rails, fullstack type stuff), ping @joren'
+title: ''
 date: 2015-10-16T21:51:48+00:00
 author: cedric
 layout: post

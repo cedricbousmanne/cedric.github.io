@@ -1,6 +1,6 @@
 ---
 id: 2995
-title: 'RT @cafeNArlon: Notre #cafenarlon est complet pour demain! Vous ne savez pas venir? Pensez à ceux qui attendent une place ;) https://t.co/3…'
+title: ''
 date: 2014-09-10T14:06:20+00:00
 author: cedric
 layout: post

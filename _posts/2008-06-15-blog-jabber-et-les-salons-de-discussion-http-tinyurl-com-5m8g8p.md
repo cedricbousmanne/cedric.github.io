@@ -1,6 +1,6 @@
 ---
 id: 3850
-title: '[blog] Jabber et les salons de discussion http://tinyurl.com/5m8g8p'
+title: ''
 date: 2008-06-15T16:54:09+00:00
 author: cedric
 layout: post

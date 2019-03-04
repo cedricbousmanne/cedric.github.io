@@ -1,6 +1,6 @@
 ---
 id: 3599
-title: '@pressecitron j&rsquo;adore les deux mentions de presse-citron (sous l&rsquo;article et dans la sidebar)&#8230; sans lien!'
+title: ''
 date: 2009-05-12T17:55:39+00:00
 author: cedric
 layout: post

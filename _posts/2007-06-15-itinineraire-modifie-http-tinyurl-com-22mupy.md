@@ -1,6 +1,6 @@
 ---
 id: 4078
-title: 'Itininéraire modifié : http://tinyurl.com/22mupy'
+title: ''
 date: 2007-06-15T15:53:36+00:00
 author: cedric
 layout: post

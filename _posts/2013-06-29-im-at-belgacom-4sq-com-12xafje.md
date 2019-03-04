@@ -1,6 +1,6 @@
 ---
 id: 3335
-title: 'I&rsquo;m at Belgacom 4sq.com/12xaFje'
+title: ''
 date: 2013-06-29T14:58:37+00:00
 author: cedric
 layout: post

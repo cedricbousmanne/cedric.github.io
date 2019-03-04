@@ -1,6 +1,6 @@
 ---
 id: 3289
-title: Santé @mhulet! Cc @beergusto pic.twitter.com/4spz9oWtq6
+title: ''
 date: 2013-07-14T19:31:46+00:00
 author: cedric
 layout: post

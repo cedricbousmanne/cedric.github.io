@@ -1,6 +1,6 @@
 ---
 id: 3465
-title: 'Web Developer&rsquo;s Holy Rule #1 http://post.ly/L9l0'
+title: ''
 date: 2010-01-29T13:37:50+00:00
 author: cedric
 layout: post

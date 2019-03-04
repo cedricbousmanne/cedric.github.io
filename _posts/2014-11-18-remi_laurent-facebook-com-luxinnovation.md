@@ -1,6 +1,6 @@
 ---
 id: 2932
-title: @remi_laurent facebook.com/Luxinnovation.…
+title: ''
 date: 2014-11-18T11:15:32+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 4046
-title: Encore deux ou trois lectures, puis dood
+title: ''
 date: 2007-07-31T23:55:20+00:00
 author: cedric
 layout: post

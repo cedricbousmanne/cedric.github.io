@@ -1,6 +1,6 @@
 ---
 id: 2684
-title: '@benoitdessaucy @LeGreenHub @HackathonWeGov vendu! Il est temps d&rsquo;organiser un #SWProvLux cc @greenlabcowork'
+title: ''
 date: 2015-03-22T18:38:23+00:00
 author: cedric
 layout: post

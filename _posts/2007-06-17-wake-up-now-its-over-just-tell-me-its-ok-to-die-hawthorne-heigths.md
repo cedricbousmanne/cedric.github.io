@@ -1,6 +1,6 @@
 ---
 id: 4052
-title: '« Wake up now, it&rsquo;s over, just tell me it&rsquo;s OK to die », Hawthorne Heigths'
+title: ''
 date: 2007-06-17T22:50:29+00:00
 author: cedric
 layout: post

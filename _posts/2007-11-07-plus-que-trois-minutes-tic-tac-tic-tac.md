@@ -1,6 +1,6 @@
 ---
 id: 3956
-title: 'Plus que trois minutes&#8230; tic-tac-tic-tac'
+title: ''
 date: 2007-11-07T15:27:22+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3689
-title: @maigretsblog tous les liens internes de ton blog retourne une erreur 404
+title: ''
 date: 2009-03-02T13:25:15+00:00
 author: cedric
 layout: post

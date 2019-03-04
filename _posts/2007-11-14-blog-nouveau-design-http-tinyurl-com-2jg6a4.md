@@ -1,6 +1,6 @@
 ---
 id: 3938
-title: '[blog] Nouveau design http://tinyurl.com/2jg6a4'
+title: ''
 date: 2007-11-14T22:47:11+00:00
 author: cedric
 layout: post

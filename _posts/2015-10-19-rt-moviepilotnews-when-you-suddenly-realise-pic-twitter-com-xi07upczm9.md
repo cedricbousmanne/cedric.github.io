@@ -1,6 +1,6 @@
 ---
 id: 2470
-title: 'RT @moviepilotnews: When you suddenly realise&#8230; pic.twitter.com/xi07UpcZM9'
+title: ''
 date: 2015-10-19T21:18:44+00:00
 author: cedric
 layout: post

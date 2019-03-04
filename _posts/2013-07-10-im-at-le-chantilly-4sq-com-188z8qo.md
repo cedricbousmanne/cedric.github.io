@@ -1,6 +1,6 @@
 ---
 id: 3316
-title: 'I&rsquo;m at Le Chantilly 4sq.com/188Z8Qo'
+title: ''
 date: 2013-07-10T19:09:36+00:00
 author: cedric
 layout: post

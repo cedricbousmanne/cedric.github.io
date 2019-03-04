@@ -1,6 +1,6 @@
 ---
 id: 2536
-title: 'Avec un #slitaz, ADS équipe des hôtels au Kenya sur des 486 #JeudisDuLibre'
+title: ''
 date: 2015-09-03T19:57:35+00:00
 author: cedric
 layout: post

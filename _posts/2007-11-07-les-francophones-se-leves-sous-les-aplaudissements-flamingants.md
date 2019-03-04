@@ -1,6 +1,6 @@
 ---
 id: 3929
-title: les francophones se lèves sous les aplaudissements flamingants!
+title: ''
 date: 2007-11-07T15:37:28+00:00
 author: cedric
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 2494
-title: '@sncb Au temps pour moi, c&rsquo;est effectivement ce qui était indiqué. Merci pour la rapidité !'
+title: ''
 date: 2015-10-05T19:02:59+00:00
 author: cedric
 layout: post

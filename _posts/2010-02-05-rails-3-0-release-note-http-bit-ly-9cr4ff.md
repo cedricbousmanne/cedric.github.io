@@ -1,6 +1,6 @@
 ---
 id: 3441
-title: 'Rails 3.0 Release note : http://bit.ly/9cr4ff'
+title: ''
 date: 2010-02-05T15:24:34+00:00
 author: cedric
 layout: post

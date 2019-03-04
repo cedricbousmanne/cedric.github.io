@@ -1,6 +1,6 @@
 ---
 id: 3494
-title: '@Vinch01 en définissant un tableau d&rsquo;extensions valides et en comparant tes valeurs avec?'
+title: ''
 date: 2009-11-26T19:04:50+00:00
 author: cedric
 layout: post

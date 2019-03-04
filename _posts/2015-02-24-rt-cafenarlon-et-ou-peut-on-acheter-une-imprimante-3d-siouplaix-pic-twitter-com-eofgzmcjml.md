@@ -1,6 +1,6 @@
 ---
 id: 2788
-title: 'RT @cafeNArlon: Et où peut-on acheter une imprimante 3D siouplaix ? :) pic.twitter.com/eoFGzMCJML'
+title: ''
 date: 2015-02-24T22:23:25+00:00
 author: cedric
 layout: post

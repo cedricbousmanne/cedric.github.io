@@ -1,6 +1,6 @@
 ---
 id: 3918
-title: '[blog] Générer de belles palettes de couleurs sous Ubuntu http://tinyurl.com/36ct7c'
+title: ''
 date: 2007-11-23T16:45:42+00:00
 author: cedric
 layout: post

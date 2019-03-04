@@ -1,6 +1,6 @@
 ---
 id: 3656
-title: découvre bluebirdapp (http://www.bluebirdapp.com/) via @burninghat
+title: ''
 date: 2009-04-02T22:18:10+00:00
 author: cedric
 layout: post

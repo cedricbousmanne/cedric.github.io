@@ -1,6 +1,6 @@
 ---
 id: 3527
-title: 'Sans trop y croire #squarespace'
+title: ''
 date: 2009-06-10T12:41:54+00:00
 author: cedric
 layout: post

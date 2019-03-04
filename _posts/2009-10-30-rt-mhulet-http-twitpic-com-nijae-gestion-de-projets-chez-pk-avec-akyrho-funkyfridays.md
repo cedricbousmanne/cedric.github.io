@@ -1,6 +1,6 @@
 ---
 id: 3507
-title: 'RT @mhulet: http://twitpic.com/nijae &#8211; gestion de projets chez P&#038;K avec @akyrho #funkyfridays'
+title: ''
 date: 2009-10-30T16:13:02+00:00
 author: cedric
 layout: post

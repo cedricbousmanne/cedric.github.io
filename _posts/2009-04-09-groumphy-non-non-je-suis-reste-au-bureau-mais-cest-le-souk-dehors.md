@@ -1,6 +1,6 @@
 ---
 id: 3634
-title: '@groumphy : non non, je suis resté au bureau, mais c&rsquo;est le souk dehors ;-)'
+title: ''
 date: 2009-04-09T15:27:14+00:00
 author: cedric
 layout: post
