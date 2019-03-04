@@ -1,17 +1,17 @@
 ---
 id: 680
 title: Ziki, soyez visible
-date: 2007-01-07T07:57:00+00:00
+date: 2007-01-07 07:57:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/07/ziki-soyez-visible.html
-permalink: /2007/01/07/ziki-soyez-visible/
+permalink: "/2007/01/07/ziki-soyez-visible/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "680"
+- '680'
 categories:
-  - Non classé
+- Non classé
 ---
 [![Logo Ziki](/images/images/logo_ziki.gif)](http://www.ziki.com)Il y a des découvertes qu’on aimerait faire tout les jours, comme ça, juste pour s’émerveiller pendant quelques heures de quelque chose qui, peu avant, était encore inconnu. J’ai découvert [Ziki](http://www.ziki.com) via [64k](http://www.64k.be)[1], c’est une sorte de rassemblement de réseaux sociaux (web 2.0 inside, of course!), qui permet à chaque utilisateur/société de rassembler en un seul point l’ensemble de ses flux.
 

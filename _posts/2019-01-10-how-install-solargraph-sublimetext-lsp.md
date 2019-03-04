@@ -1,32 +1,33 @@
 ---
 id: 4581
 title: How to install Solargraph with Sublime Text LSP
-date: 2019-01-10T17:15:36+00:00
+date: 2019-01-10 17:15:36.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4581
-permalink: /2019/01/10/how-install-solargraph-sublimetext-lsp/
+permalink: "/2019/01/10/how-install-solargraph-sublimetext-lsp/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 geo_weather:
-  - 'a:2:{s:4:"icon";s:4:"none";s:10:"visibility";s:6:"public";}'
+  icon: none
+  visibility: public
 geo_public:
-  - "0"
+- '0'
 mf2_syndication:
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1083396989289746433";i:1;s:46:"https://ruby.social/@akyrho/101393166413829417";}'
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1083396989289746433";i:1;s:46:"https://ruby.social/@akyrho/101393166413829417";}'
+- https://twitter.com/akyrho/status/1083396989289746433
+- https://ruby.social/@akyrho/101393166413829417
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101393166413829417
+- https://ruby.social/@akyrho/101393166413829417
 categories:
-  - web
+- web
 tags:
-  - ruby
-  - solargraph
-  - sublime text
+- ruby
+- solargraph
+- sublime text
 kind:
-  - Article
+- Article
 ---
 Solargraph is a Ruby Language Server. It&rsquo;s meant to add code completion and inline documentation onto IDEs.
 

@@ -1,17 +1,17 @@
 ---
 id: 583
 title: Bratislava et Budapest
-date: 2007-12-03T20:59:04+00:00
+date: 2007-12-03 20:59:04.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/03/bratislava-et-budapest.html
-permalink: /2007/12/03/bratislava-et-budapest/
+permalink: "/2007/12/03/bratislava-et-budapest/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "777"
+- '777'
 categories:
-  - Non classé
+- Non classé
 ---
 Dans la camionnette, le silence est lourd. Le nuit est arrive doucement et la pluie salue notre départ. Les seuls bruits audibles sont le froissement de la carte et les indications du co-pilote. Prochaine à gauche, puis troisième à droite.
 

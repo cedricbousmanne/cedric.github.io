@@ -1,17 +1,17 @@
 ---
 id: 599
 title: Match d’impro
-date: 2007-10-17T08:32:54+00:00
+date: 2007-10-17 08:32:54.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/17/match-dimpro.html
-permalink: /2007/10/17/match-dimpro/
+permalink: "/2007/10/17/match-dimpro/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "761"
+- '761'
 categories:
-  - Non classé
+- Non classé
 ---
 Tout le monde connait le théatre. Ces salles obscures ou l’on s’enferme, un peu comme au cinéma, sauf que les acteurs sont devant nous en chair et en os. Mais connaissez vous les matchs d’impro?
 

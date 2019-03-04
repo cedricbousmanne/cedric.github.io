@@ -1,17 +1,17 @@
 ---
 id: 653
 title: Trop de RSS tue le RSS
-date: 2007-03-18T13:27:00+00:00
+date: 2007-03-18 13:27:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/03/18/trop-de-rss-tue-le-rss.html
-permalink: /2007/03/18/trop-de-rss-tue-le-rss/
+permalink: "/2007/03/18/trop-de-rss-tue-le-rss/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "707"
+- '707'
 categories:
-  - Non classé
+- Non classé
 ---
 J’ai une petite (auto-)critique à émettre quant aux flux de syndication : **trop de RSS tue le RSS**.
 

@@ -1,17 +1,17 @@
 ---
 id: 15
 title: 'Octopress : Utiliser les Hooks pour surcharger les permalinks'
-date: 2015-10-07T09:20:08+00:00
+date: 2015-10-07 09:20:08.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2015/10/07/octopress-hooks-permalinks.html
-permalink: /2015/10/07/octopress-utiliser-les-hooks-pour-surcharger-les-permalinks/
+permalink: "/2015/10/07/octopress-utiliser-les-hooks-pour-surcharger-les-permalinks/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "271"
+- '271'
 categories:
-  - Non classé
+- Non classé
 ---
 La gestion des permalinks sous [Octopress](http://octopress.org/) ne permet, par défaut, pas beaucoup de fantaisie. Elle sera généralement structurée d’une des manières suivantes :
 

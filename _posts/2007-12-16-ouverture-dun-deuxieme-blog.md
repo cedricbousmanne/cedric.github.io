@@ -1,17 +1,17 @@
 ---
 id: 574
 title: Ouverture d’un deuxième blog
-date: 2007-12-16T09:50:52+00:00
+date: 2007-12-16 09:50:52.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/16/ouverture-dun-deuxieme-blog.html
-permalink: /2007/12/16/ouverture-dun-deuxieme-blog/
+permalink: "/2007/12/16/ouverture-dun-deuxieme-blog/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "786"
+- '786'
 categories:
-  - Non classé
+- Non classé
 ---
 **Avis à notre clientèle : désormais, chez (parenthèse.be), nous vous offrons deux blogs pour le prix d’un!**
 

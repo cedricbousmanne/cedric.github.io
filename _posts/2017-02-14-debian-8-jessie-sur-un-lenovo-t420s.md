@@ -1,17 +1,17 @@
 ---
 id: 8
 title: Debian 8 Jessie sur un Lenovo T420s
-date: 2017-02-14T12:05:40+00:00
+date: 2017-02-14 12:05:40.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2017/02/14/debian-8-jessie-lenovo-t420s.html
-permalink: /2017/02/14/debian-8-jessie-sur-un-lenovo-t420s/
+permalink: "/2017/02/14/debian-8-jessie-sur-un-lenovo-t420s/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "278"
+- '278'
 categories:
-  - Non classé
+- Non classé
 ---
 Il y a un peu moins d’un an, j’ai fais l’acquisition d’un Lenovo T420s de seconde main sur eBay.
 

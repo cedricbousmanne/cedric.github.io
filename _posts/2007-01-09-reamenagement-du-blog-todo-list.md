@@ -1,17 +1,17 @@
 ---
 id: 679
-title: 'Réaménagement du blog &#8211; todo list'
-date: 2007-01-09T04:38:00+00:00
+title: Réaménagement du blog &#8211; todo list
+date: 2007-01-09 04:38:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/09/reamenagement-du-blog-todo-list.html
-permalink: /2007/01/09/reamenagement-du-blog-todo-list/
+permalink: "/2007/01/09/reamenagement-du-blog-todo-list/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "681"
+- '681'
 categories:
-  - Non classé
+- Non classé
 ---
 Youpie, un nouveau design[1] sur le <del>blog</del> [bloc-note](http://aroundtheworld.blogspirit.com/archive/2007/01/08/je-suis-un-bloc-noteurs.html)! Cela mérite quand même un grand nettoyage :
 

@@ -1,19 +1,19 @@
 ---
 id: 573
 title: 'Je n’étais pas au Yulbiz-Bruxelles #2'
-date: 2007-12-16T12:33:06+00:00
+date: 2007-12-16 12:33:06.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/16/je-netais-pas-au-yulbiz-bruxelles-2.html
-permalink: /2007/12/16/je-netais-pas-au-yulbiz-bruxelles-2/
+permalink: "/2007/12/16/je-netais-pas-au-yulbiz-bruxelles-2/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "787"
+- '787'
 categories:
-  - Non classé
+- Non classé
 kind:
-  - Note
+- Note
 ---
 Eh ben non! Dans les prochaines heures, nos aggregateurs seront pleins de news relatant les aventures des blogeurs qui ont eu la chance d’assister au Yulbiz-Bruxelles #2, on aura droit à des photos, des commentaires, des _privates jokes_ que seuls ceux qui y étaient pourront comprendre… Et que du coup, je ne comprendrais pas.
 

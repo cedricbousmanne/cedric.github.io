@@ -1,17 +1,17 @@
 ---
 id: 738
 title: Un navigateur social
-date: 2006-06-15T01:54:18+00:00
+date: 2006-06-15 01:54:18.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/15/un-navigateur-social.html
-permalink: /2006/06/15/un-navigateur-social/
+permalink: "/2006/06/15/un-navigateur-social/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "622"
+- '622'
 categories:
-  - Non classé
+- Non classé
 ---
 <img src="https://i2.wp.com/static.flickr.com/33/56829242_08c85a7a18.jpg?w=900" alt="Logo Flock" data-recalc-dims="1" />Je viens de découvrir [Flock](http://www.flock.com/) via [le blog de Gilles Marlet](http://subliminations.freezee.org/blog/index.php?2006/06/13/499-flick-flack-flock). Ou plus exactement, j’en avais déjà entendu parler, mais son articles concernant ce nouveau butineur de la fondation Mozilla m’a donné envie de tester la bête. Chronique.
 

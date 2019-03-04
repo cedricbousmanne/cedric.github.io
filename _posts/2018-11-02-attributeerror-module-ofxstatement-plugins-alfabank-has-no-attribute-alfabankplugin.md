@@ -1,40 +1,42 @@
 ---
 id: 4262
-title: 'AttributeError: module &lsquo;ofxstatement.plugins.alfabank&rsquo; has no attribute &lsquo;AlfabankPlugin&rsquo;'
-date: 2018-11-02T09:38:09+00:00
+title: 'AttributeError: module &lsquo;ofxstatement.plugins.alfabank&rsquo; has no
+  attribute &lsquo;AlfabankPlugin&rsquo;'
+date: 2018-11-02 09:38:09.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4262
-permalink: /2018/11/02/attributeerror-module-ofxstatement-plugins-alfabank-has-no-attribute-alfabankplugin/
+permalink: "/2018/11/02/attributeerror-module-ofxstatement-plugins-alfabank-has-no-attribute-alfabankplugin/"
 snap_isAutoPosted:
-  - "1541147889"
+- '1541147889'
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101000668331608182
+- https://ruby.social/@akyrho/101000668331608182
 snap_MYURL:
-  - ""
+- ''
 snapEdIT:
-  - "1"
-snapMD:
-  - |
-    s:169:"a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-    
-    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}";
-snapTW:
-  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
+- '1'
+snapMD: |-
+  a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+
+  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
+snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
+  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
 mf2_syndication:
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1058277101265018880";i:1;s:48:"https://github.com/kedder/ofxstatement/issues/82";}'
+- https://twitter.com/akyrho/status/1058277101265018880
+- https://github.com/kedder/ofxstatement/issues/82
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "0"
+- '0'
 categories:
-  - issues
+- issues
 kind:
-  - Note
+- Note
 ---
 I just installed ofxstatement to play around with, but i&rsquo;m stuck with this error while running `ofxstatement list-plugins`
 

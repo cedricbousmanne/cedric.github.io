@@ -1,29 +1,33 @@
 ---
 id: 4495
 title: Cleanup old git branches
-date: 2018-12-20T17:09:47+00:00
+date: 2018-12-20 17:09:47.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4495
-permalink: /2018/12/20/clean-old-git-branches/
+permalink: "/2018/12/20/clean-old-git-branches/"
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101274235011407028
+- https://ruby.social/@akyrho/101274235011407028
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "0"
+- '0'
 mf2_syndication:
-  - 'a:4:{i:0;s:53:"https://twitter.com/akyrho/status/1075785971235467264";i:1;s:46:"https://ruby.social/@akyrho/101274235011407028";i:2;s:72:"https://www.linkedin.com/feed/update/urn:li:activity:6481551471186833408";i:3;s:53:"https://twitter.com/akyrho/status/1075785674010320897";}'
+- https://twitter.com/akyrho/status/1075785971235467264
+- https://ruby.social/@akyrho/101274235011407028
+- https://www.linkedin.com/feed/update/urn:li:activity:6481551471186833408
+- https://twitter.com/akyrho/status/1075785674010320897
 categories:
-  - web
+- web
 tags:
-  - git
+- git
 kind:
-  - Note
+- Note
 ---
 Yesterday I had to clean some very old branches on a project&rsquo;s codebase. Here&rsquo;s a few git tricks I had to use.
 

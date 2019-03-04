@@ -1,17 +1,17 @@
 ---
 id: 764
 title: En Belgique, on peut mourrir pour un MP3
-date: 2006-04-25T19:43:06+00:00
+date: 2006-04-25 19:43:06.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/25/en-belgique-on-peut-mourrir-pour-un-mp3.html
-permalink: /2006/04/25/en-belgique-on-peut-mourrir-pour-un-mp3/
+permalink: "/2006/04/25/en-belgique-on-peut-mourrir-pour-un-mp3/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "596"
+- '596'
 categories:
-  - Non classé
+- Non classé
 ---
 Je suis choqué, et je profite de ce blog pour le faire savoir. Joe est mort pour un MP3 [1], c’est quand même difficilement imaginable.
 

@@ -1,17 +1,17 @@
 ---
 id: 615
 title: 'Morceau de Skeud #1 : Hands Held High'
-date: 2007-08-01T14:36:01+00:00
+date: 2007-08-01 14:36:01.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/08/01/morceau-de-skeud-1-hands-held-high.html
-permalink: /2007/08/01/morceau-de-skeud-1-hands-held-high/
+permalink: "/2007/08/01/morceau-de-skeud-1-hands-held-high/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "745"
+- '745'
 categories:
-  - Non classé
+- Non classé
 ---
 _J’inaugure une nouvelle série sur ce blog, Morceau de Skeud._
 

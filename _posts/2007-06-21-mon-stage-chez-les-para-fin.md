@@ -1,17 +1,17 @@
 ---
 id: 629
 title: Mon stage chez les para, fin
-date: 2007-06-21T12:41:45+00:00
+date: 2007-06-21 12:41:45.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/21/mon-stage-chez-les-para-fin.html
-permalink: /2007/06/21/mon-stage-chez-les-para-fin/
+permalink: "/2007/06/21/mon-stage-chez-les-para-fin/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "731"
+- '731'
 categories:
-  - Non classé
+- Non classé
 ---
 Episodes précédents :
 

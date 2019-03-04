@@ -1,32 +1,33 @@
 ---
 id: 4593
-title: 'Ton premier jour d&rsquo;école'
-date: 2019-01-08T11:19:41+00:00
+title: Ton premier jour d&rsquo;école
+date: 2019-01-08 11:19:41.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4593
-permalink: /2019/01/08/ton-premier-jour-decole/
+permalink: "/2019/01/08/ton-premier-jour-decole/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 geo_weather:
-  - 'a:2:{s:4:"icon";s:4:"none";s:10:"visibility";s:6:"public";}'
+  icon: none
+  visibility: public
 geo_public:
-  - "0"
+- '0'
 mf2_syndication:
-  - 'a:1:{i:0;s:53:"https://twitter.com/akyrho/status/1082585798967480320";}'
+- https://twitter.com/akyrho/status/1082585798967480320
 full_width_featured_image:
-  - "1"
+- '1'
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101380491905415076
-image: /wp-content/uploads/2019/01/crayons-1209804_1280-900x636.jpg
+- https://ruby.social/@akyrho/101380491905415076
+image: "/wp-content/uploads/2019/01/crayons-1209804_1280-900x636.jpg"
 categories:
-  - Non classé
+- Non classé
 tags:
-  - noah
+- noah
 kind:
-  - Article
+- Article
 ---
 C&rsquo;était ton premier jour d&rsquo;école, aujourd&rsquo;hui. Je n&rsquo;aurais manqué ça pour rien au monde.
 

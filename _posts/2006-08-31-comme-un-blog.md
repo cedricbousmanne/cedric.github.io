@@ -1,17 +1,17 @@
 ---
 id: 714
 title: Comme un Blog
-date: 2006-08-31T11:54:00+00:00
+date: 2006-08-31 11:54:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/08/31/comme-un-blog.html
-permalink: /2006/08/31/comme-un-blog/
+permalink: "/2006/08/31/comme-un-blog/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "646"
+- '646'
 categories:
-  - Non classé
+- Non classé
 ---
 A l’image de [Daniel Pennac](http://fr.wikipedia.org/wiki/Daniel_Pennac), au verso du livre “_[Comme un roman](http://francite.net/education/lecture/page234.html)_”, en tant que bloggeur, vous avez :
 

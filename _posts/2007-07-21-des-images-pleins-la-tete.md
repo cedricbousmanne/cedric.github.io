@@ -1,17 +1,17 @@
 ---
 id: 625
 title: Des images pleins la tête
-date: 2007-07-21T00:00:56+00:00
+date: 2007-07-21 00:00:56.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/07/21/des-images-pleins-la-tete.html
-permalink: /2007/07/21/des-images-pleins-la-tete/
+permalink: "/2007/07/21/des-images-pleins-la-tete/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "735"
+- '735'
 categories:
-  - Non classé
+- Non classé
 ---
 Partir, c’est mourir un peu… Revenir aussi.
 

@@ -1,17 +1,17 @@
 ---
 id: 709
 title: 'backupmyblog : rectificatif'
-date: 2006-09-07T02:33:00+00:00
+date: 2006-09-07 02:33:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/09/07/backupmyblog-rectificatif.html
-permalink: /2006/09/07/backupmyblog-rectificatif/
+permalink: "/2006/09/07/backupmyblog-rectificatif/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "651"
+- '651'
 categories:
-  - Non classé
+- Non classé
 ---
 Je viens de ré-essayer [backupmyblog](http://backupmyblog.com/). Voici le topo :
 

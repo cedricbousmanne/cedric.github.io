@@ -1,23 +1,22 @@
 ---
 id: 12
-title: « Non, je ne publierai pas la photo de mon fils sur Facebook »
-date: 2016-01-30T00:38:45+00:00
+title: "« Non, je ne publierai pas la photo de mon fils sur Facebook »"
+date: 2016-01-30 00:38:45.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2016/01/30/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook.html
-permalink: /2016/01/30/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook/
+permalink: "/2016/01/30/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "274"
-snapMD:
-  - 's:228:"a:1:{i:0;a:4:{s:8:"isPosted";s:1:"1";s:4:"pgID";s:12:"ccbae8b571df";s:7:"postURL";s:97:"https://medium.com/@akyrho/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook-ccbae8b571df";s:5:"pDate";s:19:"2018-09-17 09:10:43";}}";'
-snapTW:
-  - 's:191:"a:1:{i:0;a:4:{s:8:"isPosted";s:1:"1";s:4:"pgID";s:19:"1041615448058548225";s:7:"postURL";s:53:"https://twitter.com/akyrho/status/1041615448058548225";s:5:"pDate";s:19:"2018-09-17 09:10:50";}}";'
-snapImportedComments:
-  - 'a:0:{}'
+- '274'
+snapMD: a:1:{i:0;a:4:{s:8:"isPosted";s:1:"1";s:4:"pgID";s:12:"ccbae8b571df";s:7:"postURL";s:97:"https://medium.com/@akyrho/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook-ccbae8b571df";s:5:"pDate";s:19:"2018-09-17
+  09:10:43";}}
+snapTW: a:1:{i:0;a:4:{s:8:"isPosted";s:1:"1";s:4:"pgID";s:19:"1041615448058548225";s:7:"postURL";s:53:"https://twitter.com/akyrho/status/1041615448058548225";s:5:"pDate";s:19:"2018-09-17
+  09:10:50";}}
+snapImportedComments: []
 categories:
-  - Non classé
+- Non classé
 ---
 ![Bébé chat](/images/cat-914110_1280.jpg)
 

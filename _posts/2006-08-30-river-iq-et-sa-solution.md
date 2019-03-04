@@ -1,17 +1,17 @@
 ---
 id: 717
 title: River IQ et sa solution
-date: 2006-08-30T14:22:00+00:00
+date: 2006-08-30 14:22:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/08/30/river-iq-et-sa-solution.html
-permalink: /2006/08/30/river-iq-et-sa-solution/
+permalink: "/2006/08/30/river-iq-et-sa-solution/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "643"
+- '643'
 categories:
-  - Non classé
+- Non classé
 ---
 Un petit jeu [trouvé sur Geeek.org](http://www.geeek.org/post/2006/08/29/Jeu-de-reflexion) : [River IQ](http://freeweb.siol.net/danej/riverIQGame.swf).
 

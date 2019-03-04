@@ -1,35 +1,33 @@
 ---
 id: 1343
 title: Couleurs d’automne
-date: 2018-09-29T12:39:40+00:00
+date: 2018-09-29 12:39:40.000000000 +00:00
 author: ifttt-instagram-importer
 layout: post
 guid: https://cedric.io/?p=1343
-permalink: /2018/09/29/couleurs-dautomne-2/
+permalink: "/2018/09/29/couleurs-dautomne-2/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 snap_MYURL:
-  - ""
+- ''
 snapEdIT:
-  - "1"
-snapMD:
-  - |
-    s:169:"a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-    
-    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}";
-snapTW:
-  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
+- '1'
+snapMD: |-
+  a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+
+  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
+snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
+  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
 mf2_syndication:
-  - 'a:1:{i:0;s:53:"https://twitter.com/akyrho/status/1045997186281025537";}'
-  - 'a:1:{i:0;s:53:"https://twitter.com/akyrho/status/1045997186281025537";}'
+- https://twitter.com/akyrho/status/1045997186281025537
 categories:
-  - Non classé
+- Non classé
 tags:
-  - IFTTT
-  - Instagram
+- IFTTT
+- Instagram
 format: image
 kind:
-  - Photo
+- Photo
 ---
 <div>
   <p>

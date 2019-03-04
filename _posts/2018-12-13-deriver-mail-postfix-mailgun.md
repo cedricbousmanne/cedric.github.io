@@ -1,32 +1,33 @@
 ---
 id: 4464
 title: Dériver le courrier email sortant vers Mailgun
-date: 2018-12-13T12:09:32+00:00
+date: 2018-12-13 12:09:32.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4464
-permalink: /2018/12/13/deriver-mail-postfix-mailgun/
+permalink: "/2018/12/13/deriver-mail-postfix-mailgun/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101233418236908334
+- https://ruby.social/@akyrho/101233418236908334
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "0"
+- '0'
 mf2_syndication:
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1073173118460547073";i:1;s:46:"https://ruby.social/@akyrho/101233418236908334";}'
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1073173118460547073";i:1;s:46:"https://ruby.social/@akyrho/101233418236908334";}'
+- https://twitter.com/akyrho/status/1073173118460547073
+- https://ruby.social/@akyrho/101233418236908334
 categories:
-  - Non classé
+- Non classé
 tags:
-  - mail
-  - mailgun
-  - postfix
+- mail
+- mailgun
+- postfix
 kind:
-  - Note
+- Note
 ---
 Source : <https://www.digitalocean.com/community/tutorials/how-to-set-up-a-mail-relay-with-postfix-and-mailgun-on-ubuntu-16-04>
 

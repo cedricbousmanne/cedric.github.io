@@ -1,17 +1,17 @@
 ---
 id: 702
 title: Proverbe taoïste
-date: 2006-11-03T12:23:00+00:00
+date: 2006-11-03 12:23:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/11/03/proverbe-taoiste.html
-permalink: /2006/11/03/proverbe-taoiste/
+permalink: "/2006/11/03/proverbe-taoiste/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "658"
+- '658'
 categories:
-  - Non classé
+- Non classé
 ---
 C’est le moment ou jamais de philosopher :
 

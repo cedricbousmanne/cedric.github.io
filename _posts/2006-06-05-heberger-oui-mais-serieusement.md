@@ -1,17 +1,17 @@
 ---
 id: 745
 title: Héberger, oui, mais sérieusement!
-date: 2006-06-05T02:10:00+00:00
+date: 2006-06-05 02:10:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/05/heberger-oui-mais-serieusement.html
-permalink: /2006/06/05/heberger-oui-mais-serieusement/
+permalink: "/2006/06/05/heberger-oui-mais-serieusement/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "615"
+- '615'
 categories:
-  - Non classé
+- Non classé
 ---
 [Encore un nouvel hébergeur](http://rhien.org/nouvelles/index.php/2006/06/04/34-itinewebcom-lhebergeur-web-gratuit-et-sans-publicite-sur-serveurs-dedies), il vient de se présenter sur le [blog du RHIEN](http://rhien.org/nouvelles/).
 

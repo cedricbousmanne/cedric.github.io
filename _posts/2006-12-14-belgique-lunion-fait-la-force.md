@@ -1,17 +1,17 @@
 ---
 id: 692
 title: 'Belgique : l’Union fait la Force?'
-date: 2006-12-14T21:23:00+00:00
+date: 2006-12-14 21:23:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/12/14/belgique-lunion-fait-la-force.html
-permalink: /2006/12/14/belgique-lunion-fait-la-force/
+permalink: "/2006/12/14/belgique-lunion-fait-la-force/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "668"
+- '668'
 categories:
-  - Non classé
+- Non classé
 ---
 Hier soir, alors que je discutais tranquillement avec Laurent, ce dernier reçoit un SMS de sa soeur, nous annonçant que la Flandre venait de signer la sécession et déclairait son indépendance. Il ne nous a pas fallu deux minutes pour courrir, affolés et un peu perdu, au kot d’un ami pour y regarder le journal.
 

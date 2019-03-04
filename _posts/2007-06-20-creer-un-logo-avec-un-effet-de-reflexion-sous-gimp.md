@@ -1,17 +1,17 @@
 ---
 id: 630
 title: Créer un logo avec un effet de réflexion sous Gimp
-date: 2007-06-20T23:23:30+00:00
+date: 2007-06-20 23:23:30.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/20/creer-un-logo-avec-un-effet-de-reflexion-sous-gimp.html
-permalink: /2007/06/20/creer-un-logo-avec-un-effet-de-reflexion-sous-gimp/
+permalink: "/2007/06/20/creer-un-logo-avec-un-effet-de-reflexion-sous-gimp/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "730"
+- '730'
 categories:
-  - Non classé
+- Non classé
 ---
 Qui dit Web 2.0 dit également design 2.0. En effet, les sites _à la mode_ nous ont apportés toute une série de nouveautés dans le webdesign. Voyons comment réaliser un de ces effets avec **The Gimp**.
 

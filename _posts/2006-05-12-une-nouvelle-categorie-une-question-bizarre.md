@@ -1,17 +1,17 @@
 ---
 id: 756
 title: Une nouvelle catégorie, une question bizarre…
-date: 2006-05-12T01:00:43+00:00
+date: 2006-05-12 01:00:43.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/12/une-nouvelle-catgorie-une-question-bizarre.html
-permalink: /2006/05/12/une-nouvelle-categorie-une-question-bizarre/
+permalink: "/2006/05/12/une-nouvelle-categorie-une-question-bizarre/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "604"
+- '604'
 categories:
-  - Non classé
+- Non classé
 ---
 <img src="https://i2.wp.com/www.parenthese.be/dotclear/images/pensee.jpg?w=900" alt="" data-recalc-dims="1" />J’inaugure ce soir une nouvelle categorie au blog, qui me semblait necessaire : _pensees_. Vous noterez que j’ai bien choisi l’illustration[1] 😉
 

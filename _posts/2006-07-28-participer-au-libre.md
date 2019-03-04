@@ -1,17 +1,17 @@
 ---
 id: 728
 title: Participer au Libre
-date: 2006-07-28T11:26:00+00:00
+date: 2006-07-28 11:26:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/07/28/participer-au-libre.html
-permalink: /2006/07/28/participer-au-libre/
+permalink: "/2006/07/28/participer-au-libre/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "632"
+- '632'
 categories:
-  - Non classé
+- Non classé
 ---
 On m’avait toujours dis que n’importe qui pouvait participer au Libre, de quelque manière que ce soit. J’avoue que je ne saisissait pas très bien.
 

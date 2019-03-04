@@ -1,17 +1,17 @@
 ---
 id: 696
 title: Quelques plugins pour DotClear2
-date: 2006-11-12T13:31:00+00:00
+date: 2006-11-12 13:31:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/11/12/quelques-plugins-pour-dotclear2.html
-permalink: /2006/11/12/quelques-plugins-pour-dotclear2/
+permalink: "/2006/11/12/quelques-plugins-pour-dotclear2/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "664"
+- '664'
 categories:
-  - Non classé
+- Non classé
 ---
 ### Contact {#contact}
 

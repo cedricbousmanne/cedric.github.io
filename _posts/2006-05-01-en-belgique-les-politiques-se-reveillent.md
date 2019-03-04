@@ -1,17 +1,17 @@
 ---
 id: 761
 title: En Belgique, les politiques se réveillent
-date: 2006-05-01T02:29:21+00:00
+date: 2006-05-01 02:29:21.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/01/en-belgique-les-politiques-se-rveillent.html
-permalink: /2006/05/01/en-belgique-les-politiques-se-reveillent/
+permalink: "/2006/05/01/en-belgique-les-politiques-se-reveillent/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "599"
+- '599'
 categories:
-  - Non classé
+- Non classé
 ---
 Suite à l’affaire Joe Van Hoelsbeek[1], la politique belge se remue un peu.
 

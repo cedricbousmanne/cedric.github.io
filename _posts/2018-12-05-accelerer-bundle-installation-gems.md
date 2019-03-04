@@ -1,34 +1,38 @@
 ---
 id: 4441
-title: 'Accélérer l&rsquo;exécution de la commande bundle et l&rsquo;installation des gems'
-date: 2018-12-05T11:41:08+00:00
+title: Accélérer l&rsquo;exécution de la commande bundle et l&rsquo;installation des
+  gems
+date: 2018-12-05 11:41:08.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4441
-permalink: /2018/12/05/accelerer-bundle-installation-gems/
+permalink: "/2018/12/05/accelerer-bundle-installation-gems/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "0"
+- '0'
 mf2_syndication:
-  - 'a:4:{i:0;s:53:"https://twitter.com/akyrho/status/1070266841392652288";i:1;s:46:"https://ruby.social/@akyrho/101188014197214345";i:2;s:124:"https://medium.com/@akyrho/acc%C3%A9l%C3%A9rer-lex%C3%A9cution-de-la-commande-bundle-et-l-installation-des-gems-f42661e464a3";i:3;s:98:"https://news.humancoders.com/t/ruby/items/16483-accelerer-l-execution-de-la-commande-bundle-et-l-i";}'
-  - 'a:4:{i:0;s:53:"https://twitter.com/akyrho/status/1070266841392652288";i:1;s:46:"https://ruby.social/@akyrho/101188014197214345";i:2;s:124:"https://medium.com/@akyrho/acc%C3%A9l%C3%A9rer-lex%C3%A9cution-de-la-commande-bundle-et-l-installation-des-gems-f42661e464a3";i:3;s:98:"https://news.humancoders.com/t/ruby/items/16483-accelerer-l-execution-de-la-commande-bundle-et-l-i";}'
+- https://twitter.com/akyrho/status/1070266841392652288
+- https://ruby.social/@akyrho/101188014197214345
+- https://medium.com/@akyrho/acc%C3%A9l%C3%A9rer-lex%C3%A9cution-de-la-commande-bundle-et-l-installation-des-gems-f42661e464a3
+- https://news.humancoders.com/t/ruby/items/16483-accelerer-l-execution-de-la-commande-bundle-et-l-i
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101188008090553972
+- https://ruby.social/@akyrho/101188008090553972
 categories:
-  - web
+- web
 tags:
-  - gems
-  - rails
-  - ruby
-  - ruby on rails
-  - RubyGems
+- gems
+- rails
+- ruby
+- ruby on rails
+- RubyGems
 kind:
-  - Article
+- Article
 ---
 Il y a quelques jours, j&rsquo;ai travaillé sur une mise à jour majeure d&rsquo;une application écrite en Ruby on Rails. L&rsquo;application tournait sur la version 3.2 du framework, et celle-ci étant dépréciée depuis longtemps, il était largement temps de la faire passer en version 5.2.
 

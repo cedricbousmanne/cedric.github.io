@@ -1,17 +1,17 @@
 ---
 id: 558
-title: 'Octopress &#8211; Du code haut en couleurs'
-date: 2015-10-05T22:42:00+00:00
+title: Octopress &#8211; Du code haut en couleurs
+date: 2015-10-05 22:42:00.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2015/10/05/octopress-du-code-haut-en-couleurs.html
-permalink: /2015/10/05/octopress-du-code-haut-en-couleurs/
+permalink: "/2015/10/05/octopress-du-code-haut-en-couleurs/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "802"
+- '802'
 categories:
-  - Non classé
+- Non classé
 ---
 Par défaut, Octopress intègre [Pygments](http://pygments.org/) pour gérer la colorisation syntaxique du code, mais je trouvais le résultat un peu triste. Après quelques recherches sur [RubyGems](https://rubygems.org/), je suis tombé sur _[Octopress Codeblock](https://github.com/octopress/codeblock)_
 

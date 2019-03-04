@@ -1,17 +1,17 @@
 ---
 id: 604
 title: Réflex numérique, très peu pour moi
-date: 2007-10-13T18:41:47+00:00
+date: 2007-10-13 18:41:47.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/13/reflex-numerique-tres-peu-pour-moi.html
-permalink: /2007/10/13/reflex-numerique-tres-peu-pour-moi/
+permalink: "/2007/10/13/reflex-numerique-tres-peu-pour-moi/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "756"
+- '756'
 categories:
-  - Non classé
+- Non classé
 ---
 C’est peut-être une contre-évolution ou un excès de nostalgie (après tout, [ça ne serait pas la première fois que ça m’arrive](/blog/2007/08/12/rss-et-journaux-papiers/)) mais j’ai décidé, finalement, de ne pas acheter de réflex numérique.
 

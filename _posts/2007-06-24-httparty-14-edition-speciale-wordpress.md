@@ -1,17 +1,17 @@
 ---
 id: 628
 title: 'HTTParty #14, Edition Spéciale WordPress'
-date: 2007-06-24T09:13:03+00:00
+date: 2007-06-24 09:13:03.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/24/httparty-14-editition-speciale-wordpress.html
-permalink: /2007/06/24/httparty-14-edition-speciale-wordpress/
+permalink: "/2007/06/24/httparty-14-edition-speciale-wordpress/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "732"
+- '732'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Logo wordpress](/images/images/2.0/wordpress.png)  
 Depuis deux semaines que je l’utilise, je ne cesse de trouver WordPress fabuleux. C’est un outil très puissant, et qui plus est, qui dispose d’une communauté vraiment dynamique. C’est bien simple, je ne devrais pas faire de HTTParty sur ce sujet, puisque Google est notre ami à tous. Aller, on va être gentil tout plein, voici le résumé de mes découvertes de ces deux dernières semaines :

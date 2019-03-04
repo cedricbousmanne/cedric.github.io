@@ -1,17 +1,17 @@
 ---
 id: 757
 title: Stadium Arcanium
-date: 2006-05-08T20:46:04+00:00
+date: 2006-05-08 20:46:04.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/08/stadium-arcanium.html
-permalink: /2006/05/08/stadium-arcanium/
+permalink: "/2006/05/08/stadium-arcanium/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "603"
+- '603'
 categories:
-  - Non classé
+- Non classé
 ---
 <img src="https://i0.wp.com/www.danceage.com/gallery/data/media/743/red-hot-chili-peppers-y-05.jpg?w=900" alt="" data-recalc-dims="1" />Yeah! Je viens à peine d’écouter **Stadium Arcanium**, le dernier opus des divins Red Hot Chili Peppers.
 

@@ -1,17 +1,17 @@
 ---
 id: 725
 title: Attert sous la brume
-date: 2006-08-03T00:16:00+00:00
+date: 2006-08-03 00:16:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/08/03/attert-sous-la-brume.html
-permalink: /2006/08/03/attert-sous-la-brume/
+permalink: "/2006/08/03/attert-sous-la-brume/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "635"
+- '635'
 categories:
-  - Non classé
+- Non classé
 ---
 Je revenais tranquillement d’un partie de Bowling à Weyler avec des potes, quand je me suis aperçu de la beauté du paysage brumeux autours de moi :
 

@@ -1,32 +1,33 @@
 ---
 id: 4700
 title: QuteBrowser and LastPass
-date: 2019-02-08T14:38:33+00:00
+date: 2019-02-08 14:38:33.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4700
-permalink: /2019/02/08/qutebrowser-and-lastpass/
+permalink: "/2019/02/08/qutebrowser-and-lastpass/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 geo_weather:
-  - 'a:2:{s:4:"icon";s:4:"none";s:10:"visibility";s:6:"public";}'
+  icon: none
+  visibility: public
 geo_public:
-  - "0"
+- '0'
 mf2_syndication:
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1093866724758376448";i:1;s:46:"https://ruby.social/@akyrho/101556755883913000";}'
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1093866724758376448";i:1;s:46:"https://ruby.social/@akyrho/101556755883913000";}'
+- https://twitter.com/akyrho/status/1093866724758376448
+- https://ruby.social/@akyrho/101556755883913000
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101556755883913000
+- https://ruby.social/@akyrho/101556755883913000
 categories:
-  - Non classé
+- Non classé
 tags:
-  - cli
-  - lastpass
-  - qutebrowser
+- cli
+- lastpass
+- qutebrowser
 kind:
-  - Note
+- Note
 ---
 I&rsquo;ve been using [QuteBrowser](https://www.qutebrowser.org/) for the past 2 days (more on that later), and the only thing I missed so far was a [LastPass](https://www.lastpass.com/) integration.
 

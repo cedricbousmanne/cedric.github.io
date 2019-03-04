@@ -1,33 +1,34 @@
 ---
 id: 4573
 title: How to install Rubocop for Sublime Text with rbenv
-date: 2019-01-07T16:33:36+00:00
+date: 2019-01-07 16:33:36.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4573
-permalink: /2019/01/07/how-install-rubocop-sublime-text-rbenv/
+permalink: "/2019/01/07/how-install-rubocop-sublime-text-rbenv/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 geo_weather:
-  - 'a:2:{s:4:"icon";s:4:"none";s:10:"visibility";s:6:"public";}'
+  icon: none
+  visibility: public
 mf2_syndication:
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1082299255623245826";i:1;s:46:"https://ruby.social/@akyrho/101376026411767781";}'
-  - 'a:2:{i:0;s:53:"https://twitter.com/akyrho/status/1082299255623245826";i:1;s:46:"https://ruby.social/@akyrho/101376026411767781";}'
+- https://twitter.com/akyrho/status/1082299255623245826
+- https://ruby.social/@akyrho/101376026411767781
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101376026411767781
+- https://ruby.social/@akyrho/101376026411767781
 geo_public:
-  - "0"
+- '0'
 categories:
-  - web
+- web
 tags:
-  - rbenv
-  - rubocop
-  - ruby
-  - sublime text
+- rbenv
+- rubocop
+- ruby
+- sublime text
 kind:
-  - Article
+- Article
 ---
 <a href="https://github.com/rubocop-hq/rubocop" target="_blank" rel="noopener">Rubocop</a> is a static code analyzer and formatter for Ruby. Long story short : it helps you to write better code.
 

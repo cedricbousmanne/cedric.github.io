@@ -1,17 +1,17 @@
 ---
 id: 669
 title: Le livre du voyage
-date: 2007-01-18T02:53:00+00:00
+date: 2007-01-18 02:53:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/18/le-livre-du-voyage.html
-permalink: /2007/01/18/le-livre-du-voyage/
+permalink: "/2007/01/18/le-livre-du-voyage/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "691"
+- '691'
 categories:
-  - Non classé
+- Non classé
 ---
 Pour Noël, j’ai reçu deux livres de Bernard Werber. Je n’ai pas encore eu le temps de lire les deux, mais j’ai pris le temps de lire celui dont le titre m’inspirait le plus : Le livre du voyage.
 

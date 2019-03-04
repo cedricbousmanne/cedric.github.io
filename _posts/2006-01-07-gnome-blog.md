@@ -1,17 +1,17 @@
 ---
 id: 799
 title: gnome-blog
-date: 2006-01-07T16:43:04+00:00
+date: 2006-01-07 16:43:04.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/01/07/gnome-blog.html
-permalink: /2006/01/07/gnome-blog/
+permalink: "/2006/01/07/gnome-blog/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "561"
+- '561'
 categories:
-  - Non classé
+- Non classé
 ---
 ### Installation {#installation}
 

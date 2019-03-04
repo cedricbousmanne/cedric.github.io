@@ -1,17 +1,17 @@
 ---
 id: 577
 title: Une webcam écologique et équitable
-date: 2007-12-14T15:20:05+00:00
+date: 2007-12-14 15:20:05.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/14/une-webcam-ecologique-et-equitable.html
-permalink: /2007/12/14/une-webcam-ecologique-et-equitable/
+permalink: "/2007/12/14/une-webcam-ecologique-et-equitable/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "783"
+- '783'
 categories:
-  - Non classé
+- Non classé
 ---
 _Lili_ est le doux nom d’une très originale web-cam originaire du Vietnam. Très originale car elle a été conçue selon trois critères principaux : issue du commerce équitable, écologique, et fabriquée à base de produits naturels.
 

@@ -1,17 +1,17 @@
 ---
 id: 600
 title: 5 astuces pour améliorer les photos que vous blogguez
-date: 2007-10-16T16:22:32+00:00
+date: 2007-10-16 16:22:32.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/16/5-astuces-pour-ameliorer-les-photos-que-vous-blogguez.html
-permalink: /2007/10/16/5-astuces-pour-ameliorer-les-photos-que-vous-blogguez/
+permalink: "/2007/10/16/5-astuces-pour-ameliorer-les-photos-que-vous-blogguez/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "760"
+- '760'
 categories:
-  - Non classé
+- Non classé
 ---
 Bien bloguer, c’est d’abord bien écrire, tout le monde est d’accord. Mais une bonne photo offre une plus-value à votre article et peut donner un certain cachet à votre blog. Voyons 5 techniques complémentaires pour améliorer les photos qui illustrent vos billets.
 

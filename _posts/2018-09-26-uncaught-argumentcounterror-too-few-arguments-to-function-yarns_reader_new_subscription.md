@@ -1,36 +1,36 @@
 ---
 id: 4162
 title: 'Uncaught ArgumentCountError: Too few arguments to function yarns_reader_new_subscription()'
-date: 2018-09-26T09:13:37+00:00
+date: 2018-09-26 09:13:37.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4162
-permalink: /2018/09/26/uncaught-argumentcounterror-too-few-arguments-to-function-yarns_reader_new_subscription/
+permalink: "/2018/09/26/uncaught-argumentcounterror-too-few-arguments-to-function-yarns_reader_new_subscription/"
 snap_isAutoPosted:
-  - "1539781413"
+- '1539781413'
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
+- none
 mf2_syndication:
-  - 'a:1:{i:0;s:60:"https://github.com/jackjamieson2/yarns-indie-reader/issues/6";}'
+- https://github.com/jackjamieson2/yarns-indie-reader/issues/6
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "1"
+- '1'
 snap_MYURL:
-  - ""
+- ''
 snapEdIT:
-  - "1"
-snapMD:
-  - |
-    s:169:"a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-    
-    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}";
-snapTW:
-  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
+- '1'
+snapMD: |-
+  a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+
+  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
+snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
+  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
 categories:
-  - issues
+- issues
 kind:
-  - Note
+- Note
 ---
 I just installed this plugin &#8211; while it seemed perfect to me, I ran accros this error trying to add a subscription to your site :
 

@@ -1,40 +1,42 @@
 ---
 id: 830
 title: 'Ikea Hack : réalisation d&rsquo;un ilôt de cuisine DIY'
-date: 2018-09-19T14:23:49+00:00
+date: 2018-09-19 14:23:49.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=830
-permalink: /2018/09/19/ikea-hack-realisation-dun-ilot-de-cuisine-diy/
+permalink: "/2018/09/19/ikea-hack-realisation-dun-ilot-de-cuisine-diy/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "836"
+- '836'
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+- bridgy-publish_twitter
 mf2_syndication:
-  - 'a:5:{i:0;s:53:"https://twitter.com/akyrho/status/1042388801174294529";i:1;s:35:"https://akyrho.wordpress.com/?p=836";i:2;s:65:"https://www.facebook.com/cedric.bousmanne/posts/10155514114981296";i:3;s:49:"https://www.pinterest.com/pin/229613280986878672/";i:4;s:95:"https://medium.com/@akyrho/ikea-hack-r%C3%A9alisation-dun-il%C3%B4t-de-cuisine-diy-ef060f570153";}'
-  - 'a:5:{i:0;s:53:"https://twitter.com/akyrho/status/1042388801174294529";i:1;s:35:"https://akyrho.wordpress.com/?p=836";i:2;s:65:"https://www.facebook.com/cedric.bousmanne/posts/10155514114981296";i:3;s:49:"https://www.pinterest.com/pin/229613280986878672/";i:4;s:95:"https://medium.com/@akyrho/ikea-hack-r%C3%A9alisation-dun-il%C3%B4t-de-cuisine-diy-ef060f570153";}'
+- https://twitter.com/akyrho/status/1042388801174294529
+- https://akyrho.wordpress.com/?p=836
+- https://www.facebook.com/cedric.bousmanne/posts/10155514114981296
+- https://www.pinterest.com/pin/229613280986878672/
+- https://medium.com/@akyrho/ikea-hack-r%C3%A9alisation-dun-il%C3%B4t-de-cuisine-diy-ef060f570153
 snap_isAutoPosted:
-  - "1537359829"
+- '1537359829'
 snap_MYURL:
-  - ""
+- ''
 snapEdIT:
-  - "1"
-snapMD:
-  - |
-    s:169:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-    
-    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}";
-snapTW:
-  - 's:389:"a:1:{i:0;a:12:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;s:8:"isPosted";s:1:"1";s:4:"pgID";s:19:"1042388801174294529";s:7:"postURL";s:53:"https://twitter.com/akyrho/status/1042388801174294529";s:5:"pDate";s:19:"2018-09-19 12:23:52";}}";'
-snapImportedComments:
-  - 'a:0:{}'
+- '1'
+snapMD: |-
+  a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+
+  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
+snapTW: a:1:{i:0;a:12:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
+  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;s:8:"isPosted";s:1:"1";s:4:"pgID";s:19:"1042388801174294529";s:7:"postURL";s:53:"https://twitter.com/akyrho/status/1042388801174294529";s:5:"pDate";s:19:"2018-09-19
+  12:23:52";}}
+snapImportedComments: []
 categories:
-  - Non classé
+- Non classé
 tags:
-  - DIY
-  - Ikea hacks
+- DIY
+- Ikea hacks
 ---
 Ce week-end, nous nous sommes (enfin) débarrassés de la vieille table de cuisine au profit d&rsquo;un magnifique ilôt de cuisine DIY. Madame avait trouvé un [exemple qui lui plaisait](http://cmadecoeco.canalblog.com/archives/2012/03/22/23815387.html#&ui-state=dialog) il y a quelques semaines, il ne restait plus qu&rsquo;à tout mettre en place.
 

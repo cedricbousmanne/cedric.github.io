@@ -1,17 +1,17 @@
 ---
 id: 734
 title: Larcenet, Une aventure rocambolesque de … Tome 2
-date: 2006-06-20T17:07:21+00:00
+date: 2006-06-20 17:07:21.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/20/larcenet-une-aventure-rocambolesque-de-tome-2.html
-permalink: /2006/06/20/larcenet-une-aventure-rocambolesque-de-tome-2/
+permalink: "/2006/06/20/larcenet-une-aventure-rocambolesque-de-tome-2/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "626"
+- '626'
 categories:
-  - Non classé
+- Non classé
 ---
 [<img src="https://i0.wp.com/static.flickr.com/41/124280300_d02f7e0088_m.jpg?w=900" alt="si ce n'est l'art.. alors Larcenet..." data-recalc-dims="1" />](http://flickr.com/photos/lougraou/124280300/)
 

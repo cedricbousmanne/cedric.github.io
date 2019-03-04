@@ -1,17 +1,17 @@
 ---
 id: 699
 title: Pigeon, oiseau à la grise robe…
-date: 2006-11-07T00:20:00+00:00
+date: 2006-11-07 00:20:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/11/07/pigeon-oiseau-a-la-grise-robe.html
-permalink: /2006/11/07/pigeon-oiseau-a-la-grise-robe/
+permalink: "/2006/11/07/pigeon-oiseau-a-la-grise-robe/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "661"
+- '661'
 categories:
-  - Non classé
+- Non classé
 ---
 … dans l’enfer des villes, à mon regard, tu te dérobes[1]
 

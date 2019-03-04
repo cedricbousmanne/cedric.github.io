@@ -1,43 +1,44 @@
 ---
 id: 1352
 title: J’ai découvert les audiobooks
-date: 2018-10-01T10:15:23+00:00
+date: 2018-10-01 10:15:23.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=1352
-permalink: /2018/10/01/jai-decouvert-les-audiobooks/
+permalink: "/2018/10/01/jai-decouvert-les-audiobooks/"
 mf2_mp-syndicate-to:
-  - 'a:1:{i:0;s:4:"none";}'
+- none
 mf2_syndication:
-  - 'a:3:{i:0;s:53:"https://twitter.com/akyrho/status/1046674943004594177";i:1;s:72:"https://www.linkedin.com/feed/update/urn:li:activity:6452441572863672320";i:2;s:65:"https://www.facebook.com/cedric.bousmanne/posts/10155536491186296";}'
-  - 'a:3:{i:0;s:53:"https://twitter.com/akyrho/status/1046674943004594177";i:1;s:72:"https://www.linkedin.com/feed/update/urn:li:activity:6452441572863672320";i:2;s:65:"https://www.facebook.com/cedric.bousmanne/posts/10155536491186296";}'
+- https://twitter.com/akyrho/status/1046674943004594177
+- https://www.linkedin.com/feed/update/urn:li:activity:6452441572863672320
+- https://www.facebook.com/cedric.bousmanne/posts/10155536491186296
 snap_isAutoPosted:
-  - "1538381723"
+- '1538381723'
 snap_MYURL:
-  - ""
+- ''
 snapEdIT:
-  - "1"
-snapMD:
-  - |
-    s:169:"a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-    
-    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}";
-snapTW:
-  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
+- '1'
+snapMD: |-
+  a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+
+  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
+snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
+  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
 mastoshare-post-status:
-  - 'off'
+- 'off'
 mastoshareshare-lastSuccessfullTootURL:
-  - https://ruby.social/@akyrho/101064598898141188
+- https://ruby.social/@akyrho/101064598898141188
 geo_weather:
-  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
+  units: C
+  icon: none
 geo_public:
-  - "0"
+- '0'
 categories:
-  - Non classé
+- Non classé
 tags:
-  - audiobooks
+- audiobooks
 kind:
-  - Article
+- Article
 ---
 Chaque semaine, je passe environ 6h30 dans ma voiture. Jusqu’à il y a peu, ce temps n’était pas mis à profit. Bien sûr je lançais [Spotify](https://www.spotify.com/fr/) pour me distraire mais j’avais tout de même la sensation de perdre un temps considérable.
 

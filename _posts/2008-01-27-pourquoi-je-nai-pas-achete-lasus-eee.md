@@ -1,17 +1,17 @@
 ---
 id: 564
 title: Pourquoi je n’ai pas acheté l’Asus EEE
-date: 2008-01-27T13:07:51+00:00
+date: 2008-01-27 13:07:51.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2008/01/27/pourquoi-je-nai-pas-achete-lasus-eee.html
-permalink: /2008/01/27/pourquoi-je-nai-pas-achete-lasus-eee/
+permalink: "/2008/01/27/pourquoi-je-nai-pas-achete-lasus-eee/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "796"
+- '796'
 categories:
-  - Non classé
+- Non classé
 ---
 A moins d’avoir passé les dernières semaines isolé dans la jungle Birmane (n’y voyez aucun liens avec un groupe de pop-rock bien connu), vous avez tous entendu parler de l’Asus EEE PC, cette machine prétenduement révolutionnaire par son gabarit et surtout par son prix.
 

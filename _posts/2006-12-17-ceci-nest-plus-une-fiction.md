@@ -1,17 +1,17 @@
 ---
 id: 691
 title: Ceci n’est plus une fiction
-date: 2006-12-17T01:52:00+00:00
+date: 2006-12-17 01:52:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/12/17/ceci-nest-plus-une-fiction.html
-permalink: /2006/12/17/ceci-nest-plus-une-fiction/
+permalink: "/2006/12/17/ceci-nest-plus-une-fiction/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "669"
+- '669'
 categories:
-  - Non classé
+- Non classé
 ---
 [J’attendais effectivement une réaction](/blog/2006/12/16/revolution), mais pas vraiment de cet ordre.
 

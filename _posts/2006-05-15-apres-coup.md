@@ -1,17 +1,17 @@
 ---
 id: 752
 title: Après coup
-date: 2006-05-15T10:09:12+00:00
+date: 2006-05-15 10:09:12.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/15/apres-coup.html
-permalink: /2006/05/15/apres-coup/
+permalink: "/2006/05/15/apres-coup/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "608"
+- '608'
 categories:
-  - Non classé
+- Non classé
 ---
 [<img src="https://i1.wp.com/static.flickr.com/53/167725698_ea4992981a_m.jpg?w=900" alt="" data-recalc-dims="1" />](http://flickr.com/photos/94561974@N00/167725698)On ne savait pas trop quoi penser hier. La nuit porte conseil, parrait-il.
 

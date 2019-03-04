@@ -1,17 +1,17 @@
 ---
 id: 571
 title: 6 places de cinéma a gagner chez Business Garden
-date: 2007-12-23T11:19:53+00:00
+date: 2007-12-23 11:19:53.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/23/6-places-de-cinema-a-gagner-chez-business-garden.html
-permalink: /2007/12/23/6-places-de-cinema-a-gagner-chez-business-garden/
+permalink: "/2007/12/23/6-places-de-cinema-a-gagner-chez-business-garden/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "789"
+- '789'
 categories:
-  - Non classé
+- Non classé
 ---
 ![Elizabeth, The Golden Age](/images/2007/12/the_golden_age0.jpg)
 

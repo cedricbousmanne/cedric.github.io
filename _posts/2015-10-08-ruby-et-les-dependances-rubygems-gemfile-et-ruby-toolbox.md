@@ -1,17 +1,17 @@
 ---
 id: 14
 title: 'Ruby et les dépendances : RubyGems, Gemfile et Ruby Toolbox'
-date: 2015-10-08T15:52:50+00:00
+date: 2015-10-08 15:52:50.000000000 +00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2015/10/08/ruby-dependances-rubygems-gemfile-toolbox.html
-permalink: /2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/
+permalink: "/2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "272"
+- '272'
 categories:
-  - Non classé
+- Non classé
 ---
 Quand on parle de Ruby on Rails, [RubyGems](https://rubygems.org/) n’est jamais très loin. RubyGems, c’est le service d’hébergement des _Gems_, l’écosystème des bibliothèques (_librairies_) inhérantes à Ruby.
 

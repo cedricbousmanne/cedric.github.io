@@ -1,17 +1,17 @@
 ---
 id: 650
 title: Les outils de Blogging
-date: 2007-03-20T13:17:00+00:00
+date: 2007-03-20 13:17:00.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/03/20/les-outils-de-blogging.html
-permalink: /2007/03/20/les-outils-de-blogging/
+permalink: "/2007/03/20/les-outils-de-blogging/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "710"
+- '710'
 categories:
-  - Non classé
+- Non classé
 ---
 Cela faisait longtemps qu’on avait pas vu un nouveau buzz sur la blogosphère. Celui-ci me vient de [Christophe](http://bleebot.com/blog/index.php/2007/03/20/135-les-outils-de-blogging), il a pour but de mieux connaître les outils utilisés par les bloggeurs.
 

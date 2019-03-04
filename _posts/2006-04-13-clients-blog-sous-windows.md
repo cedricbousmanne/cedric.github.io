@@ -1,17 +1,17 @@
 ---
 id: 769
 title: Clients blog sous windows
-date: 2006-04-13T16:31:41+00:00
+date: 2006-04-13 16:31:41.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/13/clients-blog-sous-windows.html
-permalink: /2006/04/13/clients-blog-sous-windows/
+permalink: "/2006/04/13/clients-blog-sous-windows/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "591"
+- '591'
 categories:
-  - Non classé
+- Non classé
 ---
 J’avais deja  cherche apres des clients blogs sous Linux, et les resultats etaient relativement fructueux : peu de logiciels, donc peu de test a  effectuer, mais surtout beaucoup de bon logiciels (comme Drivel, par exemple).
 

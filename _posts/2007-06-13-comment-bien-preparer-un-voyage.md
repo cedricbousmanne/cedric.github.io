@@ -1,17 +1,17 @@
 ---
 id: 637
 title: Comment bien préparer un voyage
-date: 2007-06-13T16:23:07+00:00
+date: 2007-06-13 16:23:07.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/13/comment-bien-preparer-un-voyage.html
-permalink: /2007/06/13/comment-bien-preparer-un-voyage/
+permalink: "/2007/06/13/comment-bien-preparer-un-voyage/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "723"
+- '723'
 categories:
-  - Non classé
+- Non classé
 ---
 Comme je l’ai déjà dis, [je pars en voyage le 30 juin](/blog/2007/06/10/preparation-dun-voyage/) pour les pays de l’Est.
 

@@ -1,17 +1,17 @@
 ---
 id: 639
 title: 'Eurotrip : itinéraire'
-date: 2007-06-11T13:24:19+00:00
+date: 2007-06-11 13:24:19.000000000 +00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/11/eurotrip-itineraire.html
-permalink: /2007/06/11/eurotrip-itineraire/
+permalink: "/2007/06/11/eurotrip-itineraire/"
 wp_crosspost_destination:
-  - akyrho.wordpress.com
+- akyrho.wordpress.com
 wordpress_post_id:
-  - "721"
+- '721'
 categories:
-  - Non classé
+- Non classé
 ---
   * Départ de [Arlon](http://fr.wikipedia.org/wiki/Arlon) en direction de [Prague](http://fr.wikipedia.org/wiki/Prague) (République Tchèque), via [Nuremberg](http://fr.wikipedia.org/wiki/Nuremberg) (Allemagne)
 
