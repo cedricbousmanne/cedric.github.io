@@ -1,17 +1,17 @@
 ---
 id: 641
 title: Klikez-moi
-date: 2007-06-10 22:15:36.000000000 +00:00
+date: 2007-06-10T22:15:36+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/10/klikez-moi.html
-permalink: "/2007/06/10/klikez-moi/"
+permalink: /2007/06/10/klikez-moi/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '719'
+  - "719"
 categories:
-- Non classé
+  - Non classé
 ---
 Encore un buzz basé sur [BlogCloud](http://blogcloud.bleebot.com/) : [**KlikmonBlog**](http://klikmonblog.rsscloud.net/)
 

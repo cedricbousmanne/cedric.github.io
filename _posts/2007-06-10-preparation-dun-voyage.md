@@ -1,17 +1,17 @@
 ---
 id: 642
 title: Préparation d’un voyage
-date: 2007-06-10 20:13:15.000000000 +00:00
+date: 2007-06-10T20:13:15+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/10/preparation-dun-voyage.html
-permalink: "/2007/06/10/preparation-dun-voyage/"
+permalink: /2007/06/10/preparation-dun-voyage/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '718'
+  - "718"
 categories:
-- Non classé
+  - Non classé
 ---
 Je me prépare actuellement à faire un voyage dans les pays de l’est, en compagnie de 4 amis. Nous partirons ce 30 juin, pour une durée (plus ou moins déterminée) de trois semaines.
 

@@ -1,17 +1,17 @@
 ---
 id: 596
 title: Classement des blogs belges francophones selon FeedBurner
-date: 2007-10-28 02:33:33.000000000 +00:00
+date: 2007-10-28T02:33:33+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/28/classement-des-blogs-belges-francophones-selon-feedburner.html
-permalink: "/2007/10/28/classement-des-blogs-belges-francophones-selon-feedburner/"
+permalink: /2007/10/28/classement-des-blogs-belges-francophones-selon-feedburner/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '764'
+  - "764"
 categories:
-- Non classé
+  - Non classé
 ---
 A l’image de Vinch et de son [classement des blogs belges francophones selon technorati](http://www.vinch.be/blog/2007/09/16/classement-des-blogs-belges-francophones/), j’ai voulu tenter l’expérience en me basant sur FeedBurner.
 

@@ -1,17 +1,17 @@
 ---
 id: 622
 title: Prague la belle
-date: 2007-07-25 15:29:34.000000000 +00:00
+date: 2007-07-25T15:29:34+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/07/25/prague-la-belle.html
-permalink: "/2007/07/25/prague-la-belle/"
+permalink: /2007/07/25/prague-la-belle/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '738'
+  - "738"
 categories:
-- Non classé
+  - Non classé
 ---
 Après avoir fait escale à Nuremberg, nous avons repris la camionette pour quelques heures de routes, guidés par le GPS. Jusqu’à présent, nous ne sentons pas encore énormément de différence avec l’ouest. On s’attendait à un choc culturel imposant dès le passage de la frontière allemande, mais il n’en fût rien.
 

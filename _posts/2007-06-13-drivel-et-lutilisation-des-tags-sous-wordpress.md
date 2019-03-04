@@ -1,17 +1,17 @@
 ---
 id: 636
 title: Drivel et l’utilisation des tags sous WordPress
-date: 2007-06-13 20:40:11.000000000 +00:00
+date: 2007-06-13T20:40:11+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/13/drivel-et-lutilisation-des-tags-sous-wordpress.html
-permalink: "/2007/06/13/drivel-et-lutilisation-des-tags-sous-wordpress/"
+permalink: /2007/06/13/drivel-et-lutilisation-des-tags-sous-wordpress/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '724'
+  - "724"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Drivel](/images/2007/06/drivel-reflexion.jpg)
 

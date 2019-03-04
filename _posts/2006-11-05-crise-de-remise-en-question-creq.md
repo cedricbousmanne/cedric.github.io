@@ -1,17 +1,17 @@
 ---
 id: 700
 title: Crise de remise en question (CREQ)
-date: 2006-11-05 00:30:00.000000000 +00:00
+date: 2006-11-05T00:30:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/11/05/crise-de-remise-en-question-creq.html
-permalink: "/2006/11/05/crise-de-remise-en-question-creq/"
+permalink: /2006/11/05/crise-de-remise-en-question-creq/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '660'
+  - "660"
 categories:
-- Non classé
+  - Non classé
 ---
 > L’homme est en permanence conditionné par les autres. Tant qu’il se croit heureux, il ne remet pas en cause ces conditionnements. Il trouve normal qu’enfant on le force à manger des aliments qu’il déteste, c’est sa famille. Il trouve normal que sa femme lui manque de respect, c’est son épouse (ou vice-versa). Il trouve normal que le gouvernement lui réduise progressivement son pouvoir d’achat, c’est celui pour lequel il a voté.
 > 

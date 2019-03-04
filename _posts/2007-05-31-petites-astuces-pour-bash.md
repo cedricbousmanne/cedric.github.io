@@ -1,17 +1,17 @@
 ---
 id: 644
 title: Petites astuces pour Bash
-date: 2007-05-31 15:40:00.000000000 +00:00
+date: 2007-05-31T15:40:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/05/31/petites-astuces-pour-bash.html
-permalink: "/2007/05/31/petites-astuces-pour-bash/"
+permalink: /2007/05/31/petites-astuces-pour-bash/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '716'
+  - "716"
 categories:
-- Non classé
+  - Non classé
 ---
 ## Colorer votre terminal {#colorer-votre-terminal}
 

@@ -1,17 +1,17 @@
 ---
 id: 729
 title: Recherche BD!
-date: 2006-07-27 02:35:00.000000000 +00:00
+date: 2006-07-27T02:35:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/07/27/recherche-bd.html
-permalink: "/2006/07/27/recherche-bd/"
+permalink: /2006/07/27/recherche-bd/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '631'
+  - "631"
 categories:
-- Non classé
+  - Non classé
 ---
 <img src="https://i1.wp.com/bedetheque.com/thb_couv/aristote07_20022002.jpg?w=900" alt="" data-recalc-dims="1" />
 

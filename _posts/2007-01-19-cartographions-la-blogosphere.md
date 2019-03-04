@@ -1,17 +1,17 @@
 ---
 id: 664
 title: Cartographions la blogosphère
-date: 2007-01-19 10:12:00.000000000 +00:00
+date: 2007-01-19T10:12:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/19/cartographions-la-blogosphere.html
-permalink: "/2007/01/19/cartographions-la-blogosphere/"
+permalink: /2007/01/19/cartographions-la-blogosphere/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '696'
+  - "696"
 categories:
-- Non classé
+  - Non classé
 ---
 [Une idée originale de mrBoo](http://www.mrboo.fr/index.php/2007/01/18/93-buzztrack-mais-ou-va-la-rumeur), pour tenter de suivre le fil d’un buzz sur la blogosphère.
 

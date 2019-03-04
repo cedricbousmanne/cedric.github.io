@@ -1,36 +1,34 @@
 ---
 id: 4408
 title: Mutt + ProtonMail
-date: 2018-11-29 09:02:58.000000000 +00:00
+date: 2018-11-29T09:02:58+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4408
-permalink: "/2018/11/29/mutt-protonmail/"
+permalink: /2018/11/29/mutt-protonmail/
 mf2_mp-syndicate-to:
-- bridgy-publish_twitter
+  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
 geo_weather:
-  units: C
-  icon: none
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
 geo_public:
-- '0'
-mf-syndication:
-- https://twitter.com/akyrho/status/1068052726272221185
-- https://ruby.social/@akyrho/101153426687520401
-- https://www.linkedin.com/feed/update/urn:li:activity:6473820154252840960
+  - "0"
+mf2_syndication:
+  - 'a:3:{i:0;s:53:"https://twitter.com/akyrho/status/1068052726272221185";i:1;s:46:"https://ruby.social/@akyrho/101153426687520401";i:2;s:72:"https://www.linkedin.com/feed/update/urn:li:activity:6473820154252840960";}'
+  - 'a:3:{i:0;s:53:"https://twitter.com/akyrho/status/1068052726272221185";i:1;s:46:"https://ruby.social/@akyrho/101153426687520401";i:2;s:72:"https://www.linkedin.com/feed/update/urn:li:activity:6473820154252840960";}'
 mastoshare-post-status:
-- 'off'
+  - 'off'
 mastoshareshare-lastSuccessfullTootURL:
-- https://ruby.social/@akyrho/101153412293644855
+  - https://ruby.social/@akyrho/101153412293644855
 categories:
-- Non classé
+  - Non classé
 tags:
-- command line
-- mail
-- mutt
-- offlineimap
-- protonmail
+  - command line
+  - mail
+  - mutt
+  - offlineimap
+  - protonmail
 kind:
-- Article
+  - Article
 ---
 Il y a maintenant plusieurs semaines que j&rsquo;utilise [ProtonMail](https://protonmail.com/). Bien que rassembler mes 7 adresses précédentes sur une seule m&rsquo;a grandement simplifié la vie, je ne suis toujours pas satisfait des clients disponibles. Sous Linux, seul Thunderbird est actuellement disponible, à moins d&rsquo;utiliser de webmail &#8211; ce que je fais pour l&rsquo;instant.
 

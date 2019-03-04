@@ -1,17 +1,17 @@
 ---
 id: 774
 title: Graver une image iso en ligne de commande
-date: 2006-03-31 11:33:13.000000000 +00:00
+date: 2006-03-31T11:33:13+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/03/31/graver-une-image-iso-en-ligne-de-commande.html
-permalink: "/2006/03/31/graver-une-image-iso-en-ligne-de-commande/"
+permalink: /2006/03/31/graver-une-image-iso-en-ligne-de-commande/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '586'
+  - "586"
 categories:
-- Non classé
+  - Non classé
 ---
 <code class="highlighter-rouge"># cdrecord -v speed=8 dev=0,5,0 /chemin/image.iso</code>
 

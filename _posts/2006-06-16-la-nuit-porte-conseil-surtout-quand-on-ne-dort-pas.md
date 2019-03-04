@@ -1,17 +1,17 @@
 ---
 id: 736
 title: La nuit porte conseil… surtout quand on ne dort pas
-date: 2006-06-16 04:03:38.000000000 +00:00
+date: 2006-06-16T04:03:38+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/16/la-nuit-porte-conseil-surtout-quand-on-ne-dort-pas.html
-permalink: "/2006/06/16/la-nuit-porte-conseil-surtout-quand-on-ne-dort-pas/"
+permalink: /2006/06/16/la-nuit-porte-conseil-surtout-quand-on-ne-dort-pas/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '624'
+  - "624"
 categories:
-- Non classé
+  - Non classé
 ---
 [<img src="https://i1.wp.com/static.flickr.com/6/85163612_247553f49e_m.jpg?w=900" alt="" data-recalc-dims="1" />](http://www.flickr.com/photo_zoom.gne?id=85163612&size=s)
 

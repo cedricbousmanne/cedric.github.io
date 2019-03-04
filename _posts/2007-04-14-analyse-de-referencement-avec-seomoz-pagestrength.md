@@ -1,17 +1,17 @@
 ---
 id: 645
 title: Analyse de référencement avec SEOmoz PageStrength
-date: 2007-04-14 02:39:00.000000000 +00:00
+date: 2007-04-14T02:39:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/04/14/analyse-de-referencement-avec-seomoz-pagestrength.html
-permalink: "/2007/04/14/analyse-de-referencement-avec-seomoz-pagestrength/"
+permalink: /2007/04/14/analyse-de-referencement-avec-seomoz-pagestrength/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '715'
+  - "715"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Page Strength](/images/images/page_strength.png)
 

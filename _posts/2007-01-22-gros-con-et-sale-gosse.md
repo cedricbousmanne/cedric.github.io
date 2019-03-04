@@ -1,17 +1,17 @@
 ---
 id: 661
 title: Gros con et sale gosse
-date: 2007-01-22 20:51:00.000000000 +00:00
+date: 2007-01-22T20:51:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/22/gros-con-et-sale-gosse.html
-permalink: "/2007/01/22/gros-con-et-sale-gosse/"
+permalink: /2007/01/22/gros-con-et-sale-gosse/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '699'
+  - "699"
 categories:
-- Non classé
+  - Non classé
 ---
 Quelle journée!
 

@@ -1,17 +1,17 @@
 ---
 id: 703
 title: Bénédicte
-date: 2006-10-23 19:04:00.000000000 +00:00
+date: 2006-10-23T19:04:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/10/23/benedicte.html
-permalink: "/2006/10/23/benedicte/"
+permalink: /2006/10/23/benedicte/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '657'
+  - "657"
 categories:
-- Non classé
+  - Non classé
 ---
 Je ne vous ai pas encore parlé de Bénédicte. Elle constitue la preuve qu’Internet est un outil absolument fabuleux et étonnant.
 

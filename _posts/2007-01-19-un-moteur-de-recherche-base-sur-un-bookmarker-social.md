@@ -1,17 +1,17 @@
 ---
 id: 665
 title: Un moteur de recherche basé sur un bookmarker social
-date: 2007-01-19 04:25:00.000000000 +00:00
+date: 2007-01-19T04:25:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/19/un-moteur-de-recherche-base-sur-un-bookmarker-social.html
-permalink: "/2007/01/19/un-moteur-de-recherche-base-sur-un-bookmarker-social/"
+permalink: /2007/01/19/un-moteur-de-recherche-base-sur-un-bookmarker-social/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '695'
+  - "695"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Markit - digg-like](/images/images/markit.gif)Quoi de neuf dans le _deuxième monde_? Pouvez-vous imaginer un moteur de recherche qui, pour vous servir vos résultats tout chaud sur un plateau, se baserait sur un _bookmarker_ social? Oui? Hé bien ne cherchez plus, vous l’avez trouvé!
 

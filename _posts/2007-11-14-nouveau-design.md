@@ -1,17 +1,17 @@
 ---
 id: 592
 title: Nouveau design
-date: 2007-11-14 17:49:55.000000000 +00:00
+date: 2007-11-14T17:49:55+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/11/14/nouveau-design.html
-permalink: "/2007/11/14/nouveau-design/"
+permalink: /2007/11/14/nouveau-design/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '768'
+  - "768"
 categories:
-- Non classé
+  - Non classé
 ---
 Comme [je l’avais promis hier](/blog/2007/11/13/le-buzz-mystere-fin/), _(parenthèse.be)_ s’offre un petit lifting. Voici un petit détail des modifications qui ont été apportées :
 

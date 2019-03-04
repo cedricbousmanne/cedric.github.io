@@ -1,17 +1,17 @@
 ---
 id: 741
 title: De l’accessibilité du blog
-date: 2006-06-06 11:23:07.000000000 +00:00
+date: 2006-06-06T11:23:07+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/06/de-laccessibilite-du-blog.html
-permalink: "/2006/06/06/de-laccessibilite-du-blog/"
+permalink: /2006/06/06/de-laccessibilite-du-blog/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '619'
+  - "619"
 categories:
-- Non classé
+  - Non classé
 ---
 [Méléis](http://meleis.yi.org/) m’a fait remarquer que certaines gammes de couleurs utilisées sur le blog n’étaient pas accessibles, en m’indiquant un outil très pratique[1] pour remédier au problème. Je me suis donc mis à tenter de rendre _(parenthèse.be)_ plus adapté.
 

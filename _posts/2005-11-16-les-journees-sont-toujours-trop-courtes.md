@@ -1,17 +1,17 @@
 ---
 id: 802
 title: Les journées sont toujours trop courtes
-date: 2005-11-16 01:43:00.000000000 +00:00
+date: 2005-11-16T01:43:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2005/11/16/les-journees-sont-toujours-trop-courtes.html
-permalink: "/2005/11/16/les-journees-sont-toujours-trop-courtes/"
+permalink: /2005/11/16/les-journees-sont-toujours-trop-courtes/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '558'
+  - "558"
 categories:
-- Non classé
+  - Non classé
 ---
 Hé oui, il est à nouveau passé minuit, et j’ai encore réussi à ne pas faire tout ce que j’aurais voulu de ma journée… Une fois de plus , je me demande pourquoi n’avoir mis _que_ vingt-quatre heures dans une journée.
 

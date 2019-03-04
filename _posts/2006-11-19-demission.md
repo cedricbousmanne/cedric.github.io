@@ -1,17 +1,17 @@
 ---
 id: 695
 title: Démission
-date: 2006-11-19 18:41:00.000000000 +00:00
+date: 2006-11-19T18:41:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/11/19/demission.html
-permalink: "/2006/11/19/demission/"
+permalink: /2006/11/19/demission/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '665'
+  - "665"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Logo Structure Jeunesse Attert](/images/images/sja.JPG)
 

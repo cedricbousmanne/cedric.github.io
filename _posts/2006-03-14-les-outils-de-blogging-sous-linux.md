@@ -1,17 +1,17 @@
 ---
 id: 780
 title: Les outils de blogging sous Linux
-date: 2006-03-14 13:17:14.000000000 +00:00
+date: 2006-03-14T13:17:14+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/03/14/les-outils-de-blogging-sous-linux.html
-permalink: "/2006/03/14/les-outils-de-blogging-sous-linux/"
+permalink: /2006/03/14/les-outils-de-blogging-sous-linux/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '580'
+  - "580"
 categories:
-- Non classé
+  - Non classé
 ---
 Les outils de blogging sous Linux ne sont pas légion. Je cherchais un outils simple et efficace pour publier mes articles sur differents blogs.
 

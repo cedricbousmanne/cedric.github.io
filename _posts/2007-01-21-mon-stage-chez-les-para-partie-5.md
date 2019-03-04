@@ -1,17 +1,17 @@
 ---
 id: 662
 title: Mon stage chez les para, partie 5
-date: 2007-01-21 23:15:00.000000000 +00:00
+date: 2007-01-21T23:15:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/21/mon-stage-chez-les-para-partie-5.html
-permalink: "/2007/01/21/mon-stage-chez-les-para-partie-5/"
+permalink: /2007/01/21/mon-stage-chez-les-para-partie-5/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '698'
+  - "698"
 categories:
-- Non classé
+  - Non classé
 ---
 Episode précédent : [Mon stage chez les para, partie 4](/blog/2007/01/18/mon-stage-chez-les-para-partie-4/)
 

@@ -1,17 +1,17 @@
 ---
 id: 791
 title: Gizmo Projet
-date: 2006-01-25 21:49:34.000000000 +00:00
+date: 2006-01-25T21:49:34+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/01/25/gizmo-projet.html
-permalink: "/2006/01/25/gizmo-projet/"
+permalink: /2006/01/25/gizmo-projet/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '569'
+  - "569"
 categories:
-- Non classé
+  - Non classé
 ---
 ### Installation {#installation}
 

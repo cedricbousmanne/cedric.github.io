@@ -1,17 +1,17 @@
 ---
 id: 789
 title: Mon serveur FTP ne répond plus
-date: 2006-02-01 15:37:01.000000000 +00:00
+date: 2006-02-01T15:37:01+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/02/01/mon-serveur-ftp-ne-repond-plus.html
-permalink: "/2006/02/01/mon-serveur-ftp-ne-repond-plus/"
+permalink: /2006/02/01/mon-serveur-ftp-ne-repond-plus/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '571'
+  - "571"
 categories:
-- Non classé
+  - Non classé
 ---
 ## Problème {#problème}
 

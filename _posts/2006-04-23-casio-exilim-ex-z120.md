@@ -1,17 +1,17 @@
 ---
 id: 765
 title: Casio Exilim EX-Z120
-date: 2006-04-23 01:13:24.000000000 +00:00
+date: 2006-04-23T01:13:24+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/23/casion-exilim-ex-z120.html
-permalink: "/2006/04/23/casio-exilim-ex-z120/"
+permalink: /2006/04/23/casio-exilim-ex-z120/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '595'
+  - "595"
 categories:
-- Non classé
+  - Non classé
 ---
 <img src="https://i0.wp.com/images.digitalkamera.de/Kameras/Casio-Exilim-EX-Z120-M.jpg?w=900" alt="" data-recalc-dims="1" />
 

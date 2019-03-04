@@ -1,37 +1,38 @@
 ---
 id: 820
 title: Whiteboard art
-date: 2018-09-17 12:42:48.000000000 +00:00
+date: 2018-09-17T12:42:48+00:00
 author: ifttt-instagram-importer
 layout: post
 guid: https://cedric.io/?p=820
-permalink: "/2018/09/17/whiteboard-art/"
+permalink: /2018/09/17/whiteboard-art/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '808'
-mf-syndication:
-- https://akyrho.wordpress.com/?p=808
+  - "808"
+mf2_syndication:
+  - 'a:1:{i:0;s:35:"https://akyrho.wordpress.com/?p=808";}'
 mf2_mp-syndicate-to:
-- none
+  - 'a:1:{i:0;s:4:"none";}'
 snap_MYURL:
-- ''
+  - ""
 snapEdIT:
-- '1'
-snapMD: |-
-  a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-
-  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
-snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
-  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
+  - "1"
+snapMD:
+  - |
+    s:169:"a:1:{i:0;a:6:{s:2:"do";s:1:"0";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+    
+    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}";
+snapTW:
+  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
 categories:
-- Non classé
+  - Non classé
 tags:
-- IFTTT
-- Instagram
+  - IFTTT
+  - Instagram
 format: image
 kind:
-- Photo
+  - Photo
 ---
 <div>
   <p>

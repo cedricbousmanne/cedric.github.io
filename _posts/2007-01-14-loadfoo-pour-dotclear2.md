@@ -1,17 +1,17 @@
 ---
 id: 675
 title: LoadFoo pour DotClear2
-date: 2007-01-14 08:42:00.000000000 +00:00
+date: 2007-01-14T08:42:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/14/loadfoo-pour-dotclear2.html
-permalink: "/2007/01/14/loadfoo-pour-dotclear2/"
+permalink: /2007/01/14/loadfoo-pour-dotclear2/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '685'
+  - "685"
 categories:
-- Non classé
+  - Non classé
 ---
 Je viens de terminer mon premier thème pour DotClear2!
 

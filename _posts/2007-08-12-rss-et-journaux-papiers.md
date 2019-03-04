@@ -1,17 +1,17 @@
 ---
 id: 606
 title: RSS et journaux papiers
-date: 2007-08-12 15:33:06.000000000 +00:00
+date: 2007-08-12T15:33:06+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/08/12/rss-et-journaux-papiers.html
-permalink: "/2007/08/12/rss-et-journaux-papiers/"
+permalink: /2007/08/12/rss-et-journaux-papiers/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '754'
+  - "754"
 categories:
-- Non classé
+  - Non classé
 ---
 Hier soir, au souper, je feuilletais tranquillement le journal (l’[Avenir du Luxembourg](http://www.votrejournal.be/CWS/Index.aspx), pour ceux que cela intéresse), et je me suis rendu compte d’un truc : c’est quand même bien plus agréable de lire les nouvelles sur papier que derrière un écran.
 

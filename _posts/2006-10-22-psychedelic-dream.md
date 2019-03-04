@@ -1,17 +1,17 @@
 ---
 id: 704
 title: Psychedelic Dream
-date: 2006-10-22 12:54:00.000000000 +00:00
+date: 2006-10-22T12:54:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/10/22/psychedelic-dream.html
-permalink: "/2006/10/22/psychedelic-dream/"
+permalink: /2006/10/22/psychedelic-dream/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '656'
+  - "656"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Psychedelic Dream](/images/images/632476_33416426.jpg)
 

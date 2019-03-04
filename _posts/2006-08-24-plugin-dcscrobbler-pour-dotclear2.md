@@ -1,17 +1,17 @@
 ---
 id: 719
 title: Plugin dcScrobbler pour DotClear2
-date: 2006-08-24 16:26:00.000000000 +00:00
+date: 2006-08-24T16:26:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/08/24/plugin-dcscrobbler-pour-dotclear2.html
-permalink: "/2006/08/24/plugin-dcscrobbler-pour-dotclear2/"
+permalink: /2006/08/24/plugin-dcscrobbler-pour-dotclear2/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '641'
+  - "641"
 categories:
-- Non classé
+  - Non classé
 ---
 Je m’amuse vraiment avec DC2 ces derniers temps. Ma trouvaille du jour, sur le forum de dotclear : le plugin dcScrobbler pour DC2.
 

@@ -1,17 +1,17 @@
 ---
 id: 712
 title: Et alors, Monsieur Skynet?
-date: 2006-09-05 00:34:00.000000000 +00:00
+date: 2006-09-05T00:34:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/09/05/et-alors-monsieur-skynet.html
-permalink: "/2006/09/05/et-alors-monsieur-skynet/"
+permalink: /2006/09/05/et-alors-monsieur-skynet/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '648'
+  - "648"
 categories:
-- Non classé
+  - Non classé
 ---
 J’ai un petit coup de gueule à lancer, comme ça, à Monsieur Skynet ;
 

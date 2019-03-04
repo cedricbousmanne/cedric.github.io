@@ -1,29 +1,30 @@
 ---
 id: 10
-title: Le taux d&rsquo;attrition (churn) expliqué à la laverie de mon quartier
-date: 2016-02-15 22:27:01.000000000 +00:00
+title: 'Le taux d&rsquo;attrition (churn) expliqué à la laverie de mon quartier'
+date: 2016-02-15T22:27:01+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2016/02/15/le-taux-dattrition-churn-explique-a-la-laverie-de-mon-quartier.html
-permalink: "/2016/02/15/le-taux-dattrition-churn-explique-a-la-laverie-de-mon-quartier/"
+permalink: /2016/02/15/le-taux-dattrition-churn-explique-a-la-laverie-de-mon-quartier/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '276'
+  - "276"
 snap_MYURL:
-- ''
+  - ""
 snapEdIT:
-- '1'
-snapMD: |-
-  a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-
-  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}"
-snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
-  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
-mf-syndication:
-- https://medium.com/@akyrho/le-taux-dattrition-churn-expliqu%C3%A9-%C3%A0-la-laverie-de-mon-quartier-57f735c451ad
+  - "1"
+snapMD:
+  - |
+    s:169:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+    
+    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;}}";
+snapTW:
+  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"1";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
+mf2_syndication:
+  - 'a:1:{i:0;s:112:"https://medium.com/@akyrho/le-taux-dattrition-churn-expliqu%C3%A9-%C3%A0-la-laverie-de-mon-quartier-57f735c451ad";}'
 categories:
-- Non classé
+  - Non classé
 ---
 Comme beaucoup de gens, j’ai mes petites habitudes. L’une d’entre elles consiste à, une fois par semaine, me rendre à la laverie de mon quartier pour y faire sécher une partie des lessives hebdomadaires.
 

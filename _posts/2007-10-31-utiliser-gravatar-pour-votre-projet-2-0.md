@@ -1,17 +1,17 @@
 ---
 id: 594
 title: Utiliser Gravatar pour votre projet 2.0
-date: 2007-10-31 10:20:06.000000000 +00:00
+date: 2007-10-31T10:20:06+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/31/utiliser-gravatar-pour-votre-projet-20.html
-permalink: "/2007/10/31/utiliser-gravatar-pour-votre-projet-2-0/"
+permalink: /2007/10/31/utiliser-gravatar-pour-votre-projet-2-0/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '766'
+  - "766"
 categories:
-- Non classé
+  - Non classé
 ---
 _Billet original rédigé pour [Smashing Coding](http://smashingcoding.com/2007/10/31/utiliser-gravatar-pour-votre-projet-20/)_
 

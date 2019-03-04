@@ -1,17 +1,17 @@
 ---
 id: 770
 title: Google Blog Search
-date: 2006-04-11 10:37:00.000000000 +00:00
+date: 2006-04-11T10:37:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/11/google-blog-search.html
-permalink: "/2006/04/11/google-blog-search/"
+permalink: /2006/04/11/google-blog-search/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '590'
+  - "590"
 categories:
-- Non classé
+  - Non classé
 ---
 <img src="https://i1.wp.com/blogsearch.google.com/blogsearch/intl/fr_ALL/images/g_bsrch_logo_sm.gif?w=900" alt="" data-recalc-dims="1" />
 

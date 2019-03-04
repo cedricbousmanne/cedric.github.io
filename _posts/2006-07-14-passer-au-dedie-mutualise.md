@@ -1,17 +1,17 @@
 ---
 id: 731
 title: Passer au dédié mutualisé?
-date: 2006-07-14 14:20:00.000000000 +00:00
+date: 2006-07-14T14:20:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/07/14/passer-au-dedie-mutualise.html
-permalink: "/2006/07/14/passer-au-dedie-mutualise/"
+permalink: /2006/07/14/passer-au-dedie-mutualise/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '629'
+  - "629"
 categories:
-- Non classé
+  - Non classé
 ---
 J’ai un petit problème de conscience, là, tout d’un coup. Comme je le disais il y a quelques temps, à l’annonce d’un nouveau service d’hébergement au sein du RHIEN, [je n’aime pas trop les serveurs dédiés dans le cas d’hébergeurs indépendants](/blog/2006/06/05/88-heberger-oui-mais-serieusement).
 

@@ -1,17 +1,17 @@
 ---
 id: 590
 title: Recadrer une photographie suivant la règle des tiers avec The Gimp
-date: 2007-11-18 13:21:05.000000000 +00:00
+date: 2007-11-18T13:21:05+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/11/18/recadrer-une-photographie-suivant-la-regle-des-tiers-avec-the-gimp.html
-permalink: "/2007/11/18/recadrer-une-photographie-suivant-la-regle-des-tiers-avec-the-gimp/"
+permalink: /2007/11/18/recadrer-une-photographie-suivant-la-regle-des-tiers-avec-the-gimp/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '770'
+  - "770"
 categories:
-- Non classé
+  - Non classé
 ---
 Petit rappel théorique
 

@@ -1,17 +1,17 @@
 ---
 id: 566
 title: Récupérer les méta-données d’une page HTML grâce à PHP
-date: 2008-01-09 19:29:47.000000000 +00:00
+date: 2008-01-09T19:29:47+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2008/01/09/recuperer-les-meta-donnees-dune-page-html-grace-a-php.html
-permalink: "/2008/01/09/recuperer-les-meta-donnees-dune-page-html-grace-a-php/"
+permalink: /2008/01/09/recuperer-les-meta-donnees-dune-page-html-grace-a-php/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '794'
+  - "794"
 categories:
-- Non classé
+  - Non classé
 ---
 Je viens de découvrir une fonction PHP sympathique : <code class="highlighter-rouge">[get_meta_tags](http://be.php.net/manual/fr/function.get-meta-tags.php)();</code>
 

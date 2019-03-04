@@ -1,17 +1,17 @@
 ---
 id: 744
 title: Petit hack de la fonction Ping de DotClear
-date: 2006-06-05 11:48:21.000000000 +00:00
+date: 2006-06-05T11:48:21+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/05/petit-hack-de-la-fonction-ping-de-dotclear.html
-permalink: "/2006/06/05/petit-hack-de-la-fonction-ping-de-dotclear/"
+permalink: /2006/06/05/petit-hack-de-la-fonction-ping-de-dotclear/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '616'
+  - "616"
 categories:
-- Non classé
+  - Non classé
 ---
 [Comme je le disais hier](http://www.parenthese.be/dotclear/index.php?2006/06/04/87-httparty), ua me broute pas mal de devoir faire mes pings apres avoir publie un article sur _parenthese_. Du coup, vu que je suis un gros glandeur, j’ai trouve un debut de reponse.
 

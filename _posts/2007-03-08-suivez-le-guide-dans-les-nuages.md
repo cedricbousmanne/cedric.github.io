@@ -1,17 +1,17 @@
 ---
 id: 658
 title: Suivez le guide… dans les nuages
-date: 2007-03-08 07:07:00.000000000 +00:00
+date: 2007-03-08T07:07:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/03/08/suivez-le-guide-dans-les-nuages.html
-permalink: "/2007/03/08/suivez-le-guide-dans-les-nuages/"
+permalink: /2007/03/08/suivez-le-guide-dans-les-nuages/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '702'
+  - "702"
 categories:
-- Non classé
+  - Non classé
 ---
 Passé un mois sans blogguer, forcément, on loupe pas mal de trucs. Du coup, je me rattrape avec deux “nouveautés” (plus si neuve que ça, puisque j’avais disparu) de Christophe Lefèvre :
 

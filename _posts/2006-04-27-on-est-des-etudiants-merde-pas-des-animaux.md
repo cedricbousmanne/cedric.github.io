@@ -1,17 +1,17 @@
 ---
 id: 762
 title: On est des étudiants, merde, pas des animaux!
-date: 2006-04-27 19:31:53.000000000 +00:00
+date: 2006-04-27T19:31:53+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/27/on-est-des-tudiants-merde-pas-des-animaux.html
-permalink: "/2006/04/27/on-est-des-etudiants-merde-pas-des-animaux/"
+permalink: /2006/04/27/on-est-des-etudiants-merde-pas-des-animaux/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '598'
+  - "598"
 categories:
-- Non classé
+  - Non classé
 ---
 Je suis vraiment dans la semaine coup de gueule, et là , c’est Louvain-la-Neuve qui va déguster.
 

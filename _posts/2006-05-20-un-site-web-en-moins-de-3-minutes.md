@@ -1,17 +1,17 @@
 ---
 id: 749
 title: Un site web en moins de 3 minutes
-date: 2006-05-20 17:06:48.000000000 +00:00
+date: 2006-05-20T17:06:48+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/20/un-site-web-en-moins-de-3-minutes.html
-permalink: "/2006/05/20/un-site-web-en-moins-de-3-minutes/"
+permalink: /2006/05/20/un-site-web-en-moins-de-3-minutes/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '611'
+  - "611"
 categories:
-- Non classé
+  - Non classé
 ---
 3couleurs vous propose de creer [un site web heberge chez vous en moins de 3 minutes](http://3couleurs.blogspot.com/2006/05/un-site-web-en-moins-de-3-minutes.html).
 

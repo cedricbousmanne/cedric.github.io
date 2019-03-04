@@ -1,17 +1,17 @@
 ---
 id: 681
 title: PCMan File Manager
-date: 2007-01-06 01:57:00.000000000 +00:00
+date: 2007-01-06T01:57:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/06/pcman-file-manager.html
-permalink: "/2007/01/06/pcman-file-manager/"
+permalink: /2007/01/06/pcman-file-manager/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '679'
+  - "679"
 categories:
-- Non classé
+  - Non classé
 ---
 <PCMan File Manager> est un gestionnaire de fichier, alternative à Nautilus, qui permet l’utilisation des onglets (ô joie!)
 

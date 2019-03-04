@@ -1,17 +1,17 @@
 ---
 id: 624
 title: Une matinée à Nuremberg
-date: 2007-07-21 22:10:01.000000000 +00:00
+date: 2007-07-21T22:10:01+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/07/21/une-matinee-a-nuremberg.html
-permalink: "/2007/07/21/une-matinee-a-nuremberg/"
+permalink: /2007/07/21/une-matinee-a-nuremberg/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '736'
+  - "736"
 categories:
-- Non classé
+  - Non classé
 ---
 L’[Eurotrip](/blog/2007/07/21/des-images-pleins-la-tete/) à débuté en pleine nuit. A quatre heures du matin, quelque part, au Grand-Duché de Luxembourg, 5 jeunes dégustent un café. Nous sommes chez Olivier, la camionette est pleine à craquer, et la bande, également composée de Lau, Alex, Caillou et moi-même, est en pleine excitation.
 

@@ -1,17 +1,17 @@
 ---
 id: 586
 title: Faut-il adapter son site à Internet Explorer?
-date: 2007-11-27 14:51:25.000000000 +00:00
+date: 2007-11-27T14:51:25+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/11/27/faut-il-adapter-son-site-a-internet-explorer.html
-permalink: "/2007/11/27/faut-il-adapter-son-site-a-internet-explorer/"
+permalink: /2007/11/27/faut-il-adapter-son-site-a-internet-explorer/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '774'
+  - "774"
 categories:
-- Non classé
+  - Non classé
 ---
 Dans son récent billet [_L’innovation est morte_](http://ploum.frimouvy.org/?174-l-innovation-est-morte), Ploum évoque son retour d’expérience en tant que linuxien convaincu dans son entourage ou on le considère comme _celui-qui-s’y-connait_ en informatique. Et donc, _in extenso_, celui qui viendra me sortir de la mouise dans laquelle je me suis mis en tripatouillant mon ordinateur.
 

@@ -1,17 +1,17 @@
 ---
 id: 676
 title: Installer Ruby et RoR sous Ubuntu
-date: 2007-01-14 03:42:00.000000000 +00:00
+date: 2007-01-14T03:42:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/14/installer-ruby-et-ror-sous-ubuntu.html
-permalink: "/2007/01/14/installer-ruby-et-ror-sous-ubuntu/"
+permalink: /2007/01/14/installer-ruby-et-ror-sous-ubuntu/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '684'
+  - "684"
 categories:
-- Non classé
+  - Non classé
 ---
 J’ai découvert [Typo](http://typosphere.org/), dont je reparlerai sûrement, et pour le faire fonctionner, il faut Ruby et RoR, mais vu que je suis complètement neuneu dans le domaine (oui, j’aurais dû m’y mettre dès que c’est sorti, je sais), je ne sais pas trop comment m’y prendre…
 

@@ -1,17 +1,17 @@
 ---
 id: 13
 title: 'Slackin : une landing page pour votre communauté Slack'
-date: 2015-10-13 09:04:16.000000000 +00:00
+date: 2015-10-13T09:04:16+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2015/10/13/slackin-landing-page-communaute-slack.html
-permalink: "/2015/10/13/slackin-une-landing-page-pour-votre-communaute-slack/"
+permalink: /2015/10/13/slackin-une-landing-page-pour-votre-communaute-slack/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '273'
+  - "273"
 categories:
-- Non classé
+  - Non classé
 ---
 Aujourd’hui, nous avons décidés de lancer [une communauté Slack](http://slack.6x7asbl.be) pour l’[ASBL 6&#215;7](http://www.6x7asbl.be). Si vous ne le savez pas encore, [Slack](http://slack.com) est un outil de communication collaboratif qui a le vent en poupe.
 

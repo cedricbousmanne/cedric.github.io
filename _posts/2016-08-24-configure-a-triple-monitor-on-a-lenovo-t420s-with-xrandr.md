@@ -1,17 +1,17 @@
 ---
 id: 9
 title: Configure a triple monitor on a Lenovo T420s with xrandr
-date: 2016-08-24 09:29:42.000000000 +00:00
+date: 2016-08-24T09:29:42+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2016/08/24/configure-a-triple-monitor-on-a-lenovo-t420s-with-xrandr.html
-permalink: "/2016/08/24/configure-a-triple-monitor-on-a-lenovo-t420s-with-xrandr/"
+permalink: /2016/08/24/configure-a-triple-monitor-on-a-lenovo-t420s-with-xrandr/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '277'
+  - "277"
 categories:
-- Non classé
+  - Non classé
 ---
 This is more a personal note than a real post. I just struggled for 4 hours to have my 2+1 screen to work just fine.
 

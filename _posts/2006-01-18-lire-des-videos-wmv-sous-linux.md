@@ -1,17 +1,17 @@
 ---
 id: 794
 title: Lire des vidéos wmv sous Linux
-date: 2006-01-18 09:56:01.000000000 +00:00
+date: 2006-01-18T09:56:01+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/01/18/lire-des-videos-wmv-sous-linux.html
-permalink: "/2006/01/18/lire-des-videos-wmv-sous-linux/"
+permalink: /2006/01/18/lire-des-videos-wmv-sous-linux/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '566'
+  - "566"
 categories:
-- Non classé
+  - Non classé
 ---
 Le format wmv est un format propriétaire à Microsoft, c’est pourquoi il n’est pas nativement supporté par _Totem_. Toutefois, une solution existe.
 

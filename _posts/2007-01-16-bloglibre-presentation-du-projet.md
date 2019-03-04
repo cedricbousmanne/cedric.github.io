@@ -1,17 +1,17 @@
 ---
 id: 673
 title: 'BlogLibre : présentation du projet'
-date: 2007-01-16 00:16:00.000000000 +00:00
+date: 2007-01-16T00:16:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/16/bloglibre-presentation-du-projet.html
-permalink: "/2007/01/16/bloglibre-presentation-du-projet/"
+permalink: /2007/01/16/bloglibre-presentation-du-projet/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '687'
+  - "687"
 categories:
-- Non classé
+  - Non classé
 ---
 Je vous ai déjà [vaguement parlé](http://www.parenthese.be/blog/2006/08/24/Bloglibre) de [BlogLibre](http://www.bloglibre.org/), une idée géniale que Méléis avait eue il y a un certain temps. A l’époque, j’avais décidé de me lancer dans ce projet avec lui, puis, au gré des imprévus, l’idée s’était estompée. Aujourd’hui, suite au départ de Méléis pour plusieures semaines, j’ai décidé de lancer l’idée. Je profiterai de ma semaine de vacance pour commencer à mettre en place le service, mais d’abord, parlons un peu.
 

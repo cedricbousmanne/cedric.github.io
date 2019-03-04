@@ -1,46 +1,44 @@
 ---
 id: 4207
 title: Identifier une régression grâce à git-bisect
-date: 2018-10-26 09:38:12.000000000 +00:00
+date: 2018-10-26T09:38:12+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/?p=4207
-permalink: "/2018/10/26/identifier-une-regression-grace-a-git-bisect/"
+permalink: /2018/10/26/identifier-une-regression-grace-a-git-bisect/
 mf2_mp-syndicate-to:
-- bridgy-publish_twitter
-mf-syndication:
-- https://medium.com/@akyrho/identifier-une-r%C3%A9gression-gr%C3%A2ce-%C3%A0-git-bisect-16656bdd65c5
-- https://twitter.com/akyrho/status/1055725309302112256
-- https://ruby.social/@akyrho/100960796353516224
-- https://www.linkedin.com/feed/update/urn:li:activity:6468758810809946112/
+  - 'a:1:{i:0;s:22:"bridgy-publish_twitter";}'
+mf2_syndication:
+  - 'a:4:{i:0;s:99:"https://medium.com/@akyrho/identifier-une-r%C3%A9gression-gr%C3%A2ce-%C3%A0-git-bisect-16656bdd65c5";i:1;s:53:"https://twitter.com/akyrho/status/1055725309302112256";i:2;s:46:"https://ruby.social/@akyrho/100960796353516224";i:3;s:73:"https://www.linkedin.com/feed/update/urn:li:activity:6468758810809946112/";}'
+  - 'a:4:{i:0;s:99:"https://medium.com/@akyrho/identifier-une-r%C3%A9gression-gr%C3%A2ce-%C3%A0-git-bisect-16656bdd65c5";i:1;s:53:"https://twitter.com/akyrho/status/1055725309302112256";i:2;s:46:"https://ruby.social/@akyrho/100960796353516224";i:3;s:73:"https://www.linkedin.com/feed/update/urn:li:activity:6468758810809946112/";}'
 geo_weather:
-  units: C
-  icon: none
+  - 'a:2:{s:5:"units";s:1:"C";s:4:"icon";s:4:"none";}'
 geo_public:
-- '1'
+  - "1"
 snap_isAutoPosted:
-- '1540539493'
+  - "1540539493"
 mastoshare-post-status:
-- 'off'
+  - 'off'
 mastoshareshare-lastSuccessfullTootURL:
-- https://ruby.social/@akyrho/100960796353516224
+  - https://ruby.social/@akyrho/100960796353516224
 snap_MYURL:
-- ''
+  - ""
 snapEdIT:
-- '1'
-snapMD: |-
-  a:1:{i:0;a:10:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
-
-  %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;s:8:"isPosted";s:1:"1";s:4:"pgID";s:12:"16656bdd65c5";s:7:"postURL";s:99:"https://medium.com/@akyrho/identifier-une-r%C3%A9gression-gr%C3%A2ce-%C3%A0-git-bisect-16656bdd65c5";s:5:"pDate";s:19:"2018-10-26 07:39:23";}}"
-snapTW: a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% -
-  %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}
+  - "1"
+snapMD:
+  - |
+    s:384:"a:1:{i:0;a:10:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:19:"%FULLTEXT%
+    
+    %URL%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doMD";i:0;s:8:"isPosted";s:1:"1";s:4:"pgID";s:12:"16656bdd65c5";s:7:"postURL";s:99:"https://medium.com/@akyrho/identifier-une-r%C3%A9gression-gr%C3%A2ce-%C3%A0-git-bisect-16656bdd65c5";s:5:"pDate";s:19:"2018-10-26 07:39:23";}}";
+snapTW:
+  - 's:213:"a:1:{i:0;a:8:{s:2:"do";s:1:"0";s:9:"msgFormat";s:26:"%TITLE%. %EXCERPT% - %URL%";s:8:"attchImg";s:1:"1";s:9:"isAutoImg";s:1:"A";s:8:"imgToUse";s:0:"";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doTW";i:0;}}";'
 categories:
-- Non classé
+  - Non classé
 tags:
-- git
-- programming
+  - git
+  - programming
 kind:
-- Article
+  - Article
 ---
 Enfer et damnation, vous venez de constater un bug dans votre code. Évidemment, il est difficile de savoir à quel moment cette régression est apparue et en trouver l&rsquo;origine pourrait nous permettre de comprendre et donc de résoudre le bug.
 

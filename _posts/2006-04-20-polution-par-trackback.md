@@ -1,17 +1,17 @@
 ---
 id: 768
 title: Polution par trackback
-date: 2006-04-20 20:58:00.000000000 +00:00
+date: 2006-04-20T20:58:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/04/20/polution-par-trackback.html
-permalink: "/2006/04/20/polution-par-trackback/"
+permalink: /2006/04/20/polution-par-trackback/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '592'
+  - "592"
 categories:
-- Non classé
+  - Non classé
 ---
 Je ne voudrais pas hurler à la polémique, mais y’en a marre.
 

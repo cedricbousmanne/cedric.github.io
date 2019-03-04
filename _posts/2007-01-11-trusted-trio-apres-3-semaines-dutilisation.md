@@ -1,17 +1,17 @@
 ---
 id: 678
 title: Trusted Trio, après 3 semaines d’utilisation
-date: 2007-01-11 04:17:00.000000000 +00:00
+date: 2007-01-11T04:17:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/11/trusted-trio-apres-3-semaines-dutilisation.html
-permalink: "/2007/01/11/trusted-trio-apres-3-semaines-dutilisation/"
+permalink: /2007/01/11/trusted-trio-apres-3-semaines-dutilisation/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '682'
+  - "682"
 categories:
-- Non classé
+  - Non classé
 ---
 Dans la dernière [httparty](/blog/2006/12/20/httparty), je vous parlais de [Trusted Trio](http://www.presse-citron.net/?2006/12/18/1615-comment-organiser-sa-gestion-des-emails), une méthode très simple à mettre en place qui vise à amméliorer le temps consacré à sa boîte e-mail. Chose promise, chose dûe, en voici donc mon feed-back.
 

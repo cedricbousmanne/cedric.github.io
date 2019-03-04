@@ -1,17 +1,17 @@
 ---
 id: 776
 title: La citation du jour
-date: 2006-03-27 13:49:00.000000000 +00:00
+date: 2006-03-27T13:49:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/03/27/la-citation-du-jour.html
-permalink: "/2006/03/27/la-citation-du-jour/"
+permalink: /2006/03/27/la-citation-du-jour/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '584'
+  - "584"
 categories:
-- Non classé
+  - Non classé
 ---
 Un de mes colloc’, en parlant de la vaiselle dans l’évier :
 

@@ -1,17 +1,17 @@
 ---
 id: 804
 title: Coheed and Cambria
-date: 2005-11-07 01:09:00.000000000 +00:00
+date: 2005-11-07T01:09:00+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2005/11/07/coheed-and-cambria.html
-permalink: "/2005/11/07/coheed-and-cambria/"
+permalink: /2005/11/07/coheed-and-cambria/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '556'
+  - "556"
 categories:
-- Non classé
+  - Non classé
 ---
 ![](images/coheed.gif)_Coheed and Cambria_ est un groupe d’[émo](http://fr.wikipedia.org/wiki/Emo) qui a vu le jour a Woodstock en 1995.
 

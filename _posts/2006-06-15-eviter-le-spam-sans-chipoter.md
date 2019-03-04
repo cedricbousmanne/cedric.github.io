@@ -1,17 +1,17 @@
 ---
 id: 737
 title: Eviter le spam sans chipoter
-date: 2006-06-15 21:20:07.000000000 +00:00
+date: 2006-06-15T21:20:07+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/15/eviter-le-spam-sans-chipoter.html
-permalink: "/2006/06/15/eviter-le-spam-sans-chipoter/"
+permalink: /2006/06/15/eviter-le-spam-sans-chipoter/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '623'
+  - "623"
 categories:
-- Non classé
+  - Non classé
 ---
 Pour éviter le spam sous [DotClear,](http://www.dotclear.net/) il existe une foule de plugins (notamment [Spamplemousse](http://zeubeubeu.net/blog/plugins-dotclear)), qui tente de bloquer les robots-spammeurs en laissant passer les humains.
 

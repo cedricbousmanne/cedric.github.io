@@ -1,17 +1,17 @@
 ---
 id: 708
 title: De retour d’Alsace, un commentaire poignant
-date: 2006-09-14 00:45:00.000000000 +00:00
+date: 2006-09-14T00:45:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/09/14/de-retour-dalsace-un-commentaire-poignant.html
-permalink: "/2006/09/14/de-retour-dalsace-un-commentaire-poignant/"
+permalink: /2006/09/14/de-retour-dalsace-un-commentaire-poignant/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '652'
+  - "652"
 categories:
-- Non classé
+  - Non classé
 ---
 J’étais parti quelques jours à Eguisheim, en Alsace, le calme avant la tempête de la rentrée universitaire…
 

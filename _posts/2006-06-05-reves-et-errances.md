@@ -1,17 +1,17 @@
 ---
 id: 743
 title: Rêves et errances…
-date: 2006-06-05 23:58:00.000000000 +00:00
+date: 2006-06-05T23:58:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/05/reves-et-errances.html
-permalink: "/2006/06/05/reves-et-errances/"
+permalink: /2006/06/05/reves-et-errances/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '617'
+  - "617"
 categories:
-- Non classé
+  - Non classé
 ---
 En rentrant au kot, dimanche, j’ai croisé _A_, une copine de classe quand j’étais en secondaire. Dans le train on a beaucoup causé, notamment d’humanitaire.
 

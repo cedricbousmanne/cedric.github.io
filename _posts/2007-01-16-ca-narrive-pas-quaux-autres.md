@@ -1,17 +1,17 @@
 ---
 id: 671
 title: Ca n’arrive pas qu’aux autres
-date: 2007-01-16 11:49:00.000000000 +00:00
+date: 2007-01-16T11:49:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/16/ca-narrive-pas-quaux-autres.html
-permalink: "/2007/01/16/ca-narrive-pas-quaux-autres/"
+permalink: /2007/01/16/ca-narrive-pas-quaux-autres/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '689'
+  - "689"
 categories:
-- Non classé
+  - Non classé
 ---
 C’est une petite anectode qui m’est arrivée, il en existe des dizaines sur le net, ce sont les fameuses perles des _hotlines_. Ceci dit, c’est quand même beaucoup plus instructif et amusant quand ça t’arrive personnellement. D’ailleurs, trois ans plus tard, j’en rigole encore.
 

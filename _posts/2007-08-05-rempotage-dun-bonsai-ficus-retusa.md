@@ -1,17 +1,17 @@
 ---
 id: 612
-title: Rempotage d’un bonsai &#8211; ficus rétusa
-date: 2007-08-05 15:37:18.000000000 +00:00
+title: 'Rempotage d’un bonsai &#8211; ficus rétusa'
+date: 2007-08-05T15:37:18+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/08/05/rempotage-dun-bonsai-ficus-retusa.html
-permalink: "/2007/08/05/rempotage-dun-bonsai-ficus-retusa/"
+permalink: /2007/08/05/rempotage-dun-bonsai-ficus-retusa/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '748'
+  - "748"
 categories:
-- Non classé
+  - Non classé
 ---
 Après avoir [acquis un bonsaï en supermarché](/blog/2007/07/30/ficus-retusa/), il faut bien souvent lui offrir un nouveau domicile. J’ai effectué le rempotage de mon ficus retusa il y a quelques jours…
 

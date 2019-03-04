@@ -1,17 +1,17 @@
 ---
 id: 758
 title: Une idée très conne…
-date: 2006-05-05 02:02:02.000000000 +00:00
+date: 2006-05-05T02:02:02+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/05/05/une-ide-trs-conne.html
-permalink: "/2006/05/05/une-idee-tres-conne/"
+permalink: /2006/05/05/une-idee-tres-conne/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '602'
+  - "602"
 categories:
-- Non classé
+  - Non classé
 ---
 Je viens de me relever pour lancer une idee tres conne [1] : il n’y a pas des masses de commentaires sur le blog, d’un caote, je ne suis pas victime des serial-\_premseurs\_, mais de l’autre, j’ai peur de parler dans le vide [2].
 

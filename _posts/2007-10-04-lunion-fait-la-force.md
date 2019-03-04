@@ -1,17 +1,17 @@
 ---
 id: 605
 title: L’union fait la force
-date: 2007-10-04 14:12:28.000000000 +00:00
+date: 2007-10-04T14:12:28+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/04/lunion-fait-la-force.html
-permalink: "/2007/10/04/lunion-fait-la-force/"
+permalink: /2007/10/04/lunion-fait-la-force/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '755'
+  - "755"
 categories:
-- Non classé
+  - Non classé
 ---
 Pour ceux qui ne l’auraient pas remarqué, j’ai rajouté une petite bannière en haut à droite du blog.
 

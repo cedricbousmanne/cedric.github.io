@@ -1,17 +1,17 @@
 ---
 id: 716
 title: Oxfam cherche des designer bénévoles
-date: 2006-08-30 14:40:00.000000000 +00:00
+date: 2006-08-30T14:40:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/08/30/oxfam-cherche-des-designer-benevoles.html
-permalink: "/2006/08/30/oxfam-cherche-des-designer-benevoles/"
+permalink: /2006/08/30/oxfam-cherche-des-designer-benevoles/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '644'
+  - "644"
 categories:
-- Non classé
+  - Non classé
 ---
 J’aurais bien participé, mais ce n’est pas mon domaine, alors je relaye le message :
 

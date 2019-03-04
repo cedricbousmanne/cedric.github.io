@@ -1,17 +1,17 @@
 ---
 id: 705
 title: Da Vinci Code
-date: 2006-10-21 13:51:00.000000000 +00:00
+date: 2006-10-21T13:51:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/10/21/da-vinci-code.html
-permalink: "/2006/10/21/da-vinci-code/"
+permalink: /2006/10/21/da-vinci-code/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '655'
+  - "655"
 categories:
-- Non classé
+  - Non classé
 ---
 Comme je le disais hier, j’ai lu le livre de Dan Brown : Da Vinci Code.
 

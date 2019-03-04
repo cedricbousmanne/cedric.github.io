@@ -1,17 +1,17 @@
 ---
 id: 563
-title: Imiter le grain du Ilford HP5 à partir d&rsquo;une photo numérique
-date: 2013-07-05 18:41:53.000000000 +00:00
+title: 'Imiter le grain du Ilford HP5 à partir d&rsquo;une photo numérique'
+date: 2013-07-05T18:41:53+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2013/07/05/imiter-le-grain-du-ilford-hp5-a-partir-dune-photo-numerique.html
-permalink: "/2013/07/05/imiter-le-grain-du-ilford-hp5-a-partir-dune-photo-numerique/"
+permalink: /2013/07/05/imiter-le-grain-du-ilford-hp5-a-partir-dune-photo-numerique/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '797'
+  - "797"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Loch Bad an Sgalaig](/images/2013/07/IMG_4383-Version-2.jpg)
 

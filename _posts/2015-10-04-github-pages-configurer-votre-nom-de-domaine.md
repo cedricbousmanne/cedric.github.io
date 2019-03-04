@@ -1,17 +1,17 @@
 ---
 id: 560
 title: 'GitHub pages : Configurer votre nom de domaine'
-date: 2015-10-04 11:46:30.000000000 +00:00
+date: 2015-10-04T11:46:30+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2015/10/04/github-pages-configurer-votre-nom-de-domaine.html
-permalink: "/2015/10/04/github-pages-configurer-votre-nom-de-domaine/"
+permalink: /2015/10/04/github-pages-configurer-votre-nom-de-domaine/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '800'
+  - "800"
 categories:
-- Non classé
+  - Non classé
 ---
 J’ai récemment migré ce blog sous [Octopress](http://octopress.org/). Je reviendrais plus tard sur les détails de la migration, mais en attendant, voici une petite aide concernant l’utilisation de votre propre nom de domaine lorsque votre site est hébergé sur GitHub Pages.
 

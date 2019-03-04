@@ -1,17 +1,17 @@
 ---
 id: 559
-title: Octopress &#8211; Afficher les articles similaires
-date: 2015-10-04 21:15:19.000000000 +00:00
+title: 'Octopress &#8211; Afficher les articles similaires'
+date: 2015-10-04T21:15:19+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2015/10/04/octopress-afficher-les-articles-similaires.html
-permalink: "/2015/10/04/octopress-afficher-les-articles-similaires/"
+permalink: /2015/10/04/octopress-afficher-les-articles-similaires/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '801'
+  - "801"
 categories:
-- Non classé
+  - Non classé
 ---
 Ce petit hack, tiré du blog de [Zhy Yong, “Add ‘Related Posts’ Section to Octopress”](http://zhuyong.me/blog/2014/02/05/add-related-posts-section-to-octopress/), permet d’afficher une liste d’articles relié au post affiché.
 

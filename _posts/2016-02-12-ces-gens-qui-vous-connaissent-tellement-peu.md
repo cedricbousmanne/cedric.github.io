@@ -1,17 +1,17 @@
 ---
 id: 11
 title: Ces gens qui vous connaissent tellement (peu)
-date: 2016-02-12 20:21:03.000000000 +00:00
+date: 2016-02-12T20:21:03+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2016/02/12/ces-gens-qui-vous-connaissent-tellement-peu.html
-permalink: "/2016/02/12/ces-gens-qui-vous-connaissent-tellement-peu/"
+permalink: /2016/02/12/ces-gens-qui-vous-connaissent-tellement-peu/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '275'
+  - "275"
 categories:
-- Non classé
+  - Non classé
 ---
 > Tu es marié? Toi?
 

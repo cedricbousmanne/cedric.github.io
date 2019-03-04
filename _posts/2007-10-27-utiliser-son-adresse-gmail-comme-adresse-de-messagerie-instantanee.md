@@ -1,17 +1,17 @@
 ---
 id: 597
 title: Utiliser son adresse Gmail comme adresse de messagerie instantanée
-date: 2007-10-27 12:39:18.000000000 +00:00
+date: 2007-10-27T12:39:18+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/27/utiliser-son-adresse-gmail-comme-adresse-de-messagerie-instantanee.html
-permalink: "/2007/10/27/utiliser-son-adresse-gmail-comme-adresse-de-messagerie-instantanee/"
+permalink: /2007/10/27/utiliser-son-adresse-gmail-comme-adresse-de-messagerie-instantanee/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '763'
+  - "763"
 categories:
-- Non classé
+  - Non classé
 ---
 Tout le monde connait [Gmail](http://www.gmail.com), le service e-mail de Google. Depuis peu, Gmail permet aussi d’utiliser [Gtalk,](http://www.google.com/talk/intl/fr/) un outil de messagerie vocale basé sur le protocole [XMPP](http://fr.wikipedia.org/wiki/XMPP).
 

@@ -1,17 +1,17 @@
 ---
 id: 626
 title: Ce que j’aime chez WordPress (par rapport à DotClear)
-date: 2007-06-28 13:26:36.000000000 +00:00
+date: 2007-06-28T13:26:36+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/28/ce-que-jaime-chez-wordpress-par-rapport-a-dotclear.html
-permalink: "/2007/06/28/ce-que-jaime-chez-wordpress-par-rapport-a-dotclear/"
+permalink: /2007/06/28/ce-que-jaime-chez-wordpress-par-rapport-a-dotclear/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '734'
+  - "734"
 categories:
-- Non classé
+  - Non classé
 ---
 _J’ai recemment migré mon blog de DotClear vers WordPress. Une fois passé le moment de découverte du logiciel, le temps est venu d’établir un bilan._
 

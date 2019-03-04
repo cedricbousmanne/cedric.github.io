@@ -1,17 +1,17 @@
 ---
 id: 617
 title: Ficus rétusa
-date: 2007-07-30 18:26:14.000000000 +00:00
+date: 2007-07-30T18:26:14+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/07/30/ficus-retusa.html
-permalink: "/2007/07/30/ficus-retusa/"
+permalink: /2007/07/30/ficus-retusa/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '743'
+  - "743"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Bonsai - Ficus Retusa](/images/2007/07/montage-bonzai.jpg)
 

@@ -1,17 +1,17 @@
 ---
 id: 797
 title: F-spot Photo Manager
-date: 2006-01-08 09:37:35.000000000 +00:00
+date: 2006-01-08T09:37:35+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/01/08/f-spot-photo-manager.html
-permalink: "/2006/01/08/f-spot-photo-manager/"
+permalink: /2006/01/08/f-spot-photo-manager/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '563'
+  - "563"
 categories:
-- Non classé
+  - Non classé
 ---
 ### Installation {#installation}
 

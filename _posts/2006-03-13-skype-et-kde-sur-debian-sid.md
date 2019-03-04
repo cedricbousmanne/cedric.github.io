@@ -1,17 +1,17 @@
 ---
 id: 781
 title: Skype et KDE sur Debian SiD
-date: 2006-03-13 18:56:40.000000000 +00:00
+date: 2006-03-13T18:56:40+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/03/13/skype-et-kde-sur-debian-sid.html
-permalink: "/2006/03/13/skype-et-kde-sur-debian-sid/"
+permalink: /2006/03/13/skype-et-kde-sur-debian-sid/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '579'
+  - "579"
 categories:
-- Non classé
+  - Non classé
 ---
 J’ai rencontré le problème suivant :
 

@@ -1,17 +1,17 @@
 ---
 id: 601
 title: Couleurs d’automne
-date: 2007-10-16 07:30:15.000000000 +00:00
+date: 2007-10-16T07:30:15+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/10/16/couleurs-dautomne.html
-permalink: "/2007/10/16/couleurs-dautomne/"
+permalink: /2007/10/16/couleurs-dautomne/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '759'
+  - "759"
 categories:
-- Non classé
+  - Non classé
 ---
 ![Automne](/images/2007/10/450x-s_cimg0318-mod.JPG)
 

@@ -1,17 +1,17 @@
 ---
 id: 801
 title: Gestionnaire de batterie
-date: 2006-01-07 11:41:05.000000000 +00:00
+date: 2006-01-07T11:41:05+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/01/07/gestionnaire-de-batterie.html
-permalink: "/2006/01/07/gestionnaire-de-batterie/"
+permalink: /2006/01/07/gestionnaire-de-batterie/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '559'
+  - "559"
 categories:
-- Non classé
+  - Non classé
 ---
 _Mémo : visualiser l’état de la batterie d’un portable dans le bureau Gnome_
 

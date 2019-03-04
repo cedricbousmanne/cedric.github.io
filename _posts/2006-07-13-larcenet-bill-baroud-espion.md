@@ -1,17 +1,17 @@
 ---
 id: 732
 title: 'Larcenet : Bill Baroud, espion'
-date: 2006-07-13 15:33:00.000000000 +00:00
+date: 2006-07-13T15:33:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/07/13/larcenet-bill-baroud-espion.html
-permalink: "/2006/07/13/larcenet-bill-baroud-espion/"
+permalink: /2006/07/13/larcenet-bill-baroud-espion/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '628'
+  - "628"
 categories:
-- Non classé
+  - Non classé
 ---
 Décidemment, Larcenet me plaît beaucoup. Il a vraiment une touche très personnelle.
 

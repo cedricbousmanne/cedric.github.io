@@ -1,17 +1,17 @@
 ---
 id: 670
 title: Flash Player 9 pour Linux… oui mais
-date: 2007-01-17 23:12:00.000000000 +00:00
+date: 2007-01-17T23:12:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/01/17/flash-player-9-pour-linux-oui-mais.html
-permalink: "/2007/01/17/flash-player-9-pour-linux-oui-mais/"
+permalink: /2007/01/17/flash-player-9-pour-linux-oui-mais/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '690'
+  - "690"
 categories:
-- Non classé
+  - Non classé
 ---
 La nouvelle est tombée aujourd’hui même : [Flash Player 9](http://blogs.adobe.com/penguin.swf/2007/01/flash_player_9_for_linux_x86.html) pour GNU/Linux est sorti.
 

@@ -1,17 +1,17 @@
 ---
 id: 572
 title: WordPress 2.3 et les tags
-date: 2007-12-16 17:24:32.000000000 +00:00
+date: 2007-12-16T17:24:32+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/12/16/wordpress-23-et-les-tags.html
-permalink: "/2007/12/16/wordpress-2-3-et-les-tags/"
+permalink: /2007/12/16/wordpress-2-3-et-les-tags/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '788'
+  - "788"
 categories:
-- Non classé
+  - Non classé
 ---
 ![](/images/images/2.0/wordpress.png)Pour ceux qui, comme moi, l’ignoraient, WordPress intègre, depuis sa version 2.3, un gestionnaire de tags.
 

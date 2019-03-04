@@ -1,17 +1,17 @@
 ---
 id: 723
 title: Geocaching
-date: 2006-08-17 12:58:00.000000000 +00:00
+date: 2006-08-17T12:58:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/08/17/geocaching.html
-permalink: "/2006/08/17/geocaching/"
+permalink: /2006/08/17/geocaching/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '637'
+  - "637"
 categories:
-- Non classé
+  - Non classé
 ---
 Hier midi, au journal de la RTBF, la rédaction était à court de sujet. Vu que l’actualité ne parvenait pas à couvrir l’entièreté du temps d’antenne &#8211; du moins, je suppose &#8211; ces messieurs-dames de la \_rédac’ \_ont présenté un sujet un peu plus léger, et visiblement tendance : le [geocaching](http://www.geocaching.be/).
 

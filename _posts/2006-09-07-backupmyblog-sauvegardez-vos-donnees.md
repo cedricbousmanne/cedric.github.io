@@ -1,17 +1,17 @@
 ---
 id: 710
 title: backupmyblog, sauvegardez vos données!
-date: 2006-09-07 00:25:00.000000000 +00:00
+date: 2006-09-07T00:25:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/09/07/backupmyblog-sauvegardez-vos-donnees.html
-permalink: "/2006/09/07/backupmyblog-sauvegardez-vos-donnees/"
+permalink: /2006/09/07/backupmyblog-sauvegardez-vos-donnees/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '650'
+  - "650"
 categories:
-- Non classé
+  - Non classé
 ---
 > Ton blog, régulièrement, tu sauvegarderas
 

@@ -1,17 +1,17 @@
 ---
 id: 800
 title: Modifier le splashscreen de Gnome
-date: 2006-01-07 12:28:08.000000000 +00:00
+date: 2006-01-07T12:28:08+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/01/07/modifier-le-splashscreen-de-gnome.html
-permalink: "/2006/01/07/modifier-le-splashscreen-de-gnome/"
+permalink: /2006/01/07/modifier-le-splashscreen-de-gnome/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '560'
+  - "560"
 categories:
-- Non classé
+  - Non classé
 ---
 ### Définition {#définition}
 

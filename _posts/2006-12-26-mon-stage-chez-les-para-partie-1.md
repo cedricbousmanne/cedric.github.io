@@ -1,17 +1,17 @@
 ---
 id: 687
 title: Mon stage chez les para, partie 1
-date: 2006-12-26 03:58:00.000000000 +00:00
+date: 2006-12-26T03:58:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/12/26/mon-stage-chez-les-para-partie-1.html
-permalink: "/2006/12/26/mon-stage-chez-les-para-partie-1/"
+permalink: /2006/12/26/mon-stage-chez-les-para-partie-1/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '673'
+  - "673"
 categories:
-- Non classé
+  - Non classé
 ---
 J’ai eu une enfance assez spéciale. Mes parents étant divorcés, je vivais seul avec ma mère et mes grands-parents maternels. Lorsque j’étais enfant, chaque 21 juillet, je regardais les défilés de la fête nationale à la télévision, avec mon grand-père, qui était militaire.
 

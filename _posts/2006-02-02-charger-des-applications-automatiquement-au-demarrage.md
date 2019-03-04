@@ -1,17 +1,17 @@
 ---
 id: 786
 title: Charger des applications automatiquement au démarrage
-date: 2006-02-02 18:11:14.000000000 +00:00
+date: 2006-02-02T18:11:14+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/02/02/charger-des-applications-automatiquement-au-demarrage.html
-permalink: "/2006/02/02/charger-des-applications-automatiquement-au-demarrage/"
+permalink: /2006/02/02/charger-des-applications-automatiquement-au-demarrage/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '574'
+  - "574"
 categories:
-- Non classé
+  - Non classé
 ---
 Dans certains cas, comme pour Gdesklets, par exemple, il est interressant de pouvoir charger une application au démarrage de Debian.
 

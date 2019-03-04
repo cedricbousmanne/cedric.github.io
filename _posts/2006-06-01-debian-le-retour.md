@@ -1,17 +1,17 @@
 ---
 id: 748
 title: 'Debian : le retour'
-date: 2006-06-01 17:30:14.000000000 +00:00
+date: 2006-06-01T17:30:14+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/06/01/debian-le-retour.html
-permalink: "/2006/06/01/debian-le-retour/"
+permalink: /2006/06/01/debian-le-retour/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '612'
+  - "612"
 categories:
-- Non classé
+  - Non classé
 ---
 <img src="https://i0.wp.com/linux.simple.be/images/debian-small.png?w=900" alt="logo debian" data-recalc-dims="1" />Me revoila sous Debian. En effet, j’avais commis l’heresie de replonger dans la Windowscaline, drogue horriblement addictive.
 

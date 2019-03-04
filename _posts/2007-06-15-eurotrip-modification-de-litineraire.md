@@ -1,17 +1,17 @@
 ---
 id: 634
 title: 'Eurotrip : modification de l’itinéraire'
-date: 2007-06-15 15:50:34.000000000 +00:00
+date: 2007-06-15T15:50:34+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2007/06/15/eurotrip-modification-de-litineraire.html
-permalink: "/2007/06/15/eurotrip-modification-de-litineraire/"
+permalink: /2007/06/15/eurotrip-modification-de-litineraire/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '726'
+  - "726"
 categories:
-- Non classé
+  - Non classé
 ---
 L’itinéraire à légèrement changé. Etant donné que la majorité des participants au voyage préféraient visiter Venise plutôt que Vienne, nous passerons à Bratislava à l’aller, et nous verrons Venise au retour, à la place de Vienne.  
 Ca ne doit pas changer énormément de chose au niveau de la distance ni du temps de trajet, mais éviter l’Autriche nous fera économiser le prix de la vignette là-bas.

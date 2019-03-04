@@ -1,17 +1,17 @@
 ---
 id: 7
 title: 'Laptop sous Linux : gestion de l&rsquo;énergie'
-date: 2017-02-14 12:29:34.000000000 +00:00
+date: 2017-02-14T12:29:34+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2017/02/14/debian-laptop-tlp.html
-permalink: "/2017/02/14/laptop-sous-linux-gestion-de-lenergie/"
+permalink: /2017/02/14/laptop-sous-linux-gestion-de-lenergie/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '279'
+  - "279"
 categories:
-- Non classé
+  - Non classé
 ---
 <code class="highlighter-rouge">tlp</code> est un outil en ligne de commande qui va se charger d’optimiser au mieux les paramètres de votre système dans le but de réduire la consommation de la batterie.
 

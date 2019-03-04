@@ -1,17 +1,17 @@
 ---
 id: 711
 title: Deux citations
-date: 2006-09-05 11:33:00.000000000 +00:00
+date: 2006-09-05T11:33:00+00:00
 author: cedric
 layout: post
 guid: http://localhost:4000/2006/09/05/deux-citations.html
-permalink: "/2006/09/05/deux-citations/"
+permalink: /2006/09/05/deux-citations/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '649'
+  - "649"
 categories:
-- Non classé
+  - Non classé
 ---
 Je viens de terminer “_La fée Carabine_”, un roman de Daniel Pennac. J’adore vraiment son style, sa façon de mettre en mouvement l’histoire, sa façon de la narrer, et surtout la façon dont Benjamin Malaussène (le héro), s’en prend systématiquement plein les dents.
 

@@ -1,17 +1,17 @@
 ---
 id: 611
 title: Cracovie et Oświęcim
-date: 2007-08-06 21:47:10.000000000 +00:00
+date: 2007-08-06T21:47:10+00:00
 author: cedric
 layout: post
 guid: https://cedric.io/2007/08/06/cracovie-et-oswiecim.html
-permalink: "/2007/08/06/cracovie-et-oswiecim/"
+permalink: /2007/08/06/cracovie-et-oswiecim/
 wp_crosspost_destination:
-- akyrho.wordpress.com
+  - akyrho.wordpress.com
 wordpress_post_id:
-- '749'
+  - "749"
 categories:
-- Non classé
+  - Non classé
 ---
 Toujours guidés par notre GPS, nous reprenons la route pour la Pologne.
 
