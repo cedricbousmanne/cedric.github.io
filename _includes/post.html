@@ -12,3 +12,7 @@
 {% else %}
   {% include post-content.html post=post %}
 {% endif %}
+
+<small>
+	<a href="{{post.permalink}}">{{ post.date | date: '%B %d, %Y - %H:%M'}}</a>
+</small>
