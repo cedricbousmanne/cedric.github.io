@@ -9,6 +9,10 @@
   {% include post-bookmark.html post=post %}
 {% elsif post.mf-repost-of %}
   {% include post-repost.html post=post %}
+{% elsif post.mf2_repost-of %}
+  {% include mf2_repost-of.html post=post %}
+{% elsif post.mf2_in-reply-to %}
+  {% include mf2_in-reply-to.html post=post %}
 {% else %}
   {% include post-content.html post=post %}
 {% endif %}

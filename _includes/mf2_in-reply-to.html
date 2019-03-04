@@ -1,0 +1,53 @@
+<li class="h-entry post-entry post" id="post-id-{{ post.id }}">
+  <div class="context">
+    <div>
+      <div class="h-cite u-in-reply-to repost-content">
+        <span class="author p-author h-card">
+          <img class="u-photo" src="{{ post.mf2_in-reply-to.properties.avatar }}" width="48">
+          <a class="p-name u-url" href="{{ post.mf2_in-reply-to.properties.twitter_url }}">{{ post.mf2_in-reply-to.properties.name }}</a>
+          <a class="author_url" href="{{ post.mf2_in-reply-to.properties.twitter_url }}">{{ post.mf2_in-reply-to.properties.twitter_url }}/</a>
+        </span>
+        &nbsp;&nbsp;•&nbsp;&nbsp;
+        <a href="{{ post.mf2_in-reply-to.properties.url }}" class="u-url">Mar 1</a>
+        <div class="post-text e-content p-name ">{{ post.mf2_in-reply-to.properties.summary }}</div>
+        <a href="{{ post.mf2_in-reply-to.properties.url }}" class="u-url"></a>
+        <div style="clear:both;"></div>
+      </div>
+    </div>
+  </div>
+  <div style="" class="content-area  has-context    ">
+    <div class="pad">
+      <div class="show-author-photo">
+        <div class="author u-author h-card">
+          <a href="/" class="u-url"><img class="u-photo p-name" src="/images/profile.jpg" alt="Aaron Parecki" width="48"></a>
+        </div>
+
+        <div class="post-text e-content p-name content-type-plain">{{ post.content }}</div>
+      </div>
+    </div>
+    <div class="metaline pad">
+      <i class="marker icon"></i>
+      <span class="p-location h-adr">
+        <span class="p-locality">Portland</span>,
+        <span class="p-region">Oregon</span>
+        <span class="weather">
+          <span>•</span>
+          <i class="wi wi-day-sunny" title="Clear"></i>
+          30°F
+        </span>
+        <data class="p-latitude" value="45.53551"></data>
+        <data class="p-longitude" value="-122.621276"></data>
+      </span>
+    </div>
+
+    <div class="metaline pad">
+      <a href="https://aaronparecki.com/2019/03/02/2/" class="u-url">
+        <time class="dt-published" datetime="2019-03-02T07:50:58-08:00">
+          Sat, Mar 2, 2019 7:50am -08:00
+        </time>
+      </a>
+    </div>
+
+    <div style="clear:both;"></div>
+  </div>
+</li>
