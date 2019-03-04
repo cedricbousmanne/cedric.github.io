@@ -43,7 +43,11 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-gist 
+  - jekyll-gist
   - jekyll-font-awesome-sass
 
 paginate: 20
+
+collections:
+  - reads
+  - posts
