@@ -10,4 +10,9 @@ ul#social-links{
       }
     }
   }
+  &:after{
+    content: '';
+    display: block;
+    clear: both;
+  }
 }
