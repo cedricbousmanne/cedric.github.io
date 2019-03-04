@@ -4,7 +4,33 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
+
+  {% unless counter %}
+    {% assign counter = 0 %}
+  {% endunless %}
+
+  {% unless new_current_date %}
+    {% capture new_current_date %}{{ post.date | date: '%B %d, %Y' }} {% endcapture %}
+  {% endunless %}
+
+  {% capture post_date %}{{ post.date | date: '%B %d, %Y' }} {% endcapture %}
+
+  {% if post_date != new_current_date or counter == 0 %}
+    {% capture new_current_date %}{{ post_date }}{% endcapture %}
+    {% assign new_date = true %}
+  {% else %}
+    {% assign new_date = false %}
+  {% endif %}
+
+  {% if new_date %}
+    <hr>
+    <strong>{{new_current_date}}</strong>
+  {% endif %}
+
   {% include post.html post=post %}
+
+  {% capture counter %}{{ counter | plus: 1 }}{% endcapture %}
+
   {% endfor %}
 </div>
 
