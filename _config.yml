@@ -1,20 +1,26 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-lang: en
-title: Cedric.io – Father of 2, Indieweb enthousiast, I code for a living
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Cédric Bousmanne - Father of 2, Indieweb enthousiast, I code for a living
 email: cedric@bousmanne.com
-description: A Jekyll quick start to getting up and going with the indieweb.
-# Webmentions - leave blank (remove "yes") if you would not like to receive & display webmentions from other sites
-webmentions: yes
-
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: akyrho
 github_username:  cedricbousmanne
 instagram_username: akyrh0
@@ -28,26 +34,25 @@ linkedin_url: https://www.linkedin.com/in/bousmannecedric/
 facebook_url: https://www.facebook.com/cedric.bousmanne
 
 
-# Can be over ridden with author: in Front Matter
-author: Cédric Bousmanne
-
-# Expecting a full url, not relative to site.url
-author_img: https://pbs.twimg.com/profile_images/727192012504621056/NycTZi0P_400x400.jpg
-
 # Build settings
 markdown: kramdown
-
-sass:
-    style: compressed
-
+theme: minima
 plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-font-awesome-sass
-
-paginate: 20
+  - jekyll-feed
 
 collections:
+  - checkins
   - reads
-  - posts
+  - notes
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
