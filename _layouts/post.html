@@ -15,6 +15,25 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+  {% if page.geo_latitude %}
+
+    <div>
+      <span class="u-checkin h-card">
+        <i class='fa fa-map-marker-alt'></i>
+        <a href="https://www.openstreetmap.org/?mlat={{ page.geo_latitude }}&mlon={{ page.geo_longitude }}#map=13/{{ page.geo_latitude }}/{{ page.geo_longitude }}" class="p-name">
+          {% if page.mf2_place_name %}
+            {{ page.mf2_place_name }}
+          {% else %}
+            {{ page.geo_latitude }}, {{ page.geo_longitude }}
+          {% endif %}
+        </a>
+        <data class="p-latitude" value="{{ page.geo_latitude }}"></data>
+        <data class="p-longitude" value="{{ page.geo_longitude }}"></data>
+      </span>
+    </div>
+
+  {% endif %}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
