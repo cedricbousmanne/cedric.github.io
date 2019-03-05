@@ -4,6 +4,8 @@ title: Le taux d&rsquo;attrition (churn) expliqué à la laverie de mon quartier
 date: 2016-02-15 22:27:01.000000000 +00:00
 author: cedric
 layout: post
+
+
 guid: https://cedric.io/2016/02/15/le-taux-dattrition-churn-explique-a-la-laverie-de-mon-quartier.html
 permalink: "/2016/02/15/le-taux-dattrition-churn-explique-a-la-laverie-de-mon-quartier/"
 wp_crosspost_destination:

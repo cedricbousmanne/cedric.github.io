@@ -4,6 +4,8 @@ title: 'Octopress : Utiliser les Hooks pour surcharger les permalinks'
 date: 2015-10-07 09:20:08.000000000 +00:00
 author: cedric
 layout: post
+
+
 guid: https://cedric.io/2015/10/07/octopress-hooks-permalinks.html
 permalink: "/2015/10/07/octopress-utiliser-les-hooks-pour-surcharger-les-permalinks/"
 wp_crosspost_destination:

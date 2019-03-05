@@ -4,6 +4,7 @@ title: 'Laptop sous Linux : gestion de l&rsquo;énergie'
 date: 2017-02-14 12:29:34.000000000 +00:00
 author: cedric
 layout: post
+
 guid: https://cedric.io/2017/02/14/debian-laptop-tlp.html
 permalink: "/2017/02/14/laptop-sous-linux-gestion-de-lenergie/"
 wp_crosspost_destination:

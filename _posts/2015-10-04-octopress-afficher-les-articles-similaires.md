@@ -4,6 +4,8 @@ title: Octopress &#8211; Afficher les articles similaires
 date: 2015-10-04 21:15:19.000000000 +00:00
 author: cedric
 layout: post
+
+
 guid: https://cedric.io/2015/10/04/octopress-afficher-les-articles-similaires.html
 permalink: "/2015/10/04/octopress-afficher-les-articles-similaires/"
 wp_crosspost_destination:

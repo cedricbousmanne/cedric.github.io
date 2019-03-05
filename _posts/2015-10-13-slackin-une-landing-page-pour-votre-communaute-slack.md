@@ -4,6 +4,8 @@ title: 'Slackin : une landing page pour votre communauté Slack'
 date: 2015-10-13 09:04:16.000000000 +00:00
 author: cedric
 layout: post
+
+
 guid: https://cedric.io/2015/10/13/slackin-landing-page-communaute-slack.html
 permalink: "/2015/10/13/slackin-une-landing-page-pour-votre-communaute-slack/"
 wp_crosspost_destination:

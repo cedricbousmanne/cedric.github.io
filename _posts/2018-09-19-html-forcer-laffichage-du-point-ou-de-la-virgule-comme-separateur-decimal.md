@@ -5,6 +5,7 @@ title: 'HTML : forcer l&rsquo;affichage du point (.) ou de la virgule (,) comme 
 date: 2018-09-19 10:31:19.000000000 +00:00
 author: cedric
 layout: post
+
 guid: https://cedric.io/?p=847
 permalink: "/2018/09/19/html-forcer-laffichage-du-point-ou-de-la-virgule-comme-separateur-decimal/"
 snap_isAutoPosted:

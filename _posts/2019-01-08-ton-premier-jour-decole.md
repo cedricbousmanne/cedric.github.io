@@ -1,6 +1,6 @@
 ---
 id: 4593
-title: Ton premier jour d&rsquo;école
+title: Ton premier jour d'école
 date: 2019-01-08 11:19:41.000000000 +00:00
 author: cedric
 layout: post

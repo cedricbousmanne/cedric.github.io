@@ -4,6 +4,7 @@ title: LANDMVRKS &#8211; The Worst of You and Me
 date: 2018-11-02 14:54:01.000000000 +00:00
 author: cedric
 layout: post
+
 guid: https://cedric.io/?p=4269
 permalink: "/2018/11/02/landmvrks-the-worst-of-you-and-me/"
 mf2_mp-syndicate-to:

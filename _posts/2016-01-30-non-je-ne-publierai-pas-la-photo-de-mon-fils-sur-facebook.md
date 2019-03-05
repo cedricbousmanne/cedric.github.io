@@ -4,6 +4,8 @@ title: "« Non, je ne publierai pas la photo de mon fils sur Facebook »"
 date: 2016-01-30 00:38:45.000000000 +00:00
 author: cedric
 layout: post
+
+
 guid: https://cedric.io/2016/01/30/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook.html
 permalink: "/2016/01/30/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook/"
 wp_crosspost_destination:

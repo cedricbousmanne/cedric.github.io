@@ -4,6 +4,8 @@ title: Octopress &#8211; Du code haut en couleurs
 date: 2015-10-05 22:42:00.000000000 +00:00
 author: cedric
 layout: post
+
+
 guid: https://cedric.io/2015/10/05/octopress-du-code-haut-en-couleurs.html
 permalink: "/2015/10/05/octopress-du-code-haut-en-couleurs/"
 wp_crosspost_destination:

@@ -4,6 +4,7 @@ title: Debian 8 Jessie sur un Lenovo T420s
 date: 2017-02-14 12:05:40.000000000 +00:00
 author: cedric
 layout: post
+
 guid: https://cedric.io/2017/02/14/debian-8-jessie-lenovo-t420s.html
 permalink: "/2017/02/14/debian-8-jessie-sur-un-lenovo-t420s/"
 wp_crosspost_destination:
