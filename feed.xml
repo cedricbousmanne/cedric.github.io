@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-05T16:49:51+01:00</updated><id>/feed.xml</id><title type="html">Cédric Bousmanne - Ruby, Rails, Indieweb</title><subtitle>Father of 2, Indieweb enthousiast, I code for a living</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2019/03/05/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-03-05T12:01:06+01:00</published><updated>2019-03-05T12:01:06+01:00</updated><id>/jekyll/update/2019/03/05/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2019/03/05/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry xml:lang="en"><title type="html"></title><link href="/social/2019/03/04/64518.html" rel="alternate" type="text/html" title="" /><published>2019-03-04T18:55:18+01:00</published><updated>2019-03-04T18:55:18+01:00</updated><id>/social/2019/03/04/64518</id><content type="html" xml:base="/social/2019/03/04/64518.html">&lt;p&gt;Is it working now?&lt;/p&gt;</content><author><name></name></author><category term="social" /><summary type="html">Is it working now?</summary></entry><entry xml:lang="fr"><title type="html"></title><link href="/social/2019/03/04/60561.html" rel="alternate" type="text/html" title="" /><published>2019-03-04T17:49:21+01:00</published><updated>2019-03-04T17:49:21+01:00</updated><id>/social/2019/03/04/60561</id><content type="html" xml:base="/social/2019/03/04/60561.html">&lt;p&gt;La bronchite ça va deux minutes, au bout de 8 jours ça commence à faire long 😓&lt;/p&gt;</content><author><name></name></author><category term="social" /><summary type="html">La bronchite ça va deux minutes, au bout de 8 jours ça commence à faire long 😓</summary></entry><entry><title type="html"></title><link href="/social/2019/03/02/58126.html" rel="alternate" type="text/html" title="" /><published>2019-03-02T17:08:46+01:00</published><updated>2019-03-02T17:08:46+01:00</updated><id>/social/2019/03/02/58126</id><content type="html" xml:base="/social/2019/03/02/58126.html"></content><author><name></name></author><category term="social" /><summary type="html"></summary></entry><entry><title type="html">QuteBrowser and LastPass</title><link href="/2019/02/08/qutebrowser-and-lastpass/" rel="alternate" type="text/html" title="QuteBrowser and LastPass" /><published>2019-02-08T15:38:33+01:00</published><updated>2019-02-08T15:38:33+01:00</updated><id>/2019/02/08/qutebrowser-and-lastpass</id><content type="html" xml:base="/2019/02/08/qutebrowser-and-lastpass/">&lt;p&gt;I’ve been using &lt;a href=&quot;https://www.qutebrowser.org/&quot;&gt;QuteBrowser&lt;/a&gt; for the past 2 days (more on that later), and the only thing I missed so far was a &lt;a href=&quot;https://www.lastpass.com/&quot;&gt;LastPass&lt;/a&gt; integration.&lt;/p&gt;
+
+&lt;p&gt;Now, QuteBrowser does not come with a plugin store like Firefox or Chrome, but it is still possible to use LastPass with it.&lt;/p&gt;
+
+&lt;p&gt;First we need to install &lt;code class=&quot;highlighter-rouge&quot;&gt;lastpass-cli&lt;/code&gt; and login to the service. I’m running Manjaro Linux on my laptop so I use &lt;code class=&quot;highlighter-rouge&quot;&gt;yaourt&lt;/code&gt; :&lt;/p&gt;
+
+&lt;pre&gt;yaourt lasstpass-cli
+&lt;/pre&gt;
+
+&lt;p&gt;Now we login to Lastpass :&lt;/p&gt;
+
+&lt;pre&gt;lpass login &amp;lt;email@domain.tld&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;A prompt pops-up, asking for your master password. If everything went right, the CLI should responds with&lt;/p&gt;
+
+&lt;pre&gt;Success: Logged in as &amp;lt;email@domain.tld&amp;gt;.
+&lt;/pre&gt;
+
+&lt;p&gt;Since we’re good to go, we can now download the QuteBrowser userscripts :&lt;/p&gt;
+
+&lt;pre&gt;mkdir -p $/.local/share/qutebrowser/userscripts &amp;amp;&amp;amp; cd $_
+
+wget https://raw.githubusercontent.com/welps/qutebrowser/9a85796ac30ef33218dd7dee9db6a3c28364f668/misc/userscripts/qute-lastpass
+
+chmod +x qute-lastpass
+&lt;/pre&gt;
+
+&lt;p&gt;The script is installed. We can restart QuteBrowser by typing &lt;code class=&quot;highlighter-rouge&quot;&gt;:restart&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now everytime you need to find your login/password for a given page type &lt;code class=&quot;highlighter-rouge&quot;&gt;:spawn --userscript qute-lastpass&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h3&gt;
+
+&lt;p&gt;**Process stderr:&lt;br /&gt;
+Traceback (most recent call last):&lt;br /&gt;
+File « /home/cedric/.local/share/qutebrowser/userscripts/qute-lastpass », line 50, in &lt;module&gt;  
+import tldextract  
+ModuleNotFoundError: No module named &amp;lsquo;tldextract&amp;rsquo;**&lt;/module&gt;&lt;/p&gt;
+
+&lt;p&gt;Solution : &lt;code class=&quot;highlighter-rouge&quot;&gt;pip install tldextract --user&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FileNotFoundError: [Errno 2] No such file or directory: ‘lpass’: ‘lpass’&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Solution : install lastpass-cli&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FileNotFoundError: [Errno 2] No such file or directory: ‘rofi’: ‘rofi’&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Solution : install &lt;a href=&quot;https://github.com/DaveDavenport/rofi/&quot;&gt;rofi&lt;/a&gt;&lt;/p&gt;</content><author><name>cedric</name></author><category term="cli" /><category term="lastpass" /><category term="qutebrowser" /><summary type="html">I’ve been using QuteBrowser for the past 2 days (more on that later), and the only thing I missed so far was a LastPass integration.</summary></entry><entry><title type="html"></title><link href="/2019/02/06/4696/" rel="alternate" type="text/html" title="" /><published>2019-02-06T22:00:48+01:00</published><updated>2019-02-06T22:00:48+01:00</updated><id>/2019/02/06/4696</id><content type="html" xml:base="/2019/02/06/4696/">&lt;p&gt;@lord@pleroma.lord.re Grace a ton blog je viens de découvrir QuteBrowser, soit mille fois remercié&lt;/p&gt;</content><author><name>cedric</name></author><summary type="html">@lord@pleroma.lord.re Grace a ton blog je viens de découvrir QuteBrowser, soit mille fois remercié</summary></entry><entry><title type="html"></title><link href="/2019/01/17/4629/" rel="alternate" type="text/html" title="" /><published>2019-01-17T15:29:32+01:00</published><updated>2019-01-17T15:29:32+01:00</updated><id>/2019/01/17/4629</id><content type="html" xml:base="/2019/01/17/4629/">&lt;p&gt;A Modern Web Application With Rails https://medium.com/@coorasse/a-modern-web-application-with-rails-da3deb48014c #ruby #rails&lt;/p&gt;</content><author><name>cedric</name></author><category term="rails" /><category term="ruby" /><summary type="html">A Modern Web Application With Rails https://medium.com/@coorasse/a-modern-web-application-with-rails-da3deb48014c #ruby #rails</summary></entry><entry><title type="html"></title><link href="/social/2019/01/15/31949.html" rel="alternate" type="text/html" title="" /><published>2019-01-15T09:52:29+01:00</published><updated>2019-01-15T09:52:29+01:00</updated><id>/social/2019/01/15/31949</id><content type="html" xml:base="/social/2019/01/15/31949.html"></content><author><name></name></author><category term="social" /><summary type="html"></summary></entry><entry><title type="html">How to install Solargraph with Sublime Text LSP</title><link href="/2019/01/10/how-install-solargraph-sublimetext-lsp/" rel="alternate" type="text/html" title="How to install Solargraph with Sublime Text LSP" /><published>2019-01-10T18:15:36+01:00</published><updated>2019-01-10T18:15:36+01:00</updated><id>/2019/01/10/how-install-solargraph-sublimetext-lsp</id><content type="html" xml:base="/2019/01/10/how-install-solargraph-sublimetext-lsp/">&lt;p&gt;Solargraph is a Ruby Language Server. It’s meant to add code completion and inline documentation onto IDEs.&lt;/p&gt;
+
+&lt;p&gt;We have to install the gem first&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;gem install solargraph&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Within Sublime Text Control Panel (&lt;code class=&quot;highlighter-rouge&quot;&gt;CTRL+Shift+P&lt;/code&gt;) :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Find &lt;strong&gt;Package Control: Install Package&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Then &lt;strong&gt;LSP&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Hit &lt;code class=&quot;highlighter-rouge&quot;&gt;enter&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By default, the ST plugin will look for &lt;code class=&quot;highlighter-rouge&quot;&gt;rvm&lt;/code&gt;, not &lt;code class=&quot;highlighter-rouge&quot;&gt;rbenv&lt;/code&gt;. We have to force the settings &lt;code class=&quot;highlighter-rouge&quot;&gt;Preferences &amp;gt; Package Settings &amp;gt; LSP &amp;gt; Settings&lt;/code&gt;, and paste this :&lt;/p&gt;
+
+&lt;div class=&quot;oembed-gist&quot;&gt;
+  &lt;noscript&gt;
+    View the code on &lt;a href=&quot;https://gist.github.com/cedricbousmanne/099bccef4472912aba61545d0c31d5ec&quot;&gt;Gist&lt;/a&gt;.
+  &lt;/noscript&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Note : you need to adjust the value of the path on &lt;strong&gt;line 8&lt;/strong&gt;. You can find the exact installation path of &lt;code class=&quot;highlighter-rouge&quot;&gt;solargraph&lt;/code&gt; on your system with the following command&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;which solargraph&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Finally we can enable the server via the Sublime Text Control Panel (&lt;code class=&quot;highlighter-rouge&quot;&gt;CTRL+Shift+P&lt;/code&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/imgur.com/6W7tjXLl.png?w=900&amp;#038;ssl=1&quot; data-recalc-dims=&quot;1&quot; /&gt;&lt;/p&gt;</content><author><name>cedric</name></author><category term="ruby" /><category term="solargraph" /><category term="sublime text" /><summary type="html">Solargraph is a Ruby Language Server. It’s meant to add code completion and inline documentation onto IDEs.</summary></entry><entry><title type="html">Ton premier jour d’école</title><link href="/2019/01/08/ton-premier-jour-decole/" rel="alternate" type="text/html" title="Ton premier jour d'école" /><published>2019-01-08T12:19:41+01:00</published><updated>2019-01-08T12:19:41+01:00</updated><id>/2019/01/08/ton-premier-jour-decole</id><content type="html" xml:base="/2019/01/08/ton-premier-jour-decole/">&lt;p&gt;C’était ton premier jour d’école, aujourd’hui. Je n’aurais manqué ça pour rien au monde.&lt;/p&gt;
+
+&lt;p&gt;J’ai mal dormi cette nuit, remplis de doutes, d’incertitudes et de questions. Jusqu’à présent, nous t’avions gardé rien que pour nous, et désormais, tu aurais ta propre petite vie, en dehors de la maison. J’ai passé une bonne partie de la nuit à me demander si nous t’avions bien préparé.&lt;/p&gt;
+
+&lt;p&gt;Tu t’es réveillé de bonne humeur ce matin, tu as pris ton lait, tes céréales, et regardé un épisode des Pyjamasques. Je t’ai encore expliqué ce qui allait se passer, ta maman aussi. Je n’étais pas tout à fait sûr que tu comprenais bien toutes les implications que ça avait, mais tu es resté stoïque.&lt;/p&gt;
+
+&lt;p&gt;Quand l’heure de partir est arrivée, je n’en menais pas large. Toi par contre, tu as été brave. Très brave. Bien plus que je ne pouvais l’être. Dans la voiture, tu m’as demandé &lt;cite&gt;la vraie chanson&lt;/cite&gt;. Tu parlais bien sûr de &lt;a href=&quot;https://cedric.io/2018/11/06/4311/&quot;&gt;Californication&lt;/a&gt;. La &lt;strong&gt;vraie&lt;/strong&gt; chanson, pas la berceuse que je te fais écouter le soir avant de dormir.&lt;/p&gt;
+
+&lt;p&gt;Nous sommes arrivés à l’école, ton petit cartable sur le dos, tu as traversé la cours en regardant tout autour de toi. Calme et silencieux, comme souvent, tu te contentais d’observer ce qui t’entourait. A l’intérieur, nous t’avons montré ton porte-manteau, ton prénom y était écrit à côté d’un dessin de petite voiture. Tu as déposé tes affaires avant de me montrer la petite cuisine, dans le couloir.&lt;/p&gt;
+
+&lt;p&gt;Enfin nous sommes entrés en classe. Tu as déposé ta collation et ta gourde dans le tiroir à ton nom, puis tu t’es précipité vers le garage des petites voitures. Tu étais à la fête : plein de jouets dans une salle remplie d’enfants. Intérieurement, je fondais en larmes de voir mon petit bonhomme devenir un grand, mais il ne fallait rien laisser transparaître.&lt;/p&gt;
+
+&lt;p&gt;Alors je me suis tu. Je t’ai souris, je me suis accroupi pour regarder de plus près le jouet que tu me montrais. Quand vint l’heure de partir, maman t’as expliqué que nous te laissions là, jouer avec tes nouveaux amis, mais qu’elle viendrait te rechercher un peu plus tard. Tu as hoché la tête, en disant « oui ». Tu nous a pris dans tes bras, fait un bisou, puis tu t’es dirigé vers la fenêtre pour nous faire « coucou ».&lt;/p&gt;
+
+&lt;p&gt;Nous nous sommes éloignés sans pour autant quitter l’école tout de suite. Je t’ai vu revenir à la fenêtre quelques minutes plus tard. Tu as regardé un petit moment, puis, ne nous voyant pas, tu es retourné dans l’espace de jeu.&lt;/p&gt;
+
+&lt;p&gt;C’était un moment dur pour ta maman et moi, mais bien heureusement, il a semblé bien plus facile pour toi. J’ai hâte de rentrer à la maison, ce soir, et de t’entendre me raconter ta journée.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content><author><name>cedric</name></author><category term="noah" /><summary type="html">C’était ton premier jour d’école, aujourd’hui. Je n’aurais manqué ça pour rien au monde.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/wp-content/uploads/2019/01/crayons-1209804_1280-900x636.jpg" /></entry></feed>

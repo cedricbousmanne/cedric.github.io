@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Identifier une régression grâce à git-bisect | Cédric Bousmanne - Ruby, Rails, Indieweb</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Identifier une régression grâce à git-bisect" />
+<meta name="author" content="cedric" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Enfer et damnation, vous venez de constater un bug dans votre code. Évidemment, il est difficile de savoir à quel moment cette régression est apparue et en trouver l’origine pourrait nous permettre de comprendre et donc de résoudre le bug." />
+<meta property="og:description" content="Enfer et damnation, vous venez de constater un bug dans votre code. Évidemment, il est difficile de savoir à quel moment cette régression est apparue et en trouver l’origine pourrait nous permettre de comprendre et donc de résoudre le bug." />
+<link rel="canonical" href="/2018/10/26/identifier-une-regression-grace-a-git-bisect/" />
+<meta property="og:url" content="/2018/10/26/identifier-une-regression-grace-a-git-bisect/" />
+<meta property="og:site_name" content="Cédric Bousmanne - Ruby, Rails, Indieweb" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-10-26T11:38:12+02:00" />
+<script type="application/ld+json">
+{"description":"Enfer et damnation, vous venez de constater un bug dans votre code. Évidemment, il est difficile de savoir à quel moment cette régression est apparue et en trouver l’origine pourrait nous permettre de comprendre et donc de résoudre le bug.","headline":"Identifier une régression grâce à git-bisect","dateModified":"2018-10-26T11:38:12+02:00","datePublished":"2018-10-26T11:38:12+02:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"/2018/10/26/identifier-une-regression-grace-a-git-bisect/"},"url":"/2018/10/26/identifier-une-regression-grace-a-git-bisect/","author":{"@type":"Person","name":"cedric"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Cédric Bousmanne - Ruby, Rails, Indieweb" /><link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <link rel="micropub" href="https://cedricio-micropub-to-github.herokuapp.com/micropub/main">
+  <link rel="dns-prefetch" href="https://webmention.io"><link rel="preconnect" href="https://webmention.io"><link rel="preconnect" href="ws://webmention.io:8080"><link rel="pingback" href="https://webmention.io/cedric.io/xmlrpc"><link rel="webmention" href="https://webmention.io/cedric.io/webmention">
+</head><body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Cédric Bousmanne - Ruby, Rails, Indieweb</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/a-propos.html">A propos</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/bujo.html">Bujo</a><a class="page-link" href="/indieweb.html">Indieweb</a><a class="page-link" href="/kit-de-survie.html">Kit de survie</a><a class="page-link" href="/now.html">Maintenant</a><a class="page-link" href="/reduction-des-dechets.html">Réduction des déchets</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Identifier une régression grâce à git-bisect</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2018-10-26T11:38:12+02:00" itemprop="datePublished">Oct 26, 2018
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">cedric</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Enfer et damnation, vous venez de constater un bug dans votre code. Évidemment, il est difficile de savoir à quel moment cette régression est apparue et en trouver l’origine pourrait nous permettre de comprendre et donc de résoudre le bug.</p>
+
+<p>Heureusement, <code class="highlighter-rouge">&lt;a href="https://git-scm.com/docs/git-bisect" target="_blank" rel="noopener"&gt;git-bisect&lt;/a&gt;</code> vient à votre secours, pour peu de savoir l’utiliser.</p>
+
+<p>On commence donc par signifier à git que nous sommes dans un état « mauvais » du code :</p>
+
+<pre>git bisect bad
+
+Vous devez démarrer avec "git bisect start"
+Souhaitez-vous que je le fasse pour vous [Y/n] ? y</pre>
+
+<p>Il faut maintenant remonter suffisamment longtemps dans l’historique dans l’objectif de trouver l’état du code ou la régression constatée n’existait pas. Un petit <code class="highlighter-rouge">git log</code> devrait suffire à identifier le commit-id correspondant.</p>
+
+<pre>git checkout &lt;commit-id&gt;</pre>
+
+<p>Après avoir vérifié que la régression n’existait pas dans cet état du code, on signifie à <code class="highlighter-rouge">git-bisect</code> qu’on a une sous la main une version du code correcte.</p>
+
+<pre>git bisect good
+Bissection : 132 révisions à tester après cette (à peu près 7 étapes)
+[&lt;commit-id&gt;] &lt;commit-message&gt;
+</pre>
+
+<p>En retour, <code class="highlighter-rouge">git-bisect</code> nous donne le nombre de révisions à tester (ici : 132), et le nombre d’étapes estimées avant d’obtenir le nom du coupable (ici : 7). Enfin, <code class="highlighter-rouge">git-bisect</code> à effectué un checkout automatique sur un autre <code class="highlighter-rouge">&lt;commit-id&gt;</code> et attend vos instructions.</p>
+
+<p>Il ne reste qu’a tester le code et à donner comme instruction soit un <code class="highlighter-rouge">git bisect good</code>, soit un <code class="highlighter-rouge">git bisect bad</code> en fonction du résultat observé. L’opération sera plus ou moins longue en fonction du nombre de commits à tester.</p>
+
+<pre>➜  webapp git:(6ae90d246) git bisect good
+Bissection : 132 révisions à tester après cette (à peu près 7 étapes)
+[49cbe40d5cb63b9f2a036560190983b2848d6df0] Merge branch 'master' into deploy/staging
+➜  webapp git:(49cbe40d5) ✗ git bisect good
+Bissection : 66 révisions à tester après cette (à peu près 6 étapes)
+[dc9c093633ca9af720ae560b01ff455d4bd4fb51] &lt;commit-message&gt;
+➜  webapp git:(dc9c09363) ✗ git bisect good
+Bissection : 33 révisions à tester après cette (à peu près 5 étapes)
+[4f8b4fd5f7ecb71141510823e89f3d941f6d892b] &lt;commit-message&gt;
+➜  webapp git:(4f8b4fd5f) git bisect bad                                       
+Bissection : 16 révisions à tester après cette (à peu près 4 étapes)
+[0e5acfb262de5f692f8383cd51fe5c4bed729b92] &lt;commit-message&gt;
+➜  webapp git:(0e5acfb26) git bisect good
+Bissection : 7 révisions à tester après cette (à peu près 3 étapes)
+[7623848ffee8d72429623e3b5fb8fb1a8040aeed] &lt;commit-message&gt;
+➜  webapp git:(7623848ff) ✗ git bisect good
+Bissection : 4 révisions à tester après cette (à peu près 2 étapes)
+[50f6b9ebf42ff5cda83d33d4489e944829f87c56] &lt;commit-message&gt;
+➜  webapp git:(50f6b9ebf) ✗ git bisect good
+Bissection : 2 révisions à tester après cette (à peu près 1 étape)
+[d763c0336e13cbc91befbe853194dd077775e6cd] &lt;commit-message&gt;
+➜  webapp git:(d763c0336) git bisect good
+Bissection : 0 révision à tester après cette (à peu près 1 étape)
+[c1af98fc24e031d0d87a567caa7615c0c2c3d66c] &lt;commit-message&gt;
+➜  webapp git:(c1af98fc2) git bisect bad 
+Bissection : 0 révision à tester après cette (à peu près 0 étape)
+[026f9bf37555815c0efc9dfb16e90473faacf48f] &lt;commit-message&gt;
+
+</pre>
+
+<p>Une fois la dernière étape passé, <code class="highlighter-rouge">git-bisect</code> vous donne l’identité du coupable :</p>
+
+<pre>git bisect bad
+026f9bf37555815c0efc9dfb16e90473faacf48f is the first bad commit
+</pre>
+
+<p>Pour terminer, nous pouvons revenir à l’état initial du code (<code class="highlighter-rouge">HEAD</code>)</p>
+
+<pre>git bisect reset</pre>
+
+  </div>
+
+  <a class="u-url" href="/2018/10/26/identifier-une-regression-grace-a-git-bisect/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Cédric Bousmanne - Ruby, Rails, Indieweb</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Cédric Bousmanne - Ruby, Rails, Indieweb</li><li><a class="u-email" href="mailto:cedric@bousmanne.com">cedric@bousmanne.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a rel= "me" href="https://www.facebook.com/cedric.bousmanne" title="cedric.bousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg></a></li><li><a rel= "me" href="https://github.com/cedricbousmanne" title="cedricbousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel= "me" href="https://www.instagram.com/akyrh0" title="akyrh0"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg></a></li><li><a rel= "me" href="https://www.linkedin.com/in/bousmannecedric" title="bousmannecedric"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a></li><li><a rel="me" href="https://ruby.social/@akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#mastodon"></use></svg></a></li><li><a rel= "me" href="https://twitter.com/akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Father of 2, Indieweb enthousiast, I code for a living</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+<script src="/js/JekyllWebmentionIO.js" async></script>
+<template style="display:none" id="webmention-bookmarks"><div class="webmentions webmentions--bookmarks">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No bookmarks were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-likes"><div class="webmentions webmentions--likes">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No likes were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-links"><div class="webmentions webmentions--links">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No links were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-posts"><div class="webmentions webmentions--posts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <a class="webmention__title webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">{{ webmention.title }}</a>
+          <div class="webmention__meta">
+            {% if webmention.pubdate %}
+              <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No posts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-replies"><div class="webmentions webmentions--replies">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                {% if webmention.author.photo %}
+                  <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                {% endif %}
+                <b class="p-name">{{ webmention.author.name }}</b>
+              </a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.author %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No replies were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-reposts"><div class="webmentions webmentions--reposts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No reposts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-rsvps"><div class="webmentions webmentions--rsvps">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="Avatar for {{ webmention.author.name }}" title="{{ webmention.author.name }}">
+              <b class="p-name">{{ webmention.author.name }}</b>
+              {{ webmention.content }}
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No RSVPs were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-count">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<span class="webmention-count"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>{{ count }}</span></template><template style="display:none" id="webmention-webmentions">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<div class="webmentions"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item">
+          <article class="h-cite webmention webmention--{{ webmention.type }}
+            {% unless webmention.author %}webmention--no-author{% endunless %}
+            {% unless webmention.author.photo %}webmention--no-photo{% endunless %}
+            {% if webmention.source=='twitter' %}{% if webmention.type=='like' or webmention.type=='repost' %}webmention--author-starts{% endif %}{% endif %}
+            ">
+            {% if webmention.author %}
+              <div class="webmention__author p-author h-card">
+                <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                  {% if webmention.author.photo %}
+                    <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                  {% endif %}
+                  <b class="p-name">{{ webmention.author.name }}</b>
+                </a>
+              </div>
+            {% endif %}
+
+            <div class="webmention__content p-content">
+              {% if webmention.content %}
+                {{ webmention.content }}
+              {% else %}
+                {{ webmention.title }}
+              {% endif %}
+            </div>
+            
+            <div class="webmention__meta">
+              {% if webmention.pubdate %}
+                <time class="webmention__pubdate dt-published"
+                      datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              {% endif %}
+              {% if webmention.pubdate and webmention.url %}|{% endif %}
+              {% if webmention.url %}
+                <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">Permalink</a>
+              {% endif %}
+            </div>
+          </article>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No webmentions were found.</p>
+  {% endif %}
+</div></template>
+
+  </body>
+
+</html>

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Mutt + ProtonMail | Cédric Bousmanne - Ruby, Rails, Indieweb</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Mutt + ProtonMail" />
+<meta name="author" content="cedric" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Il y a maintenant plusieurs semaines que j’utilise ProtonMail. Bien que rassembler mes 7 adresses précédentes sur une seule m’a grandement simplifié la vie, je ne suis toujours pas satisfait des clients disponibles. Sous Linux, seul Thunderbird est actuellement disponible, à moins d’utiliser de webmail – ce que je fais pour l’instant." />
+<meta property="og:description" content="Il y a maintenant plusieurs semaines que j’utilise ProtonMail. Bien que rassembler mes 7 adresses précédentes sur une seule m’a grandement simplifié la vie, je ne suis toujours pas satisfait des clients disponibles. Sous Linux, seul Thunderbird est actuellement disponible, à moins d’utiliser de webmail – ce que je fais pour l’instant." />
+<link rel="canonical" href="/2018/11/29/mutt-protonmail/" />
+<meta property="og:url" content="/2018/11/29/mutt-protonmail/" />
+<meta property="og:site_name" content="Cédric Bousmanne - Ruby, Rails, Indieweb" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-11-29T10:02:58+01:00" />
+<script type="application/ld+json">
+{"description":"Il y a maintenant plusieurs semaines que j’utilise ProtonMail. Bien que rassembler mes 7 adresses précédentes sur une seule m’a grandement simplifié la vie, je ne suis toujours pas satisfait des clients disponibles. Sous Linux, seul Thunderbird est actuellement disponible, à moins d’utiliser de webmail – ce que je fais pour l’instant.","headline":"Mutt + ProtonMail","dateModified":"2018-11-29T10:02:58+01:00","datePublished":"2018-11-29T10:02:58+01:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"/2018/11/29/mutt-protonmail/"},"url":"/2018/11/29/mutt-protonmail/","author":{"@type":"Person","name":"cedric"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Cédric Bousmanne - Ruby, Rails, Indieweb" /><link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <link rel="micropub" href="https://cedricio-micropub-to-github.herokuapp.com/micropub/main">
+  <link rel="dns-prefetch" href="https://webmention.io"><link rel="preconnect" href="https://webmention.io"><link rel="preconnect" href="ws://webmention.io:8080"><link rel="pingback" href="https://webmention.io/cedric.io/xmlrpc"><link rel="webmention" href="https://webmention.io/cedric.io/webmention">
+</head><body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Cédric Bousmanne - Ruby, Rails, Indieweb</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/a-propos.html">A propos</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/bujo.html">Bujo</a><a class="page-link" href="/indieweb.html">Indieweb</a><a class="page-link" href="/kit-de-survie.html">Kit de survie</a><a class="page-link" href="/now.html">Maintenant</a><a class="page-link" href="/reduction-des-dechets.html">Réduction des déchets</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Mutt + ProtonMail</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2018-11-29T10:02:58+01:00" itemprop="datePublished">Nov 29, 2018
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">cedric</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Il y a maintenant plusieurs semaines que j’utilise <a href="https://protonmail.com/">ProtonMail</a>. Bien que rassembler mes 7 adresses précédentes sur une seule m’a grandement simplifié la vie, je ne suis toujours pas satisfait des clients disponibles. Sous Linux, seul Thunderbird est actuellement disponible, à moins d’utiliser de webmail – ce que je fais pour l’instant.</p>
+
+<p>Il y a quelques années, j’avais testé <a href="https://fr.wikipedia.org/wiki/Mutt">Mutt</a> un peu comme un jeu. La raison pour laquelle j’avais arrêté de l’utiliser était justement le nombre d’adresse que je devais gérer : l’outil était certes intéressant, mais difficile à utiliser avec autant de compte.</p>
+
+<p>Maintenant que j’ai résolu ce problème, j’avais envie de redonner une chance à ce client minimaliste et, par la même occasion, voir s’il était possible de faire cohabiter <a href="https://spaceandtim.es/code/protonmail_mutt/">Mutt et ProtonMail</a>.</p>
+
+<h2 id="installation-et-premier-lancement">Installation et premier lancement</h2>
+
+<p>Pour installer <code class="highlighter-rouge">mutt</code>, il suffit d’installer le paquet du même nom :</p>
+
+<pre>sudo apt install mutt</pre>
+
+<p>En lancant pour la première fois la commande <code class="highlighter-rouge">mutt</code>, je reçois une erreur :</p>
+
+<pre>/var/mail/cedric: Aucun fichier ou dossier de ce type (errno = 2)</pre>
+
+<p>Je crée le fichier en question et je lui donne les permissions nécessaire à mon utilisateur :</p>
+
+<pre>sudo mkdir -p /var/mail/$(whoami)
+sudo chown $(whoami):$(whoami) /var/mail/$(whoami)
+</pre>
+
+<p>J’en profite pour initialiser le fichier de configuration <code class="highlighter-rouge">.muttrc</code></p>
+
+<pre>vim ~/.muttrc 
+</pre>
+
+<pre>set realname = "Your Name"
+set header_cache =~/.mutt/cache/headers
+set certificate_file =~/.mutt/certificates
+set message_cachedir =~/.mutt/cache/bodies
+</pre>
+
+<p>Lancer une nouvelle fois la commande <code class="highlighter-rouge">mutt</code>, ne donne plus d’erreur.</p>
+
+<figure id="attachment_4409" style="width: 1024px" class="wp-caption alignnone"><img class="wp-image-4409 size-large" src="https://i0.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-28-14-04-07.png?resize=900%2C490&#038;ssl=1" alt="" width="900" height="490" srcset="https://i0.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-28-14-04-07.png?resize=1024%2C557&amp;ssl=1 1024w, https://i0.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-28-14-04-07.png?resize=300%2C163&amp;ssl=1 300w, https://i0.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-28-14-04-07.png?resize=768%2C418&amp;ssl=1 768w, https://i0.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-28-14-04-07.png?resize=668%2C364&amp;ssl=1 668w, https://i0.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-28-14-04-07.png?w=1545&amp;ssl=1 1545w" sizes="(max-width: 900px) 100vw, 900px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Premier écran du logiciel Mutt &#8211; un client mail en ligne de commande. Au moins, c&rsquo;est épuré 🙂</figcaption></figure>
+
+<h2 id="configuration-de-mutt">Configuration de mutt</h2>
+
+<p>Note : je pars du principe que le <a href="https://protonmail.com/download/protonmail-bridge_1.1.0-1_amd64.deb">Bridge pour Linux</a> est installé et lancé.</p>
+
+<p>J’ajoute au fichier de configuration <code class="highlighter-rouge">.muttrc</code> les lignes suivantes:</p>
+
+<pre># "+" substitutes for `folder`
+set mbox_type=Maildir
+set folder=/var/mail/cedric/
+set spoolfile=+INBOX
+set record=+Sent
+set postponed=+Drafts
+set trash=+Trash
+set mail_check=2 # seconds
+
+# smtp
+source ~/docs/keys/mail
+set smtp_url=smtp://$my_user:$my_pass@127.0.0.1:1025
+set ssl_force_tls
+set ssl_starttls
+
+</pre>
+
+<p>Et dans le fichier <code class="highlighter-rouge">~/docs/keys/mail</code>:</p>
+
+<pre>set my_user=EMAIL
+set my_pass=MOT_DE_PASSE_DU_BRIDGE
+</pre>
+
+<h2 id="installation-et-configuration-de-offlineimap">Installation et configuration de OfflineIMAP</h2>
+
+<p>J’installe OfflineIMAP :</p>
+
+<pre>sudo pip install offlineimap</pre>
+
+<p>Puis je crée un fichier de configuration <code class="highlighter-rouge">.offlineimaprc&lt;code&gt; :</code>&lt;/code&gt;</p>
+
+<pre>[general]
+accounts = main
+
+[Account main]
+localrepository = main-local
+remoterepository = main-remote
+
+# full refresh, in min
+autorefresh = 0.2
+
+# quick refreshs between each full refresh
+quick = 10
+
+# update notmuch index after sync
+postsynchook = notmuch new
+
+
+[Repository main-local]
+type = Maildir
+localfolders = /var/mail/cedric
+
+# delete remote mails that were deleted locally
+sync_deletes = yes
+
+
+[Repository main-remote]
+type = IMAP
+remoteport = 1143
+remotehost = 127.0.0.1
+remoteuser = EMAIL
+remotepass = MOT_DE_PASSE_DU_BRIDGE
+keepalive = 60
+holdconnectionopen = yes
+
+# delete local mails that were deleted on the remote server
+expunge = yes
+
+# sync only these folders
+folderfilter = lambda foldername: foldername in ['INBOX', 'Archive', 'Sent']
+
+# is broken, but connecting locally to bridge so should be ok
+ssl = no
+
+</pre>
+
+<p>On lance la commande <code class="highlighter-rouge">offlineimap</code>, et, si tout s’est bien passé, on peut commencer à voir la progression de la synchronisation avec ProtonMail :</p>
+
+<pre>OfflineIMAP 7.2.1
+  Licensed under the GNU GPL v2 or any later version (with an OpenSSL exception)
+imaplib2 v2.57 (bundled), Python v2.7.14, OpenSSL 1.0.2g  1 Mar 2016
+Account sync main:
+ *** Processing account main
+ Establishing connection to 127.0.0.1:1143 (main-remote)
+ Creating folder INBOX[main-local]
+ Creating new Local Status db for main-local:INBOX
+ Creating folder Archive[main-local]
+ Creating new Local Status db for main-local:Archive
+ Creating folder Sent[main-local]
+ Creating new Local Status db for main-local:Sent
+Folder Archive [acc: main]:
+ Syncing Archive: IMAP -&gt; Maildir
+Folder INBOX [acc: main]:
+ Syncing INBOX: IMAP -&gt; Maildir
+Folder Archive [acc: main]:
+ Copy message UID 1 (1/263) main-remote:Archive -&gt; main-local:Archive
+Folder INBOX [acc: main]:
+ Copy message UID 1 (1/49) main-remote:INBOX -&gt; main-local:INBOX
+Folder Archive [acc: main]:
+ Copy message UID 2 (2/263) main-remote:Archive -&gt; main-local:Archive
+Folder INBOX [acc: main]:
+ Copy message UID 2 (2/49) main-remote:INBOX -&gt; main-local:INBOX
+</pre>
+
+<p>Il ne reste plus maintenant qu’à relancer la commande <code class="highlighter-rouge">mutt</code> pour visualiser ses mails.</p>
+
+<figure id="attachment_4413" style="width: 1024px" class="wp-caption alignnone"><img class="wp-image-4413 size-large" src="https://i1.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-29-08-56-33.jpg?resize=900%2C490&#038;ssl=1" alt="Mutt est maintenant configuré pour fonctionner avec ProtonMail" width="900" height="490" srcset="https://i1.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-29-08-56-33.jpg?resize=1024%2C557&amp;ssl=1 1024w, https://i1.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-29-08-56-33.jpg?resize=300%2C163&amp;ssl=1 300w, https://i1.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-29-08-56-33.jpg?resize=768%2C418&amp;ssl=1 768w, https://i1.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-29-08-56-33.jpg?resize=668%2C364&amp;ssl=1 668w, https://i1.wp.com/cedric.io/wp-content/uploads/2018/11/Capture-du-2018-11-29-08-56-33.jpg?w=1545&amp;ssl=1 1545w" sizes="(max-width: 900px) 100vw, 900px" data-recalc-dims="1" /><figcaption class="wp-caption-text">L&rsquo;interface de Mutt une fois la configuration terminée</figcaption></figure>
+
+  </div>
+
+  <a class="u-url" href="/2018/11/29/mutt-protonmail/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Cédric Bousmanne - Ruby, Rails, Indieweb</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Cédric Bousmanne - Ruby, Rails, Indieweb</li><li><a class="u-email" href="mailto:cedric@bousmanne.com">cedric@bousmanne.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a rel= "me" href="https://www.facebook.com/cedric.bousmanne" title="cedric.bousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg></a></li><li><a rel= "me" href="https://github.com/cedricbousmanne" title="cedricbousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel= "me" href="https://www.instagram.com/akyrh0" title="akyrh0"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg></a></li><li><a rel= "me" href="https://www.linkedin.com/in/bousmannecedric" title="bousmannecedric"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a></li><li><a rel="me" href="https://ruby.social/@akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#mastodon"></use></svg></a></li><li><a rel= "me" href="https://twitter.com/akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Father of 2, Indieweb enthousiast, I code for a living</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+<script src="/js/JekyllWebmentionIO.js" async></script>
+<template style="display:none" id="webmention-bookmarks"><div class="webmentions webmentions--bookmarks">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No bookmarks were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-likes"><div class="webmentions webmentions--likes">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No likes were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-links"><div class="webmentions webmentions--links">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No links were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-posts"><div class="webmentions webmentions--posts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <a class="webmention__title webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">{{ webmention.title }}</a>
+          <div class="webmention__meta">
+            {% if webmention.pubdate %}
+              <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No posts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-replies"><div class="webmentions webmentions--replies">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                {% if webmention.author.photo %}
+                  <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                {% endif %}
+                <b class="p-name">{{ webmention.author.name }}</b>
+              </a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.author %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No replies were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-reposts"><div class="webmentions webmentions--reposts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No reposts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-rsvps"><div class="webmentions webmentions--rsvps">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="Avatar for {{ webmention.author.name }}" title="{{ webmention.author.name }}">
+              <b class="p-name">{{ webmention.author.name }}</b>
+              {{ webmention.content }}
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No RSVPs were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-count">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<span class="webmention-count"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>{{ count }}</span></template><template style="display:none" id="webmention-webmentions">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<div class="webmentions"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item">
+          <article class="h-cite webmention webmention--{{ webmention.type }}
+            {% unless webmention.author %}webmention--no-author{% endunless %}
+            {% unless webmention.author.photo %}webmention--no-photo{% endunless %}
+            {% if webmention.source=='twitter' %}{% if webmention.type=='like' or webmention.type=='repost' %}webmention--author-starts{% endif %}{% endif %}
+            ">
+            {% if webmention.author %}
+              <div class="webmention__author p-author h-card">
+                <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                  {% if webmention.author.photo %}
+                    <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                  {% endif %}
+                  <b class="p-name">{{ webmention.author.name }}</b>
+                </a>
+              </div>
+            {% endif %}
+
+            <div class="webmention__content p-content">
+              {% if webmention.content %}
+                {{ webmention.content }}
+              {% else %}
+                {{ webmention.title }}
+              {% endif %}
+            </div>
+            
+            <div class="webmention__meta">
+              {% if webmention.pubdate %}
+                <time class="webmention__pubdate dt-published"
+                      datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              {% endif %}
+              {% if webmention.pubdate and webmention.url %}|{% endif %}
+              {% if webmention.url %}
+                <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">Permalink</a>
+              {% endif %}
+            </div>
+          </article>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No webmentions were found.</p>
+  {% endif %}
+</div></template>
+
+  </body>
+
+</html>

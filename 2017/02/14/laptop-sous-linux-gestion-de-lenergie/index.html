@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Laptop sous Linux : gestion de l’énergie | Cédric Bousmanne - Ruby, Rails, Indieweb</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Laptop sous Linux : gestion de l’énergie" />
+<meta name="author" content="cedric" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="tlp est un outil en ligne de commande qui va se charger d’optimiser au mieux les paramètres de votre système dans le but de réduire la consommation de la batterie." />
+<meta property="og:description" content="tlp est un outil en ligne de commande qui va se charger d’optimiser au mieux les paramètres de votre système dans le but de réduire la consommation de la batterie." />
+<link rel="canonical" href="/2017/02/14/laptop-sous-linux-gestion-de-lenergie/" />
+<meta property="og:url" content="/2017/02/14/laptop-sous-linux-gestion-de-lenergie/" />
+<meta property="og:site_name" content="Cédric Bousmanne - Ruby, Rails, Indieweb" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-02-14T13:29:34+01:00" />
+<script type="application/ld+json">
+{"description":"tlp est un outil en ligne de commande qui va se charger d’optimiser au mieux les paramètres de votre système dans le but de réduire la consommation de la batterie.","headline":"Laptop sous Linux : gestion de l’énergie","dateModified":"2017-02-14T13:29:34+01:00","datePublished":"2017-02-14T13:29:34+01:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"/2017/02/14/laptop-sous-linux-gestion-de-lenergie/"},"url":"/2017/02/14/laptop-sous-linux-gestion-de-lenergie/","author":{"@type":"Person","name":"cedric"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Cédric Bousmanne - Ruby, Rails, Indieweb" /><link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <link rel="micropub" href="https://cedricio-micropub-to-github.herokuapp.com/micropub/main">
+  <link rel="dns-prefetch" href="https://webmention.io"><link rel="preconnect" href="https://webmention.io"><link rel="preconnect" href="ws://webmention.io:8080"><link rel="pingback" href="https://webmention.io/cedric.io/xmlrpc"><link rel="webmention" href="https://webmention.io/cedric.io/webmention">
+</head><body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Cédric Bousmanne - Ruby, Rails, Indieweb</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/a-propos.html">A propos</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/bujo.html">Bujo</a><a class="page-link" href="/indieweb.html">Indieweb</a><a class="page-link" href="/kit-de-survie.html">Kit de survie</a><a class="page-link" href="/now.html">Maintenant</a><a class="page-link" href="/reduction-des-dechets.html">Réduction des déchets</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Laptop sous Linux : gestion de l&amp;rsquo;énergie</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2017-02-14T13:29:34+01:00" itemprop="datePublished">Feb 14, 2017
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">cedric</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p><code class="highlighter-rouge">tlp</code> est un outil en ligne de commande qui va se charger d’optimiser au mieux les paramètres de votre système dans le but de réduire la consommation de la batterie.</p>
+
+<h3 id="installation">Installation</h3>
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>sudo apt-get install tlp
+</code></pre>
+  </div>
+</div>
+
+<p>Dans mon cas, sur <a href="/blog/2017/02/14/debian-8-jessie-lenovo-t420s/">mon Lenovo Thinkpad</a>, j’ai également installé les paquets suivants :</p>
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>sudo apt-get install tp-smapi-dkms acpi-call-dkms
+</code></pre>
+  </div>
+</div>
+
+<h3 id="utilisation">Utilisation</h3>
+
+<p>La commande <code class="highlighter-rouge">tlp-stat</code> renvoie une série d’information sur l’état de votre machine.</p>
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>&lt;span class="gd"&gt;--- TLP 0.9 --------------------------------------------
+&lt;/span&gt;
+&lt;span class="gi"&gt;+++ Configured Settings: /etc/default/tlp
+&lt;/span&gt;TLP_ENABLE=1
+TLP_DEFAULT_MODE=AC
+DISK_IDLE_SECS_ON_AC=0
+DISK_IDLE_SECS_ON_BAT=2
+MAX_LOST_WORK_SECS_ON_AC=15
+MAX_LOST_WORK_SECS_ON_BAT=60
+SCHED_POWERSAVE_ON_AC=0
+SCHED_POWERSAVE_ON_BAT=1
+NMI_WATCHDOG=0
+ENERGY_PERF_POLICY_ON_AC=performance
+ENERGY_PERF_POLICY_ON_BAT=powersave
+DISK_DEVICES="sda sdb"
+DISK_APM_LEVEL_ON_AC="254 254"
+DISK_APM_LEVEL_ON_BAT="128 128"
+SATA_LINKPWR_ON_AC=max_performance
+SATA_LINKPWR_ON_BAT=min_power
+AHCI_RUNTIME_PM_TIMEOUT=15
+PCIE_ASPM_ON_AC=performance
+PCIE_ASPM_ON_BAT=powersave
+RADEON_POWER_PROFILE_ON_AC=high
+RADEON_POWER_PROFILE_ON_BAT=low
+RADEON_DPM_STATE_ON_AC=performance
+RADEON_DPM_STATE_ON_BAT=battery
+RADEON_DPM_PERF_LEVEL_ON_AC=auto
+RADEON_DPM_PERF_LEVEL_ON_BAT=auto
+WIFI_PWR_ON_AC=off
+WIFI_PWR_ON_BAT=on
+WOL_DISABLE=Y
+SOUND_POWER_SAVE_ON_AC=0
+SOUND_POWER_SAVE_ON_BAT=1
+SOUND_POWER_SAVE_CONTROLLER=Y
+BAY_POWEROFF_ON_BAT=0
+BAY_DEVICE="sr0"
+RUNTIME_PM_ON_AC=on
+RUNTIME_PM_ON_BAT=auto
+RUNTIME_PM_ALL=1
+RUNTIME_PM_DRIVER_BLACKLIST="radeon nouveau"
+USB_AUTOSUSPEND=1
+USB_BLACKLIST_WWAN=1
+RESTORE_DEVICE_STATE_ON_STARTUP=0
+
+&lt;span class="gi"&gt;+++ System Info
+&lt;/span&gt;System         = LENOVO ThinkPad T420s 4174CN5
+BIOS           = 8CET50WW (1.30 )
+Release        = Debian GNU/Linux 8.7 (jessie)
+Kernel         = 3.16.0-4-amd64 #1 SMP Debian 3.16.39-1 (2016-12-30) x86_64
+/proc/cmdline  = BOOT_IMAGE=/vmlinuz-3.16.0-4-amd64 root=UUID=9a478dc2-0e42-40d7-b493-914abc99363e ro initrd=/install/gtk/initrd.gz quiet
+Init system    = systemd v215
+Boot mode      = BIOS (CSM, Legacy)
+
+&lt;span class="gi"&gt;+++ TLP Status
+&lt;/span&gt;State          = enabled
+Last run       = unknown
+Mode           = unknown
+Power source   = AC
+
+&lt;span class="gi"&gt;+++ Processor
+&lt;/span&gt;CPU model      = Intel(R) Core(TM) i7-2640M CPU @ 2.80GHz
+
+/sys/devices/system/cpu/cpu0/cpufreq/scaling_driver    = intel_pstate
+/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor  = powersave
+/sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors = performance powersave
+/sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq  =   800000 [kHz]
+/sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq  =  3500000 [kHz]
+
+/sys/devices/system/cpu/cpu1/cpufreq/scaling_driver    = intel_pstate
+/sys/devices/system/cpu/cpu1/cpufreq/scaling_governor  = powersave
+/sys/devices/system/cpu/cpu1/cpufreq/scaling_available_governors = performance powersave
+/sys/devices/system/cpu/cpu1/cpufreq/scaling_min_freq  =   800000 [kHz]
+/sys/devices/system/cpu/cpu1/cpufreq/scaling_max_freq  =  3500000 [kHz]
+
+/sys/devices/system/cpu/cpu2/cpufreq/scaling_driver    = intel_pstate
+/sys/devices/system/cpu/cpu2/cpufreq/scaling_governor  = powersave
+/sys/devices/system/cpu/cpu2/cpufreq/scaling_available_governors = performance powersave
+/sys/devices/system/cpu/cpu2/cpufreq/scaling_min_freq  =   800000 [kHz]
+/sys/devices/system/cpu/cpu2/cpufreq/scaling_max_freq  =  3500000 [kHz]
+
+/sys/devices/system/cpu/cpu3/cpufreq/scaling_driver    = intel_pstate
+/sys/devices/system/cpu/cpu3/cpufreq/scaling_governor  = powersave
+/sys/devices/system/cpu/cpu3/cpufreq/scaling_available_governors = performance powersave
+/sys/devices/system/cpu/cpu3/cpufreq/scaling_min_freq  =   800000 [kHz]
+/sys/devices/system/cpu/cpu3/cpufreq/scaling_max_freq  =  3500000 [kHz]
+
+/sys/devices/system/cpu/intel_pstate/min_perf_pct      = 22
+/sys/devices/system/cpu/intel_pstate/max_perf_pct      = 100
+/sys/devices/system/cpu/intel_pstate/no_turbo          = 0
+/sys/devices/system/cpu/intel_pstate/turbo_pct         = (not available)
+/sys/devices/system/cpu/intel_pstate/num_pstates       = (not available)
+
+x86_energy_perf_policy: program not installed.
+
+/proc/sys/kernel/nmi_watchdog                          = 1
+
+&lt;span class="gi"&gt;+++ Undervolting
+&lt;/span&gt;PHC kernel not available.
+
+&lt;span class="gi"&gt;+++ Temperatures
+&lt;/span&gt;CPU temp               =    47 [°C]
+/proc/acpi/ibm/fan     =  1956 [/min]
+
+&lt;span class="gi"&gt;+++ File System
+&lt;/span&gt;/proc/sys/vm/laptop_mode               =     0
+/proc/sys/vm/dirty_writeback_centisecs =   500
+/proc/sys/vm/dirty_expire_centisecs    =  3000
+/proc/sys/vm/dirty_ratio               =    20
+/proc/sys/vm/dirty_background_ratio    =    10
+/proc/sys/fs/xfs/age_buffer_centisecs  = (not available)
+/proc/sys/fs/xfs/xfssyncd_centisecs    = (not available)
+/proc/sys/fs/xfs/xfsbufd_centisecs     = (not available)
+
+&lt;span class="gi"&gt;+++ Storage Devices
+&lt;/span&gt;/dev/sda:
+  Model     = SAMSUNG MZ7PA128HMCD-010L1              
+  Firmware  = AXM08L1Q
+  APM Level = none/disabled
+  Status    = active/idle
+  TRIM      = supported
+  Scheduler = cfq
+
+  Runtime PM: control = on, autosuspend_delay =   -1
+
+  SMART info:
+      9 Power_On_Hours            =    17723 [h]
+     12 Power_Cycle_Count         =     1510 
+    177 Wear_Leveling_Count       =       88 [%]
+    178 Used_Rsvd_Blk_Cnt_Chip    =      452 
+    179 Used_Rsvd_Blk_Cnt_Tot     =      748 
+    180 Unused_Rsvd_Blk_Cnt_Tot   =     3284 
+    190 Airflow_Temperature_Cel   =       32 [°C]
+    233 Media_Wearout_Indicator   =      199 [%]
+
+
+&lt;span class="gi"&gt;+++ SATA Aggressive Link Power Management
+&lt;/span&gt;/sys/class/scsi_host/host0/link_power_management_policy  = max_performance
+/sys/class/scsi_host/host1/link_power_management_policy  = max_performance
+/sys/class/scsi_host/host2/link_power_management_policy  = max_performance
+/sys/class/scsi_host/host3/link_power_management_policy  = max_performance
+/sys/class/scsi_host/host4/link_power_management_policy  = max_performance
+/sys/class/scsi_host/host5/link_power_management_policy  = max_performance
+
+&lt;span class="gi"&gt;+++ AHCI Host Controller Runtime Power Management
+&lt;/span&gt;/sys/bus/pci/devices/0000:00:1f.2/ata1/power/control = on
+/sys/bus/pci/devices/0000:00:1f.2/ata2/power/control = on
+/sys/bus/pci/devices/0000:00:1f.2/ata3/power/control = on
+/sys/bus/pci/devices/0000:00:1f.2/ata4/power/control = on
+/sys/bus/pci/devices/0000:00:1f.2/ata5/power/control = on
+/sys/bus/pci/devices/0000:00:1f.2/ata6/power/control = on
+
+&lt;span class="gi"&gt;+++ PCIe Active State Power Management
+&lt;/span&gt;/sys/module/pcie_aspm/parameters/policy = default (using bios preferences)
+
+&lt;span class="gi"&gt;+++ Intel Graphics
+&lt;/span&gt;/sys/module/i915/parameters/powersave        =  1 (enabled)
+/sys/module/i915/parameters/enable_rc6       =  1 (enabled)
+/sys/module/i915/parameters/enable_dc        = (not available)
+/sys/module/i915/parameters/enable_fbc       = -1 (use per-chip default)
+/sys/module/i915/parameters/enable_psr       =  0 (disabled)
+/sys/module/i915/parameters/lvds_downclock   =  1 (enabled)
+/sys/module/i915/parameters/modeset          = -1 (use per-chip default)
+/sys/module/i915/parameters/semaphores       = -1 (use per-chip default)
+
+&lt;span class="gi"&gt;+++ Wireless
+&lt;/span&gt;bluetooth = on
+wifi      = on
+wwan      = none (no device)
+
+hci0(btusb)                   : bluetooth, not connected
+wlan0(iwlwifi)                : wifi, connected, power management = off
+
+&lt;span class="gi"&gt;+++ Audio
+&lt;/span&gt;/sys/module/snd_hda_intel/parameters/power_save            = 0
+/sys/module/snd_hda_intel/parameters/power_save_controller = Y
+
+&lt;span class="gi"&gt;+++ Docks and Device Bays
+&lt;/span&gt;/sys/devices/platform/dock.0: battery_bay   = no battery 
+/sys/devices/platform/dock.1: ata_bay       = drive present
+
+&lt;span class="gi"&gt;+++ Runtime Power Management
+&lt;/span&gt;Device classes   = all
+Device blacklist = (not configured)
+Driver blacklist = radeon nouveau
+
+/sys/bus/pci/devices/0000:00:00.0/power/control = on   (0x060000, Host bridge, no driver)
+/sys/bus/pci/devices/0000:00:01.0/power/control = on   (0x060400, PCI bridge, pcieport)
+/sys/bus/pci/devices/0000:00:02.0/power/control = on   (0x030000, VGA compatible controller, i915)
+/sys/bus/pci/devices/0000:00:16.0/power/control = on   (0x078000, Communication controller, mei_me)
+/sys/bus/pci/devices/0000:00:16.3/power/control = on   (0x070002, Serial controller, serial)
+/sys/bus/pci/devices/0000:00:19.0/power/control = on   (0x020000, Ethernet controller, e1000e)
+/sys/bus/pci/devices/0000:00:1a.0/power/control = on   (0x0c0320, USB controller, ehci-pci)
+/sys/bus/pci/devices/0000:00:1b.0/power/control = on   (0x040300, Audio device, snd_hda_intel)
+/sys/bus/pci/devices/0000:00:1c.0/power/control = on   (0x060400, PCI bridge, pcieport)
+/sys/bus/pci/devices/0000:00:1c.1/power/control = on   (0x060400, PCI bridge, pcieport)
+/sys/bus/pci/devices/0000:00:1c.3/power/control = on   (0x060400, PCI bridge, pcieport)
+/sys/bus/pci/devices/0000:00:1c.4/power/control = on   (0x060400, PCI bridge, pcieport)
+/sys/bus/pci/devices/0000:00:1d.0/power/control = on   (0x0c0320, USB controller, ehci-pci)
+/sys/bus/pci/devices/0000:00:1f.0/power/control = on   (0x060100, ISA bridge, lpc_ich)
+/sys/bus/pci/devices/0000:00:1f.2/power/control = on   (0x010601, SATA controller, ahci)
+/sys/bus/pci/devices/0000:00:1f.3/power/control = on   (0x0c0500, SMBus, i801_smbus)
+/sys/bus/pci/devices/0000:01:00.0/power/control = on   (0x030000, VGA compatible controller, no driver)
+/sys/bus/pci/devices/0000:03:00.0/power/control = on   (0x028000, Network controller, iwlwifi)
+/sys/bus/pci/devices/0000:05:00.0/power/control = on   (0x088000, System peripheral, sdhci-pci)
+/sys/bus/pci/devices/0000:0d:00.0/power/control = on   (0x0c0330, USB controller, xhci_hcd)
+
+&lt;span class="gi"&gt;+++ USB
+&lt;/span&gt;Autosuspend        = enabled
+Device whitelist   = (not configured)
+Device blacklist   = (not configured)
+WWAN blacklist     = enabled
+
+Bus 004 Device 002 ID 8087:0024 control = auto, autosuspend_delay_ms =     0 -- Intel Corp. Integrated Rate Matching Hub (hub)
+Bus 004 Device 001 ID 1d6b:0002 control = auto, autosuspend_delay_ms =     0 -- Linux Foundation 2.0 root hub (hub)
+Bus 002 Device 001 ID 1d6b:0003 control = auto, autosuspend_delay_ms =     0 -- Linux Foundation 3.0 root hub (hub)
+Bus 001 Device 001 ID 1d6b:0002 control = auto, autosuspend_delay_ms =     0 -- Linux Foundation 2.0 root hub (hub)
+Bus 003 Device 004 ID 04f2:b221 control = auto, autosuspend_delay_ms =  2000 -- Chicony Electronics Co., Ltd integrated camera (uvcvideo)
+Bus 003 Device 003 ID 0a5c:217f control = on,   autosuspend_delay_ms =  2000 -- Broadcom Corp. BCM2045B (BDC-2.1) (btusb)
+Bus 003 Device 002 ID 8087:0024 control = auto, autosuspend_delay_ms =     0 -- Intel Corp. Integrated Rate Matching Hub (hub)
+Bus 003 Device 001 ID 1d6b:0002 control = auto, autosuspend_delay_ms =     0 -- Linux Foundation 2.0 root hub (hub)
+
+&lt;span class="gi"&gt;+++ ThinkPad Extended Battery Functions
+&lt;/span&gt;tp-smapi   = active
+tpacpi-bat = active
+
+&lt;span class="gi"&gt;+++ ThinkPad Battery Status: BAT0 (Main / Internal)
+&lt;/span&gt;/sys/devices/platform/smapi/BAT0/manufacturer               = SANYO
+/sys/devices/platform/smapi/BAT0/model                      = 42T4845
+/sys/devices/platform/smapi/BAT0/manufacture_date           = 2011-12-30
+/sys/devices/platform/smapi/BAT0/first_use_date             = 2012-02-21
+/sys/devices/platform/smapi/BAT0/cycle_count                =    278
+/sys/devices/platform/smapi/BAT0/design_capacity            =  44000 [mWh]
+/sys/devices/platform/smapi/BAT0/last_full_capacity         =  38570 [mWh]
+/sys/devices/platform/smapi/BAT0/remaining_capacity         =  38570 [mWh]
+/sys/devices/platform/smapi/BAT0/remaining_percent          =    100 [%]
+/sys/devices/platform/smapi/BAT0/remaining_running_time_now = not_discharging [min]
+/sys/devices/platform/smapi/BAT0/remaining_charging_time    = not_charging [min]
+/sys/devices/platform/smapi/BAT0/power_now                  =      0 [mW]
+/sys/devices/platform/smapi/BAT0/power_avg                  =      0 [mW]
+/sys/devices/platform/smapi/BAT0/state                      = idle
+
+tpacpi-bat.BAT0.startThreshold                              =     96 [%]
+tpacpi-bat.BAT0.stopThreshold                               =    100 [%]
+tpacpi-bat.BAT0.forceDischarge                              =      0
+
+Charge                                                      =  100.0 [%]
+Capacity                                                    =   87.7 [%]
+
+
+</code></pre>
+  </div>
+</div>
+
+<p>Loin d’être un expert, je tire deux conclusions de ces données :</p>
+
+<ul>
+  <li>La capacité de ma batterie reste honorable : 87% de la capacité initiale de 44000mWh est tout a fait acceptable pour une machine qui avait déjà plus de 5 ans lorsque je l’ai achetée</li>
+  <li>La vie de mon SSD n’est pas en danger immédiat (Wear Leveling Count à 88%)</li>
+</ul>
+
+  </div>
+
+  <a class="u-url" href="/2017/02/14/laptop-sous-linux-gestion-de-lenergie/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Cédric Bousmanne - Ruby, Rails, Indieweb</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Cédric Bousmanne - Ruby, Rails, Indieweb</li><li><a class="u-email" href="mailto:cedric@bousmanne.com">cedric@bousmanne.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a rel= "me" href="https://www.facebook.com/cedric.bousmanne" title="cedric.bousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg></a></li><li><a rel= "me" href="https://github.com/cedricbousmanne" title="cedricbousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel= "me" href="https://www.instagram.com/akyrh0" title="akyrh0"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg></a></li><li><a rel= "me" href="https://www.linkedin.com/in/bousmannecedric" title="bousmannecedric"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a></li><li><a rel="me" href="https://ruby.social/@akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#mastodon"></use></svg></a></li><li><a rel= "me" href="https://twitter.com/akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Father of 2, Indieweb enthousiast, I code for a living</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+<script src="/js/JekyllWebmentionIO.js" async></script>
+<template style="display:none" id="webmention-bookmarks"><div class="webmentions webmentions--bookmarks">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No bookmarks were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-likes"><div class="webmentions webmentions--likes">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No likes were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-links"><div class="webmentions webmentions--links">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No links were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-posts"><div class="webmentions webmentions--posts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <a class="webmention__title webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">{{ webmention.title }}</a>
+          <div class="webmention__meta">
+            {% if webmention.pubdate %}
+              <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No posts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-replies"><div class="webmentions webmentions--replies">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                {% if webmention.author.photo %}
+                  <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                {% endif %}
+                <b class="p-name">{{ webmention.author.name }}</b>
+              </a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.author %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No replies were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-reposts"><div class="webmentions webmentions--reposts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No reposts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-rsvps"><div class="webmentions webmentions--rsvps">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="Avatar for {{ webmention.author.name }}" title="{{ webmention.author.name }}">
+              <b class="p-name">{{ webmention.author.name }}</b>
+              {{ webmention.content }}
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No RSVPs were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-count">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<span class="webmention-count"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>{{ count }}</span></template><template style="display:none" id="webmention-webmentions">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<div class="webmentions"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item">
+          <article class="h-cite webmention webmention--{{ webmention.type }}
+            {% unless webmention.author %}webmention--no-author{% endunless %}
+            {% unless webmention.author.photo %}webmention--no-photo{% endunless %}
+            {% if webmention.source=='twitter' %}{% if webmention.type=='like' or webmention.type=='repost' %}webmention--author-starts{% endif %}{% endif %}
+            ">
+            {% if webmention.author %}
+              <div class="webmention__author p-author h-card">
+                <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                  {% if webmention.author.photo %}
+                    <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                  {% endif %}
+                  <b class="p-name">{{ webmention.author.name }}</b>
+                </a>
+              </div>
+            {% endif %}
+
+            <div class="webmention__content p-content">
+              {% if webmention.content %}
+                {{ webmention.content }}
+              {% else %}
+                {{ webmention.title }}
+              {% endif %}
+            </div>
+            
+            <div class="webmention__meta">
+              {% if webmention.pubdate %}
+                <time class="webmention__pubdate dt-published"
+                      datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              {% endif %}
+              {% if webmention.pubdate and webmention.url %}|{% endif %}
+              {% if webmention.url %}
+                <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">Permalink</a>
+              {% endif %}
+            </div>
+          </article>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No webmentions were found.</p>
+  {% endif %}
+</div></template>
+
+  </body>
+
+</html>

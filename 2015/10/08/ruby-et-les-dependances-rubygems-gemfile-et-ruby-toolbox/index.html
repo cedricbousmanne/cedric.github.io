@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Ruby et les dépendances : RubyGems, Gemfile et Ruby Toolbox | Cédric Bousmanne - Ruby, Rails, Indieweb</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Ruby et les dépendances : RubyGems, Gemfile et Ruby Toolbox" />
+<meta name="author" content="cedric" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Quand on parle de Ruby on Rails, RubyGems n’est jamais très loin. RubyGems, c’est le service d’hébergement des Gems, l’écosystème des bibliothèques (librairies) inhérantes à Ruby." />
+<meta property="og:description" content="Quand on parle de Ruby on Rails, RubyGems n’est jamais très loin. RubyGems, c’est le service d’hébergement des Gems, l’écosystème des bibliothèques (librairies) inhérantes à Ruby." />
+<link rel="canonical" href="/2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/" />
+<meta property="og:url" content="/2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/" />
+<meta property="og:site_name" content="Cédric Bousmanne - Ruby, Rails, Indieweb" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2015-10-08T17:52:50+02:00" />
+<script type="application/ld+json">
+{"description":"Quand on parle de Ruby on Rails, RubyGems n’est jamais très loin. RubyGems, c’est le service d’hébergement des Gems, l’écosystème des bibliothèques (librairies) inhérantes à Ruby.","headline":"Ruby et les dépendances : RubyGems, Gemfile et Ruby Toolbox","dateModified":"2015-10-08T17:52:50+02:00","datePublished":"2015-10-08T17:52:50+02:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/"},"url":"/2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/","author":{"@type":"Person","name":"cedric"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Cédric Bousmanne - Ruby, Rails, Indieweb" /><link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <link rel="micropub" href="https://cedricio-micropub-to-github.herokuapp.com/micropub/main">
+  <link rel="dns-prefetch" href="https://webmention.io"><link rel="preconnect" href="https://webmention.io"><link rel="preconnect" href="ws://webmention.io:8080"><link rel="pingback" href="https://webmention.io/cedric.io/xmlrpc"><link rel="webmention" href="https://webmention.io/cedric.io/webmention">
+</head><body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Cédric Bousmanne - Ruby, Rails, Indieweb</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/a-propos.html">A propos</a><a class="page-link" href="/about/">About</a><a class="page-link" href="/bujo.html">Bujo</a><a class="page-link" href="/indieweb.html">Indieweb</a><a class="page-link" href="/kit-de-survie.html">Kit de survie</a><a class="page-link" href="/now.html">Maintenant</a><a class="page-link" href="/reduction-des-dechets.html">Réduction des déchets</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Ruby et les dépendances : RubyGems, Gemfile et Ruby Toolbox</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2015-10-08T17:52:50+02:00" itemprop="datePublished">Oct 8, 2015
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">cedric</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Quand on parle de Ruby on Rails, <a href="https://rubygems.org/">RubyGems</a> n’est jamais très loin. RubyGems, c’est le service d’hébergement des <em>Gems</em>, l’écosystème des bibliothèques (<em>librairies</em>) inhérantes à Ruby.</p>
+
+<p>A ce jour, RubyGems héberge plus de 6000 Gems et totalise plus de 6 milliards de téléchargements. Ce n’est pas étonnant, mais ça n’en est pas moins impressionnant.</p>
+
+<h2 id="anatomie-dun-gemfile">Anatomie d’un Gemfile</h2>
+
+<p>Le fichier <code class="highlighter-rouge">Gemfile</code>, c’est un peu la liste de courses de votre application. Vous pouvez y préciser l’ensemble des librairies requises pour faire tourner votre app.</p>
+
+<p>Ce fichier doit obligatoirement être installé à la racine de votre projet. Vous pouvez le constater dans l’arborescence ci-dessous, tirée d’un projet Rails tout neuf.</p>
+
+<!-- more -->
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>tree new-app
+new-app
+├── Gemfile
+├── Gemfile.lock
+├── README.rdoc
+├── Rakefile
+├── app
+│   ├── assets
+│   │   ├── images
+│   │   ├── javascripts
+│   │   │   └── application.js
+│   │   └── stylesheets
+│   │       └── application.css
+│   ├── controllers
+│   │   ├── application_controller.rb
+│   │   └── concerns
+│   ├── helpers
+│   │   └── application_helper.rb
+│   ├── mailers
+│   ├── models
+│   │   └── concerns
+│   └── views
+│       └── layouts
+│           └── application.html.erb
+(...)
+38 directories, 40 files
+</code></pre>
+  </div>
+</div>
+
+<h3 id="contenu-du-fichier">Contenu du fichier</h3>
+
+<p>Lorsque l’on démarre un nouveau projet Rails, le Gemfile par défaut ressemble à ceci (les lignes de commentaires ont été supprimées volontairement pour plus de clarté)</p>
+
+<div class="language-ruby highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>&lt;span class="n"&gt;source&lt;/span&gt; &lt;span class="s1"&gt;'https://rubygems.org'&lt;/span&gt;
+
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'rails'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'4.2.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'sqlite3'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'sass-rails'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 5.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'uglifier'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'&gt;= 1.3.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'coffee-rails'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 4.1.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'jquery-rails'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'turbolinks'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'jbuilder'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 2.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'sdoc'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 0.4.0'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ss"&gt;group: :doc&lt;/span&gt;
+
+&lt;span class="n"&gt;group&lt;/span&gt; &lt;span class="ss"&gt;:development&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ss"&gt;:test&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'byebug'&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'web-console'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 2.0'&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'spring'&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+
+</code></pre>
+  </div>
+</div>
+
+<h4 id="source">Source</h4>
+
+<p>Sur la première ligne, <code class="highlighter-rouge">source</code> permet de définir le(s) dépôt(s) à consulter pour aller y télécharger les gems précisées plus bas dans le fichier.</p>
+
+<p>Par défaut, seul le dépot de <a href="http://rubygems.org">rubygems.org</a> est défini, mais on peut en ajouter d’autres.</p>
+
+<p><a href="https://gemfury.com/">Gemfury</a>, par exemple, est un service d’<strong>hébergement de gems privé</strong>. Une fois inscrit au service, vous devrez ajouter une ligne <code class="highlighter-rouge">source</code> au <code class="highlighter-rouge">Gemfile</code> de votre application pour pouvoir y télécharger les gems que vous aurez hébergées dessus.</p>
+
+<h4 id="les-lignes-gem">Les lignes <code class="highlighter-rouge">gem</code></h4>
+
+<p>Les lignes <code class="highlighter-rouge">gem</code> permettent de spécifier les gems à installer pour faire tourner votre application. C’est une liste de dépendances, ni plus ni moins.</p>
+
+<p>Vous aurez remarqué que certaines lignes prenaient un second paramètre, il s’agit du numéro de version de la gem que l’on souhaite utiliser.</p>
+
+<p>Ce même numéro de gem est parfois préfixé d’autres caractères, tels que <code class="highlighter-rouge">~&gt;</code> ou <code class="highlighter-rouge">&gt;=</code>, il s’agit là d’une indication autorisant une certaine souplesse dans le numéro de version requis.</p>
+
+<div class="language-ruby highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>&lt;span class="c1"&gt;# (...)&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'rails'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'4.2.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'sqlite3'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'sass-rails'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 5.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'uglifier'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'&gt;= 1.3.0'&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'coffee-rails'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 4.1.0'&lt;/span&gt;
+&lt;span class="c1"&gt;# (...)&lt;/span&gt;
+</code></pre>
+  </div>
+</div>
+
+<h5 id="explications">Explications</h5>
+
+<ul>
+  <li><code class="highlighter-rouge">gem 'sqlite3'</code> : Aucun numéro de version n’est précisé, la dernière version sera automatiquement installée</li>
+  <li><code class="highlighter-rouge">gem 'rails', '4.2.0'</code> : La version <code class="highlighter-rouge">4.2.0</code> sera utilisée. Aucune autre.</li>
+  <li><code class="highlighter-rouge">gem 'coffee-rails', '~&gt; 4.1.0'</code> : La version <code class="highlighter-rouge">4.1.0</code> sera utilisée, en étant permisif sur le dernier digit. La version <code class="highlighter-rouge">4.1.1</code>, si elle existe, pourra être prise en compte. En revanche, la version <code class="highlighter-rouge">4.2.0</code> ne sera pas autorisée.</li>
+  <li><code class="highlighter-rouge">gem 'sass-rails', '~&gt; 5.0'</code> : Comme pour la ligne précédente, les version <code class="highlighter-rouge">5.0</code>, <code class="highlighter-rouge">5.1</code>, etc. seront acceptées.</li>
+  <li><code class="highlighter-rouge">gem 'uglifier', '&gt;= 1.3.0'</code> : La version la plus récente, pourvu qu’elle soit <strong>supérieure ou égale</strong> à <code class="highlighter-rouge">1.3.0</code></li>
+</ul>
+
+<h4 id="les-blocs-group">Les blocs <code class="highlighter-rouge">group</code></h4>
+
+<p>Les blocs <code class="highlighter-rouge">group</code> permettent d’isoler certaines gems en fonction de l’environnement voulus. Dans l’exemple ci-dessous, les gems <code class="highlighter-rouge">byebug</code>, <code class="highlighter-rouge">webconsole</code> et <code class="highlighter-rouge">spring</code> ne seront accessible que dans les environnements <code class="highlighter-rouge">development</code> et <code class="highlighter-rouge">test</code>.</p>
+
+<div class="language-ruby highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>&lt;span class="c1"&gt;# (...)&lt;/span&gt;
+&lt;span class="n"&gt;group&lt;/span&gt; &lt;span class="ss"&gt;:development&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ss"&gt;:test&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'byebug'&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'web-console'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'~&gt; 2.0'&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'spring'&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+</code></pre>
+  </div>
+</div>
+
+<p>De la même manière, on pourrait définir un <code class="highlighter-rouge">group :production</code> pour y placer les gems qui ne doivent être incluses qu’en environnement de production.</p>
+
+<h3 id="installer-les-dépendances-installer-les-dépendances">Installer les dépendances {#installer-les-dépendances}</h3>
+
+<p>Une fois votre <code class="highlighter-rouge">Gemfile</code> complété, il suffit d’une commande pour que les dépendances de votre application soient installées.</p>
+
+<p>Pour l’exercice, je vais ajouter la gem <a href="https://rubygems.org/gems/devise">Devise</a> à mon <code class="highlighter-rouge">Gemfile</code></p>
+
+<div class="language-ruby highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>&lt;span class="n"&gt;source&lt;/span&gt; &lt;span class="s1"&gt;'https://rubygems.org'&lt;/span&gt;
+
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'rails'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'4.2.0'&lt;/span&gt;
+&lt;span class="c1"&gt;# (...)&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;'devise'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;'3.5.2'&lt;/span&gt;
+
+</code></pre>
+  </div>
+</div>
+
+<p>Dans mon terminal, je me rends à la racine de mon projet et j’exécute la commande <code class="highlighter-rouge">bundle</code> :</p>
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>$ cd Code/new-app
+$ bundle
+Fetching gem metadata from https://rubygems.org/............
+Fetching additional metadata from https://rubygems.org/..
+Resolving dependencies...
+Using rake 10.4.2
+Using i18n 0.7.0
+Using json 1.8.3
+Using minitest 5.8.1
+Using thread_safe 0.3.5
+Using tzinfo 1.2.2
+Using activesupport 4.2.0
+Using builder 3.2.2
+Using erubis 2.7.0
+Using mini_portile 0.6.2
+Using nokogiri 1.6.6.2
+Using rails-deprecated_sanitizer 1.0.3
+Using rails-dom-testing 1.0.7
+Using loofah 2.0.3
+Using rails-html-sanitizer 1.0.2
+Using actionview 4.2.0
+Using rack 1.6.4
+Using rack-test 0.6.3
+Using actionpack 4.2.0
+Using globalid 0.3.6
+Using activejob 4.2.0
+Using mime-types 2.6.2
+Using mail 2.6.3
+Using actionmailer 4.2.0
+Using activemodel 4.2.0
+Using arel 6.0.3
+Using activerecord 4.2.0
+Using bcrypt 3.1.10
+Using debug_inspector 0.0.2
+Using binding_of_caller 0.7.2
+Using bundler 1.7.3
+Using byebug 6.0.2
+Using coffee-script-source 1.9.1.1
+Using execjs 2.6.0
+Using coffee-script 2.4.1
+Using thor 0.19.1
+Using railties 4.2.0
+Using coffee-rails 4.1.0
+Using orm_adapter 0.5.0
+Using responders 2.1.0
+Using warden 1.2.3
+Installing devise 3.5.2
+Using multi_json 1.11.2
+Using jbuilder 2.3.2
+Using jquery-rails 4.0.5
+Using sprockets 3.4.0
+Using sprockets-rails 2.3.3
+Using rails 4.2.0
+Using rdoc 4.2.0
+Using sass 3.4.18
+Using tilt 2.0.1
+Using sass-rails 5.0.4
+Using sdoc 0.4.1
+Using spring 1.4.0
+Using sqlite3 1.3.10
+Using turbolinks 2.5.3
+Using uglifier 2.7.2
+Using web-console 2.2.1
+Your bundle is complete!
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+</code></pre>
+  </div>
+</div>
+
+<p>L’ensemble de mon <code class="highlighter-rouge">Gemfile</code> est vérifié. Si la gem est déjà installée dans le système, <code class="highlighter-rouge">bundle</code> nous indique <code class="highlighter-rouge">Using [gem name]</code>. Dans le cas contraire, comme à la ligne 47, il nous indique <code class="highlighter-rouge">Installing [gem name]</code>.</p>
+
+<p>Notez également qu’après avoir installé ou mis à jour une gem, il est nécessaire de redémarrer votre serveur local.</p>
+
+<h2 id="trouvez-des-gems">Trouvez des gems</h2>
+
+<p>Comme je l’ai précisé en début d’article, le site <a href="https://rubygems.org/">RubyGems</a> héberge et indexe des milliers de gems. Cependant, lorsque j’effectue une recherche, je préfère utiliser le site <a href="https://www.ruby-toolbox.com/">Ruby Toolbox</a>.</p>
+
+<p>Outre l’outil de recherche, Ruby Toolbox trie les gems par catégorie et par popularité. Cette information est souvent un bon indicateur lorsqu’on se lance dans un développement qui nécessite l’utilisation de gems inconnues. Le taux d’utilisation et la fréquence de mise à jour sont souvent déterminante dans mon choix.</p>
+
+<p>Pour reprendre Devise comme exemple, si on consulte la <a href="https://www.ruby-toolbox.com/projects/devise">page RubyGems consacrée à Devise</a>, on y trouve les informations suivantes :</p>
+
+<p><img src="/images/ruby-toolbox-devise.png" alt="Ruby Toolbox - Devise" /></p>
+
+<p>Les informations, reprises sur les pages RubyGems et GitHub du projet, permettent de se faire une bonne idée de la qualité du projet :</p>
+
+<ul>
+  <li>Le développement est <strong>actif</strong> (<em>released about a month ago</em>), ce qui indique probablement que la gem est <strong>compatible avec la dernière version de Rails</strong></li>
+  <li>Le développement est <strong>soutenu</strong> (129 releases en 5 ans)</li>
+  <li>La gem est particulièrement <strong>ancienne</strong> (première release il y a 5 ans), ce qui indique probablement qu’elle est <strong>testée et à toute épreuve</strong></li>
+  <li>Les <em>related projects</em> de la catégorie <em>rails authentication</em> sont tous moins bien côté, ce qui signifie que Devise est la gem <strong>la plus populaire dans sa catégorie</strong></li>
+</ul>
+
+<h2 id="sassurer-de-la-qualité-sassurer-de-la-qualité">S’assurer de la qualité {#sassurer-de-la-qualité}</h2>
+
+<p>Pour s’assurer de la qualité d’un code, le mieux serait de le parcourir entièrement. Cette idée est bien entendu irréalisable au quotidien, nous allons donc essayer d’automatiser les choses pour se donner une vue d’ensemble.</p>
+
+<p>Nous allons télécharger le code de Devise depuis son dépôt GitHub :</p>
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>$ cd /tmp
+$ git clone https://github.com/plataformatec/devise.git
+$ cd devise/
+</code></pre>
+  </div>
+</div>
+
+<p>Grâce à <a href="http://cloc.sourceforge.net"><code class="highlighter-rouge">cloc</code></a>, nous allons analyser le contenu des dossiers <code class="highlighter-rouge">app</code> et <code class="highlighter-rouge">lib</code> (là ou le code se situe) :</p>
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>$ cloc app lib
+     101 text files.
+      98 unique files.
+      25 files ignored.
+
+http://cloc.sourceforge.net v 1.62  T=0.34 s (225.5 files/s, 18673.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Ruby                            76            914           1840           3540
+-------------------------------------------------------------------------------
+SUM:                            76            914           1840           3540
+-------------------------------------------------------------------------------
+
+</code></pre>
+  </div>
+</div>
+
+<p>3540 lignes de codes, c’est énorme. D’ordinaire, si le code semble trop important, cela pourrait indiquer une certaine lourdeur, voire une mauvaise qualité. Dans ce cas précis, Devise est la libraire la plus complète en matière d’authentification, et ça ne m’inquiète pas plus que ça.</p>
+
+<p>Voyons maintenant les tests, habituellement situés dans les dossiers <code class="highlighter-rouge">test</code> ou <code class="highlighter-rouge">spec</code> :</p>
+
+<div class="highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight"><code>$ cloc test spec
+     127 text files.
+     127 unique files.
+      14 files ignored.
+
+http://cloc.sourceforge.net v 1.62  T=0.48 s (236.3 files/s, 18660.3 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Ruby                           108           1632            339           6923
+HTML                             3              3              3             72
+YAML                             3              2              5             25
+-------------------------------------------------------------------------------
+SUM:                           114           1637            347           7020
+-------------------------------------------------------------------------------
+</code></pre>
+  </div>
+</div>
+
+<p>Devise compte donc deux fois plus de lignes de tests que de lignes de code. L’application est très bien couverte et c’est une indication très rassurante.</p>
+
+<p>Pour terminer, nous pouvons jeter un oeil au code source de la gem, qui se situe habituellement dans le dossier <code class="highlighter-rouge">lib</code>. La lecture du code, en plus de vous donner un aperçu de sa qualité, peut également être très instructif.</p>
+
+  </div>
+
+  <a class="u-url" href="/2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Cédric Bousmanne - Ruby, Rails, Indieweb</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Cédric Bousmanne - Ruby, Rails, Indieweb</li><li><a class="u-email" href="mailto:cedric@bousmanne.com">cedric@bousmanne.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a rel= "me" href="https://www.facebook.com/cedric.bousmanne" title="cedric.bousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg></a></li><li><a rel= "me" href="https://github.com/cedricbousmanne" title="cedricbousmanne"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel= "me" href="https://www.instagram.com/akyrh0" title="akyrh0"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg></a></li><li><a rel= "me" href="https://www.linkedin.com/in/bousmannecedric" title="bousmannecedric"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg></a></li><li><a rel="me" href="https://ruby.social/@akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#mastodon"></use></svg></a></li><li><a rel= "me" href="https://twitter.com/akyrho" title="akyrho"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Father of 2, Indieweb enthousiast, I code for a living</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+<script src="/js/JekyllWebmentionIO.js" async></script>
+<template style="display:none" id="webmention-bookmarks"><div class="webmentions webmentions--bookmarks">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No bookmarks were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-likes"><div class="webmentions webmentions--likes">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No likes were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-links"><div class="webmentions webmentions--links">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">{{ webmention.author.name }}</a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.url %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No links were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-posts"><div class="webmentions webmentions--posts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <a class="webmention__title webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">{{ webmention.title }}</a>
+          <div class="webmention__meta">
+            {% if webmention.pubdate %}
+              <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No posts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-replies"><div class="webmentions webmentions--replies">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__content p-content">
+            {{ webmention.content }}
+          </div>
+          <div class="webmention__meta">
+            {% if webmention.author %}
+              <a class="webmention__author h-card u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                {% if webmention.author.photo %}
+                  <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                {% endif %}
+                <b class="p-name">{{ webmention.author.name }}</b>
+              </a>
+            {% endif %}
+            {% if webmention.pubdate and webmention.author %}on{% endif %}
+            {% if webmention.pubdate %}
+              <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">
+                <time class="webmention__pubdate dt-published" datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              </a>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No replies were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-reposts"><div class="webmentions webmentions--reposts">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No reposts were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-rsvps"><div class="webmentions webmentions--rsvps">
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">
+          <div class="webmention__author p-author h-card">
+            <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+              <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="Avatar for {{ webmention.author.name }}" title="{{ webmention.author.name }}">
+              <b class="p-name">{{ webmention.author.name }}</b>
+              {{ webmention.content }}
+            </a>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No RSVPs were found.</p>
+  {% endif %}
+</div></template><template style="display:none" id="webmention-count">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<span class="webmention-count"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>{{ count }}</span></template><template style="display:none" id="webmention-webmentions">{% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
+<div class="webmentions"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>
+  {% if webmentions.size > 0 %}
+    <ol class="webmentions__list">
+      {% for webmention in webmentions %}
+        <li id="webmention-{{ webmention.id }}" class="webmentions__item">
+          <article class="h-cite webmention webmention--{{ webmention.type }}
+            {% unless webmention.author %}webmention--no-author{% endunless %}
+            {% unless webmention.author.photo %}webmention--no-photo{% endunless %}
+            {% if webmention.source=='twitter' %}{% if webmention.type=='like' or webmention.type=='repost' %}webmention--author-starts{% endif %}{% endif %}
+            ">
+            {% if webmention.author %}
+              <div class="webmention__author p-author h-card">
+                <a class="u-url" href="{{ webmention.author.url }}" rel="nofollow">
+                  {% if webmention.author.photo %}
+                    <img class="webmention__author__photo u-photo" src="{{ webmention.author.photo }}" alt="" title="{{ webmention.author.name }}">
+                  {% endif %}
+                  <b class="p-name">{{ webmention.author.name }}</b>
+                </a>
+              </div>
+            {% endif %}
+
+            <div class="webmention__content p-content">
+              {% if webmention.content %}
+                {{ webmention.content }}
+              {% else %}
+                {{ webmention.title }}
+              {% endif %}
+            </div>
+            
+            <div class="webmention__meta">
+              {% if webmention.pubdate %}
+                <time class="webmention__pubdate dt-published"
+                      datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">{{ webmention.pubdate | date: '%d %B %Y' }}</time>
+              {% endif %}
+              {% if webmention.pubdate and webmention.url %}|{% endif %}
+              {% if webmention.url %}
+                <a class="webmention__source u-url" href="{{ webmention.url }}" rel="nofollow">Permalink</a>
+              {% endif %}
+            </div>
+          </article>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="webmentions__not-found">No webmentions were found.</p>
+  {% endif %}
+</div></template>
+
+  </body>
+
+</html>
