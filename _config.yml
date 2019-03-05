@@ -58,3 +58,26 @@ collections:
 #   - vendor/ruby/
 
 show_excerpts: true
+
+minima:
+  social_links:
+    twitter: akyrho
+    github: cedricbousmanne
+    # dribbble: jekyll
+    facebook: cedric.bousmanne
+    # flickr: jekyll
+    instagram: akyrh0
+    linkedin: bousmannecedric
+    # pinterest: jekyll
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # rss: rss
+
+    mastodon:
+     - username: akyrho
+       instance: ruby.social
+
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
