@@ -25,6 +25,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+
+        {% include post-content.html post=post %}
+
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

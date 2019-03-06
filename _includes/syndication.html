@@ -1,0 +1,5 @@
+{% for syndication in include.post.mf-syndication %}
+  <a class="u-syndication" target="_blank" rel="noopener noreferrer syndication" href="{{ syndication }}">
+    {{ syndication | remove:'http://' | remove:'https://' | split:'/' | first }}
+  </a>
+{% endfor %}
