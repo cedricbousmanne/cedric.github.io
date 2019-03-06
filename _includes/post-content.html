@@ -1,5 +1,7 @@
+{% assign show_title = true %}
 <div class="post-content e-content" itemprop="articleBody">
   {% if include.post.mf-like-of %}
+    {% assign show_title = false %}
     <p class="p-summary">
       👍 Liked: <a class="u-like-of" href="{{ include.post.mf-like-of.first }}" target="_blank" rel="noopener noreferrer">{{ include.post.mf-like-of.first }}</a>
       {% include rich-content.html url=include.post.mf-like-of.first %}
@@ -7,11 +9,29 @@
   {% endif%}
 
   {% if include.post.mf-repost-of %}
+    {% assign show_title = false %}
     <p class="p-summary">
       🔁 Reposted: <a class="u-repost-of" href="{{ include.post.mf-repost-of.first }}" target="_blank" rel="noopener noreferrer">{{ include.post.mf-repost-of.first }}</a>
       {% include rich-content.html url=include.post.mf-repost-of.first %}
     </p>
   {% endif%}
+
+  {% if include.post.mf-bookmark-of %}
+    {% assign show_title = false %}
+    <p class="p-summary">
+      🔖 Bookmarked: <a class="u-bookmark-of" href="{{ include.post.mf-bookmark-of.first }}" target="_blank" rel="noopener noreferrer">{{ include.post.title }}</a>
+    </p>
+  {% endif%}
+
+  {% if show_title %}
+
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+
+  {% endif %}
 
   {{ content }}
 
