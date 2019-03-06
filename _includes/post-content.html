@@ -2,6 +2,7 @@
   {% if include.post.mf-like-of %}
     <p class="p-summary">
       👍 Liked: <a class="u-like-of" href="{{ include.post.mf-like-of.first }}" target="_blank" rel="noopener noreferrer">{{ include.post.mf-like-of.first }}</a>
+      {% include rich-content.html url=include.post.mf-like-of.first %}
     </p>
   {% endif%}
 

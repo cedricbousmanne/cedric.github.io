@@ -1,0 +1,5 @@
+{% capture host %}{{ include.url | remove:'http://' | remove:'https://' | split:'/' | first }}{% endcapture %}
+
+{% if host == 'twitter.com' %}
+  {% twitter {{ include.url }} %}
+{% endif %}
