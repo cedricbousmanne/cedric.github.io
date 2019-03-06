@@ -38,6 +38,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-twitter-plugin
+  - jekyll-webmention_io
 
 collections:
   - checkins
@@ -80,3 +81,16 @@ minima:
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
+
+webmentions:
+  debug: true
+  username: cedric.io
+  # Use my own cache folder
+  cache_folder: .cache
+  # skip bad URLs for 5 days
+  cache_bad_uris_for: 5
+  # I moved to www and then to https, so…
+  legacy_domains:
+    - http://cedric.io
+    - http://www.cedric.io
+    - https://www.cedric.io
