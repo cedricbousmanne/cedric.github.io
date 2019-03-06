@@ -1,1 +1,916 @@
---- {}
+---
+"/2013/07/05/imiter-le-grain-du-ilford-hp5-a-partir-dune-photo-numerique/": {}
+"/2013/07/26/activeresource-eoferror-end-of-file-reached/": {}
+"/2013/10/28/how-to-install-mysql2-gem-on-mac-os-mavericks-10-9/": {}
+"/2015/10/04/github-pages-configurer-votre-nom-de-domaine/": {}
+"/2015/10/04/octopress-afficher-les-articles-similaires/": {}
+"/2015/10/05/octopress-du-code-haut-en-couleurs/": {}
+"/2015/10/07/octopress-utiliser-les-hooks-pour-surcharger-les-permalinks/": {}
+"/2015/10/08/ruby-et-les-dependances-rubygems-gemfile-et-ruby-toolbox/": {}
+"/2015/10/13/slackin-une-landing-page-pour-votre-communaute-slack/": {}
+"/2015/12/24/gcuisinier-yoseihana-oh-non-elle-va-encore-etre-intenable.html": {}
+"/2016/01/30/non-je-ne-publierai-pas-la-photo-de-mon-fils-sur-facebook/": {}
+"/2016/02/12/ces-gens-qui-vous-connaissent-tellement-peu/": {}
+"/2016/02/15/le-taux-dattrition-churn-explique-a-la-laverie-de-mon-quartier/": {}
+"/2016/08/24/configure-a-triple-monitor-on-a-lenovo-t420s-with-xrandr/": {}
+"/2017/02/14/debian-8-jessie-sur-un-lenovo-t420s/": {}
+"/2017/02/14/laptop-sous-linux-gestion-de-lenergie/": {}
+"/2018/09/14/6/": {}
+"/2018/09/18/831/": {}
+"/2018/09/18/834/": {}
+"/2018/09/18/836/":
+  '595854':
+    id: '595854'
+    uri: https://twitter.com/akyrho/status/1042038611917582338#favorited-by-1453740714
+    source: twitter
+    pubdate: 2019-03-06 14:24:06.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1042038611917582338/1453740714
+      verified: true
+      verified_date: '2019-03-06T14:24:06+00:00'
+      id: 595854
+      private: false
+      data:
+        author: &1
+          name: Cornet Simon
+          url: https://twitter.com/gloumyy
+          photo: https://webmention.io/avatar/pbs.twimg.com/fcdaecfb5319739d86848630366340949cda205f2937e90bcdc315f68a0a412f.jpg
+        url: https://twitter.com/akyrho/status/1042038611917582338#favorited-by-1453740714
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Cornet Simon favorited a tweet https://cedric.io/2018/09/18/836/
+        sentence_html: <a href="https://twitter.com/gloumyy">Cornet Simon</a> favorited
+          a tweet <a href="https://cedric.io/2018/09/18/836/">https://cedric.io/2018/09/18/836/</a>
+      target: https://cedric.io/2018/09/18/836/
+    author: *1
+    type: like
+    content: <p><a href="https://twitter.com/gloumyy">Cornet Simon</a> favorited a
+      tweet <a href="https://cedric.io/2018/09/18/836/">https://cedric.io/2018/09/18/836/</a></p>
+  '1042040280147525633':
+    id: '1042040280147525633'
+    uri: https://twitter.com/gloumyy/status/1042040280147525633
+    source: twitter
+    pubdate: 2018-09-18 15:18:57.000000000 +02:00
+    raw:
+      source: https://brid-gy.appspot.com/repost/twitter/akyrho/1042038611917582338/1042040280147525633
+      verified: true
+      verified_date: '2019-03-06T14:24:05+00:00'
+      id: 595853
+      private: false
+      data:
+        author: &2
+          name: Cornet Simon
+          url: https://twitter.com/gloumyy
+          photo: https://webmention.io/avatar/pbs.twimg.com/fcdaecfb5319739d86848630366340949cda205f2937e90bcdc315f68a0a412f.jpg
+        url: https://twitter.com/gloumyy/status/1042040280147525633
+        name: 
+        content: ". Just as a quick heads-up, I started to #POSSE last week – I already
+          had the domain, I had a blog for more than 10 years, but it... - http"
+        published: '2018-09-18T13:18:57+00:00'
+        published_ts: 1537276737
+      activity:
+        type: repost
+        sentence: Cornet Simon retweeted a tweet https://cedric.io/2018/09/18/836/
+        sentence_html: <a href="https://twitter.com/gloumyy">Cornet Simon</a> retweeted
+          a tweet <a href="https://cedric.io/2018/09/18/836/">https://cedric.io/2018/09/18/836/</a>
+      target: https://cedric.io/2018/09/18/836/
+    author: *2
+    type: repost
+    content: <p><a href="https://twitter.com/gloumyy">Cornet Simon</a> retweeted a
+      tweet <a href="https://cedric.io/2018/09/18/836/">https://cedric.io/2018/09/18/836/</a></p>
+  '595859':
+    id: '595859'
+    uri: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+    source: false
+    pubdate: 2018-10-04 20:08:00.000000000 +02:00
+    raw:
+      source: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+      verified: true
+      verified_date: '2019-03-06T14:44:11+00:00'
+      id: 595859
+      private: false
+      data:
+        author: &3
+          name: cedric
+          url: 
+          photo: 
+        url: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+        name: Why I switched back to WordPress &#8211; even if I always said I hated
+          it
+        content: |-
+          <p>Today on <a>#indieweb-wordpress</a>, <a href="https://freenode.logbot.info/indieweb-wordpress/20181004#c1750007">I’ve been asked</a> why, given my technical background, I did not used some of the <a href="https://indieweb.org/Ruby">Ruby based solution</a> to jump in and try the <a href="https://indieweb.org/principles">Indieweb principles</a>.</p>
+
+          <p>As a reminder, I <a href="https://cedric.io/2018/09/18/836/">(re)discovered Indieweb and POSSE a few days ago</a> now, and even if I’ve been using Ruby and Rails as my main languages for almost a decade now, I choose to setup a new WordPress blog to play around with it.</p>
+
+          <p>There are a few reasons for this :</p>
+
+          <ol>
+            <li>Setting up a WordPress was a one-click task with my current host (<a href="https://www.gandi.net/en">gandi.net</a>, thanks for asking)</li>
+            <li>I read along the <a href="https://indieweb.org/">Indieweb wiki</a> for a few days, gathering information about how it is supposed to be done, and <a href="https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html">why everyone should have their own website</a>. In the wiki, most of the tutorials were <a href="https://indieweb.org/WordPress">WordPress</a> based and it seems to me like a good place to start. To be completely honest I did not even noticed there was a Ruby page.</li>
+            <li>Even if I do not like WordPress, I have to admit that the community around it is huge, thus, more chance to find every plugin I would need to setup <a href="https://cedric.io/indieweb/">my new home on the Internet</a>
+          </li>
+            <li>I never said I’d stick with WordPress. More likely I am going to play around with it for a few, then find my way back home with a Ruby on Rails solution.</li>
+          </ol>
+        published: '2018-10-04T18:08:00+00:00'
+        published_ts: 1538676480
+      activity:
+        type: link
+        sentence: 'cedric posted ''Today on #indieweb-wordpress, I’ve been asked why,
+          given my technical background...'' linking to https://cedric.io/2018/09/18/836/'
+        sentence_html: '<a href="https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/">cedric</a>
+          posted ''Today on #indieweb-wordpress, I’ve been asked why, given my technical
+          background...'' linking to <a href="https://cedric.io/2018/09/18/836/">https://cedric.io/2018/09/18/836/</a>'
+      target: https://cedric.io/2018/09/18/836/
+    author: *3
+    type: link
+    title: Why I switched back to WordPress &#8211; even if I always said I hated
+      it
+    content: |-
+      <p>Today on <a>#indieweb-wordpress</a>, <a href="https://freenode.logbot.info/indieweb-wordpress/20181004#c1750007">I’ve been asked</a> why, given my technical background, I did not used some of the <a href="https://indieweb.org/Ruby">Ruby based solution</a> to jump in and try the <a href="https://indieweb.org/principles">Indieweb principles</a>.</p>
+
+      <p>As a reminder, I <a href="https://cedric.io/2018/09/18/836/">(re)discovered Indieweb and POSSE a few days ago</a> now, and even if I’ve been using Ruby and Rails as my main languages for almost a decade now, I choose to setup a new WordPress blog to play around with it.</p>
+
+      <p>There are a few reasons for this :</p>
+
+      <ol>
+        <li>Setting up a WordPress was a one-click task with my current host (<a href="https://www.gandi.net/en">gandi.net</a>, thanks for asking)</li>
+        <li>I read along the <a href="https://indieweb.org/">Indieweb wiki</a> for a few days, gathering information about how it is supposed to be done, and <a href="https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html">why everyone should have their own website</a>. In the wiki, most of the tutorials were <a href="https://indieweb.org/WordPress">WordPress</a> based and it seems to me like a good place to start. To be completely honest I did not even noticed there was a Ruby page.</li>
+        <li>Even if I do not like WordPress, I have to admit that the community around it is huge, thus, more chance to find every plugin I would need to setup <a href="https://cedric.io/indieweb/">my new home on the Internet</a>
+      </li>
+        <li>I never said I’d stick with WordPress. More likely I am going to play around with it for a few, then find my way back home with a Ruby on Rails solution.</li>
+      </ol>
+"/2018/09/18/840/": {}
+"/2018/09/19/html-forcer-laffichage-du-point-ou-de-la-virgule-comme-separateur-decimal/": {}
+"/2018/09/19/ikea-hack-realisation-dun-ilot-de-cuisine-diy/": {}
+"/2018/09/19/857/": {}
+"/2018/09/20/860/":
+  '1042707577245769730':
+    id: '1042707577245769730'
+    uri: https://twitter.com/johnnylagneau/status/1042707577245769730
+    source: twitter
+    pubdate: 2018-09-20 11:30:33.000000000 +02:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1042694099390930944/1042707577245769730
+      verified: true
+      verified_date: '2019-03-06T14:24:10+00:00'
+      id: 595855
+      private: false
+      data:
+        author: &4
+          name: Johnny Lagneau
+          url: https://twitter.com/johnnylagneau
+          photo: https://webmention.io/avatar/pbs.twimg.com/dca24b6fb89b2c3b32935e82f0e3cf23569aa6b8bf368efb1bfbf99f20e863eb.jpg
+        url: https://twitter.com/johnnylagneau/status/1042707577245769730
+        name: 
+        content: Il va faire tout noir
+        published: '2018-09-20T09:30:33+00:00'
+        published_ts: 1537435833
+      activity:
+        type: reply
+        sentence: Johnny Lagneau replied 'Il va faire tout noir' to a tweet https://cedric.io/2018/09/20/860/
+        sentence_html: <a href="https://twitter.com/johnnylagneau">Johnny Lagneau</a>
+          replied 'Il va faire tout noir' to a tweet <a href="https://cedric.io/2018/09/20/860/">https://cedric.io/2018/09/20/860/</a>
+      target: https://cedric.io/2018/09/20/860/
+    author: *4
+    type: reply
+    content: "<p>Il va faire tout noir</p>"
+"/2018/09/20/861/": {}
+"/2018/09/20/888/": {}
+"/2018/09/20/890/": {}
+"/2018/09/20/895/": {}
+"/2018/09/20/897/": {}
+"/2018/09/21/913/": {}
+"/2018/09/22/916/": {}
+"/2018/09/22/918/": {}
+"/2018/09/25/923/": {}
+"/2018/09/26/uncaught-argumentcounterror-too-few-arguments-to-function-yarns_reader_new_subscription/": {}
+"/2018/09/27/rubygem-prevent-documentation-to-be-installed-by-default/":
+  '1045237885153275904':
+    id: '1045237885153275904'
+    uri: https://twitter.com/Sawadee/status/1045237885153275904
+    source: twitter
+    pubdate: 2018-09-27 11:05:06.000000000 +02:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1045208170812051456/1045237885153275904
+      verified: true
+      verified_date: '2019-03-06T14:24:02+00:00'
+      id: 595852
+      private: false
+      data:
+        author: &5
+          name: Sawadee
+          url: https://twitter.com/Sawadee
+          photo: https://webmention.io/avatar/pbs.twimg.com/0838c953429ba08e52edae9bed217fab622d4458a99e410247da1ee0a8135d1c.jpg
+        url: https://twitter.com/Sawadee/status/1045237885153275904
+        name: 
+        content: j'avais lu "rugbymen" haha ;)
+        published: '2018-09-27T09:05:06+00:00'
+        published_ts: 1538039106
+      activity:
+        type: reply
+        sentence: Sawadee replied 'j'avais lu "rugbymen" haha ;)' to a tweet https://cedric.io/2018/09/27/rubygem-prevent-documentation-to-be-installed-by-default/
+        sentence_html: <a href="https://twitter.com/Sawadee">Sawadee</a> replied 'j'avais
+          lu "rugbymen" haha ;)' to a tweet <a href="https://cedric.io/2018/09/27/rubygem-prevent-documentation-to-be-installed-by-default/">https://cedric.io/2018/09/27/rubygem-prevent-documentation-to-be-installed-by-default/</a>
+      target: https://cedric.io/2018/09/27/rubygem-prevent-documentation-to-be-installed-by-default/
+    author: *5
+    type: reply
+    content: "<p>j’avais lu “rugbymen” haha ;)</p>"
+"/2018/10/01/jai-decouvert-les-audiobooks/": {}
+"/2018/10/01/1395/": {}
+"/2018/10/01/1400/": {}
+"/2018/10/01/1402/": {}
+"/2018/10/02/1439/": {}
+"/2018/10/03/1486/": {}
+"/2018/10/03/1492/": {}
+"/2018/10/04/1504/": {}
+"/2018/10/04/1513/":
+  '595851':
+    id: '595851'
+    uri: https://twitter.com/akyrho/status/1047873936271269888#favorited-by-287151755
+    source: twitter
+    pubdate: 2019-03-06 14:23:55.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1047873936271269888/287151755
+      verified: true
+      verified_date: '2019-03-06T14:23:55+00:00'
+      id: 595851
+      private: false
+      data:
+        author: &6
+          name: Shad
+          url: https://twitter.com/Shadem987
+          photo: https://webmention.io/avatar/pbs.twimg.com/7e5c431c9d17da4956576d477e09f79a6361f5afc9df54216da53469a9b0dffa.jpg
+        url: https://twitter.com/akyrho/status/1047873936271269888#favorited-by-287151755
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Shad favorited a tweet https://cedric.io/2018/10/04/1513/
+        sentence_html: <a href="https://twitter.com/Shadem987">Shad</a> favorited
+          a tweet <a href="https://cedric.io/2018/10/04/1513/">https://cedric.io/2018/10/04/1513/</a>
+      target: https://cedric.io/2018/10/04/1513/
+    author: *6
+    type: like
+    content: <p><a href="https://twitter.com/Shadem987">Shad</a> favorited a tweet
+      <a href="https://cedric.io/2018/10/04/1513/">https://cedric.io/2018/10/04/1513/</a></p>
+  '1047874656877858817':
+    id: '1047874656877858817'
+    uri: https://twitter.com/Shadem987/status/1047874656877858817
+    source: twitter
+    pubdate: 2018-10-04 17:42:41.000000000 +02:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1047873936271269888/1047874656877858817
+      verified: true
+      verified_date: '2019-03-06T14:23:54+00:00'
+      id: 595850
+      private: false
+      data:
+        author: &7
+          name: Shad
+          url: https://twitter.com/Shadem987
+          photo: https://webmention.io/avatar/pbs.twimg.com/7e5c431c9d17da4956576d477e09f79a6361f5afc9df54216da53469a9b0dffa.jpg
+        url: https://twitter.com/Shadem987/status/1047874656877858817
+        name: 
+        content: Hé hé, peut-être bien ! M'enfin cette fois-ci, ça demandera moins
+          de réflexion pour écrire et donc moins chronophage. :)
+        published: '2018-10-04T15:42:41+00:00'
+        published_ts: 1538667761
+      activity:
+        type: reply
+        sentence: Shad replied 'Hé hé, peut-être bien ! M'enfin cette fois-ci, ça
+          demandera moins de réflexion p...' to a tweet https://cedric.io/2018/10/04/1513/
+        sentence_html: <a href="https://twitter.com/Shadem987">Shad</a> replied 'Hé
+          hé, peut-être bien ! M'enfin cette fois-ci, ça demandera moins de réflexion
+          p...' to a tweet <a href="https://cedric.io/2018/10/04/1513/">https://cedric.io/2018/10/04/1513/</a>
+      target: https://cedric.io/2018/10/04/1513/
+    author: *7
+    type: reply
+    content: "<p>Hé hé, peut-être bien ! M’enfin cette fois-ci, ça demandera moins
+      de réflexion pour écrire et donc moins chronophage. :)</p>"
+"/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/": {}
+"/2018/10/05/1534/": {}
+"/2018/10/05/1537/": {}
+"/2018/10/08/1808/":
+  '595847':
+    id: '595847'
+    uri: https://twitter.com/akyrho/status/1049318918479892480#favorited-by-46079038
+    source: twitter
+    pubdate: 2019-03-06 14:23:41.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1049318918479892480/46079038
+      verified: true
+      verified_date: '2019-03-06T14:23:41+00:00'
+      id: 595847
+      private: false
+      data:
+        author: &8
+          name: Johnny-creativeatoms
+          url: https://twitter.com/johnny_creatoms
+          photo: https://pbs.twimg.com/profile_images/820203858072899584/Cv33kbSE.jpg
+        url: https://twitter.com/akyrho/status/1049318918479892480#favorited-by-46079038
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Johnny-creativeatoms favorited a tweet https://cedric.io/2018/10/08/1808/
+        sentence_html: <a href="https://twitter.com/johnny_creatoms">Johnny-creativeatoms</a>
+          favorited a tweet <a href="https://cedric.io/2018/10/08/1808/">https://cedric.io/2018/10/08/1808/</a>
+      target: https://cedric.io/2018/10/08/1808/
+    author: *8
+    type: like
+    content: <p><a href="https://twitter.com/johnny_creatoms">Johnny-creativeatoms</a>
+      favorited a tweet <a href="https://cedric.io/2018/10/08/1808/">https://cedric.io/2018/10/08/1808/</a></p>
+"/2018/10/09/3726/":
+  '1049874642767413248':
+    id: '1049874642767413248'
+    uri: https://twitter.com/SNCB/status/1049874642767413248
+    source: twitter
+    pubdate: 2018-10-10 06:09:55.000000000 +02:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1049746579761041408/1049874642767413248
+      verified: true
+      verified_date: '2019-03-06T14:23:50+00:00'
+      id: 595849
+      private: false
+      data:
+        author: &9
+          name: SNCB
+          url: https://twitter.com/SNCB
+          photo: https://webmention.io/avatar/pbs.twimg.com/ee887e06130783db7f7f0444aae87dfc469dba82236ca6dbe65041c1b27fe7e5.jpg
+        url: https://twitter.com/SNCB/status/1049874642767413248
+        name: 
+        content: Bonjour Cédric. Les billets achetés online ne doivent pas être imprimés.
+          Les billets achetés via l'app sont sous formes de QR code dans l'onglet
+          "Mes Billets". Pour les billets achetés sur le site, il y a un code barre
+          lisible par les accompagnateurs·trices.  ^Lorenzo
+        published: '2018-10-10T04:09:55+00:00'
+        published_ts: 1539144595
+      activity:
+        type: reply
+        sentence: SNCB replied 'Bonjour Cédric. Les billets achetés online ne doivent
+          pas être imprimés. Les bil...' to a tweet https://cedric.io/2018/10/09/3726/
+        sentence_html: <a href="https://twitter.com/SNCB">SNCB</a> replied 'Bonjour
+          Cédric. Les billets achetés online ne doivent pas être imprimés. Les bil...'
+          to a tweet <a href="https://cedric.io/2018/10/09/3726/">https://cedric.io/2018/10/09/3726/</a>
+      target: https://cedric.io/2018/10/09/3726/
+    author: *9
+    type: reply
+    content: "<p>Bonjour Cédric. Les billets achetés online ne doivent pas être imprimés.
+      Les billets achetés via l’app sont sous formes de QR code dans l’onglet “Mes
+      Billets”. Pour les billets achetés sur le site, il y a un code barre lisible
+      par les accompagnateurs·trices.  ^Lorenzo</p>"
+  '1050026158400524289':
+    id: '1050026158400524289'
+    uri: https://twitter.com/akyrho/status/1050026158400524289
+    source: twitter
+    pubdate: 2018-10-10 16:11:59.000000000 +02:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1049746579761041408/1050026158400524289
+      verified: true
+      verified_date: '2019-03-06T14:23:44+00:00'
+      id: 595848
+      private: false
+      data:
+        author: &10
+          name: Cédric Bousmanne
+          url: https://twitter.com/akyrho
+          photo: https://webmention.io/avatar/pbs.twimg.com/f1e22b26779482bae02f43439ffc2b19509b52702a374fc8aa23759a8e00b5dc.jpg
+        url: https://twitter.com/akyrho/status/1050026158400524289
+        name: 
+        content: |-
+          Au temps pour moi. Le message avant confirmation m’a fait douter : « DIGITAL HOMEPRINT Voyagez facilement et simplement: imprimez vous-même, avant votre départ, vos billets sur une feuille de papier A4. »<br />
+          <a href="https://cedric.io/2018/10/10/3732/">cedric.io/2018/10/10/373…</a>
+        published: '2018-10-10T14:11:59+00:00'
+        published_ts: 1539180719
+      activity:
+        type: reply
+        sentence: 'Cédric Bousmanne replied ''Au temps pour moi. Le message avant
+          confirmation m’a fait douter : « DIGITAL HOM...'' to a tweet https://cedric.io/2018/10/09/3726/'
+        sentence_html: '<a href="https://twitter.com/akyrho">Cédric Bousmanne</a>
+          replied ''Au temps pour moi. Le message avant confirmation m’a fait douter
+          : « DIGITAL HOM...'' to a tweet <a href="https://cedric.io/2018/10/09/3726/">https://cedric.io/2018/10/09/3726/</a>'
+      target: https://cedric.io/2018/10/09/3726/
+    author: *10
+    type: reply
+    content: |-
+      <p>Au temps pour moi. Le message avant confirmation m’a fait douter : « DIGITAL HOMEPRINT Voyagez facilement et simplement: imprimez vous-même, avant votre départ, vos billets sur une feuille de papier A4. »<br />
+      <a href="https://cedric.io/2018/10/10/3732/">cedric.io/2018/10/10/373…</a></p>
+"/2018/10/10/3732/": {}
+"/2018/10/12/4139/":
+  '1051806166551019520':
+    id: '1051806166551019520'
+    uri: https://twitter.com/IDELUX_AIVE/status/1051806166551019520
+    source: twitter
+    pubdate: 2018-10-15 14:05:06.000000000 +02:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1050783135472996352/1051806166551019520
+      verified: true
+      verified_date: '2019-03-06T14:23:38+00:00'
+      id: 595846
+      private: false
+      data:
+        author: &11
+          name: Groupe IDELUX-AIVE
+          url: https://twitter.com/IDELUX_AIVE
+          photo: https://webmention.io/avatar/pbs.twimg.com/16c50e6d806ec142589c3face3e13f55c68f2d3a266306c2f359d0396c1297db.png
+        url: https://twitter.com/IDELUX_AIVE/status/1051806166551019520
+        name: 
+        content: Bonjour. La tournée a bien eu lieu ce vendredi 12 octobre mais le
+          camion a dû modifier son itinéraire en raison de contraintes sur le parcours.
+          Cela a bousculé les horaires de passage. Désolé pour le désagrément. Cordialement,
+        published: '2018-10-15T12:05:06+00:00'
+        published_ts: 1539605106
+      activity:
+        type: reply
+        sentence: Groupe IDELUX-AIVE replied 'Bonjour. La tournée a bien eu lieu ce
+          vendredi 12 octobre mais le camion a dû mo...' to a tweet https://cedric.io/2018/10/12/4139/
+        sentence_html: <a href="https://twitter.com/IDELUX_AIVE">Groupe IDELUX-AIVE</a>
+          replied 'Bonjour. La tournée a bien eu lieu ce vendredi 12 octobre mais
+          le camion a dû mo...' to a tweet <a href="https://cedric.io/2018/10/12/4139/">https://cedric.io/2018/10/12/4139/</a>
+      target: https://cedric.io/2018/10/12/4139/
+    author: *11
+    type: reply
+    content: "<p>Bonjour. La tournée a bien eu lieu ce vendredi 12 octobre mais le
+      camion a dû modifier son itinéraire en raison de contraintes sur le parcours.
+      Cela a bousculé les horaires de passage. Désolé pour le désagrément. Cordialement,</p>"
+"/2018/10/15/4145/": {}
+"/2018/10/15/4146/": {}
+"/2018/10/15/4147/": {}
+"/2018/10/16/4155/": {}
+"/2018/10/19/4176/":
+  '595843':
+    id: '595843'
+    uri: https://twitter.com/akyrho/status/1053378081640067079#favorited-by-1943442703
+    source: twitter
+    pubdate: 2019-03-06 14:23:31.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1053378081640067079/1943442703
+      verified: true
+      verified_date: '2019-03-06T14:23:31+00:00'
+      id: 595843
+      private: false
+      data:
+        author: &12
+          name: Silicon Luxembourg
+          url: https://twitter.com/SiliconLux
+          photo: https://webmention.io/avatar/pbs.twimg.com/063d5a2c297406c9df162006142cb202ce6bd1e611d0602c8a5ecb9d6fb28c89.jpg
+        url: https://twitter.com/akyrho/status/1053378081640067079#favorited-by-1943442703
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Silicon Luxembourg favorited a tweet https://cedric.io/2018/10/19/4176/
+        sentence_html: <a href="https://twitter.com/SiliconLux">Silicon Luxembourg</a>
+          favorited a tweet <a href="https://cedric.io/2018/10/19/4176/">https://cedric.io/2018/10/19/4176/</a>
+      target: https://cedric.io/2018/10/19/4176/
+    author: *12
+    type: like
+    content: <p><a href="https://twitter.com/SiliconLux">Silicon Luxembourg</a> favorited
+      a tweet <a href="https://cedric.io/2018/10/19/4176/">https://cedric.io/2018/10/19/4176/</a></p>
+  '595844':
+    id: '595844'
+    uri: https://twitter.com/akyrho/status/1053378081640067079#favorited-by-1669938398
+    source: twitter
+    pubdate: 2019-03-06 14:23:31.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1053378081640067079/1669938398
+      verified: true
+      verified_date: '2019-03-06T14:23:31+00:00'
+      id: 595844
+      private: false
+      data:
+        author: &13
+          name: CEEI NCA
+          url: https://twitter.com/CEEINCA
+          photo: https://webmention.io/avatar/pbs.twimg.com/8a44bb68fa51e95ddc389f559282d6de69aeb1c32958620b96289df274e39765.jpg
+        url: https://twitter.com/akyrho/status/1053378081640067079#favorited-by-1669938398
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: CEEI NCA favorited a tweet https://cedric.io/2018/10/19/4176/
+        sentence_html: <a href="https://twitter.com/CEEINCA">CEEI NCA</a> favorited
+          a tweet <a href="https://cedric.io/2018/10/19/4176/">https://cedric.io/2018/10/19/4176/</a>
+      target: https://cedric.io/2018/10/19/4176/
+    author: *13
+    type: like
+    content: <p><a href="https://twitter.com/CEEINCA">CEEI NCA</a> favorited a tweet
+      <a href="https://cedric.io/2018/10/19/4176/">https://cedric.io/2018/10/19/4176/</a></p>
+  '595845':
+    id: '595845'
+    uri: https://twitter.com/akyrho/status/1053378081640067079#favorited-by-961363421353558016
+    source: twitter
+    pubdate: 2019-03-06 14:23:34.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1053378081640067079/961363421353558016
+      verified: true
+      verified_date: '2019-03-06T14:23:34+00:00'
+      id: 595845
+      private: false
+      data:
+        author: &14
+          name: Lead Engines
+          url: https://twitter.com/Lead_Engines
+          photo: https://pbs.twimg.com/profile_images/1047349276177625088/jMCjozx1.jpg
+        url: https://twitter.com/akyrho/status/1053378081640067079#favorited-by-961363421353558016
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Lead Engines favorited a tweet https://cedric.io/2018/10/19/4176/
+        sentence_html: <a href="https://twitter.com/Lead_Engines">Lead Engines</a>
+          favorited a tweet <a href="https://cedric.io/2018/10/19/4176/">https://cedric.io/2018/10/19/4176/</a>
+      target: https://cedric.io/2018/10/19/4176/
+    author: *14
+    type: like
+    content: <p><a href="https://twitter.com/Lead_Engines">Lead Engines</a> favorited
+      a tweet <a href="https://cedric.io/2018/10/19/4176/">https://cedric.io/2018/10/19/4176/</a></p>
+"/2018/10/21/4184/": {}
+"/2018/10/23/4191/": {}
+"/2018/10/23/4192/": {}
+"/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/":
+  '595842':
+    id: '595842'
+    uri: https://twitter.com/akyrho/status/1055454968105365504#favorited-by-204360130
+    source: twitter
+    pubdate: 2019-03-06 14:23:27.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1055454968105365504/204360130
+      verified: true
+      verified_date: '2019-03-06T14:23:27+00:00'
+      id: 595842
+      private: false
+      data:
+        author: &15
+          name: Hillel Coren
+          url: https://twitter.com/hillelcoren
+          photo: https://webmention.io/avatar/pbs.twimg.com/89881fa4e62e9afc1e31d154b7345c06e20edf206cdd87b4bd0bbad5a095ecc7.jpg
+        url: https://twitter.com/akyrho/status/1055454968105365504#favorited-by-204360130
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Hillel Coren favorited a tweet https://cedric.io/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/
+        sentence_html: <a href="https://twitter.com/hillelcoren">Hillel Coren</a>
+          favorited a tweet <a href="https://cedric.io/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/">https://cedric.io/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/</a>
+      target: https://cedric.io/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/
+    author: *15
+    type: like
+    content: <p><a href="https://twitter.com/hillelcoren">Hillel Coren</a> favorited
+      a tweet <a href="https://cedric.io/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/">https://cedric.io/2018/10/25/how-to-install-invoiceninja-digitalocean-docker/</a></p>
+"/2018/10/26/identifier-une-regression-grace-a-git-bisect/": {}
+"/2018/10/26/4216/": {}
+"/2018/10/26/4223/": {}
+"/2018/10/27/4242/":
+  '595840':
+    id: '595840'
+    uri: https://twitter.com/akyrho/status/1056828377825452032#favorited-by-395136178
+    source: twitter
+    pubdate: 2019-03-06 14:23:18.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1056828377825452032/395136178
+      verified: true
+      verified_date: '2019-03-06T14:23:18+00:00'
+      id: 595840
+      private: false
+      data:
+        author: &16
+          name: Marie
+          url: https://twitter.com/MarieJqmn
+          photo: https://webmention.io/avatar/pbs.twimg.com/62de08fecd3937e70cefd5b0bd7de27c2b66adcacea988aa33d479a7c93b6cd5.jpg
+        url: https://twitter.com/akyrho/status/1056828377825452032#favorited-by-395136178
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Marie favorited a tweet https://cedric.io/2018/10/27/4242/
+        sentence_html: <a href="https://twitter.com/MarieJqmn">Marie</a> favorited
+          a tweet <a href="https://cedric.io/2018/10/27/4242/">https://cedric.io/2018/10/27/4242/</a>
+      target: https://cedric.io/2018/10/27/4242/
+    author: *16
+    type: like
+    content: <p><a href="https://twitter.com/MarieJqmn">Marie</a> favorited a tweet
+      <a href="https://cedric.io/2018/10/27/4242/">https://cedric.io/2018/10/27/4242/</a></p>
+"/2018/10/29/4252/": {}
+"/2018/11/02/attributeerror-module-ofxstatement-plugins-alfabank-has-no-attribute-alfabankplugin/": {}
+"/2018/11/02/i-need-a-budget-using-ynab-with-belgian-bank-accounts/": {}
+"/2018/11/02/landmvrks-the-worst-of-you-and-me/": {}
+"/2018/11/03/4314/": {}
+"/2018/11/05/4316/": {}
+"/2018/11/05/4281/": {}
+"/2018/11/05/4285/": {}
+"/2018/11/05/4288/": {}
+"/2018/11/06/4293/": {}
+"/2018/11/06/4307/":
+  '595839':
+    id: '595839'
+    uri: https://twitter.com/akyrho/status/1059846675563495425#favorited-by-740185436069453825
+    source: twitter
+    pubdate: 2019-03-06 14:23:15.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1059846675563495425/740185436069453825
+      verified: true
+      verified_date: '2019-03-06T14:23:15+00:00'
+      id: 595839
+      private: false
+      data:
+        author: &17
+          name: mozzeno
+          url: https://twitter.com/mozzeno
+          photo: https://webmention.io/avatar/pbs.twimg.com/6fd1826ea520264df11966f1cbd8dcf77942b3433ab5fb3c3880d18566fd94e0.jpg
+        url: https://twitter.com/akyrho/status/1059846675563495425#favorited-by-740185436069453825
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: mozzeno favorited a tweet https://cedric.io/2018/11/06/4307/
+        sentence_html: <a href="https://twitter.com/mozzeno">mozzeno</a> favorited
+          a tweet <a href="https://cedric.io/2018/11/06/4307/">https://cedric.io/2018/11/06/4307/</a>
+      target: https://cedric.io/2018/11/06/4307/
+    author: *17
+    type: like
+    content: <p><a href="https://twitter.com/mozzeno">mozzeno</a> favorited a tweet
+      <a href="https://cedric.io/2018/11/06/4307/">https://cedric.io/2018/11/06/4307/</a></p>
+"/2018/11/06/4311/": {}
+"/2018/11/27/4405/": {}
+"/2018/11/29/mutt-protonmail/": {}
+"/2018/11/30/4431/": {}
+"/2018/12/04/4436/": {}
+"/2018/12/05/accelerer-bundle-installation-gems/":
+  '595834':
+    id: '595834'
+    uri: https://twitter.com/akyrho/status/1070266841392652288#favorited-by-201899033
+    source: twitter
+    pubdate: 2019-03-06 14:22:45.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1070266841392652288/201899033
+      verified: true
+      verified_date: '2019-03-06T14:22:45+00:00'
+      id: 595834
+      private: false
+      data:
+        author: &18
+          name: Gregory void★ Pakosz
+          url: https://twitter.com/gpakosz
+          photo: https://webmention.io/avatar/pbs.twimg.com/0e210d37eb77e5e72f5d0d9f74813e013d95d61174182aca1d7cf24333685c91.jpg
+        url: https://twitter.com/akyrho/status/1070266841392652288#favorited-by-201899033
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Gregory void★ Pakosz favorited a tweet https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+        sentence_html: <a href="https://twitter.com/gpakosz">Gregory void★ Pakosz</a>
+          favorited a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
+      target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+    author: *18
+    type: like
+    content: <p><a href="https://twitter.com/gpakosz">Gregory void★ Pakosz</a> favorited
+      a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
+  '595836':
+    id: '595836'
+    uri: https://twitter.com/akyrho/status/1070266841392652288#favorited-by-77972477
+    source: twitter
+    pubdate: 2019-03-06 14:22:49.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1070266841392652288/77972477
+      verified: true
+      verified_date: '2019-03-06T14:22:49+00:00'
+      id: 595836
+      private: false
+      data:
+        author: &19
+          name: Nicolas Brousse
+          url: https://twitter.com/nicolas_brousse
+          photo: https://pbs.twimg.com/profile_images/824738441686614016/J34ueu14.jpg
+        url: https://twitter.com/akyrho/status/1070266841392652288#favorited-by-77972477
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Nicolas Brousse favorited a tweet https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+        sentence_html: <a href="https://twitter.com/nicolas_brousse">Nicolas Brousse</a>
+          favorited a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
+      target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+    author: *19
+    type: like
+    content: <p><a href="https://twitter.com/nicolas_brousse">Nicolas Brousse</a>
+      favorited a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
+  '1070654744094539776':
+    id: '1070654744094539776'
+    uri: https://twitter.com/nicolas_brousse/status/1070654744094539776
+    source: twitter
+    pubdate: 2018-12-06 13:22:37.000000000 +01:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1070266841392652288/1070654744094539776
+      verified: true
+      verified_date: '2019-03-06T14:22:54+00:00'
+      id: 595837
+      private: false
+      data:
+        author: &20
+          name: Nicolas Brousse
+          url: https://twitter.com/nicolas_brousse
+          photo: https://webmention.io/avatar/pbs.twimg.com/3f12f4d3875c1416f571c1265c07eba235eb7a009efe9aa2f95cac7f6dd8005d.jpg
+        url: https://twitter.com/nicolas_brousse/status/1070654744094539776
+        name: 
+        content: 'On peut aussi récupérer le nombre de coeurs de la machine pour être
+          plus opti ;) — bundle config --global jobs `expr $(sysctl -n hw.ncpu) -
+          1`  (source: <a href="https://robots.thoughtbot.com/parallel-gem-installing-using-bundler">robots.thoughtbot.com/parallel-gem-i…</a>)'
+        published: '2018-12-06T12:22:37+00:00'
+        published_ts: 1544098957
+      activity:
+        type: reply
+        sentence: Nicolas Brousse replied 'On peut aussi récupérer le nombre de coeurs
+          de la machine pour être plus opti ;)...' to a tweet https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+        sentence_html: <a href="https://twitter.com/nicolas_brousse">Nicolas Brousse</a>
+          replied 'On peut aussi récupérer le nombre de coeurs de la machine pour
+          être plus opti ;)...' to a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
+      target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+    author: *20
+    type: reply
+    content: '<p>On peut aussi récupérer le nombre de coeurs de la machine pour être
+      plus opti ;) — bundle config –global jobs <code class="highlighter-rouge">expr
+      $(sysctl -n hw.ncpu) - 1</code>  (source: <a href="https://robots.thoughtbot.com/parallel-gem-installing-using-bundler">robots.thoughtbot.com/parallel-gem-i…</a>)</p>'
+  '1073113884465205248':
+    id: '1073113884465205248'
+    uri: https://twitter.com/lkdjiin/status/1073113884465205248
+    source: twitter
+    pubdate: 2018-12-13 08:14:22.000000000 +01:00
+    raw:
+      source: https://brid-gy.appspot.com/repost/twitter/akyrho/1070266841392652288/1073113884465205248
+      verified: true
+      verified_date: '2019-03-06T14:22:47+00:00'
+      id: 595835
+      private: false
+      data:
+        author: &21
+          name: Xavier Nayrac
+          url: https://twitter.com/lkdjiin
+          photo: https://webmention.io/avatar/pbs.twimg.com/746a6a5f1e5fee5fd1b002278c3f2421275dbc1d6a2ea4fd81ab7e1cb4151137.jpg
+        url: https://twitter.com/lkdjiin/status/1073113884465205248
+        name: 
+        content: 'Accélérer l’exécution de la commande bundle et l’installation des
+          gems: cedric.io/2018/12/05/acc…'
+        published: '2018-12-13T07:14:22+00:00'
+        published_ts: 1544685262
+      activity:
+        type: repost
+        sentence: Xavier Nayrac retweeted a tweet https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+        sentence_html: <a href="https://twitter.com/lkdjiin">Xavier Nayrac</a> retweeted
+          a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
+      target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+    author: *21
+    type: repost
+    content: <p><a href="https://twitter.com/lkdjiin">Xavier Nayrac</a> retweeted
+      a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
+  '1077655645774663680':
+    id: '1077655645774663680'
+    uri: https://twitter.com/AnthoBarre/status/1077655645774663680
+    source: twitter
+    pubdate: 2018-12-25 21:01:42.000000000 +01:00
+    raw:
+      source: https://brid-gy.appspot.com/repost/twitter/akyrho/1070266841392652288/1077655645774663680
+      verified: true
+      verified_date: '2019-03-06T14:23:01+00:00'
+      id: 595838
+      private: false
+      data:
+        author: &22
+          name: Anthony Barré
+          url: https://twitter.com/AnthoBarre
+          photo: https://webmention.io/avatar/pbs.twimg.com/370540985623f64834fda75fbef3a2dc3b40c992b864b93d91fc65f819c218db.jpg
+        url: https://twitter.com/AnthoBarre/status/1077655645774663680
+        name: 
+        content: 'Accélérer l’exécution de la commande bundle et l’installation des
+          gems: cedric.io/2018/12/05/acc…'
+        published: '2018-12-25T20:01:42+00:00'
+        published_ts: 1545768102
+      activity:
+        type: repost
+        sentence: Anthony Barré retweeted a tweet https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+        sentence_html: <a href="https://twitter.com/AnthoBarre">Anthony Barré</a>
+          retweeted a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
+      target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
+    author: *22
+    type: repost
+    content: <p><a href="https://twitter.com/AnthoBarre">Anthony Barré</a> retweeted
+      a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
+"/2018/12/07/4454/": {}
+"/2018/12/13/deriver-mail-postfix-mailgun/": {}
+"/2018/12/20/clean-old-git-branches/": {}
+"/2018/12/21/4506/":
+  '595832':
+    id: '595832'
+    uri: https://twitter.com/akyrho/status/1076031536053530625#favorited-by-19031025
+    source: twitter
+    pubdate: 2019-03-06 14:21:17.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1076031536053530625/19031025
+      verified: true
+      verified_date: '2019-03-06T14:21:17+00:00'
+      id: 595832
+      private: false
+      data:
+        author: &23
+          name: Charles Buchler
+          url: https://twitter.com/cbuchler
+          photo: https://pbs.twimg.com/profile_images/1048891299246559232/qz9ELJ2u.jpg
+        url: https://twitter.com/akyrho/status/1076031536053530625#favorited-by-19031025
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Charles Buchler favorited a tweet https://cedric.io/2018/12/21/4506/
+        sentence_html: <a href="https://twitter.com/cbuchler">Charles Buchler</a>
+          favorited a tweet <a href="https://cedric.io/2018/12/21/4506/">https://cedric.io/2018/12/21/4506/</a>
+      target: https://cedric.io/2018/12/21/4506/
+    author: *23
+    type: like
+    content: <p><a href="https://twitter.com/cbuchler">Charles Buchler</a> favorited
+      a tweet <a href="https://cedric.io/2018/12/21/4506/">https://cedric.io/2018/12/21/4506/</a></p>
+  '1076032931532029952':
+    id: '1076032931532029952'
+    uri: https://twitter.com/cbuchler/status/1076032931532029952
+    source: twitter
+    pubdate: 2018-12-21 09:33:37.000000000 +01:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1076031536053530625/1076032931532029952
+      verified: true
+      verified_date: '2019-03-06T14:21:31+00:00'
+      id: 595833
+      private: false
+      data:
+        author: &24
+          name: Charles Buchler
+          url: https://twitter.com/cbuchler
+          photo: https://webmention.io/avatar/pbs.twimg.com/7fec5153c077dd45cdcebd55f44b4dba09bc24fedca4ee48e29f36a3153e6280.jpg
+        url: https://twitter.com/cbuchler/status/1076032931532029952
+        name: 
+        content: "\U0001F44B Looking to get back into programming, so I'd be interested
+          that or the JS meetup! :)"
+        published: '2018-12-21T08:33:37+00:00'
+        published_ts: 1545381217
+      activity:
+        type: reply
+        sentence: "Charles Buchler replied '\U0001F44B Looking to get back into programming,
+          so I'd be interested that or the JS meet...' to a tweet https://cedric.io/2018/12/21/4506/"
+        sentence_html: "<a href=\"https://twitter.com/cbuchler\">Charles Buchler</a>
+          replied '\U0001F44B Looking to get back into programming, so I'd be interested
+          that or the JS meet...' to a tweet <a href=\"https://cedric.io/2018/12/21/4506/\">https://cedric.io/2018/12/21/4506/</a>"
+      target: https://cedric.io/2018/12/21/4506/
+    author: *24
+    type: reply
+    content: "<p>\U0001F44B Looking to get back into programming, so I’d be interested
+      that or the JS meetup! :)</p>"
+"/2018/12/23/4528/": {}
+"/2018/12/23/4529/": {}
+"/2018/12/23/4530/": {}
+"/2018/12/25/4536/": {}
+"/2019/01/04/4552/": {}
+"/2019/01/06/4568/": {}
+"/2019/01/07/how-install-rubocop-sublime-text-rbenv/": {}
+"/2019/01/08/ton-premier-jour-decole/": {}
+"/2019/01/10/how-install-solargraph-sublimetext-lsp/": {}
+"/social/2019/01/15/31949.html": {}
+"/2019/01/17/4629/": {}
+"/2019/02/06/4696/": {}
+"/2019/02/08/qutebrowser-and-lastpass/": {}
+"/social/2019/03/02/58126.html": {}
+"/social/2019/03/04/60561.html": {}
+"/social/2019/03/04/64518.html": {}
+"/jekyll/update/2019/03/05/welcome-to-jekyll.html": {}
+"/social/2019/03/06/28367.html": {}
+"/links/2019/03/06/38845.html": {}
+"/links/2019/03/06/39196.html": {}
+"/social/2019/03/06/39418.html": {}
+"/links/2019/03/06/indie-webify-me-a-guide-to.html": {}
+"/links/2019/03/06/39930.html": {}
+"/links/2019/03/06/easily-send-webmentions-from-your.html": {}
+"/social/2019/03/06/40253.html": {}
+"/social/2019/03/06/42617.html": {}
