@@ -14,7 +14,7 @@
 
 ◽ Style `mf-syndication`
 
-◽ Import old likes
+☑ Import old likes
 
 ◽ Import old bookmarks
 
@@ -31,4 +31,8 @@
 ◽ Display tags
 
 ◽ Style webmentions (https://cedric.io/social/2019/03/06/40253.html)
+
+◽ Display rich-content for Instagram
+
+◽ Display rich-content for any url (title/description?)
 
