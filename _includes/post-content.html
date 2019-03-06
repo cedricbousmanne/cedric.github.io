@@ -6,6 +6,13 @@
     </p>
   {% endif%}
 
+  {% if include.post.mf-repost-of %}
+    <p class="p-summary">
+      🔁 Reposted: <a class="u-repost-of" href="{{ include.post.mf-repost-of.first }}" target="_blank" rel="noopener noreferrer">{{ include.post.mf-repost-of.first }}</a>
+      {% include rich-content.html url=include.post.mf-repost-of.first %}
+    </p>
+  {% endif%}
+
   {{ content }}
 
 </div>

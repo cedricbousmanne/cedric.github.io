@@ -1,5 +1,6 @@
-PATH
-  remote: /home/cedric/Code/jekyll-twitter-plugin
+GIT
+  remote: git://github.com/cedricbousmanne/jekyll-twitter-plugin.git
+  revision: 348d81c83df2c876dab768759e5fb864f5ee217a
   specs:
     jekyll-twitter-plugin (2.0.0)
 
@@ -76,3 +77,5 @@ DEPENDENCIES
   minima (~> 2.0)
   tzinfo-data
 
+BUNDLED WITH
+   2.0.1
