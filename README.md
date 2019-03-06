@@ -27,3 +27,8 @@
 ◽ Display a map along with `mf-checkin` posts
 
 ◽ Navigation link to /read
+
+◽ Display tags
+
+◽ Style webmentions (https://cedric.io/social/2019/03/06/40253.html)
+
