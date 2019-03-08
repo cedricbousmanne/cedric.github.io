@@ -651,7 +651,78 @@
     type: like
     content: <p><a href="https://twitter.com/mozzeno">mozzeno</a> favorited a tweet
       <a href="https://cedric.io/2018/11/06/4307/">https://cedric.io/2018/11/06/4307/</a></p>
-"/2018/11/06/4311/": {}
+"/2018/11/06/4311/":
+  '596470':
+    id: '596470'
+    uri: https://cedric.io/2019/01/08/ton-premier-jour-decole/
+    source: false
+    pubdate: 2019-01-08 12:19:41.000000000 +01:00
+    raw:
+      source: https://cedric.io/2019/01/08/ton-premier-jour-decole/
+      verified: true
+      verified_date: '2019-03-08T12:59:04+00:00'
+      id: 596470
+      private: false
+      data:
+        author: &18
+          name: cedric
+          url: 
+          photo: 
+        url: https://cedric.io/2019/01/08/ton-premier-jour-decole/
+        name: Ton premier jour d'école
+        content: |-
+          <p>C’était ton premier jour d’école, aujourd’hui. Je n’aurais manqué ça pour rien au monde.</p>
+
+          <p>J’ai mal dormi cette nuit, remplis de doutes, d’incertitudes et de questions. Jusqu’à présent, nous t’avions gardé rien que pour nous, et désormais, tu aurais ta propre petite vie, en dehors de la maison. J’ai passé une bonne partie de la nuit à me demander si nous t’avions bien préparé.</p>
+
+          <p>Tu t’es réveillé de bonne humeur ce matin, tu as pris ton lait, tes céréales, et regardé un épisode des Pyjamasques. Je t’ai encore expliqué ce qui allait se passer, ta maman aussi. Je n’étais pas tout à fait sûr que tu comprenais bien toutes les implications que ça avait, mais tu es resté stoïque.</p>
+
+          <p>Quand l’heure de partir est arrivée, je n’en menais pas large. Toi par contre, tu as été brave. Très brave. Bien plus que je ne pouvais l’être. Dans la voiture, tu m’as demandé la vraie chanson. Tu parlais bien sûr de <a href="https://cedric.io/2018/11/06/4311/">Californication</a>. La <strong>vraie</strong> chanson, pas la berceuse que je te fais écouter le soir avant de dormir.</p>
+
+          <p>Nous sommes arrivés à l’école, ton petit cartable sur le dos, tu as traversé la cours en regardant tout autour de toi. Calme et silencieux, comme souvent, tu te contentais d’observer ce qui t’entourait. A l’intérieur, nous t’avons montré ton porte-manteau, ton prénom y était écrit à côté d’un dessin de petite voiture. Tu as déposé tes affaires avant de me montrer la petite cuisine, dans le couloir.</p>
+
+          <p>Enfin nous sommes entrés en classe. Tu as déposé ta collation et ta gourde dans le tiroir à ton nom, puis tu t’es précipité vers le garage des petites voitures. Tu étais à la fête : plein de jouets dans une salle remplie d’enfants. Intérieurement, je fondais en larmes de voir mon petit bonhomme devenir un grand, mais il ne fallait rien laisser transparaître.</p>
+
+          <p>Alors je me suis tu. Je t’ai souris, je me suis accroupi pour regarder de plus près le jouet que tu me montrais. Quand vint l’heure de partir, maman t’as expliqué que nous te laissions là, jouer avec tes nouveaux amis, mais qu’elle viendrait te rechercher un peu plus tard. Tu as hoché la tête, en disant « oui ». Tu nous a pris dans tes bras, fait un bisou, puis tu t’es dirigé vers la fenêtre pour nous faire « coucou ».</p>
+
+          <p>Nous nous sommes éloignés sans pour autant quitter l’école tout de suite. Je t’ai vu revenir à la fenêtre quelques minutes plus tard. Tu as regardé un petit moment, puis, ne nous voyant pas, tu es retourné dans l’espace de jeu.</p>
+
+          <p>C’était un moment dur pour ta maman et moi, mais bien heureusement, il a semblé bien plus facile pour toi. J’ai hâte de rentrer à la maison, ce soir, et de t’entendre me raconter ta journée.</p>
+
+          <p> </p>
+        published: '2019-01-08T11:19:41+00:00'
+        published_ts: 1546946381
+      activity:
+        type: link
+        sentence: cedric posted 'C’était ton premier jour d’école, aujourd’hui. Je
+          n’aurais manqué ça pour rien a...' linking to https://cedric.io/2018/11/06/4311/
+        sentence_html: <a href="https://cedric.io/2019/01/08/ton-premier-jour-decole/">cedric</a>
+          posted 'C’était ton premier jour d’école, aujourd’hui. Je n’aurais manqué
+          ça pour rien a...' linking to <a href="https://cedric.io/2018/11/06/4311/">https://cedric.io/2018/11/06/4311/</a>
+      target: https://cedric.io/2018/11/06/4311/
+    author: *18
+    type: link
+    title: Ton premier jour d'école
+    content: |-
+      <p>C’était ton premier jour d’école, aujourd’hui. Je n’aurais manqué ça pour rien au monde.</p>
+
+      <p>J’ai mal dormi cette nuit, remplis de doutes, d’incertitudes et de questions. Jusqu’à présent, nous t’avions gardé rien que pour nous, et désormais, tu aurais ta propre petite vie, en dehors de la maison. J’ai passé une bonne partie de la nuit à me demander si nous t’avions bien préparé.</p>
+
+      <p>Tu t’es réveillé de bonne humeur ce matin, tu as pris ton lait, tes céréales, et regardé un épisode des Pyjamasques. Je t’ai encore expliqué ce qui allait se passer, ta maman aussi. Je n’étais pas tout à fait sûr que tu comprenais bien toutes les implications que ça avait, mais tu es resté stoïque.</p>
+
+      <p>Quand l’heure de partir est arrivée, je n’en menais pas large. Toi par contre, tu as été brave. Très brave. Bien plus que je ne pouvais l’être. Dans la voiture, tu m’as demandé la vraie chanson. Tu parlais bien sûr de <a href="https://cedric.io/2018/11/06/4311/">Californication</a>. La <strong>vraie</strong> chanson, pas la berceuse que je te fais écouter le soir avant de dormir.</p>
+
+      <p>Nous sommes arrivés à l’école, ton petit cartable sur le dos, tu as traversé la cours en regardant tout autour de toi. Calme et silencieux, comme souvent, tu te contentais d’observer ce qui t’entourait. A l’intérieur, nous t’avons montré ton porte-manteau, ton prénom y était écrit à côté d’un dessin de petite voiture. Tu as déposé tes affaires avant de me montrer la petite cuisine, dans le couloir.</p>
+
+      <p>Enfin nous sommes entrés en classe. Tu as déposé ta collation et ta gourde dans le tiroir à ton nom, puis tu t’es précipité vers le garage des petites voitures. Tu étais à la fête : plein de jouets dans une salle remplie d’enfants. Intérieurement, je fondais en larmes de voir mon petit bonhomme devenir un grand, mais il ne fallait rien laisser transparaître.</p>
+
+      <p>Alors je me suis tu. Je t’ai souris, je me suis accroupi pour regarder de plus près le jouet que tu me montrais. Quand vint l’heure de partir, maman t’as expliqué que nous te laissions là, jouer avec tes nouveaux amis, mais qu’elle viendrait te rechercher un peu plus tard. Tu as hoché la tête, en disant « oui ». Tu nous a pris dans tes bras, fait un bisou, puis tu t’es dirigé vers la fenêtre pour nous faire « coucou ».</p>
+
+      <p>Nous nous sommes éloignés sans pour autant quitter l’école tout de suite. Je t’ai vu revenir à la fenêtre quelques minutes plus tard. Tu as regardé un petit moment, puis, ne nous voyant pas, tu es retourné dans l’espace de jeu.</p>
+
+      <p>C’était un moment dur pour ta maman et moi, mais bien heureusement, il a semblé bien plus facile pour toi. J’ai hâte de rentrer à la maison, ce soir, et de t’entendre me raconter ta journée.</p>
+
+      <p> </p>
 "/2018/11/27/4405/": {}
 "/2018/11/29/mutt-protonmail/": {}
 "/2018/11/30/4431/": {}
@@ -669,7 +740,7 @@
       id: 595834
       private: false
       data:
-        author: &18
+        author: &19
           name: Gregory void★ Pakosz
           url: https://twitter.com/gpakosz
           photo: https://webmention.io/avatar/pbs.twimg.com/0e210d37eb77e5e72f5d0d9f74813e013d95d61174182aca1d7cf24333685c91.jpg
@@ -684,7 +755,7 @@
         sentence_html: <a href="https://twitter.com/gpakosz">Gregory void★ Pakosz</a>
           favorited a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
       target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
-    author: *18
+    author: *19
     type: like
     content: <p><a href="https://twitter.com/gpakosz">Gregory void★ Pakosz</a> favorited
       a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
@@ -700,7 +771,7 @@
       id: 595836
       private: false
       data:
-        author: &19
+        author: &20
           name: Nicolas Brousse
           url: https://twitter.com/nicolas_brousse
           photo: https://pbs.twimg.com/profile_images/824738441686614016/J34ueu14.jpg
@@ -715,7 +786,7 @@
         sentence_html: <a href="https://twitter.com/nicolas_brousse">Nicolas Brousse</a>
           favorited a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
       target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
-    author: *19
+    author: *20
     type: like
     content: <p><a href="https://twitter.com/nicolas_brousse">Nicolas Brousse</a>
       favorited a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
@@ -731,7 +802,7 @@
       id: 595837
       private: false
       data:
-        author: &20
+        author: &21
           name: Nicolas Brousse
           url: https://twitter.com/nicolas_brousse
           photo: https://webmention.io/avatar/pbs.twimg.com/3f12f4d3875c1416f571c1265c07eba235eb7a009efe9aa2f95cac7f6dd8005d.jpg
@@ -750,7 +821,7 @@
           replied 'On peut aussi récupérer le nombre de coeurs de la machine pour
           être plus opti ;)...' to a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
       target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
-    author: *20
+    author: *21
     type: reply
     content: '<p>On peut aussi récupérer le nombre de coeurs de la machine pour être
       plus opti ;) — bundle config –global jobs <code class="highlighter-rouge">expr
@@ -767,7 +838,7 @@
       id: 595835
       private: false
       data:
-        author: &21
+        author: &22
           name: Xavier Nayrac
           url: https://twitter.com/lkdjiin
           photo: https://webmention.io/avatar/pbs.twimg.com/746a6a5f1e5fee5fd1b002278c3f2421275dbc1d6a2ea4fd81ab7e1cb4151137.jpg
@@ -783,7 +854,7 @@
         sentence_html: <a href="https://twitter.com/lkdjiin">Xavier Nayrac</a> retweeted
           a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
       target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
-    author: *21
+    author: *22
     type: repost
     content: <p><a href="https://twitter.com/lkdjiin">Xavier Nayrac</a> retweeted
       a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
@@ -799,7 +870,7 @@
       id: 595838
       private: false
       data:
-        author: &22
+        author: &23
           name: Anthony Barré
           url: https://twitter.com/AnthoBarre
           photo: https://webmention.io/avatar/pbs.twimg.com/370540985623f64834fda75fbef3a2dc3b40c992b864b93d91fc65f819c218db.jpg
@@ -815,7 +886,7 @@
         sentence_html: <a href="https://twitter.com/AnthoBarre">Anthony Barré</a>
           retweeted a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a>
       target: https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/
-    author: *22
+    author: *23
     type: repost
     content: <p><a href="https://twitter.com/AnthoBarre">Anthony Barré</a> retweeted
       a tweet <a href="https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/">https://cedric.io/2018/12/05/accelerer-bundle-installation-gems/</a></p>
@@ -835,7 +906,7 @@
       id: 595832
       private: false
       data:
-        author: &23
+        author: &24
           name: Charles Buchler
           url: https://twitter.com/cbuchler
           photo: https://pbs.twimg.com/profile_images/1048891299246559232/qz9ELJ2u.jpg
@@ -850,7 +921,7 @@
         sentence_html: <a href="https://twitter.com/cbuchler">Charles Buchler</a>
           favorited a tweet <a href="https://cedric.io/2018/12/21/4506/">https://cedric.io/2018/12/21/4506/</a>
       target: https://cedric.io/2018/12/21/4506/
-    author: *23
+    author: *24
     type: like
     content: <p><a href="https://twitter.com/cbuchler">Charles Buchler</a> favorited
       a tweet <a href="https://cedric.io/2018/12/21/4506/">https://cedric.io/2018/12/21/4506/</a></p>
@@ -866,7 +937,7 @@
       id: 595833
       private: false
       data:
-        author: &24
+        author: &25
           name: Charles Buchler
           url: https://twitter.com/cbuchler
           photo: https://webmention.io/avatar/pbs.twimg.com/7fec5153c077dd45cdcebd55f44b4dba09bc24fedca4ee48e29f36a3153e6280.jpg
@@ -884,7 +955,7 @@
           replied '\U0001F44B Looking to get back into programming, so I'd be interested
           that or the JS meet...' to a tweet <a href=\"https://cedric.io/2018/12/21/4506/\">https://cedric.io/2018/12/21/4506/</a>"
       target: https://cedric.io/2018/12/21/4506/
-    author: *24
+    author: *25
     type: reply
     content: "<p>\U0001F44B Looking to get back into programming, so I’d be interested
       that or the JS meetup! :)</p>"
@@ -914,3 +985,59 @@
 "/links/2019/03/06/easily-send-webmentions-from-your.html": {}
 "/social/2019/03/06/40253.html": {}
 "/social/2019/03/06/42617.html": {}
+"/2018/09/20/884/": {}
+"/2018/10/04/1495/": {}
+"/2018/10/04/1498/": {}
+"/2018/10/04/1501/": {}
+"/2018/10/04/1502/": {}
+"/2018/10/04/1519/": {}
+"/2018/10/12/4135/": {}
+"/2018/10/12/4136/": {}
+"/2018/10/16/4157/": {}
+"/2018/10/18/4168/": {}
+"/2018/10/18/4169/": {}
+"/2018/10/18/4170/": {}
+"/2018/10/18/4171/": {}
+"/2018/10/19/4174/": {}
+"/2018/10/25/4205/": {}
+"/2018/11/05/4278/": {}
+"/2018/11/21/4386/": {}
+"/2018/12/07/4452/": {}
+"/2018/12/23/4531/": {}
+"/links/2019/03/07/71768.html": {}
+"/links/2019/03/07/ruby-s-hidden-gems-string-scanner.html": {}
+"/social/2019/03/07/81934.html": {}
+"/social/2019/03/08/43882.html": {}
+"/social/2019/03/08/44810.html":
+  '596504':
+    id: '596504'
+    uri: https://twitter.com/akyrho/status/1104017971826081794#favorited-by-44119449
+    source: twitter
+    pubdate: 2019-03-08 14:09:42.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1104017971826081794/44119449
+      verified: true
+      verified_date: '2019-03-08T14:09:42+00:00'
+      id: 596504
+      private: false
+      data:
+        author: &26
+          name: "I post from https://v2.jacky.wtf. \U0001F193 != safe."
+          url: https://twitter.com/jackyalcine
+          photo: https://webmention.io/avatar/pbs.twimg.com/8f2fc295af55ec8934ea469d5d122f3c849a17d1dfc7048d558ab4a60e273715.jpg
+        url: https://twitter.com/akyrho/status/1104017971826081794#favorited-by-44119449
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: "I post from https://v2.jacky.wtf. \U0001F193 != safe. favorited
+          a tweet https://cedric.io/social/2019/03/08/44810.html"
+        sentence_html: "<a href=\"https://twitter.com/jackyalcine\">I post from https://v2.jacky.wtf.
+          \U0001F193 != safe.</a> favorited a tweet <a href=\"https://cedric.io/social/2019/03/08/44810.html\">https://cedric.io/social/2019/03/08/44810.html</a>"
+      target: https://cedric.io/social/2019/03/08/44810.html
+    author: *26
+    type: like
+    content: "<p><a href=\"https://twitter.com/jackyalcine\">I post from https://v2.jacky.wtf.
+      \U0001F193 != safe.</a> favorited a tweet <a href=\"https://cedric.io/social/2019/03/08/44810.html\">https://cedric.io/social/2019/03/08/44810.html</a></p>"

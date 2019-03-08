@@ -293,7 +293,12 @@ https://cedric.io/2015/10/13/slackin-une-landing-page-pour-votre-communaute-slac
   https://api.slack.com/web: false
   "//channels:": false
   http://127.0.0.1:3000;: false
-  http://cedric.io: false
+  http://cedric.io:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/cedric.io/webmention/U1nMYqx27x8jKvgq6kYM
+    source: https://cedric.io/2015/10/13/slackin-une-landing-page-pour-votre-communaute-slack/
+    target: http://cedric.io
 https://cedric.io/2015/12/24/gcuisinier-yoseihana-oh-non-elle-va-encore-etre-intenable.html:
   https://twitter.com/gcuisinier: false
   https://twitter.com/yoseihana: false
@@ -312,10 +317,20 @@ https://cedric.io/2018/09/14/6/: {}
 https://cedric.io/2018/09/18/831/:
   http://redcloth.org/: false
 https://cedric.io/2018/09/18/834/:
-  https://nicolas-hoizey.com/2017/07/so-long-disqus-hello-webmentions.html: false
+  https://nicolas-hoizey.com/2017/07/so-long-disqus-hello-webmentions.html:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/nicolas-hoizey.com/webmention/bH3PHZzE_Psa5yqbcTHP
+    source: https://cedric.io/2018/09/18/834/
+    target: https://nicolas-hoizey.com/2017/07/so-long-disqus-hello-webmentions.html
 https://cedric.io/2018/09/18/836/: {}
 https://cedric.io/2018/09/18/840/:
-  https://nicolas-hoizey.com/2017/11/medium-is-only-an-edge-server-of-your-posse-cdn-your-own-blog-is-the-origin.html: false
+  https://nicolas-hoizey.com/2017/11/medium-is-only-an-edge-server-of-your-posse-cdn-your-own-blog-is-the-origin.html:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/nicolas-hoizey.com/webmention/T7b2x7Y_PSvWJXLMEST_
+    source: https://cedric.io/2018/09/18/840/
+    target: https://nicolas-hoizey.com/2017/11/medium-is-only-an-edge-server-of-your-posse-cdn-your-own-blog-is-the-origin.html
 https://cedric.io/2018/09/19/html-forcer-laffichage-du-point-ou-de-la-virgule-comme-separateur-decimal/: {}
 https://cedric.io/2018/09/19/ikea-hack-realisation-dun-ilot-de-cuisine-diy/:
   http://cmadecoeco.canalblog.com/archives/2012/03/22/23815387.html: false
@@ -340,13 +355,18 @@ https://cedric.io/2018/09/19/ikea-hack-realisation-dun-ilot-de-cuisine-diy/:
   https://i1.wp.com/cedric.io/wp-content/uploads/2018/09/img_1178.jpg?w=900&: false
   https://i1.wp.com/cedric.io/wp-content/uploads/2018/09/img_1179.jpg?w=900&: false
 https://cedric.io/2018/09/19/857/:
-  https://cleverdevil.io/2018/freeing-myself-from-facebook: false
+  https://cleverdevil.io/2018/freeing-myself-from-facebook: ''
 https://cedric.io/2018/09/20/860/: {}
 https://cedric.io/2018/09/20/861/: {}
 https://cedric.io/2018/09/20/888/: {}
 https://cedric.io/2018/09/20/890/: {}
 https://cedric.io/2018/09/20/895/:
-  https://indieweb.org/: false
+  https://indieweb.org/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/QBEwqBQ-HZiKATbCjrLl
+    source: https://cedric.io/2018/09/20/895/
+    target: https://indieweb.org/
   "//irc.freenode.net/indieweb": false
 https://cedric.io/2018/09/20/897/:
   https://ruby-doc.org/stdlib-2.4.2/libdoc/net/http/rdoc/Net/HTTP.html: false
@@ -366,11 +386,21 @@ https://cedric.io/2018/10/01/jai-decouvert-les-audiobooks/:
   https://amzn.to/2DQS29u: false
 https://cedric.io/2018/10/01/1395/: {}
 https://cedric.io/2018/10/01/1400/:
-  https://indieweb.org/Bridgy: false
+  https://indieweb.org/Bridgy:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/B_vQirUi-gOvdj7BuAj1
+    source: https://cedric.io/2018/10/01/1400/
+    target: https://indieweb.org/Bridgy
 https://cedric.io/2018/10/01/1402/: {}
 https://cedric.io/2018/10/02/1439/:
   https://ownyourswarm.p3k.io/: false
-  https://cedric.io/kind/checkin/: false
+  https://cedric.io/kind/checkin/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/cedric.io/webmention/NwTXS1S4mrjFnomfsGtk
+    source: https://cedric.io/2018/10/02/1439/
+    target: https://cedric.io/kind/checkin/
 https://cedric.io/2018/10/03/1486/: {}
 https://cedric.io/2018/10/03/1492/:
   https://protonmail.com/fr/: false
@@ -380,14 +410,44 @@ https://cedric.io/2018/10/04/1513/: {}
 https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/:
   "//irc.freenode.net/": false
   https://freenode.logbot.info/indieweb-wordpress/20181004: false
-  https://indieweb.org/Ruby: false
-  https://indieweb.org/principles: false
-  https://cedric.io/2018/09/18/836/: false
+  https://indieweb.org/Ruby:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/ArsLcb6bBvhZ1SpB-lxw
+    source: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+    target: https://indieweb.org/Ruby
+  https://indieweb.org/principles:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/7aW1alMZnsUmpVaf56Yk
+    source: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+    target: https://indieweb.org/principles
+  https://cedric.io/2018/09/18/836/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/cedric.io/webmention/V2T-sLl-dmcK5JsbHawJ
+    source: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+    target: https://cedric.io/2018/09/18/836/
   https://www.gandi.net/en: false
-  https://indieweb.org/: false
+  https://indieweb.org/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/H1VVNrEprrFV1i-fUIZu
+    source: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+    target: https://indieweb.org/
   https://www.onebigfluke.com/2012/07/focusing-on-positives-why-i-have-my-own.html: false
-  https://indieweb.org/WordPress: false
-  https://cedric.io/indieweb/: false
+  https://indieweb.org/WordPress:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/indiewebcamp/webmention/8XvipoaZkQx4da6u5J-5
+    source: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+    target: https://indieweb.org/WordPress
+  https://cedric.io/indieweb/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/cedric.io/webmention/GPlDbKHl1x7EQImN657m
+    source: https://cedric.io/2018/10/04/why-i-switched-back-to-wordpress-even-if-i-always-said-i-hated-it/
+    target: https://cedric.io/indieweb/
 https://cedric.io/2018/10/05/1534/: {}
 https://cedric.io/2018/10/05/1537/: {}
 https://cedric.io/2018/10/08/1808/: {}
@@ -476,7 +536,12 @@ https://cedric.io/2019/01/07/how-install-rubocop-sublime-text-rbenv/:
   https://gist.github.com/cedricbousmanne/2c89bf83de175f6fa6fe8dea9b7724b7: false
   https://i1.wp.com/i.imgur.com/RVV9n3B.png?w=900&: false
 https://cedric.io/2019/01/08/ton-premier-jour-decole/:
-  https://cedric.io/2018/11/06/4311/: false
+  https://cedric.io/2018/11/06/4311/:
+    status: queued
+    summary: Webmention was queued for processing
+    location: https://webmention.io/cedric.io/webmention/NWZ6f7vLZi4dfda6R8MN
+    source: https://cedric.io/2019/01/08/ton-premier-jour-decole/
+    target: https://cedric.io/2018/11/06/4311/
 https://cedric.io/2019/01/10/how-install-solargraph-sublimetext-lsp/:
   https://gist.github.com/cedricbousmanne/099bccef4472912aba61545d0c31d5ec: false
   https://i0.wp.com/imgur.com/6W7tjXLl.png?w=900&: false
@@ -505,3 +570,120 @@ https://cedric.io/links/2019/03/06/39930.html: {}
 https://cedric.io/links/2019/03/06/easily-send-webmentions-from-your.html: {}
 https://cedric.io/social/2019/03/06/40253.html: {}
 https://cedric.io/social/2019/03/06/42617.html: {}
+https://cedric.io/2018/09/20/884/: {}
+https://cedric.io/2018/10/04/1495/: {}
+https://cedric.io/2018/10/04/1498/: {}
+https://cedric.io/2018/10/04/1501/: {}
+https://cedric.io/2018/10/04/1502/: {}
+https://cedric.io/2018/10/04/1519/: {}
+https://cedric.io/2018/10/12/4135/: {}
+https://cedric.io/2018/10/12/4136/: {}
+https://cedric.io/2018/10/16/4157/: {}
+https://cedric.io/2018/10/18/4168/: {}
+https://cedric.io/2018/10/18/4169/: {}
+https://cedric.io/2018/10/18/4170/: {}
+https://cedric.io/2018/10/18/4171/: {}
+https://cedric.io/2018/10/19/4174/: {}
+https://cedric.io/2018/10/25/4205/: {}
+https://cedric.io/2018/11/05/4278/: {}
+https://cedric.io/2018/11/21/4386/: {}
+https://cedric.io/2018/12/07/4452/: {}
+https://cedric.io/2018/12/23/4531/: {}
+https://cedric.io/links/2019/03/07/71768.html: {}
+https://cedric.io/links/2019/03/07/ruby-s-hidden-gems-string-scanner.html: {}
+https://cedric.io/social/2019/03/07/81934.html: {}
+https://cedric.io/social/2019/03/08/43882.html: {}
+https://cedric.io/social/2019/03/08/44810.html:
+  https://brid.gy/publish/twitter:
+    contributors: 
+    truncated: false
+    text: |-
+      ###
+
+      1326 (https://t.co/j5ot9CaSrz)
+    is_quote_status: false
+    in_reply_to_status_id: 
+    id: '1104017971826081794'
+    favorite_count: 0
+    source: <a href="https://brid.gy/" rel="nofollow">Bridgy</a>
+    retweeted: false
+    coordinates: 
+    entities:
+      symbols: []
+      user_mentions: []
+      hashtags: []
+      urls:
+      - url: https://t.co/j5ot9CaSrz
+        indices:
+        - 11
+        - 34
+        expanded_url: https://cedric.io/social/2019/03/08/44810.html
+        display_url: cedric.io/social/2019/03…
+    in_reply_to_screen_name: 
+    in_reply_to_user_id: 
+    retweet_count: 0
+    type: post
+    id_str: '1104017971826081794'
+    favorited: false
+    user:
+      follow_request_sent: false
+      has_extended_profile: false
+      profile_use_background_image: true
+      default_profile_image: false
+      id: 6678782
+      profile_background_image_url_https: https://abs.twimg.com/images/themes/theme15/bg.png
+      verified: false
+      translator_type: regular
+      profile_text_color: '333333'
+      profile_image_url_https: https://pbs.twimg.com/profile_images/727192012504621056/NycTZi0P_normal.jpg
+      profile_sidebar_fill_color: C0DFEC
+      entities:
+        url:
+          urls:
+          - url: https://t.co/qY2LiOQV67
+            indices:
+            - 0
+            - 23
+            expanded_url: https://cedric.io
+            display_url: cedric.io
+        description:
+          urls: []
+      followers_count: 1011
+      profile_sidebar_border_color: A8C7F7
+      id_str: '6678782'
+      profile_background_color: '022330'
+      listed_count: 66
+      is_translation_enabled: false
+      utc_offset: 
+      statuses_count: 2168
+      description: Co-founder/CTO/Ruby on Rails Dev. @creative_atoms - Lead Dev @apptweak
+        - Co-founder @greenlabcowork - Co-org @CafeNArlon / @6x7asbl - Father of Noah
+        & Aidan
+      friends_count: 94
+      location: Arlon, Belgium and Luxembourg
+      profile_link_color: '0084B4'
+      profile_image_url: http://pbs.twimg.com/profile_images/727192012504621056/NycTZi0P_normal.jpg
+      following: false
+      geo_enabled: true
+      profile_background_image_url: http://abs.twimg.com/images/themes/theme15/bg.png
+      screen_name: akyrho
+      lang: en
+      profile_background_tile: false
+      favourites_count: 513
+      name: Cédric Bousmanne
+      notifications: false
+      url: https://t.co/qY2LiOQV67
+      created_at: Fri Jun 08 19:31:19 +0000 2007
+      contributors_enabled: false
+      time_zone: 
+      protected: false
+      default_profile: false
+      is_translator: false
+    geo: 
+    in_reply_to_user_id_str: 
+    possibly_sensitive: false
+    lang: und
+    url: https://twitter.com/akyrho/status/1104017971826081794
+    created_at: Fri Mar 08 13:56:10 +0000 2019
+    in_reply_to_status_id_str: 
+    place: 
