@@ -38,19 +38,19 @@
   </p>
 {% endif%}
 
+{% if include.post.title == empty or include.post.title == blank %}
+  {% assign show_title = false %}
+{% endif %}
+
 <div class="post-content e-content" itemprop="articleBody">
   {% if show_title %}
-
     <h3>
       <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
+        {{ include.post.title | escape }}
       </a>
     </h3>
-
   {% endif %}
-
   {{ content }}
-
 </div>
 
 {% include syndication.html post=include.post %}
