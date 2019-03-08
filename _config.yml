@@ -83,7 +83,7 @@ minima:
     # youtube_channel_name: CloudCannon
 
 webmentions:
-  debug: false
+  debug: true
   username: cedric.io
   # Use my own cache folder
   cache_folder: .cache
