@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/cedricbousmanne/jekyll-webmention_io.git
-  revision: 9ece06b384ba8b82edf92c6aabfd9190d99c39ca
+  revision: 5772b4dfce4cba752781c39127ca76e862199cc5
   specs:
     jekyll-webmention_io (3.3.4)
       htmlbeautifier (~> 1.1)
