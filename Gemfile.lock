@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/cedricbousmanne/jekyll-webmention_io.git
-  revision: 7b339f5c90d355f5fb9cb352be3d462a48b3a2f7
+  revision: b59454c7ae9ec5002161162605a86e5f3fbb0484
   specs:
     jekyll-webmention_io (3.3.4)
       htmlbeautifier (~> 1.1)
@@ -111,4 +111,3 @@ DEPENDENCIES
   jekyll-webmention_io!
   minima (~> 2.0)
   tzinfo-data
-
