@@ -13,9 +13,11 @@
       </div>
     </main>
 
+    {% webmentions page.url %}
+
     {%- include footer.html -%}
 
-    {% webmentions_js %}
+    {% webmentions_js %} 
 
   </body>
 
