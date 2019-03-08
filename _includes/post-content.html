@@ -23,6 +23,14 @@
   </p>
 {% endif%}
 
+{% if include.post.mf-in-reply-to %}
+  {% assign show_title = false %}
+  <p>
+    ↪ Replied to <a href="{{ include.post.mf-in-reply-to }}" class="u-in-reply-to" rel="noopener noreferrer">a tweet</a>
+  </p>
+  {% include rich-content.html url=include.post.mf-in-reply-to.first %}
+{% endif%}
+
 {% if include.post.mf-checkin %}
   {% assign show_title = false %}
   <p class="p-summary">

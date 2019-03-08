@@ -10,7 +10,7 @@
 
 ☑ Display `mf-checkin`
 
-◽ Display `reply-to`
+☑ Display `reply-to`
 
 ◽ Style `mf-syndication`
 
@@ -46,5 +46,8 @@
 
 ◽ Page : how this site works
 
+◽ add microsub endpoint (aperture)
 
+◽ use env variable for endpoints/etc 
 
+◽ document on how to clone this repo and use it
