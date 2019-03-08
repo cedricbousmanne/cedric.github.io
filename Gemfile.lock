@@ -74,6 +74,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     multi_xml (0.6.0)
+    mustermann (1.0.3)
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
     openssl (2.1.2)
@@ -81,6 +82,9 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
+    rack (2.0.6)
+    rack-protection (2.0.5)
+      rack
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -92,7 +96,13 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    sinatra (2.0.5)
+      mustermann (~> 1.0)
+      rack (~> 2.0)
+      rack-protection (= 2.0.5)
+      tilt (~> 2.0)
     string_inflection (0.1.2)
+    tilt (2.0.9)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
     webmention (0.1.6)
@@ -110,4 +120,7 @@ DEPENDENCIES
   jekyll-twitter-plugin!
   jekyll-webmention_io!
   minima (~> 2.0)
+  rack
+  sinatra
   tzinfo-data
+
