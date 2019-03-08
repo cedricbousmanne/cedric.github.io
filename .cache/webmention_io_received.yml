@@ -1041,3 +1041,181 @@
     type: like
     content: "<p><a href=\"https://twitter.com/jackyalcine\">I post from https://v2.jacky.wtf.
       \U0001F193 != safe.</a> favorited a tweet <a href=\"https://cedric.io/social/2019/03/08/44810.html\">https://cedric.io/social/2019/03/08/44810.html</a></p>"
+  '596510':
+    id: '596510'
+    uri: https://twitter.com/akyrho/status/1104017971826081794#favorited-by-991575641807118336
+    source: twitter
+    pubdate: 2019-03-08 14:41:29.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/akyrho/1104017971826081794/991575641807118336
+      verified: true
+      verified_date: '2019-03-08T14:41:29+00:00'
+      id: 596510
+      private: false
+      data:
+        author: &27
+          name: Vincent Pickering
+          url: https://twitter.com/vincentlistens
+          photo: https://webmention.io/avatar/pbs.twimg.com/8a5d4b851a39878e41d5f74a7500980426e5310cb7df16ecc812adf43452fde3.jpg
+        url: https://twitter.com/akyrho/status/1104017971826081794#favorited-by-991575641807118336
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Vincent Pickering favorited a tweet https://cedric.io/social/2019/03/08/44810.html
+        sentence_html: <a href="https://twitter.com/vincentlistens">Vincent Pickering</a>
+          favorited a tweet <a href="https://cedric.io/social/2019/03/08/44810.html">https://cedric.io/social/2019/03/08/44810.html</a>
+      target: https://cedric.io/social/2019/03/08/44810.html
+    author: *27
+    type: like
+    content: <p><a href="https://twitter.com/vincentlistens">Vincent Pickering</a>
+      favorited a tweet <a href="https://cedric.io/social/2019/03/08/44810.html">https://cedric.io/social/2019/03/08/44810.html</a></p>
+  '1104027298158837761':
+    id: '1104027298158837761'
+    uri: https://twitter.com/vincentlistens/status/1104027298158837761
+    source: twitter
+    pubdate: 2019-03-08 15:33:14.000000000 +01:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1104017971826081794/1104027298158837761
+      verified: true
+      verified_date: '2019-03-08T14:41:28+00:00'
+      id: 596509
+      private: false
+      data:
+        author: &28
+          name: Vincent Pickering
+          url: https://twitter.com/vincentlistens
+          photo: https://webmention.io/avatar/pbs.twimg.com/8a5d4b851a39878e41d5f74a7500980426e5310cb7df16ecc812adf43452fde3.jpg
+        url: https://twitter.com/vincentlistens/status/1104027298158837761
+        name: 
+        content: Testing!
+        published: '2019-03-08T14:33:14+00:00'
+        published_ts: 1552055594
+      activity:
+        type: reply
+        sentence: Vincent Pickering replied 'Testing!' to a tweet https://cedric.io/social/2019/03/08/44810.html
+        sentence_html: <a href="https://twitter.com/vincentlistens">Vincent Pickering</a>
+          replied 'Testing!' to a tweet <a href="https://cedric.io/social/2019/03/08/44810.html">https://cedric.io/social/2019/03/08/44810.html</a>
+      target: https://cedric.io/social/2019/03/08/44810.html
+    author: *28
+    type: reply
+    content: "<p>Testing!</p>"
+  '1104027316102017025':
+    id: '1104027316102017025'
+    uri: https://twitter.com/vincentlistens/status/1104027316102017025
+    source: twitter
+    pubdate: 2019-03-08 15:33:18.000000000 +01:00
+    raw:
+      source: https://brid-gy.appspot.com/repost/twitter/akyrho/1104017971826081794/1104027316102017025
+      verified: true
+      verified_date: '2019-03-08T14:41:29+00:00'
+      id: 596511
+      private: false
+      data:
+        author: &29
+          name: Vincent Pickering
+          url: https://twitter.com/vincentlistens
+          photo: https://webmention.io/avatar/pbs.twimg.com/8a5d4b851a39878e41d5f74a7500980426e5310cb7df16ecc812adf43452fde3.jpg
+        url: https://twitter.com/vincentlistens/status/1104027316102017025
+        name: 
+        content: |-
+          ###<br />
+          <br />
+          1326 (cedric.io/social/2019/03…)
+        published: '2019-03-08T14:33:18+00:00'
+        published_ts: 1552055598
+      activity:
+        type: repost
+        sentence: Vincent Pickering retweeted a tweet https://cedric.io/social/2019/03/08/44810.html
+        sentence_html: <a href="https://twitter.com/vincentlistens">Vincent Pickering</a>
+          retweeted a tweet <a href="https://cedric.io/social/2019/03/08/44810.html">https://cedric.io/social/2019/03/08/44810.html</a>
+      target: https://cedric.io/social/2019/03/08/44810.html
+    author: *29
+    type: repost
+    content: <p><a href="https://twitter.com/vincentlistens">Vincent Pickering</a>
+      retweeted a tweet <a href="https://cedric.io/social/2019/03/08/44810.html">https://cedric.io/social/2019/03/08/44810.html</a></p>
+"/social/2019/03/08/58674.html":
+  '596540':
+    id: '596540'
+    uri: https://aaronparecki.com/2019/03/08/8/
+    source: false
+    pubdate: 2019-03-08 17:55:33.000000000 +01:00
+    raw:
+      source: https://aaronparecki.com/2019/03/08/8/
+      verified: true
+      verified_date: '2019-03-08T16:55:48+00:00'
+      id: 596540
+      private: false
+      data:
+        author: &30
+          name: Aaron Parecki
+          url: https://aaronparecki.com/
+          photo: https://webmention.io/avatar/aaronparecki.com/95f2db7b34670f9864bdfc9f90d9ec0116bfc7420dec294de5fb04c29c46a6bd.jpg
+        url: https://aaronparecki.com/2019/03/08/8/
+        name: 
+        content: "It did! Congrats! <a href=\"https://aaronparecki.com/emoji/%F0%9F%8D%BE\">\U0001F37E</a>"
+        published: '2019-03-08T08:55:33-08:00'
+        published_ts: 1552064133
+      activity:
+        type: reply
+        sentence: "Aaron Parecki commented 'It did! Congrats! \U0001F37E' on a post
+          https://cedric.io/social/2019/03/08/58674.html"
+        sentence_html: "<a href=\"https://aaronparecki.com/\">Aaron Parecki</a> commented
+          'It did! Congrats! \U0001F37E' on a post <a href=\"https://cedric.io/social/2019/03/08/58674.html\">https://cedric.io/social/2019/03/08/58674.html</a>"
+      target: https://cedric.io/social/2019/03/08/58674.html
+    author: *30
+    type: reply
+    content: "<p>It did! Congrats! <a href=\"https://aaronparecki.com/emoji/%F0%9F%8D%BE\">\U0001F37E</a></p>"
+  '1104093598126100480':
+    id: '1104093598126100480'
+    uri: https://twitter.com/ton_zylstra/status/1104093598126100480
+    source: twitter
+    pubdate: 2019-03-08 19:56:41.000000000 +01:00
+    raw:
+      source: https://brid-gy.appspot.com/comment/twitter/akyrho/1104059480097009664/1104093598126100480
+      verified: true
+      verified_date: '2019-03-08T19:18:28+00:00'
+      id: 596570
+      private: false
+      data:
+        author: &31
+          name: Ton Zijlstra
+          url: https://twitter.com/ton_zylstra
+          photo: https://webmention.io/avatar/pbs.twimg.com/6dbb6f93e63e3555d44cb9d509f21c53d81f68390846e058306fba33a62aa5a6.jpg
+        url: https://twitter.com/ton_zylstra/status/1104093598126100480
+        name: 
+        content: |-
+          It did, and if everything works, this reply finds its way from my blog to your tweet, and then as webmention to your blog.<br />
+          <br />
+          Replied to<br />
+          <br />
+          &gt; &gt; ###<br />
+          &gt;<br />
+          &gt; Hopefully this note will find its way trough my Micropub endpoint, my GitHub repository, my Netlify… <a href="https://www.zylstra.org/blog/2019/03/6141/">zylstra.org/blog/2019/03/6…</a>
+          <a class="u-mention" href="http://brid.gy/"></a>
+          <a class="u-mention" href="https://brid.gy/"></a>
+        published: '2019-03-08T18:56:41+00:00'
+        published_ts: 1552071401
+      activity:
+        type: reply
+        sentence: Ton Zijlstra replied 'It did, and if everything works, this reply
+          finds its way from my blog to your t...' to a tweet https://cedric.io/social/2019/03/08/58674.html
+        sentence_html: <a href="https://twitter.com/ton_zylstra">Ton Zijlstra</a>
+          replied 'It did, and if everything works, this reply finds its way from
+          my blog to your t...' to a tweet <a href="https://cedric.io/social/2019/03/08/58674.html">https://cedric.io/social/2019/03/08/58674.html</a>
+      target: https://cedric.io/social/2019/03/08/58674.html
+    author: *31
+    type: reply
+    content: |-
+      <p>It did, and if everything works, this reply finds its way from my blog to your tweet, and then as webmention to your blog.<br />
+      <br />
+      Replied to<br />
+      <br />
+      &gt; &gt; ###<br />
+      &gt;<br />
+      &gt; Hopefully this note will find its way trough my Micropub endpoint, my GitHub repository, my Netlify… <a href="https://www.zylstra.org/blog/2019/03/6141/">zylstra.org/blog/2019/03/6…</a>
+      <a class="u-mention" href="http://brid.gy/"></a>
+      <a class="u-mention" href="https://brid.gy/"></a></p>
+"/social/2019/03/08/73164.html": {}
