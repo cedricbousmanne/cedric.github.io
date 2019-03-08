@@ -1,1 +1,1 @@
-bundle exec jekyll webmention
+bundle exec jekyll build && bundle exec jekyll webmention
