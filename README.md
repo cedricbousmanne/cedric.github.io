@@ -32,7 +32,7 @@
 
 ◽ Display tags
 
-◽ Style webmentions (https://cedric.io/social/2019/03/06/40253.html)
+☑ Style webmentions (https://cedric.io/social/2019/03/06/40253.html)
 
 ◽ Display rich-content for Instagram
 
@@ -51,3 +51,5 @@
 ◽ use env variable for endpoints/etc 
 
 ◽ document on how to clone this repo and use it
+
+◽ display a webmention form

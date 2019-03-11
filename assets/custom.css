@@ -1,0 +1,17 @@
+div.webmentions ol.webmentions__list{}
+div.webmentions ol.webmentions__list li.webmention__item{
+  margin: 10px 0;
+  clear: both;
+}
+div.webmentions ol.webmentions__list li.webmention__item article.webmention{}
+div.webmentions ol.webmentions__list li.webmentions__item article.webmention div.webmention__author{
+  max-width: 120px;
+  float: left;
+  margin-right: 10px;
+}
+div.webmentions ol.webmentions__list li.webmentions__item article.webmention div.webmention__meta{
+  clear: both;
+  border-bottom: 1px solid #444;
+  margin-bottom: 30px;
+}
+
