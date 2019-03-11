@@ -19,6 +19,8 @@ layout: default
 
   {% include post-content.html post=page %}
 
+  {% webmentions page.url %}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

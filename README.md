@@ -38,7 +38,7 @@
 
 ◽ Display rich-content for any url (title/description?
 
-◽ Display like/repost/comment count on home page (Jekyll webmention.io)
+☑ Display like/repost/comment count on home page (Jekyll webmention.io)
 
 ◽ Check instagram integration
 

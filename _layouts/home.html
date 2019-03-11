@@ -17,8 +17,14 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">
           {{ post.date | date: date_format }}
-          - 
+          -
           <a href="{{ post.url | relative_url }}">Permalink</a>
+          -
+          💬 {% webmention_count post.url posts replies %}
+          -
+          👍 {% webmention_count post.url posts likes %}
+          -
+          🔁 {% webmention_count post.url posts reposts %}
         </span>
 
         {% include post-content.html post=post %}

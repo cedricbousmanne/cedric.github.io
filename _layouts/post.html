@@ -21,7 +21,7 @@ layout: default
     {{ content }}
   </div>
 
-  {% webmentions %}
+  {% webmentions page.url %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
