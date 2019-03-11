@@ -1219,3 +1219,312 @@
       <a class="u-mention" href="http://brid.gy/"></a>
       <a class="u-mention" href="https://brid.gy/"></a></p>
 "/social/2019/03/08/73164.html": {}
+"/social/2019/03/09/48837.html":
+  '596733':
+    id: '596733'
+    uri: https://ownyourswarm.p3k.io/checkin/5c83c0c58194fc0039301f25/53d490710345d3450f3e09cadaee224d
+    source: false
+    pubdate: 2019-03-09 14:33:57.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c83c0c58194fc0039301f25/53d490710345d3450f3e09cadaee224d
+      verified: true
+      verified_date: '2019-03-09T13:34:33+00:00'
+      id: 596733
+      private: false
+      data:
+        author: &32
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/e7471bdbf5ea9819192d91d38853816b973ef363f9bc48a9838651a179458f61.png
+        url: https://ownyourswarm.p3k.io/checkin/5c83c0c58194fc0039301f25/53d490710345d3450f3e09cadaee224d
+        name: 
+        content: Foursquare is turning 10! Let’s celebrate the joys of today, the
+          memories of yesterday and the hopes of tomorrow. Thank you for being part
+          of our community. Brb, going to eat some cake.
+        published: '2019-03-09T14:33:57+01:00'
+        published_ts: 1552138437
+        swarm_coins: 48
+      activity:
+        type: reply
+        sentence: Swarm commented 'Foursquare is turning 10! Let’s celebrate the joys
+          of today, the memories of yes...' on a post https://cedric.io/social/2019/03/09/48837.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'Foursquare
+          is turning 10! Let’s celebrate the joys of today, the memories of yes...'
+          on a post <a href="https://cedric.io/social/2019/03/09/48837.html">https://cedric.io/social/2019/03/09/48837.html</a>
+      target: https://cedric.io/social/2019/03/09/48837.html
+    author: *32
+    type: reply
+    content: "<p>Foursquare is turning 10! Let’s celebrate the joys of today, the
+      memories of yesterday and the hopes of tomorrow. Thank you for being part of
+      our community. Brb, going to eat some cake.</p>"
+"/social/2019/03/09/51570.html":
+  '596734':
+    id: '596734'
+    uri: https://ownyourswarm.p3k.io/checkin/5c83cb72b9a5a80039da86ba/4277abcce1eb78e1497948febba0dc6a
+    source: false
+    pubdate: 2019-03-09 15:19:30.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c83cb72b9a5a80039da86ba/4277abcce1eb78e1497948febba0dc6a
+      verified: true
+      verified_date: '2019-03-09T14:20:06+00:00'
+      id: 596734
+      private: false
+      data:
+        author: &33
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png
+        url: https://ownyourswarm.p3k.io/checkin/5c83cb72b9a5a80039da86ba/4277abcce1eb78e1497948febba0dc6a
+        name: 
+        content: There's a lot going on inside Carrefour hypermarché! Check in to
+          more places here to earn more coins.
+        published: '2019-03-09T15:19:30+01:00'
+        published_ts: 1552141170
+        swarm_coins: 1
+      activity:
+        type: reply
+        sentence: Swarm commented 'There's a lot going on inside Carrefour hypermarché!
+          Check in to more places her...' on a post https://cedric.io/social/2019/03/09/51570.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'There's
+          a lot going on inside Carrefour hypermarché! Check in to more places her...'
+          on a post <a href="https://cedric.io/social/2019/03/09/51570.html">https://cedric.io/social/2019/03/09/51570.html</a>
+      target: https://cedric.io/social/2019/03/09/51570.html
+    author: *33
+    type: reply
+    content: "<p>There’s a lot going on inside Carrefour hypermarché! Check in to
+      more places here to earn more coins.</p>"
+"/social/2019/03/09/56235.html":
+  '596751':
+    id: '596751'
+    uri: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/59a51f152ad68c5b6abe68e92123811f
+    source: false
+    pubdate: 2019-03-09 16:37:15.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/59a51f152ad68c5b6abe68e92123811f
+      verified: true
+      verified_date: '2019-03-09T15:37:50+00:00'
+      id: 596751
+      private: false
+      data:
+        author: &34
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/09a9b94d2eba2a4602113e36b90b7be11ef442d71ba9b115d8524561a88c6be2.png
+        url: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/59a51f152ad68c5b6abe68e92123811f
+        name: 
+        content: Wow! You've checked in to Action 5 times!
+        published: '2019-03-09T16:37:15+01:00'
+        published_ts: 1552145835
+        swarm_coins: 5
+      activity:
+        type: reply
+        sentence: Swarm commented 'Wow! You've checked in to Action 5 times!' on a
+          post https://cedric.io/social/2019/03/09/56235.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'Wow! You've
+          checked in to Action 5 times!' on a post <a href="https://cedric.io/social/2019/03/09/56235.html">https://cedric.io/social/2019/03/09/56235.html</a>
+      target: https://cedric.io/social/2019/03/09/56235.html
+    author: *34
+    type: reply
+    content: "<p>Wow! You’ve checked in to Action 5 times!</p>"
+  '596750':
+    id: '596750'
+    uri: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/aca2ca94a4c8a62cae875b2803e8ec0c
+    source: false
+    pubdate: 2019-03-09 16:37:15.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/aca2ca94a4c8a62cae875b2803e8ec0c
+      verified: true
+      verified_date: '2019-03-09T15:37:49+00:00'
+      id: 596750
+      private: false
+      data:
+        author: &35
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/96fe3389ef056db8717e827a9d0d136c945ab4383641feb80e6596e9ce4a5ad2.png
+        url: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/aca2ca94a4c8a62cae875b2803e8ec0c
+        name: 
+        content: You're the mayor!
+        published: '2019-03-09T16:37:15+01:00'
+        published_ts: 1552145835
+        swarm_coins: 3
+      activity:
+        type: reply
+        sentence: Swarm commented 'You're the mayor!' on a post https://cedric.io/social/2019/03/09/56235.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'You're
+          the mayor!' on a post <a href="https://cedric.io/social/2019/03/09/56235.html">https://cedric.io/social/2019/03/09/56235.html</a>
+      target: https://cedric.io/social/2019/03/09/56235.html
+    author: *35
+    type: reply
+    content: "<p>You’re the mayor!</p>"
+  '596752':
+    id: '596752'
+    uri: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/dccdffd4534c641576c44dc92b6228f3
+    source: false
+    pubdate: 2019-03-09 16:37:15.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/dccdffd4534c641576c44dc92b6228f3
+      verified: true
+      verified_date: '2019-03-09T15:37:51+00:00'
+      id: 596752
+      private: false
+      data:
+        author: &36
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png
+        url: https://ownyourswarm.p3k.io/checkin/5c83ddab005ac100392ecb3c/dccdffd4534c641576c44dc92b6228f3
+        name: 
+        content: Keep checking in to places inside Espace Shopping Hydrion for more
+          coins!
+        published: '2019-03-09T16:37:15+01:00'
+        published_ts: 1552145835
+        swarm_coins: 2
+      activity:
+        type: reply
+        sentence: Swarm commented 'Keep checking in to places inside Espace Shopping
+          Hydrion for more coins!' on a post https://cedric.io/social/2019/03/09/56235.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'Keep checking
+          in to places inside Espace Shopping Hydrion for more coins!' on a post <a
+          href="https://cedric.io/social/2019/03/09/56235.html">https://cedric.io/social/2019/03/09/56235.html</a>
+      target: https://cedric.io/social/2019/03/09/56235.html
+    author: *36
+    type: reply
+    content: "<p>Keep checking in to places inside Espace Shopping Hydrion for more
+      coins!</p>"
+"/social/2019/03/09/58397.html":
+  '596756':
+    id: '596756'
+    uri: https://ownyourswarm.p3k.io/checkin/5c83e61d3abcaf002c2c8b4f/f9afde469e7360df10a3c001756120a0
+    source: false
+    pubdate: 2019-03-09 17:13:17.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c83e61d3abcaf002c2c8b4f/f9afde469e7360df10a3c001756120a0
+      verified: true
+      verified_date: '2019-03-09T16:13:59+00:00'
+      id: 596756
+      private: false
+      data:
+        author: &37
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png
+        url: https://ownyourswarm.p3k.io/checkin/5c83e61d3abcaf002c2c8b4f/f9afde469e7360df10a3c001756120a0
+        name: 
+        content: There's a lot going on inside Pall Center - Shopping Village! Check
+          in to more places here to earn more coins.
+        published: '2019-03-09T17:13:17+01:00'
+        published_ts: 1552147997
+        swarm_coins: 3
+      activity:
+        type: reply
+        sentence: Swarm commented 'There's a lot going on inside Pall Center - Shopping
+          Village! Check in to more p...' on a post https://cedric.io/social/2019/03/09/58397.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'There's
+          a lot going on inside Pall Center - Shopping Village! Check in to more p...'
+          on a post <a href="https://cedric.io/social/2019/03/09/58397.html">https://cedric.io/social/2019/03/09/58397.html</a>
+      target: https://cedric.io/social/2019/03/09/58397.html
+    author: *37
+    type: reply
+    content: "<p>There’s a lot going on inside Pall Center - Shopping Village! Check
+      in to more places here to earn more coins.</p>"
+  '596757':
+    id: '596757'
+    uri: https://ownyourswarm.p3k.io/checkin/5c83e61d3abcaf002c2c8b4f/82bd4dd2d32e9208aa3dda5abe12de16
+    source: false
+    pubdate: 2019-03-09 17:13:17.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c83e61d3abcaf002c2c8b4f/82bd4dd2d32e9208aa3dda5abe12de16
+      verified: true
+      verified_date: '2019-03-09T16:14:00+00:00'
+      id: 596757
+      private: false
+      data:
+        author: &38
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/96fe3389ef056db8717e827a9d0d136c945ab4383641feb80e6596e9ce4a5ad2.png
+        url: https://ownyourswarm.p3k.io/checkin/5c83e61d3abcaf002c2c8b4f/82bd4dd2d32e9208aa3dda5abe12de16
+        name: 
+        content: Still the Mayor! "Four more years, four more years!"
+        published: '2019-03-09T17:13:17+01:00'
+        published_ts: 1552147997
+        swarm_coins: 9
+      activity:
+        type: reply
+        sentence: Swarm commented 'Still the Mayor! "Four more years, four more years!"'
+          on a post https://cedric.io/social/2019/03/09/58397.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'Still
+          the Mayor! "Four more years, four more years!"' on a post <a href="https://cedric.io/social/2019/03/09/58397.html">https://cedric.io/social/2019/03/09/58397.html</a>
+      target: https://cedric.io/social/2019/03/09/58397.html
+    author: *38
+    type: reply
+    content: "<p>Still the Mayor! “Four more years, four more years!”</p>"
+"/social/2019/03/11/32964.html":
+  '597061':
+    id: '597061'
+    uri: https://ownyourswarm.p3k.io/checkin/5c8625c4e0c0c9002c3d8891/5052fbc382951b9604403ae3e3e548cd
+    source: false
+    pubdate: 2019-03-11 10:09:24.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c8625c4e0c0c9002c3d8891/5052fbc382951b9604403ae3e3e548cd
+      verified: true
+      verified_date: '2019-03-11T09:09:59+00:00'
+      id: 597061
+      private: false
+      data:
+        author: &39
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/bf2e27036890d82fbd82de56872fe09db225d86ed032a3d3bb5c96d5c662ded9.png
+        url: https://ownyourswarm.p3k.io/checkin/5c8625c4e0c0c9002c3d8891/5052fbc382951b9604403ae3e3e548cd
+        name: 
+        content: There's a lot going on inside House Of Startups! Check in to more
+          places here to earn more coins.
+        published: '2019-03-11T10:09:24+01:00'
+        published_ts: 1552295364
+        swarm_coins: 1
+      activity:
+        type: reply
+        sentence: Swarm commented 'There's a lot going on inside House Of Startups!
+          Check in to more places here to...' on a post https://cedric.io/social/2019/03/11/32964.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'There's
+          a lot going on inside House Of Startups! Check in to more places here to...'
+          on a post <a href="https://cedric.io/social/2019/03/11/32964.html">https://cedric.io/social/2019/03/11/32964.html</a>
+      target: https://cedric.io/social/2019/03/11/32964.html
+    author: *39
+    type: reply
+    content: "<p>There’s a lot going on inside House Of Startups! Check in to more
+      places here to earn more coins.</p>"
+  '597062':
+    id: '597062'
+    uri: https://ownyourswarm.p3k.io/checkin/5c8625c4e0c0c9002c3d8891/ea68b1d95aca3f027b2a1602f75ac26c
+    source: false
+    pubdate: 2019-03-11 10:09:24.000000000 +01:00
+    raw:
+      source: https://ownyourswarm.p3k.io/checkin/5c8625c4e0c0c9002c3d8891/ea68b1d95aca3f027b2a1602f75ac26c
+      verified: true
+      verified_date: '2019-03-11T09:09:59+00:00'
+      id: 597062
+      private: false
+      data:
+        author: &40
+          name: Swarm
+          url: https://swarmapp.com/
+          photo: https://webmention.io/avatar/ss1.4sqi.net/96fe3389ef056db8717e827a9d0d136c945ab4383641feb80e6596e9ce4a5ad2.png
+        url: https://ownyourswarm.p3k.io/checkin/5c8625c4e0c0c9002c3d8891/ea68b1d95aca3f027b2a1602f75ac26c
+        name: 
+        content: Still the Mayor! "Four more years, four more years!"
+        published: '2019-03-11T10:09:24+01:00'
+        published_ts: 1552295364
+        swarm_coins: 3
+      activity:
+        type: reply
+        sentence: Swarm commented 'Still the Mayor! "Four more years, four more years!"'
+          on a post https://cedric.io/social/2019/03/11/32964.html
+        sentence_html: <a href="https://swarmapp.com/">Swarm</a> commented 'Still
+          the Mayor! "Four more years, four more years!"' on a post <a href="https://cedric.io/social/2019/03/11/32964.html">https://cedric.io/social/2019/03/11/32964.html</a>
+      target: https://cedric.io/social/2019/03/11/32964.html
+    author: *40
+    type: reply
+    content: "<p>Still the Mayor! “Four more years, four more years!”</p>"
