@@ -117,6 +117,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   jekyll (~> 3.8.5)
   jekyll-compose
   jekyll-feed (~> 0.6)
@@ -127,5 +128,3 @@ DEPENDENCIES
   sinatra
   tzinfo-data
 
-BUNDLED WITH
-   2.0.1
