@@ -18,7 +18,9 @@ Curieux de savoir ce que je fais en ce moment?
   * J&rsquo;apprend [React](https://reactjs.org/)
   * Je m&rsquo;intéresse au travail du bois
   * Je transforme progressivement ce blog en [plateforme de publication IndieWeb](https://indieweb.org/Main_Page-fr)
+  * J'apprend à utiliser [VIM](https://www.vim.org)
+  * J'apprend  utiliser [i3wm](https://i3wm.org) - notamment grâce au travail de Luke Smith : [LARBS](https://larbs.xyz/)
 
-Dernière mise à jour : octobre 2018
+Dernière mise à jour : mars 2019
 
 Cette page a été inspirée par [Derek Sivers](https://sivers.org/nowff)
