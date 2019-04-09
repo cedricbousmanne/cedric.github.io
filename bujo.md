@@ -17,12 +17,17 @@ mastoshareshare-lastSuccessfullTootURL:
 ## Toutes les semaines
 
   * [Importer mes extraits de compte](https://cedric.io/2018/11/02/i-need-a-budget-using-ynab-with-belgian-bank-accounts/) dans [YNAB](https://app.youneedabudget.com/)
+  * Nettoyer l'aquarium
+  * BuJo : préparer le layout de la semaine suivante
 
 ## Toutes les deux semaines
 
   * Balayer le garage
 
 ## Tous les mois
+
+  * Suivi de mes investissements sur [Mozzeno](https://www.mozzeno.com/fr/investir?code=8C32D772984E)
+  * Suivi de mes investissements sur [DeGiro](https://www.degiro.fr/)
 
 ## Tous les deux mois
 
@@ -48,3 +53,7 @@ mastoshareshare-lastSuccessfullTootURL:
 ### Hiver
 
 ## Tous les ans
+
+### Avril
+
+* Contrôle technique de la voiture
