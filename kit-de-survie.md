@@ -23,10 +23,10 @@ Cette page est librement inspirée de la “[Life Stack](https://aaronparecki.co
 
 ## Services en ligne
 
-  * [Amazon Prime](https://www.amazon.fr/prime?tag=cedricio-21)  
+  * [Amazon Prime](https://www.amazon.fr/prime?tag=cedricio-21)
     Prime, c&rsquo;est avant tout la livraison express gratuite sur des milliers d&rsquo;articles &#8211; mais également un accès à Prime Video (l&rsquo;offre _Video On Demand_) et a une partie du catalogue Kindle (ebooks). Amazon Prime est devenu indispensable à la maison, surtout depuis l&rsquo;arrivée des bébés. [Amazon offre les 30 premiers jours gratuits](https://www.amazon.fr/prime?tag=cedricio-21).
   * [Spotify](https://www.spotify.com/fr/)
-  * [Audible](https://www.amazon.fr/dp/B01AUIE0CK?tag=cedricio-21)  
+  * [Audible](https://www.amazon.fr/dp/B01AUIE0CK?tag=cedricio-21)
     Le service d&rsquo;audiobook détenu par Amazon. Le [premier mois d&rsquo;essais est gratuit](https://www.amazon.fr/dp/B01AUIE0CK?tag=cedricio-21) &#8211; étendu à [3 mois d&rsquo;essais pour les clients Amazon Prime](https://www.amazon.fr/dp/B01DPWQ20Q?tag=cedricio-21). J&rsquo;en ai [parlé plus longuement ici](https://cedric.io/2018/10/01/jai-decouvert-les-audiobooks/).
   * [Netflix](https://www.netflix.com/be-fr/)
 
@@ -51,7 +51,7 @@ Cette page est librement inspirée de la “[Life Stack](https://aaronparecki.co
 
   * Souris [Logitech MX Revolution](https://www.amazon.fr/gp/product/B071KZS3MF/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=cedricio-21&creative=6746&linkCode=as2&creativeASIN=B071KZS3MF&linkId=874deb65e07363a274cde0d96c74dec5)
   * Clavier [Logitech K350](https://www.amazon.fr/gp/product/B00A7Q1R90/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=cedricio-21&creative=6746&linkCode=as2&creativeASIN=B00A7Q1R90&linkId=a5bac9971a15586c1d945d5f562a530d)
-  * [Sublime Text](http://www.sublimetext.com/) comme IDE
+  * <del>[Sublime Text](http://www.sublimetext.com/)</del> VIM (depuis [mars 2019](https://cedric.io/2019/03/18/premi%C3%A8re-semaine-avec-vim.html)) comme IDE
   * [Firefox](https://www.mozilla.org/fr/firefox/)
   * <del>Casque audio <a href="https://amzn.to/2AqreJt">Philips SHB7000</a></del>
   * Casque audio [Sennheiser 4.50 BTNC](https://amzn.to/2Btphg9)
