@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Lectures
+layout: page
 ---
 {% for read in site.reads reversed %}
   <div class="entry-content e-content p-summary entry-title p-name" itemprop="name headline description articleBody">
