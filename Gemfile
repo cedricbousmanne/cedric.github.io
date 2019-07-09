@@ -25,7 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-twitter-plugin', github: 'cedricbousmanne/jekyll-twitter-plugin'
   # gem 'jekyll-twitter-plugin', path: '/home/cedric/Code/jekyll-twitter-plugin'
-  gem 'jekyll-webmention_io', github: 'cedricbousmanne/jekyll-webmention_io'
+  gem 'jekyll-webmention_io'
   # gem 'jekyll-webmention_io', path: '/home/cedric/Code/jekyll-webmention_io'
   gem 'jekyll-compose'
 end

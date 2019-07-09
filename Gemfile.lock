@@ -4,19 +4,6 @@ GIT
   specs:
     jekyll-twitter-plugin (2.0.0)
 
-GIT
-  remote: git://github.com/cedricbousmanne/jekyll-webmention_io.git
-  revision: 179865a287a3068a9525d5460fd4aa0ce1bba017
-  specs:
-    jekyll-webmention_io (3.3.4.4)
-      htmlbeautifier (~> 1.1)
-      jekyll (>= 3.2.0, < 4.0)
-      json (~> 2.0)
-      openssl (~> 2.0)
-      string_inflection (~> 0.1)
-      uglifier (~> 4.1)
-      webmention (~> 0.1.6)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -61,6 +48,14 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
+    jekyll-webmention_io (3.3.5)
+      htmlbeautifier (~> 1.1)
+      jekyll (>= 3.2.0, < 4.0)
+      json (~> 2.0)
+      openssl (~> 2.0)
+      string_inflection (~> 0.1)
+      uglifier (~> 4.1)
+      webmention (~> 0.1.6)
     json (2.2.0)
     kramdown (1.17.0)
     link_header (0.0.8)
@@ -77,7 +72,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     multi_xml (0.6.0)
     mustermann (1.0.3)
-    nokogiri (1.10.1)
+    nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     openssl (2.1.2)
       ipaddr
@@ -122,9 +117,11 @@ DEPENDENCIES
   jekyll-compose
   jekyll-feed (~> 0.6)
   jekyll-twitter-plugin!
-  jekyll-webmention_io!
+  jekyll-webmention_io
   minima (~> 2.0)
   rack
   sinatra
   tzinfo-data
 
+BUNDLED WITH
+   2.0.1
