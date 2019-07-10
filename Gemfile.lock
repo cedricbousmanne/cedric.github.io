@@ -122,6 +122,3 @@ DEPENDENCIES
   rack
   sinatra
   tzinfo-data
-
-BUNDLED WITH
-   2.0.1
